@@ -10,5 +10,7 @@ rmd_files: [
   "index.Rmd",
   "intro.Rmd",
   "policies.Rmd",
-  "grading.Rmd"
+  "grading.Rmd",
+  "schedule.Rmd",
+  "readings.Rmd"
 ]

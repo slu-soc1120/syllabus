@@ -13,7 +13,11 @@ The following sections contain additional details about specific course policies
 
 ## Attendance and Participation
 
-Attendance and participation are important components of this course. Students are expected to attend all class sessions. Making up missed classes are your responsibility, including obtaining notes from a classmate. I do post slides on [Google Classroom](https://classroom.google.com), but my slides are intended only to serve as references. All lecture slides will be posted within a week of their use in class. Please note that lectures and discussions cannot be recorded by any means (e.g. audio or video recordings, or photographs) without my permission.
+Attendance and participation are important components of this course. Your expected to attend all class sessions and to arrive before the beginning of class. If you cannot attend class or arrive on time because of a personal illness, a family issue, jury duty, an athletic match, or a religious observance, you must contact me **beforehand** to let me know. I may ask for more information, such as a note from a physician, a travel letter from Athletics, or other documentation for absences. 
+
+A penalty will not be applied to your first two unexcused absences or late arrivals. Any absences or late arrivals beyond those two will result in no credit (for an absences) or only partial credit (for a late arrival) being earned for that day's participation grade.
+
+Making up missed classes are your responsibility, including obtaining notes from a classmate. I do post slides on [Google Classroom](https://classroom.google.com), but my slides are intended only to serve as references. I do not design slides to serve as a stand-in for not attending class - they are designed to make sense in the context of the lecture as it is delivered. All lecture slides will be posted within a week of their use in class. Please note that lectures and discussions cannot be recorded by any means (e.g. audio or video recordings, or photographs) without my permission.
 
 ## Communication
 

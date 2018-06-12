@@ -1,0 +1,62 @@
+# Lecture Schedule
+
+Select a lecture from the menu to see details about topics, readings, and assignments. Additional notes and links to course materials are available through the [Google Classroom](https://classroom.google.com), which has dedicated pages for each lecture. Links to these pages are included on each lecture's reading list entry. 
+
+The primary readings will be referred to with an abbreviation each time they appear in the reading list:
+
+
+Table: (\#tab:unnamed-chunk-1)SOC 1120 Primary Readings
+
+Abbreviation   Citation                                                                                                                                             
+-------------  -----------------------------------------------------------------------------------------------------------------------------------------------------
+Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9^th^ edition. Independence, KY: Cengage.                 
+*Mamma*        Abraham, Laurie K. 1993. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press. 
+
+<br>
+There will also be a link that refers to where a particular reading or assignment can be located:
+
+
+Table: (\#tab:unnamed-chunk-2)Reading Locations
+
+Abbreviation   Citation            
+-------------  --------------------
+ER             Electronic Reserves 
+GC             Google Classroom    
+Link           Website             
+PL             Pius Library        
+
+## Week 01 {-}
+
+### Lecture 01 - Monday, August 27^th^ {-}
+
+#### Topics {-}
+
+* Course Introduction
+
+#### Readings {-}
+
+* Andersen et al., Chapter 1 - "The Sociological Perspective" ([ER](http://eres.slu.edu/eres/coursepass.aspx?cid=4443))
+
+#### Resources {-}
+
+* Lecture Notes ([GC](https://classroom.google.com))
+* Lecture Slides ([GC](https://classroom.google.com))
+
+### Lecture 02 - Wednesday, August 29^th^ {-}
+
+#### Topics {-}
+
+* Theory and Health
+
+#### Resources {-}
+
+* Lecture Notes ([GC](https://classroom.google.com))
+
+#### Documentary {-}
+
+*  *Unnatural Causes*, Part 1 - "In Sickness and in Wealth" ([PL](http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live))
+
+#### Assignments Due {-}
+
+* Entry Ticket - Student Information Sheet ([GC](https://classroom.google.com))
+* Entry Ticket - Speaking Up In Class Survey ([GC](https://classroom.google.com))

@@ -1,0 +1,23 @@
+# (PART) Reading List {-}
+
+# Course Schedule
+
+The following is a high-level schedule that details the general topic covered by each lecture.
+
+```{r, echo=FALSE}
+schedule <- data.frame(
+  Week = c("01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16"),
+  Monday = c("August 27^th^", "September 3^rd^", "September 10^th^", "September 17^th^", "September 24^th^", "October 1^st^", "October 8^th^", "October 15^th^", "October 22^nd^", "October 29^th^", "November 5^th^", "November 12^th^", "November 19^th^", "November 26^th^", "December 3^rd^", "December 10^th^"),
+  Topic = c("Course Introduction; Theory and Health", "Theory and Health", "Culture", "Socialization", "Exam 1 / Social Structure", "Social Structure / Urban Sociology", "Urban Sociology / *Mama*, Part 1", "Crime & Deviance", "*Fall Break* / Class & Stratification", "Class & Stratification / Exam 2", "Race & Ethnicity", "Gender / *Mama*, Part 2", "Intersectionality & Health; *Thanksgiving*", "Health Care / Globalization", "Indigenous Americans / *Mama*, Part 3", "Course Conclusion / Exam 3"),
+  stringsAsFactors = FALSE
+)
+
+knitr::kable(
+  schedule, booktabs = TRUE,
+  caption = "SOC 1120 Course Overview"
+)
+```
+
+### Scheduling Notes
+
+The lecture schedule may change as it depends on the progress of the class. In the event of a cancellation due to weather or another disruption, I may alter the lecture schedule. Alterations will be appended to this document.

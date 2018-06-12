@@ -1,3 +1,5 @@
+# (PART) Syllabus {-}
+
 # Course Introduction
 
 > The function of sociology, as of every science, is to reveal that which is hidden.
