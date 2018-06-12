@@ -28,3 +28,37 @@ pre code {
 .rmdwarning {
   background-image: url("images/warning.png");
 }
+
+.open {
+    background-color: #92d094; /* Green */
+    border: 2px solid #357c38; /* Green */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.open:hover {
+    background-color: white; 
+    border: 2px solid #357c38; /* Green */
+}
+
+.closed {
+    background-color: #d09492; /* Red */
+    border: 2px solid #7c3835; /* Red */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.closed:hover {
+    background-color: white; 
+    border: 2px solid #7c3835; /* Red */
+}
