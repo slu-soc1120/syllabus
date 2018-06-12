@@ -2,6 +2,11 @@
 This section provides general details on the different types of assignments for this course. It also contains policies for submitting work, reciving feedback, and late work.
 
 ## Assignments
+
+```{block, type = "rmdwarning"}
+Students enrolled in the honors section should see [Section 6](/honors-overview.html) for additional assignment descriptions as well as their weighting and final point totals.
+```
+
 Your grade for this course will consist of a number of different assignments on which points may be earned. Each category of assignment is described below.
 
 ### Attendance and Participation
@@ -60,13 +65,17 @@ From time to time I may offer extra credit to be applied to your final grade. I 
 
 ## Grading
 
+```{block, type = "rmdwarning"}
+Students enrolled in the honors section should see [Section 6](/honors-overview.html) for their assignment weighting and final point totals
+```
+
 I use a point system for calculating grades. The following table gives the weighting and final point totals for all assignments for this course:
 
 ```{r, echo=FALSE}
 points <- data.frame(
   Assignment = c("Participation", "Sociological Experiences", "QHQs", "Exams"),
   Points = c("25 pts", "25 pts", "50 pts", "100 pts"),
-  Quantity = c("x2", "x2", "x2", "x8"),
+  Quantity = c("x2", "x2", "x2", "x3"),
   Total = c("50 pts", "50 pts", "100 pts", "300 pts"),
   Percent = c("10%", "10%", "20%", "60%"),
   stringsAsFactors = FALSE

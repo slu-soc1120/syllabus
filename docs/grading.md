@@ -2,6 +2,11 @@
 This section provides general details on the different types of assignments for this course. It also contains policies for submitting work, reciving feedback, and late work.
 
 ## Assignments
+
+<div class="rmdwarning">
+<p>Students enrolled in the honors section should see <a href="/honors-overview.html">Section 6</a> for additional assignment descriptions as well as their weighting and final point totals.</p>
+</div>
+
 Your grade for this course will consist of a number of different assignments on which points may be earned. Each category of assignment is described below.
 
 ### Attendance and Participation
@@ -60,17 +65,21 @@ From time to time I may offer extra credit to be applied to your final grade. I 
 
 ## Grading
 
+<div class="rmdwarning">
+<p>Students enrolled in the honors section should see <a href="/honors-overview.html">Section 6</a> for their assignment weighting and final point totals</p>
+</div>
+
 I use a point system for calculating grades. The following table gives the weighting and final point totals for all assignments for this course:
 
 
-Table: (\#tab:unnamed-chunk-5)SOC 1120 Points Breakdown
+Table: (\#tab:unnamed-chunk-7)SOC 1120 Points Breakdown
 
 Assignment                 Points    Quantity   Total     Percent 
 -------------------------  --------  ---------  --------  --------
 Participation              25 pts    x2         50 pts    10%     
 Sociological Experiences   25 pts    x2         50 pts    10%     
 QHQs                       50 pts    x2         100 pts   20%     
-Exams                      100 pts   x8         300 pts   60%     
+Exams                      100 pts   x3         300 pts   60%     
 
 All feedback will include grades that represent number of points earned. If you want to know your percentage on a particular assignment, divide the number of points earned by the number of points possible and then multiply it by 100.
 
@@ -79,7 +88,7 @@ following table:
 
 
 <table class="kable_wrapper">
-<caption>(\#tab:unnamed-chunk-6)Course Grading Scale</caption>
+<caption>(\#tab:unnamed-chunk-8)Course Grading Scale</caption>
 <tbody>
   <tr>
    <td> 
