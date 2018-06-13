@@ -87,7 +87,7 @@ The following point totals supercede the information on the main syllabus under 
 ```{r, echo=FALSE}
 points <- data.frame(
   Assignment = c("Participation", "Sociological Experiences", "QHQs", "Exams", "Honors Participation", "Honors Presentation", "Honors Response Papers"),
-  Points = c("25 pts", "25 pts", "50 pts", "100 pts", "25 pts", "50 pts",  "66.66 pts"),
+  Points = c("25 pts", "25 pts", "50 pts", "100 pts", "25 pts", "50 pts",  "65 pts"),
   Quantity = c("x2", "x2", "x2", "x3", "x2", "x1", "x3"),
   Total = c("50 pts", "50 pts", "100 pts", "300 pts", "50 pts", "50 pts", "200 pts"),
   Percent = c("6.25%", "6.25%", "12.50%", "37.50%", "6.25%", "6.25%", "25.00%"),
@@ -99,3 +99,5 @@ knitr::kable(
   caption = "SOC 1120 Honors Points Breakdown"
 )
 ```
+
+To keep the points simple, 5 points will automatically be added to the sum of your three repsonse papers so that they total to a possible 200 points (since `65 x 3 = 195`).

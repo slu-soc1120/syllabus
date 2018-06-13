@@ -91,12 +91,14 @@ The following point totals supercede the information on the main syllabus under 
 
 Table: (\#tab:unnamed-chunk-5)SOC 1120 Honors Points Breakdown
 
-Assignment                 Points      Quantity   Total     Percent 
--------------------------  ----------  ---------  --------  --------
-Participation              25 pts      x2         50 pts    6.25%   
-Sociological Experiences   25 pts      x2         50 pts    6.25%   
-QHQs                       50 pts      x2         100 pts   12.50%  
-Exams                      100 pts     x3         300 pts   37.50%  
-Honors Participation       25 pts      x2         50 pts    6.25%   
-Honors Presentation        50 pts      x1         50 pts    6.25%   
-Honors Response Papers     66.66 pts   x3         200 pts   25.00%  
+Assignment                 Points    Quantity   Total     Percent 
+-------------------------  --------  ---------  --------  --------
+Participation              25 pts    x2         50 pts    6.25%   
+Sociological Experiences   25 pts    x2         50 pts    6.25%   
+QHQs                       50 pts    x2         100 pts   12.50%  
+Exams                      100 pts   x3         300 pts   37.50%  
+Honors Participation       25 pts    x2         50 pts    6.25%   
+Honors Presentation        50 pts    x1         50 pts    6.25%   
+Honors Response Papers     65 pts    x3         200 pts   25.00%  
+
+To keep the points simple, 5 points will automatically be added to the sum of your three repsonse papers so that they total to a possible 200 points (since `65 x 3 = 195`).

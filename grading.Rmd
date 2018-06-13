@@ -87,6 +87,10 @@ knitr::kable(
 
 All feedback will include grades that represent number of points earned. If you want to know your percentage on a particular assignment, divide the number of points earned by the number of points possible and then multiply it by 100.
 
+I will maintain Blackboard's grade center as work is returned via Google Classroom (or, for exams, via hardcopies returned in class). *This will be the only official use of Blackboard this semester.* If you notice a discrepancy between the grade you recieved in class or on Google Classroom and what appears on Blackboard, please let me know as soon as possible. I will default to taking the higher of the two grades as the offical grade.
+
+Since exams and scantrons are handed back in class, I will only consider possible scantron scoring errors that I am made aware of at the end of class on the day that exams are returned. Please make sure to discuss any concerns you have about your scantron with me that day.  
+
 Final grades will be calculated by taking the sum of all points earned and dividing it by the total number of points possible (500). This will be multiplied by 100 and then converted to a letter grade using the
 following table:
 
