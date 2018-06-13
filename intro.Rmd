@@ -44,7 +44,9 @@ This course fulfills the College of Arts and Sciences core requirement for Cultu
 
 ## Google Classroom
 
-**[Google Classroom](https://classroom.google.com)** is a learning management system like Blackboard, which you may be more familiar with. There are two main areas - the `Stream` and the `About` tabs. The `Stream` contains posts for announcements and assignments. Additions to the 'Stream' should be emailed to your student e-mail account automatically. This will be my primary means for communicating with the class as a whole. Assignments posted to the 'Stream' allow you to submit work for the course. You can use the `Topics` on the left-hand menu of the `Stream` to filter posts.
+**[Google Classroom](https://classroom.google.com)** is a learning management system like Blackboard, which you may be more familiar with. There are two main areas - the `Stream` and the `About` tabs. The `Stream` contains posts for announcements and assignments. Additions to the 'Stream' should be emailed to your student e-mail account automatically. This will be my primary means for communicating with the class as a whole. Assignments posted to the `Stream` allow you to submit work for the course. You can use the `Topics` on the left-hand menu of the `Stream` to filter posts, isolating posts related to assignments, lecture materials, and annoucements among other topics.
+
+You will need an invitation to **Google Classroom** from Chris. Invitations will be sent to all enrolled students before the first class. They will be sent to your SLU associated Google account, which consists of your *computer login* (e.g. `doej` for Jane Doe) entered as an email - `doej@slu.edu`. The password will be the same as your password used to login to mySLU and SLU computers. Using another Google account for this course is not permitted.
 
 ## Readings
 
