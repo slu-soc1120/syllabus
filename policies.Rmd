@@ -25,9 +25,9 @@ Making up missed classes are your responsibility, including obtaining notes from
 
 ## Communication
 
-Email is my preferred method of communication. I dedicate time to email responses each workday, meaning that my response time is typically within 24 hours during the workweek. If you have not received a response from me after 48 hours (or by end of business on Monday if you emailed me over the weekend), please follow-up to ensure that your message did not get lost in the shuffle.
+Email is my preferred method of communication. I dedicate time to email responses each workday, meaning that my response time is typically within 24 hours during the workweek. If you have not received a response from me after 48 hours (or by end of business on Monday if you emailed me over the weekend), please feel free to follow-up with me.
 
-Please use your SLU email account when emailing me. All messages regarding course updates, assignments, and changes to the class schedule including cancellations will be sent to your SLU email account. It is imperative that you check your SLU email account regularly.
+Please use your SLU email account when emailing me. All messages regarding course updates, assignments, and changes to the class schedule including cancellations will be sent to your SLU email account. It is therefore imperative that you check your SLU email account regularly.
 
 Please also ensure that all concerns or questions about your standing in the course are directed to me immediately. Inquires from parents, SLU staff members, and others will not be honored.
 
