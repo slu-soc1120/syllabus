@@ -16,5 +16,7 @@ rmd_files: [
   "readings.Rmd",
   
   "honorsOverview.Rmd",
-  "honorsSchedule.Rmd"
+  "honorsSchedule.Rmd",
+  
+  "erratum.Rmd"
 ]
