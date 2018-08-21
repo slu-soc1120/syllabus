@@ -6,9 +6,10 @@ This is the supplemental syllabus for the honors section of SOC 1120-05 (i.e. SO
 
 ## In-Depth Seminars
 
-<div class="rmdtip">
-<p>Seminar attendance and participation is captured in the Honors Participation grade, which is worth <strong>6.25%</strong> of your final grade</p>
-</div>
+\begin{rmdtip}
+Seminar attendance and participation is captured in the Honors
+Participation grade, which is worth \textbf{6.25\%} of your final grade
+\end{rmdtip}
 
 You are expected to complete three seminars over the course of the semester. The goal of the seminars is to go more in-depth on several topics covered during the class and to provide an additional series of venues to develop your analytical and communication skills. Each seminar will consist of three interrelated parts:
 
@@ -34,9 +35,9 @@ These discussions should inform a response paper written by each student that co
 
 ### Grading
 
-<div class="rmdtip">
-<p>Your papers are collectively worth <strong>25%</strong> of your final grade</p>
-</div>
+\begin{rmdtip}
+Your papers are collectively worth \textbf{25\%} of your final grade
+\end{rmdtip}
 
 Paper due-dates will be a week after each seminar meeting, and papers will be submitted via Google Classroom. Each response paper will be graded on four elements:
 
@@ -54,9 +55,9 @@ Papers are worth approximately 8.33% of your final grade for each paper.
 
 ## Presentation
 
-<div class="rmdtip">
-<p>Your presentation is worth <strong>6.25%</strong> of your final grade</p>
-</div>
+\begin{rmdtip}
+Your presentation is worth \textbf{6.25\%} of your final grade
+\end{rmdtip}
 
 You should pick a topic from [the honors seminar topic list](/honors-seminar-topics.html) that they would like to present on during one of the related class lecture periods. Topic selection for this assignment can occur independently of the selection of seminar topics, and no more than one student can present on a single topic. Once you have settled on a topic, let Chris know. Topics will be "reserved" on a first-come, first-served basis.
 
@@ -66,39 +67,54 @@ Since presentation is conceived broadly, there is not a formal rubric for this a
 
 ## Honors Seminar Topics
 
+\begin{table}
 
-Table: (\#tab:unnamed-chunk-4)SOC 1120 Honors Seminar Topics
-
-Week    Monday             Topic                                                  
-------  -----------------  -------------------------------------------------------
-02      September 3^rd^    Theory and Health                                      
-03      September 10^th^   Culture                                                
-04      September 17^th^   Socialization                                          
-05/06   September 24^th^   Social Structure                                       
-06/07   October 1^st^      Urban Sociology                                        
-08      October 15^th^     Crime & Deviance                                       
-09/10   October 22^nd^     Class & Stratification                                 
-11      November 5^th^     Race & Ethnicity                                       
-12      November 12^th^    Gender                                                 
-13      November 19^th^    The Health Care Experience                             
-14      November 26^th^    Indigenous Americans **or** Intersectionality & Health 
-15      December 3^rd^     Globalization                                          
+\caption{(\#tab:unnamed-chunk-4)SOC 1120 Honors Seminar Topics}
+\centering
+\begin{tabular}[t]{lll}
+\toprule
+Week & Monday & Topic\\
+\midrule
+02 & September 3\textasciicircum{}rd\textasciicircum{} & Theory and Health\\
+03 & September 10\textasciicircum{}th\textasciicircum{} & Culture\\
+04 & September 17\textasciicircum{}th\textasciicircum{} & Socialization\\
+05/06 & September 24\textasciicircum{}th\textasciicircum{} & Social Structure\\
+06/07 & October 1\textasciicircum{}st\textasciicircum{} & Urban Sociology\\
+\addlinespace
+08 & October 15\textasciicircum{}th\textasciicircum{} & Crime \& Deviance\\
+09/10 & October 22\textasciicircum{}nd\textasciicircum{} & Class \& Stratification\\
+11 & November 5\textasciicircum{}th\textasciicircum{} & Race \& Ethnicity\\
+12 & November 12\textasciicircum{}th\textasciicircum{} & Gender\\
+13 & November 19\textasciicircum{}th\textasciicircum{} & The Health Care Experience\\
+\addlinespace
+14 & November 26\textasciicircum{}th\textasciicircum{} & Indigenous Americans **or** Intersectionality \& Health\\
+15 & December 3\textasciicircum{}rd\textasciicircum{} & Globalization\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ## Honors Grading
 
 The following point totals supercede the information on the main syllabus under Section 3.4 - "Grading" if you are enrolled in the honors section of SOC 1120.
 
+\begin{table}
 
-Table: (\#tab:unnamed-chunk-5)SOC 1120 Honors Points Breakdown
-
-Assignment                 Points    Quantity   Total     Percent 
--------------------------  --------  ---------  --------  --------
-Participation              25 pts    x2         50 pts    6.25%   
-Sociological Experiences   25 pts    x2         50 pts    6.25%   
-QHQs                       50 pts    x2         100 pts   12.50%  
-Exams                      100 pts   x3         300 pts   37.50%  
-Honors Participation       25 pts    x2         50 pts    6.25%   
-Honors Presentation        50 pts    x1         50 pts    6.25%   
-Honors Response Papers     65 pts    x3         200 pts   25.00%  
+\caption{(\#tab:unnamed-chunk-5)SOC 1120 Honors Points Breakdown}
+\centering
+\begin{tabular}[t]{lllll}
+\toprule
+Assignment & Points & Quantity & Total & Percent\\
+\midrule
+Participation & 25 pts & x2 & 50 pts & 6.25\%\\
+Sociological Experiences & 25 pts & x2 & 50 pts & 6.25\%\\
+QHQs & 50 pts & x2 & 100 pts & 12.50\%\\
+Exams & 100 pts & x3 & 300 pts & 37.50\%\\
+Honors Participation & 25 pts & x2 & 50 pts & 6.25\%\\
+\addlinespace
+Honors Presentation & 50 pts & x1 & 50 pts & 6.25\%\\
+Honors Response Papers & 65 pts & x3 & 200 pts & 25.00\%\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 To keep the points simple, 5 points will automatically be added to the sum of your three repsonse papers so that they total to a possible 200 points (since `65 x 3 = 195`).
