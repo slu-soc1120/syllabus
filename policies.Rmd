@@ -1,6 +1,6 @@
 # Course Policies
 
-My priority is that class periods are productive learning experiences for all students. In order to foster this type of productive environment, I ask students to follow a few general policies and expectations:
+My priority is that class periods are productive learning experiences for all students. In order to foster this type of productive environment, I ask students to follow a few general policies and expectations:^[These general expectations were adopted from language originally used by Dr. Shelley Kimmelberg.]
 
 1.  Work each week to contribute to a positive, supportive, welcoming, and compassionate class environment.
 2.  Arrive to class on time and stay for the entire class period.
