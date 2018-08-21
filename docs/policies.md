@@ -37,11 +37,19 @@ I therefore ask students to be conscious of how they are using their devices, th
 
 ## Student Support
 
-If you meet the eligibility requirements for **academic accommodations** through the Disability Services office (located within the Student Success Center), you should arrange to discuss your needs with me after the first class. All discussions of this nature are treated confidentially, and I will make every effort to work with you to come up with a plan for successfully completing the course requirements. Please note that I will not provide accommodations to students who are not working with Disability Services.
+### Basic Needs
 
-If you are a **student-athlete** who is in-season, you should discuss your game schedule with me after the first class and share your travel letter with me as soon as you have a copy. You are reminded that games and tournaments are not excuses for failing to complete assignments, and that NCAA rules prohibit student-athletes from missing classes for practice. Low grades that jeopardize eligibility must be addressed immediately by you, not by a coach or academic coordinator.
+If you have difficulty affording groceries or accessing sufficient food to eat every day, or lack a safe and stable place to live, you are urged to contact the [Dean of Students](https://www.slu.edu/student-development/dean-of-students/index.php) for support. Likewise if you have concerns about your mental or physical health needs, or lack access to health care services you require, you should contact either the [Dean of Students](https://www.slu.edu/student-development/dean-of-students/index.php), [Student Health Services](https://www.slu.edu/life-at-slu/student-health/index.php), or the [University Counseling Center](https://www.slu.edu/life-at-slu/university-counseling/index.php).^[This language is adopted from text written by [Dr. Sarah Goldrick-Rab](https://medium.com/@saragoldrickrab/basic-needs-security-and-the-syllabus-d24cc7afe8c9).]
 
-I also encourage you to take advantage of the **University Writing Services (UWS) program**. Getting feedback benefits writers at all skill levels and the quality of your writing will be reflected in assignment grades. The UWS has trained writing consultants who can help you improve the quality of your written work. UWS’s consultants are available to address everything from brainstorming and developing ideas to crafting strong sentences and documenting sources.
+If you feel comfortable doing so, please discuss any concerns you might have with me. Doing so is particularly important if believe your performance in this course might be affected. I will do my best to work with you to come up with a plan for successfully completing the course and, if need be, work with you to identify on-campus resources. I will treat all discussions with discretion, though please be aware that certain situations, including disclosures of [sexual misconduct](/compassionate-coursework.html) or self harm, must be reported by faculty to the appropriate University office.
+
+### Academic Accommodations 
+
+If you meet the eligibility requirements for academic accommodations through the [Office of Disability Services](https://www.slu.edu/life-at-slu/student-success-center/disability-services/index.php) (located within the Student Success Center) *and you wish to use them for this class*, you should arrange to discuss your needs with me after the first class. All discussions of this nature are treated confidentially, and I will make every effort to work with you to come up with a plan for successfully completing the course requirements. Please note that I will not provide accommodations to students who are not working with Disability Services, and that I cannot retroactively alter assignments or grades if they have already been completed.
+
+### Writing Services
+
+I also encourage you to take advantage of the [University Writing Services (UWS) program](https://www.slu.edu/life-at-slu/student-success-center/academic-support/university-writing-services/index.php). Getting feedback benefits writers at all skill levels and the quality of your writing will be reflected in assignment grades. The UWS has trained writing consultants who can help you improve the quality of your written work. UWS’s consultants are available to address everything from brainstorming and developing ideas to crafting strong sentences and documenting sources.
 
 ## Academic Honesty
 
