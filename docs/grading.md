@@ -31,7 +31,7 @@ Your participation grade will be split, with 25 points (5% of your final grade) 
 Sociological experiences are worth \textbf{10\%} of your final grade
 \end{rmdtip}
 
-Students will be required to complete two sociological experiences and write a short response paper summarizing your own experience. Additional details and a grading rubric are available on **[Google Classroom's](https://classroom.google.com)** 'Stream' under the 'Assignments' topic. "The Bus" will be due on **Monday, October 1^st^** and "The Suitcase" will be due on **Monday, November 5^th^**. Each reflection paper is worth 5% of your final grade.
+Students will be required to complete two sociological experiences and write a short response paper summarizing your own experience. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. "The Bus" will be due on **Monday, October 1^st^** and "The Suitcase" will be due on **Monday, November 5^th^**. Each reflection paper is worth 5% of your final grade.
 
 ### QHQ Papers
 
@@ -39,7 +39,7 @@ Students will be required to complete two sociological experiences and write a s
 QHQ Papers are worth \textbf{20\%} of your final grade
 \end{rmdtip}
 
-Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric are available on **[Google Classroom's](https://classroom.google.com)** 'Stream' under the 'Assignments' topic. QHQ Paper 1 will be due on **Wednesday, October 10^th^**, QHQ Paper 2 will be due on **Wednesday, November 14^th^**, and QHQ Paper 3 will be due on **Wednesday, December 5^th^**. QHQ Paper 1 is ungraded. If it is not turned in or not taking seriously, however, a deduction of 3% will be applied to your final grade. QHQ Papers 2 and 3 each count for 10% of your final grade.
+Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. QHQ Paper 1 will be due on **Wednesday, October 10^th^**, QHQ Paper 2 will be due on **Wednesday, November 14^th^**, and QHQ Paper 3 will be due on **Wednesday, December 5^th^**. QHQ Paper 1 is ungraded. If it is not turned in or not taking seriously, however, a deduction of 3% will be applied to your final grade. QHQ Papers 2 and 3 each count for 10% of your final grade.
 
 ### Exams
 
