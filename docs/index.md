@@ -13,15 +13,11 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 # Basics {-}
 
-<div class="rmdwarning">
-<p>This is the <strong>draft</strong> syllabus for <strong>Fall 2018</strong>. Changes should expected before the release of the syllabus prior to the first day of class. This will occur in mid August.</p>
-</div>
-
 ### Course Meetings {-}
 
 *When:* Mondays and Wednesdays, 2:10pm to 3:25pm
 
-*Where:* TBA
+*Where:* 2718 Morrissey Hall
 
 ### Course Website {-}
 
@@ -35,6 +31,12 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 *Office Hours:* Wednesdays, 10:00am to 12:00pm in 3600 Morrissey (GeoSRI Lab)
 
+## Hardcopy Syllabus {-}
+If you would like to keep a record of the syllabus, there is a `.pdf` download button (<i class="fa fa-file-pdf-o"></i>) in the top toolboar.This document will contain a "snapshot" of the course policies and planned schedule as of the beginning of the semester but will not be subsequently updated. See the "Preface and Warning" on page 2 of the `.pdf` for additional details.
+
+## Change Log {-}
+
+August 21, 2018 - Fall 2018 release
 
 ## License {-}
 Copyright © 2016-2018 [Christopher G. Prener](https://chris-prener.github.io)

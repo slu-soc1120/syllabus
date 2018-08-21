@@ -1,7 +1,0 @@
-# (PART) Erratum {-}
-
-# Errors and Modifications
-
-```{block, type = "rmdwarning"}
-Any changes to the syllabus or course schedule reading list after the first day of class will be documented here.
-```
