@@ -89,6 +89,8 @@ Exams                      100 pts   x3         300 pts   60%
 
 All feedback will include grades that represent number of points earned. If you want to know your percentage on a particular assignment, divide the number of points earned by the number of points possible and then multiply it by 100.
 
+Some of the provided rubrics on **[Google Classroom](https://classroom.google.com)** result in final points for assignments that include decimals. In the event of non-standard decimals (those other than .25, .5, or .75), I will round your grade up to the next standard decimal value (e.g. .25, .5, or .75).
+
 ### Conflicting or Incorrect Grades
 
 I will maintain Blackboard's grade center as work is returned via Google Classroom (or, for exams, via hardcopies returned in class). *This will be the only official use of Blackboard this semester.* If you notice a discrepancy between the grade you recieved in class or on Google Classroom and what appears on Blackboard, please let me know as soon as possible. The same goes for any grads reported in Google Classroom that do not match the grade given back in the assignment feedback. In either case, I will default to taking the higher of the two grades as the offical grade.
