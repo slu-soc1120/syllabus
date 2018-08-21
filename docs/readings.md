@@ -534,6 +534,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 * Andersen, Chapter 15 - "Economy and Politics", pp. 376-392
 * Quadagno, Jill. 2010. "Institutions, Interest Groups, and Ideology: An Agenda for the Sociology of Health Care Reform." *Journal of Health and Social Behavior* 51(2):125-136. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Williams, David. 2010. "Beyond The Affordable Care Act: Achieving Real Improvements In Americans’ Health." *Health Affairs* 29(8):1481-1488. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
 ---
 
