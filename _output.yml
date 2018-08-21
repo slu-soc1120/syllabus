@@ -22,6 +22,7 @@ bookdown::pdf_book:
   includes:
     in_header: preamble.tex
     before_body: doc_prefix.tex
+  toc: false
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
