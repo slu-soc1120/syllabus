@@ -4,25 +4,19 @@ Select a lecture from the menu to see details about topics, readings, and assign
 
 The primary readings will be referred to with an abbreviation each time they appear in the reading list:
 
-\begin{table}
 
-\caption{(\#tab:unnamed-chunk-1)SOC 1120 Primary Readings}
-\centering
-\begin{tabular}[t]{ll}
-\toprule
-Abbreviation & Citation\\
-\midrule
-Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9\textasciicircum{}th\textasciicircum{} edition. Independence, KY: Cengage.\\
-*Mamma* & Abraham, Laurie K. 1993. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press.\\
-\bottomrule
-\end{tabular}
-\end{table}
+Table: (\#tab:unnamed-chunk-1)SOC 1120 Primary Readings
+
+Abbreviation   Citation                                                                                                                                             
+-------------  -----------------------------------------------------------------------------------------------------------------------------------------------------
+Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9^th^ edition. Independence, KY: Cengage.                 
+*Mamma*        Abraham, Laurie K. 1993. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press. 
 
 ## Week 01 {-}
 
-### Lecture 01 - Monday, August 27^th^ {-}
+<div class="open"><a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/p/MTUxOTcxNDMzNzVa/details" target="_blank">View on Google Classroom</a></div>
 
-<div class="open"><a href="#" target="_blank">View on Google Classroom</a></div>
+### Lecture 01 - Monday, August 27^th^ {-}
 
 #### Topics {-}
 
@@ -32,10 +26,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ### Lecture 02 - Wednesday, August 29^th^ {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 #### Topics {-}
 
+* Sociological Theory
 * Inequality and Health
 
 #### Documentary {-}
@@ -49,14 +42,14 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 #### Assignments Due {-}
 
-* Entry Ticket - Student Information Sheet (<a href="#" target="_blank">Google Classroom</a>)
-* Entry Ticket - Speaking Up In Class Survey (<a href="#" target="_blank">Google Classroom</a>)
+* Entry Ticket - Student Information Sheet (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUyMDcwMDU1NDFa/details" target="_blank">Google Classroom</a>)
+* Entry Ticket - Speaking Up In Class Survey (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUyMDg1MjA5OTFa/details" target="_blank">Google Classroom</a>)
 
 ## Week 02 {-}
 
-### *No Class* - Monday, September 3^rd^ - Labor Day {-}
-
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### *No Class* - Monday, September 3^rd^ - Labor Day {-}
 
 #### Topics {-}
 
@@ -70,11 +63,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ### Lecture 03 - Wednesday, September 5^th^ {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 #### Topics {-}
 
-* Social Science Research - Praxis and Method
+* Social Science Research - The Sociological Imagination
 * Theory and Health - Fundamental Cause Theory
 
 #### Readings {-}
@@ -90,13 +81,13 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 03 {-}
 
-### Lecture 04 - Monday, September 10^th^ {-}
-
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### Lecture 04 - Monday, September 10^th^ {-}
 
 #### Topics {-}
 
-* Social Science Research - Research Ethics
+* Social Science Research - Praxis and Method
 * What is Culture?
 
 #### Readings {-}
@@ -109,10 +100,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ### Lecture 05 - Wednesday, September 12^th^ {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 #### Topics {-}
 
+* Social Science Research - Research Ethics
 * Culture and Health
 
 #### Documentary {-}
@@ -125,9 +115,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 04 {-}
 
-### Lecture 06 - Monday, September 17^th^ {-}
-
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### Lecture 06 - Monday, September 17^th^ {-}
 
 #### Topics {-}
 
@@ -143,8 +133,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ### Lecture 07 - Wednesday, September 19^th^ {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 #### Topics {-}
 
 * The Socialization Process
@@ -157,9 +145,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 05 {-}
 
-### Exam 01  - Monday, September 24^th^ {-}
-
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### Exam 01  - Monday, September 24^th^ {-}
 
 #### Topics {-}
 
@@ -168,8 +156,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 ---
 
 ### Lecture 08 - Wednesday, September 26^th^ {-}
-
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
 #### Topics {-}
 
@@ -181,9 +167,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 06 {-}
 
-### Lecture 09 - Monday, October 1^st^ {-}
-
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### Lecture 09 - Monday, October 1^st^ {-}
 
 #### Topics {-}
 
@@ -196,13 +182,11 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 #### Assignments Due {-}
 
-* Sociological Experience - "The Bus" (<a href="#" target="_blank">Google Classroom</a>)
+* Sociological Experience - "The Bus" (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUxODMzNDEyNjRa/details" target="_blank">Google Classroom</a>)
 
 ---
 
 ### Lecture 10 - Wednesday, October 3^rd^ {-}
-
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
 #### Topics {-}
 
@@ -217,9 +201,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 07 {-}
 
-### Lecture 11 - Monday, October 8^th^ {-}
-
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### Lecture 11 - Monday, October 8^th^ {-}
 
 #### Topics {-}
 
@@ -241,8 +225,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ### Lecture 12 - Wednesday, October 10^th^ {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 #### Topics {-}
 
 * Discussion - *Mama Might Be Better Off Dead*, Part 1
@@ -253,14 +235,14 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 #### Assignments Due Before Lecture 13 {-}
 
-* QHQ-01 (<a href="#" target="_blank">Google Classroom</a>)
-    * see the QHQ Group assignments for which chapter you should write about (<a href="#" target="_blank">Google Classroom</a>)
+* QHQ-01 (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUxODQ5MjIwMDJa/details" target="_blank">Google Classroom</a>)
+    * see the QHQ Group assignments for which chapter you should write about
     
 ## Week 08 {-}
 
-### Lecture 13 - Monday, October 15^th^ {-}
-
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### Lecture 13 - Monday, October 15^th^ {-}
 
 #### Topics {-}
 
@@ -276,8 +258,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ### Lecture 14 - Wednesday, October 17^th^ {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 #### Topics {-}
 
 * The War on Drugs
@@ -292,9 +272,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 09 {-}
 
-### *No Class* - Monday, October 22^nd^ - Fall Break {-}
-
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### *No Class* - Monday, October 22^nd^ - Fall Break {-}
 
 #### Topics {-}
 
@@ -311,8 +291,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ### Lecture 15 - Wednesday, October 24^th^ {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 #### Topics {-}
 
 * What is Social Class?
@@ -327,9 +305,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 10 {-}
 
-### Lecture 16 - Monday, October 29^th^ {-}
-
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### Lecture 16 - Monday, October 29^th^ {-}
 
 #### Topics {-}
 
@@ -343,17 +321,15 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ### Exam 02 - Wednesday, October 31^st^ {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 #### Topics {-}
 
 * covers Lectures 8 through 16, all associated readings, and the Fall Break reading
 
 ## Week 11 {-}
 
-### Lecture 17 - Monday, November 5^th^ {-}
-
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### Lecture 17 - Monday, November 5^th^ {-}
 
 #### Topics {-}
 
@@ -365,13 +341,11 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 #### Assignments Due {-}
 
-* Sociological Experience - "The Suitcase" (<a href="#" target="_blank">Google Classroom</a>)
+* Sociological Experience - "The Suitcase" (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUxODM5MjIwMjFa/details" target="_blank">Google Classroom</a>)
 
 ---
 
 ### Lecture 18 - Wednesday, November 7^th^ {-}
-
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
 #### Topics {-}
 
@@ -384,9 +358,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 12 {-}
 
-### Lecture 19 - Monday, November 12^th^ {-}
-
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### Lecture 19 - Monday, November 12^th^ {-}
 
 #### Topics {-}
 
@@ -401,8 +375,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ### Lecture 20 - Wednesday, November 14^th^ {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 #### Topics {-}
 
 * Discussion - *Mama Might Be Better Off Dead*, Part 2
@@ -413,14 +385,14 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 #### Assignments Due {-}
 
-* QHQ-02 (<a href="#" target="_blank">Google Classroom</a>)
-    * see the QHQ Group assignments for which chapter you should write about (<a href="#" target="_blank">Google Classroom</a>)
+* QHQ-02 (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUxODE5NTM0MDFa/details" target="_blank">Google Classroom</a>)
+    * see the QHQ Group assignments for which chapter you should write about
 
 ## Week 13 {-}
 
-### Lecture 21 - Monday, November 19^th^ {-}
-
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### Lecture 21 - Monday, November 19^th^ {-}
 
 #### Topics {-}
 
@@ -435,8 +407,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ### *No Class* - Wednesday, November 21^st^ - Thanksgiving Break {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 #### Topics {-}
 
 * Culture and Myth
@@ -447,9 +417,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 14 {-}
 
-### Lecture 22 - Monday, November 26^th^ {-}
-
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### Lecture 22 - Monday, November 26^th^ {-}
 
 #### Topics {-}
 
@@ -472,8 +442,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ### Lecture 23 - Wednesday, November 28^th^ {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 #### Topics {-}
 
 * Intersectionality and Health: Race, Class, Gender, and Birth Weight
@@ -489,9 +457,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 15 {-}
 
-### Lecture 24 - Monday, December 3^rd^ {-}
-
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### Lecture 24 - Monday, December 3^rd^ {-}
 
 #### Topics {-}
 
@@ -509,11 +477,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ### Lecture 25 - Wednesday, December 5^th^ {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 #### Topics {-}
 
-* Discussion - *Mama Might Be Better Off Dead*, Part 2
+* Discussion - *Mama Might Be Better Off Dead*, Part 3
 
 #### Readings {-}
 
@@ -521,14 +487,14 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 #### Assignments Due {-}
 
-* QHQ-03 (<a href="#" target="_blank">Google Classroom</a>)
-    * see the QHQ Group assignments for which chapter you should write about (<a href="#" target="_blank">Google Classroom</a>)
+* QHQ-03 (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUxODQ4MjYyNDJa/details" target="_blank">Google Classroom</a>)
+    * see the QHQ Group assignments for which chapter you should write about
 
 ## Week 16 {-}
 
-### Lecture 26 - Monday, December 10^th^ {-}
-
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### Lecture 26 - Monday, December 10^th^ {-}
 
 #### Topics {-}
 
@@ -546,14 +512,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ### Exam 03 - Wednesday, December 12^th^ {-}
 
-\begin{rmdwarning}
-The Exam will be held during our scheduled finals week slot from 2pm to
-3:50pm
-\end{rmdwarning}
-
-<br>
-
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+<div class="rmdwarning">
+<p>The Exam will be held during our scheduled finals week slot from 2pm to 3:50pm</p>
+</div>
 
 #### Topics {-}
 
