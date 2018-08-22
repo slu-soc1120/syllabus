@@ -4,13 +4,19 @@ Select a lecture from the menu to see details about topics, readings, and assign
 
 The primary readings will be referred to with an abbreviation each time they appear in the reading list:
 
+\begin{table}
 
-Table: (\#tab:unnamed-chunk-1)SOC 1120 Primary Readings
-
-Abbreviation   Citation                                                                                                                                             
--------------  -----------------------------------------------------------------------------------------------------------------------------------------------------
-Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9^th^ edition. Independence, KY: Cengage.                 
-*Mamma*        Abraham, Laurie K. 1993. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press. 
+\caption{(\#tab:unnamed-chunk-1)SOC 1120 Primary Readings}
+\centering
+\begin{tabular}[t]{ll}
+\toprule
+Abbreviation & Citation\\
+\midrule
+Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9\textasciicircum{}th\textasciicircum{} edition. Independence, KY: Cengage.\\
+*Mamma* & Abraham, Laurie K. 1993. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press.\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ## Week 01 {-}
 
@@ -512,9 +518,10 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ### Exam 03 - Wednesday, December 12^th^ {-}
 
-<div class="rmdwarning">
-<p>The Exam will be held during our scheduled finals week slot from 2pm to 3:50pm</p>
-</div>
+\begin{rmdwarning}
+The Exam will be held during our scheduled finals week slot from 2pm to
+3:50pm
+\end{rmdwarning}
 
 #### Topics {-}
 
