@@ -4,19 +4,13 @@ Select a lecture from the menu to see details about topics, readings, and assign
 
 The primary readings will be referred to with an abbreviation each time they appear in the reading list:
 
-\begin{table}
 
-\caption{(\#tab:unnamed-chunk-1)SOC 1120 Primary Readings}
-\centering
-\begin{tabular}[t]{ll}
-\toprule
-Abbreviation & Citation\\
-\midrule
-Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9\textasciicircum{}th\textasciicircum{} edition. Independence, KY: Cengage.\\
-*Mamma* & Abraham, Laurie K. 1993. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press.\\
-\bottomrule
-\end{tabular}
-\end{table}
+Table: (\#tab:unnamed-chunk-1)SOC 1120 Primary Readings
+
+Abbreviation   Citation                                                                                                                                             
+-------------  -----------------------------------------------------------------------------------------------------------------------------------------------------
+Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9^th^ edition. Independence, KY: Cengage.                 
+*Mamma*        Abraham, Laurie K. 1993. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press. 
 
 ## Week 01 {-}
 
@@ -53,7 +47,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 02 {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+<div class="open"><a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/p/MTY1ODY5OTI5NDVa/details" target="_blank">View on Google Classroom</a></div>
 
 ### *No Class* - Monday, September 3^rd^ - Labor Day {-}
 
@@ -83,7 +77,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 #### Assignments Due {-}
 
-* Entry Ticket - Reflecting on Labor Day (<a href="#" target="_blank">Google Classroom</a>)
+* Entry Ticket - Reflecting on Labor Day (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTY1NjU2NzIxNjJa/details" target="_blank">Google Classroom</a>)
 
 ## Week 03 {-}
 
@@ -518,10 +512,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ### Exam 03 - Wednesday, December 12^th^ {-}
 
-\begin{rmdwarning}
-The Exam will be held during our scheduled finals week slot from 2pm to
-3:50pm
-\end{rmdwarning}
+<div class="rmdwarning">
+<p>The Exam will be held during our scheduled finals week slot from 2pm to 3:50pm</p>
+</div>
 
 #### Topics {-}
 

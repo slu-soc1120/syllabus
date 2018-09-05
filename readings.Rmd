@@ -52,7 +52,7 @@ knitr::kable(
 
 ## Week 02 {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+<div class="open"><a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/p/MTY1ODY5OTI5NDVa/details" target="_blank">View on Google Classroom</a></div>
 
 ### *No Class* - Monday, September 3^rd^ - Labor Day {-}
 
@@ -82,7 +82,7 @@ knitr::kable(
 
 #### Assignments Due {-}
 
-* Entry Ticket - Reflecting on Labor Day (<a href="#" target="_blank">Google Classroom</a>)
+* Entry Ticket - Reflecting on Labor Day (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTY1NjU2NzIxNjJa/details" target="_blank">Google Classroom</a>)
 
 ## Week 03 {-}
 
