@@ -81,7 +81,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ## Week 03 {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+<div class="open"><a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/p/MTY3NDU4Njg1NTFa/details" target="_blank">View on Google Classroom</a></div>
 
 ### Lecture 04 - Monday, September 10^th^ {-}
 
