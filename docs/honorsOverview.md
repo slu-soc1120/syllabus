@@ -2,7 +2,7 @@
 
 # Honors Overview
 
-This is the supplemental syllabus for the honors section of SOC 1120-05 (i.e. SOC 1120-05H). Students enrolled in the honors section are expected to complete all [readings](/lecture-schedule.html) and [assignments](/assignments-and-grading.html) included in the syllabus and should look to the previous sections [general course policies](/course-policies.html) as well. The following sections detail the additional work expected of students in the honors section.
+This is the supplemental syllabus for the honors section of SOC 1120-02 (i.e. SOC 1120-02H). Students enrolled in the honors section are expected to complete all [readings](/lecture-schedule.html) and [assignments](/assignments-and-grading.html) included in the syllabus and should look to the previous sections [general course policies](/course-policies.html) as well. The following sections detail the additional work expected of students in the honors section.
 
 ## In-Depth Seminars
 
@@ -69,24 +69,24 @@ Since presentation is conceived broadly, there is not a formal rubric for this a
 
 Table: (\#tab:unnamed-chunk-4)SOC 1120 Honors Seminar Topics
 
-Week    Monday             Topic                                                  
-------  -----------------  -------------------------------------------------------
-02      September 3^rd^    Theory and Health                                      
-03      September 10^th^   Culture                                                
-04      September 17^th^   Socialization                                          
-05/06   September 24^th^   Social Structure                                       
-06/07   October 1^st^      Urban Sociology                                        
-08      October 15^th^     Crime & Deviance                                       
-09/10   October 22^nd^     Class & Stratification                                 
-11      November 5^th^     Race & Ethnicity                                       
-12      November 12^th^    Gender                                                 
-13      November 19^th^    The Health Care Experience                             
-14      November 26^th^    Indigenous Americans **or** Intersectionality & Health 
-15      December 3^rd^     Globalization                                          
+Week    Monday            Topic                                                  
+------  ----------------  -------------------------------------------------------
+02      January 21^st^    Theory and Health                                      
+03      January 28^th^    Culture                                                
+04      February 4^th^    Socialization                                          
+05/06   February 11^th^   Social Structure                                       
+06/07   February 18^th^   Urban Sociology                                        
+08      March 4^th^       Crime & Deviance                                       
+10      March 18^th^      Class & Stratification                                 
+11/12   March 25^th^      Race & Ethnicity                                       
+12      April 1^st^       Gender                                                 
+13      April 8^th^       The Health Care Experience                             
+14      April 15^th^      Indigenous Americans **or** Intersectionality & Health 
+15/16   April 22^nd^      Globalization                                          
 
 ## Honors Grading
 
-The following point totals supercede the information on the main syllabus under Section 3.4 - "Grading" if you are enrolled in the honors section of SOC 1120.
+The following point totals supercede the information on the main syllabus under Section 4.4 - "Grading" if you are enrolled in the honors section of SOC 1120.
 
 
 Table: (\#tab:unnamed-chunk-5)SOC 1120 Honors Points Breakdown
@@ -102,3 +102,5 @@ Honors Presentation        50 pts    x1         50 pts    6.25%
 Honors Response Papers     65 pts    x3         200 pts   25.00%  
 
 To keep the points simple, 5 points will automatically be added to the sum of your three repsonse papers so that they total to a possible 200 points (since `65 x 3 = 195`).
+
+The information listed in Sections 4.4.1 through 4.4.3 still applies to honors students, except that incompletes are based on 660 points of work being submitted.

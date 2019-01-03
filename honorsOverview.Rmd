@@ -2,7 +2,7 @@
 
 # Honors Overview
 
-This is the supplemental syllabus for the honors section of SOC 1120-05 (i.e. SOC 1120-05H). Students enrolled in the honors section are expected to complete all [readings](/lecture-schedule.html) and [assignments](/assignments-and-grading.html) included in the syllabus and should look to the previous sections [general course policies](/course-policies.html) as well. The following sections detail the additional work expected of students in the honors section.
+This is the supplemental syllabus for the honors section of SOC 1120-02 (i.e. SOC 1120-02H). Students enrolled in the honors section are expected to complete all [readings](/lecture-schedule.html) and [assignments](/assignments-and-grading.html) included in the syllabus and should look to the previous sections [general course policies](/course-policies.html) as well. The following sections detail the additional work expected of students in the honors section.
 
 ## In-Depth Seminars
 
@@ -68,9 +68,32 @@ Since presentation is conceived broadly, there is not a formal rubric for this a
 
 ```{r, echo=FALSE}
 schedule <- data.frame(
-  Week = c("02", "03", "04", "05/06", "06/07", "08", "09/10", "11", "12", "13", "14", "15"),
-  Monday = c("September 3^rd^", "September 10^th^", "September 17^th^", "September 24^th^", "October 1^st^","October 15^th^", "October 22^nd^", "November 5^th^", "November 12^th^", "November 19^th^", "November 26^th^", "December 3^rd^"),
-  Topic = c("Theory and Health", "Culture", "Socialization", "Social Structure", "Urban Sociology", "Crime & Deviance", "Class & Stratification", "Race & Ethnicity", "Gender", "The Health Care Experience", "Indigenous Americans **or** Intersectionality & Health", "Globalization"),
+  Week = c("02", "03", "04", "05/06", "06/07", "08", "10", "11/12", 
+           "12", "13", "14", "15/16"),
+  Monday = c("January 21^st^", 
+             "January 28^th^", 
+             "February 4^th^", 
+             "February 11^th^", 
+             "February 18^th^", 
+             "March 4^th^",
+             "March 18^th^", 
+             "March 25^th^", 
+             "April 1^st^", 
+             "April 8^th^", 
+             "April 15^th^", 
+             "April 22^nd^"),
+  Topic = c("Theory and Health", 
+            "Culture", 
+            "Socialization", 
+            "Social Structure", 
+            "Urban Sociology",
+            "Crime & Deviance", 
+            "Class & Stratification", 
+            "Race & Ethnicity", 
+            "Gender", 
+            "The Health Care Experience", 
+            "Indigenous Americans **or** Intersectionality & Health", 
+            "Globalization"),
   stringsAsFactors = FALSE
 )
 
@@ -82,7 +105,7 @@ knitr::kable(
 
 ## Honors Grading
 
-The following point totals supercede the information on the main syllabus under Section 3.4 - "Grading" if you are enrolled in the honors section of SOC 1120.
+The following point totals supercede the information on the main syllabus under Section 4.4 - "Grading" if you are enrolled in the honors section of SOC 1120.
 
 ```{r, echo=FALSE}
 points <- data.frame(
@@ -101,3 +124,5 @@ knitr::kable(
 ```
 
 To keep the points simple, 5 points will automatically be added to the sum of your three repsonse papers so that they total to a possible 200 points (since `65 x 3 = 195`).
+
+The information listed in Sections 4.4.1 through 4.4.3 still applies to honors students, except that incompletes are based on 660 points of work being submitted.
