@@ -12,7 +12,7 @@ This course will survey the field of sociology, stressing important ideas, metho
 
 ## Two Courses, One Goal
 
-Students will quickly notice that this course has two numbers. SOC 1120-05 is the "regular" course section, and SOC 1120-05H is the honors section. If you are a [University Honors](https://www.slu.edu/honors/index.php) student, you may enroll in SOC 1120-05H if you wish to take this course for honors credit. Students in the honors section complete additional readings for three of the weeks, write several additional response papers, and give a presentation on a topic of their choice to the class. Additional details are include in the [honors supplement at the end of this document](/honors-overview.html). Both courses have the same goal - to introduce students to the fundamentals of sociology through an emphasis on health and medicine.
+Students will quickly notice that this course has two numbers. SOC 1120-02 is the "regular" course section, and SOC 1120-02H is the honors section. If you are a [University Honors](https://www.slu.edu/honors/index.php) student, you may enroll in SOC 1120-02H if you wish to take this course for honors credit. Students in the honors section complete additional readings for three of the weeks, write several additional response papers, and give a presentation on a topic of their choice to the class. Additional details are include in the [honors supplement at the end of this document](/honors-overview.html). Both courses have the same goal - to introduce students to the fundamentals of sociology through an emphasis on health and medicine.
 
 ## Course Objectives
 

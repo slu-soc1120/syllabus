@@ -10,6 +10,7 @@ rmd_files: [
   "index.Rmd",
   "intro.Rmd",
   "policies.Rmd",
+  "success.Rmd",
   "grading.Rmd",
   
   "schedule.Rmd",
