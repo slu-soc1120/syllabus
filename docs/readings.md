@@ -42,7 +42,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Assignments Due {-}
 
-* Entry Ticket - Student Information Sheet (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUyMDcwMDU1NDFa/details" target="_blank">Google Classroom</a>)
+* Entry Ticket - Student Information Sheet (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0NzI5MTgyNDZa/details" target="_blank">Google Classroom</a>)
 
 ## Week 02 {-}
 
@@ -74,7 +74,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Assignments Due {-}
 
-* Entry Ticket - Reflecting on Martin Luther King, Jr. Day (<a href="" target="_blank">Google Classroom</a>)
+* Entry Ticket - Reflecting on Martin Luther King, Jr. Day (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0NzI5MTgyNjJa/details" target="_blank">Google Classroom</a>)
 
 ## Week 03 {-}
 
@@ -181,7 +181,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Assignments Due {-}
 
-* Sociological Experience - "The Bus" (<a href="" target="_blank">Google Classroom</a>)
+* Sociological Experience - "The Bus" (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0NzkxNDUzNDVa/details" target="_blank">Google Classroom</a>)
 
 ---
 
@@ -230,8 +230,8 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Assignments Due {-}
 
-* QHQ-01 (<a href="" target="_blank">Google Classroom</a>)
-    * see the QHQ Group assignments for which chapter you should write about
+* QHQ 1 (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0NzkxNzg3NzNa/details" target="_blank">Google Classroom</a>)
+    * see the <a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/m/Mjg0NzkxNzg2NzFa/details" target="_blank">QHQ Group assignments</a> assignments for which chapter you should write about
     
 ## Week 08 {-}
 
@@ -298,7 +298,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Assignments Due {-}
 
-* Entry Ticket - Contextualizing Michael Brown (<a href="#" target="_blank">Google Classroom</a>)
+* Entry Ticket - Contextualizing Michael Brown (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0NzI5MTgzMTha/details" target="_blank">Google Classroom</a>)
 
 ---
 
@@ -351,7 +351,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Assignments Due {-}
 
-* Sociological Experience - "The Suitcase" (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUxODM5MjIwMjFa/details" target="_blank">Google Classroom</a>)
+* Sociological Experience - "The Suitcase" (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0NzkxNjQxNjJa/details" target="_blank">Google Classroom</a>)
 
 ---
 
@@ -382,8 +382,8 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Assignments Due {-}
 
-* QHQ-02 (<a href="" target="_blank">Google Classroom</a>)
-    * see the QHQ Group assignments for which chapter you should write about
+* QHQ 2 (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0NzkxNzg3ODFa/details" target="_blank">Google Classroom</a>)
+    * see the <a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/m/Mjg0NzkxNzg2NzFa/details" target="_blank">QHQ Group assignments</a> for which chapter you should write about
     
 ---
 
@@ -460,6 +460,10 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 * Andersen, Chapter 15 - "Economy and Politics", pp. 363-376
 
+#### Assignments Due {-}
+
+* Entry Ticket - TBA (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0NzcyOTAyMTda/details" target="_blank">Google Classroom</a>)
+
 ## Week 16 {-}
 
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
@@ -492,8 +496,8 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Assignments Due {-}
 
-* QHQ-03 (<a href="" target="_blank">Google Classroom</a>)
-    * see the QHQ Group assignments for which chapter you should write about
+* QHQ-03 (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0NzkxNzkwNzRa/details" target="_blank">Google Classroom</a>)
+    * see the <a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/m/Mjg0NzkxNzg2NzFa/details" target="_blank">QHQ Group assignments</a> for which chapter you should write about
 
 ## Week 17 {-}
 
