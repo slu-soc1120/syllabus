@@ -7,25 +7,27 @@ The following is a high-level schedule that details the general topic covered by
 
 Table: (\#tab:unnamed-chunk-1)SOC 1120 Course Overview
 
-Week   Monday             Topic                                             
------  -----------------  --------------------------------------------------
-01     August 27^th^      Course Introduction; Inequality and Health        
-02     September 3^rd^    Theory and Health                                 
-03     September 10^th^   Culture                                           
-04     September 17^th^   Socialization                                     
-05     September 24^th^   Exam 1 / Social Structure                         
-06     October 1^st^      Social Structure / Urban Sociology                
-07     October 8^th^      Urban Sociology / *Mama*, Part 1                  
-08     October 15^th^     Crime & Deviance                                  
-09     October 22^nd^     *Fall Break* / Class & Stratification             
-10     October 29^th^     Class & Stratification / Exam 2                   
-11     November 5^th^     Race & Ethnicity                                  
-12     November 12^th^    Gender / *Mama*, Part 2                           
-13     November 19^th^    The Health Care Experience; *Thanksgiving*        
-14     November 26^th^    Indigenous Americans / Intersectionality & Health 
-15     December 3^rd^     Globalization / *Mama*, Part 3                    
-16     December 10^th^    Course Conclusion / Exam 3                        
+Week   Monday            Topic                                             
+-----  ----------------  --------------------------------------------------
+01     January 14^th^    Course Introduction; Inequality and Health        
+02     January 21^st^    Theory and Health                                 
+03     January 28^th^    Culture                                           
+04     February 4^th^    Socialization                                     
+05     February 11^th^   Exam 1 / Social Structure                         
+06     February 18^th^   Social Structure / Urban Sociology                
+07     February 25^th^   Urban Sociology / *Mama*, Part 1                  
+08     March 4^th^       Crime & Deviance                                  
+09     March 11^th^      *Spring Break*                                    
+10     March 18^th^      Class & Stratification                            
+11     March 25^th^      Exam 2 / Race & Ethnicity                         
+12     April 1^st^       Race & Ethnicity / Gender                         
+13     April 8^th^       *Mama*, Part 2 / The Health Care Experience       
+14     April 15^th^      Indigenous Americans / Intersectionality & Health 
+15     April 22^nd^      *Easter Break* / Globalization                    
+16     April 29^th^      Globalization / *Mama*, Part 3                    
+17     May 6^th^         Course Conclusion                                 
+18     May 13^th^        Exam 3                                            
 
 ### Scheduling Notes
 
-The lecture schedule may change as it depends on the progress of the class. In the event of a cancellation due to weather or another disruption, I may alter the lecture schedule. Alterations will be appended to this document.
+The lecture schedule may change as it depends on the progress of the class. In the event of a cancellation due to weather or another disruption, I may alter the lecture schedule. The web version of this document will be updated to reflect any alterations, but the `.pdf` version will remain unaltered.
