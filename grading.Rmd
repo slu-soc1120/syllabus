@@ -4,7 +4,7 @@ This section provides general details on the different types of assignments for 
 ## Assignments
 
 ```{block, type = "rmdwarning"}
-Students enrolled in the honors section should see [Section 6](/honors-overview.html) for additional assignment descriptions as well as their weighting and final point totals.
+Students enrolled in the honors section should see [Section 7](/honors-overview.html) for additional assignment descriptions as well as their weighting and final point totals.
 ```
 
 Your grade for this course will consist of a number of different assignments on which points may be earned. Each category of assignment is described below.
@@ -19,7 +19,7 @@ As discussed above, both attendance and participation are important aspects of t
 
 Each of these elements is assigned a point value and assessed using a scale that awards full, partial, or no credit. Not attending class or completing an "entry" or "exit" ticket will result in no credit being earned for that element on a given day. Diengagement during class may result in partial or no credit being earned. Late arrivals will result in only partial credit earned for that element on a given day.
 
-Your participation grade will be split, with 25 points (5% of your final grade) for the first half of the semester (through Week 08) and another 25 points (5%) for the second half (Weeks 09 to 16). Since the number of points awarded for participation are variable, the total number of points earned for each half will be **weighted** so that it is converted to a 0 to 25 scale. I provide the final number of points earned for each half of the course. If you would like a more detailed breakdown of your participation grade and/or attendance record, please reach out and I will happily provide one.
+Your participation grade will be split, with 25 points (5% of your final grade) for the first half of the semester (through Week 8) and another 25 points (5%) for the second half (Weeks 9 to 17). Since the number of points awarded for participation are variable, the total number of points earned for each half will be **weighted** so that it is converted to a 0 to 25 scale. I provide the final number of points earned for each half of the course. If you would like a more detailed breakdown of your participation grade and/or attendance record, please reach out and I will happily provide one.
 
 "Entry" and "exit" tickets will be collected via **[Google Classroom](https://classroom.google.com)**. These will only be graded for students who present in class on the day that they were collected. Students without access to a smartphone or laptop should submit their tickets as soon as possible after class on the days the tickets are collected. Beginning and end of the semester activities, like the 'Student Information Sheet' and the 'Speaking Up In Class Survey', are counted as "entry" tickets.
 
@@ -29,7 +29,7 @@ Your participation grade will be split, with 25 points (5% of your final grade) 
 Sociological experiences are worth **10%** of your final grade
 ```
 
-Students will be required to complete two sociological experiences and write a short response paper summarizing your own experience. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. "The Bus" will be due on **Monday, October 1^st^** and "The Suitcase" will be due on **Monday, November 5^th^**. Each reflection paper is worth 5% of your final grade.
+Students will be required to complete two sociological experiences and write a short response paper summarizing your own experience. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. "The Bus" will be due on **Monday, February 18^th^** and "The Suitcase" will be due on **Monday, April 1^st^**. Each reflection paper is worth 5% of your final grade.
 
 ### QHQ Papers
 
@@ -37,7 +37,7 @@ Students will be required to complete two sociological experiences and write a s
 QHQ Papers are worth **20%** of your final grade
 ```
 
-Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. QHQ Paper 1 will be due on **Wednesday, October 10^th^**, QHQ Paper 2 will be due on **Wednesday, November 14^th^**, and QHQ Paper 3 will be due on **Wednesday, December 5^th^**. QHQ Paper 1 is ungraded. If it is not turned in or not taking seriously, however, a deduction of 3% will be applied to your final grade. QHQ Papers 2 and 3 each count for 10% of your final grade.
+Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. QHQ Paper 1 will be due on **Wednesday, February 27^th^**, QHQ Paper 2 will be due on **Monday, April 8^th^**, and QHQ Paper 3 will be due on **Wednesday, May 1^st^**. QHQ Paper 1 is ungraded. If it is not turned in or not taking seriously, however, a deduction of 3% will be applied to your final grade. QHQ Papers 2 and 3 each count for 10% of your final grade.
 
 ### Exams
 
@@ -45,7 +45,7 @@ Each student will write a QHQ reflection paper on three chapters (one chapter pe
 Exams are worth **60%** of your final grade
 ```
 
-Three non-cumulative multiple choice exams will be given throughout the semester. Each exam will cover the breadth of the material in the course, including readings, lectures, and videos. Exam 1 will be given on **Monday, September 24^th^**, Exam 2 will be given on **Wednesday, October 31^th^**, and Exam 3 will be given during our class's schedule final exam period on **Wednesday, December 12^th^** from 2:00pm to 3:50pm. Each exam is worth 20% of your final grade.
+Three non-cumulative multiple choice exams will be given throughout the semester. Each exam will cover the breadth of the material in the course, including readings, lectures, and videos. Exam 1 will be given on **Monday, February 11^th^**, Exam 2 will be given on **Monday, March 25^th^**, and Exam 3 will be given during our class's schedule final exam period on (date and time TBA). Each exam is worth 20% of your final grade.
 
 ## Submission and Late Work
 
@@ -64,6 +64,8 @@ Assignments shared within 24-hours of the due date will have 15% deducted from t
 ### Missed Exams
 
 If you cannot attend an exam due to a personal illness, a family issue, jury duty, an athletic match, or a religious observance, you must contact me **beforehand** to discuss alternate exam scheduling. I may ask for more information, such as a note from a physician, a travel letter from Athletics, or other documentation for absences. Unless there is an extreme situation, such as emergency hospitalization, I do not allow students to make up exams if I have not been notified prior to the original exam date.
+
+Since the final exam schedule is not yet available, please do not book travel home at the end of the semester until you know the date of the third exam - I cannot accomodate students who request an alternative exam date due to travel conflicts.
 
 ## Extra Credit
 
@@ -99,9 +101,9 @@ Some of the provided rubrics on **[Google Classroom](https://classroom.google.co
 
 ### Conflicting or Incorrect Grades
 
-I will maintain Blackboard's grade center as work is returned via Google Classroom (or, for exams, via hardcopies returned in class). *This will be the only official use of Blackboard this semester.* If you notice a discrepancy between the grade you recieved in class or on Google Classroom and what appears on Blackboard, please let me know as soon as possible. The same goes for any grads reported in Google Classroom that do not match the grade given back in the assignment feedback. In either case, I will default to taking the higher of the two grades as the offical grade.
+Assignment grades will generally be given both as a comment in the Google Doc itself and on Google Classroom. If you notice a discrepancy between the grade you recieved in the feedback and what appears on Google Classroom, please let me know as soon as possible. I will default to taking the higher of the two grades as the offical grade.
 
-Since exams and scantrons are handed back in class, I will only consider possible scantron scoring errors that I am made aware of at the end of class on the day that exams are returned. Please make sure to discuss any concerns you have about your scantron with me that day.  
+Since exams and scantrons are handed back in class, I will only consider possible scantron scoring errors that I am made aware of at the end of class on the day that exams are returned. Please make sure to discuss any concerns you have about your scantron with me that day. As with other assignments, if there is a discrepancy between the grade noted on your exam and what is entered on Google Classroom, I will default to taking the higher of the two grades as the offical grade.
 
 ### Final Grades
 
