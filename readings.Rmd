@@ -19,9 +19,9 @@ knitr::kable(
 
 ## Week 01 {-}
 
-<div class="open"><a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/p/MTUxOTcxNDMzNzVa/details" target="_blank">View on Google Classroom</a></div>
+<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
-### Lecture 01 - Monday, August 27^th^ {-}
+### Lecture 01 - Monday, January 14^th^ {-}
 
 #### Topics {-}
 
@@ -29,7 +29,7 @@ knitr::kable(
 
 ---
 
-### Lecture 02 - Wednesday, August 29^th^ {-}
+### Lecture 02 - Wednesday, January 16^th^ {-}
 
 #### Topics {-}
 
@@ -48,25 +48,24 @@ knitr::kable(
 #### Assignments Due {-}
 
 * Entry Ticket - Student Information Sheet (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUyMDcwMDU1NDFa/details" target="_blank">Google Classroom</a>)
-* Entry Ticket - Speaking Up In Class Survey (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUyMDg1MjA5OTFa/details" target="_blank">Google Classroom</a>)
 
 ## Week 02 {-}
 
-<div class="open"><a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/p/MTY1ODY5OTI5NDVa/details" target="_blank">View on Google Classroom</a></div>
+<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
-### *No Class* - Monday, September 3^rd^ - Labor Day {-}
+### *No Class* - Monday, January 21^st^ - Martin Luther King, Jr. Day {-}
 
 #### Topics {-}
 
-* The Roots of Labor Day
+* Martin Luther King, Jr. Day
 
 #### Readings {-}
 
-* Kazin, Michael, and Steven J. Ross. 1992. "America's Labor Day: The Dilemma of a Workers' Celebration." *The Journal of American History* 78(4):1294-1323. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* TBA (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
 ---
 
-### Lecture 03 - Wednesday, September 5^th^ {-}
+### Lecture 03 - Wednesday, January 23^rd^ {-}
 
 #### Topics {-}
 
@@ -75,20 +74,18 @@ knitr::kable(
 
 #### Readings {-}
 
-* Anderson, Chapter 3 - "Doing Sociological Research", pp. 57-72 
-    * read up to "Research Ethics: Is Sociology Value Free?"
 * Phelan, Jo C., Bruce Link, and Parisa Tehranifar. 2010. "Social Conditions as Fundamental Causes of Health Inequalities: Theory, Evidence, and Policy Implications." *Journal of Health and Social Behavior* 51(S):S28-S40. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 * *Mama* - Introduction (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
 #### Assignments Due {-}
 
-* Entry Ticket - Reflecting on Labor Day (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTY1NjU2NzIxNjJa/details" target="_blank">Google Classroom</a>)
+* Entry Ticket - Reflecting on Martin Luther King, Jr. Day (<a href="" target="_blank">Google Classroom</a>)
 
 ## Week 03 {-}
 
-<div class="open"><a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/p/MTY3NDU4Njg1NTFa/details" target="_blank">View on Google Classroom</a></div>
+<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
-### Lecture 04 - Monday, September 10^th^ {-}
+### Lecture 04 - Monday, January 28^th^ {-}
 
 #### Topics {-}
 
@@ -97,13 +94,13 @@ knitr::kable(
 
 #### Readings {-}
 
-* Anderson, Chapter 3 - "Doing Sociological Research", pp. 72-74 
-    * read "Research Ethics: Is Sociology Value Free?"
 * Anderson, Chapter 2
+* Anderson, Chapter 3 - "Doing Sociological Research", pp. 57-72 
+    * read up to "Research Ethics: Is Sociology Value Free?"
 
 ---
 
-### Lecture 05 - Wednesday, September 12^th^ {-}
+### Lecture 05 - Wednesday, January 30^th^ {-}
 
 #### Topics {-}
 
@@ -117,12 +114,14 @@ knitr::kable(
 #### Readings {-}
 
 * Acevedo-Garcia, Dolores and Lisa M. Bates. 2008. "Latino Health Paradoxes: Empirical Evidence, Explanations, Future Research, and Implications." Pp. 101-113 in *Latinas/os in the United States: Changing the Face of América*, edited by H. Rodríguez, R. Sáenz, and C. Menjívar. New York: Springer. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Anderson, Chapter 3 - "Doing Sociological Research", pp. 72-74 
+    * read "Research Ethics: Is Sociology Value Free?"
 
 ## Week 04 {-}
 
-<div class="open"><a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/p/MTc5NTA1NzU5ODJa/details" target="_blank">View on Google Classroom</a></div>
+<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
-### Lecture 06 - Monday, September 17^th^ {-}
+### Lecture 06 - Monday, February 4^th^ {-}
 
 #### Topics {-}
 
@@ -136,7 +135,7 @@ knitr::kable(
 
 ---
 
-### Lecture 07 - Wednesday, September 19^th^ {-}
+### Lecture 07 - Wednesday, February 6^th^ {-}
 
 #### Topics {-}
 
@@ -152,15 +151,15 @@ knitr::kable(
 
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
-### Exam 01  - Monday, September 24^th^ {-}
+### Exam 01  - Monday, February 11^th^ {-}
 
 #### Topics {-}
 
-* covers Lectures 1 through 7, all associated readings, and the Labor Day reading
+* covers Lectures 1 through 7, all associated readings, and the Martin Luther King, Jr. Day reading
 
 ---
 
-### Lecture 08 - Wednesday, September 26^th^ {-}
+### Lecture 08 - Wednesday, February 13^th^ {-}
 
 #### Topics {-}
 
@@ -174,7 +173,7 @@ knitr::kable(
 
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
-### Lecture 09 - Monday, October 1^st^ {-}
+### Lecture 09 - Monday, February 18^th^ {-}
 
 #### Topics {-}
 
@@ -187,11 +186,11 @@ knitr::kable(
 
 #### Assignments Due {-}
 
-* Sociological Experience - "The Bus" (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUxODMzNDEyNjRa/details" target="_blank">Google Classroom</a>)
+* Sociological Experience - "The Bus" (<a href="" target="_blank">Google Classroom</a>)
 
 ---
 
-### Lecture 10 - Wednesday, October 3^rd^ {-}
+### Lecture 10 - Wednesday, February 20^th^ {-}
 
 #### Topics {-}
 
@@ -208,16 +207,12 @@ knitr::kable(
 
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
-### Lecture 11 - Monday, October 8^th^ {-}
+### Lecture 11 - Monday, February 25^th^ {-}
 
 #### Topics {-}
 
 * Neighborhoods and Health
 * Urban Health Disparities in St. Louis
-
-#### Documentary {-}
-
-*  *Unnatural Causes*, Part 5 - "Place Matters" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
 
 #### Readings {-}
 
@@ -228,7 +223,7 @@ knitr::kable(
 
 ---
 
-### Lecture 12 - Wednesday, October 10^th^ {-}
+### Lecture 12 - Wednesday, February 27^th^ {-}
 
 #### Topics {-}
 
@@ -238,16 +233,16 @@ knitr::kable(
 
 * Abraham - Chapters 1 through 5
 
-#### Assignments Due Before Lecture 13 {-}
+#### Assignments Due {-}
 
-* QHQ-01 (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUxODQ5MjIwMDJa/details" target="_blank">Google Classroom</a>)
+* QHQ-01 (<a href="" target="_blank">Google Classroom</a>)
     * see the QHQ Group assignments for which chapter you should write about
     
 ## Week 08 {-}
 
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
-### Lecture 13 - Monday, October 15^th^ {-}
+### Lecture 13 - Monday, March 4^th^ {-}
 
 #### Topics {-}
 
@@ -261,7 +256,7 @@ knitr::kable(
 
 ---
 
-### Lecture 14 - Wednesday, October 17^th^ {-}
+### Lecture 14 - Wednesday, March 6^th^ {-}
 
 #### Topics {-}
 
@@ -279,7 +274,7 @@ knitr::kable(
 
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
-### *No Class* - Monday, October 22^nd^ - Fall Break {-}
+### *No Class* - Spring Break {-}
 
 #### Topics {-}
 
@@ -292,9 +287,11 @@ knitr::kable(
     * Part 2 - "Background", pp 6-9
     * Part 3 - "Ferguson Law Enforcement Efforts Are Focused on Generating Revenue", pp. 9-15
 
----
+## Week 10 {-}
 
-### Lecture 15 - Wednesday, October 24^th^ {-}
+<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### Lecture 15 - Monday, March 18^th^ {-}
 
 #### Topics {-}
 
@@ -308,11 +305,9 @@ knitr::kable(
 
 * Entry Ticket - Contextualizing Michael Brown (<a href="#" target="_blank">Google Classroom</a>)
 
-## Week 10 {-}
+---
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
-### Lecture 16 - Monday, October 29^th^ {-}
+### Lecture 16 - Wednesday, March 20^th^ {-}
 
 #### Topics {-}
 
@@ -322,19 +317,19 @@ knitr::kable(
 
 * Dow, William H. and David H. Rehkopf. 2010. "Socioeconomic gradients in health in international and historical context." *Annals of the New York Academy of Sciences* 1186:24-36. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
----
-
-### Exam 02 - Wednesday, October 31^st^ {-}
-
-#### Topics {-}
-
-* covers Lectures 8 through 16, all associated readings, and the Fall Break reading
-
 ## Week 11 {-}
 
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
-### Lecture 17 - Monday, November 5^th^ {-}
+### Exam 02 - Monday, March 25^th^ {-}
+
+#### Topics {-}
+
+* covers Lectures 8 through 16, all associated readings, and the Spring Break reading
+
+---
+
+### Lecture 17 - Wednesday, March 27^th^ {-}
 
 #### Topics {-}
 
@@ -344,13 +339,11 @@ knitr::kable(
 
 * Andersen, Chapter 10 - "Race and Ethnicity"
 
-#### Assignments Due {-}
+## Week 12 {-}
 
-* Sociological Experience - "The Suitcase" (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUxODM5MjIwMjFa/details" target="_blank">Google Classroom</a>)
+<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
----
-
-### Lecture 18 - Wednesday, November 7^th^ {-}
+### Lecture 18 - Monday, April 1^st^ {-}
 
 #### Topics {-}
 
@@ -361,11 +354,13 @@ knitr::kable(
 * Cooper, Richard S., Jay S. Kaufman, and Ryk Ward. 2003. "Race and Genomics." *New England Journal of Medicine* 348(12):1166-1170. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 * Williams, David R. and Michelle Sternthal. 2010. "Understanding Racial-ethnic Disparities in Health : Sociological Contributions." *Journal of Health and Social Behavior* 51(S):S15-S27. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
-## Week 12 {-}
+#### Assignments Due {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+* Sociological Experience - "The Suitcase" (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUxODM5MjIwMjFa/details" target="_blank">Google Classroom</a>)
 
-### Lecture 19 - Monday, November 12^th^ {-}
+---
+
+### Lecture 19 - Wednesday, April 3^rd^ {-}
 
 #### Topics {-}
 
@@ -376,9 +371,11 @@ knitr::kable(
 * Andersen, Chapter 11 - "Gender"
 * Krieger, Nancy. 2003. "Genders, Sexes, and Health: What Are the Connections - and Why Does It Matter?" *International Journal of Epidemiology* 32(4):652-657. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
----
+## Week 13 {-}
 
-### Lecture 20 - Wednesday, November 14^th^ {-}
+<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### Lecture 20 - Monday, April 8^th^ {-}
 
 #### Topics {-}
 
@@ -390,14 +387,12 @@ knitr::kable(
 
 #### Assignments Due {-}
 
-* QHQ-02 (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUxODE5NTM0MDFa/details" target="_blank">Google Classroom</a>)
+* QHQ-02 (<a href="" target="_blank">Google Classroom</a>)
     * see the QHQ Group assignments for which chapter you should write about
+    
+---
 
-## Week 13 {-}
-
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
-### Lecture 21 - Monday, November 19^th^ {-}
+### Lecture 21 - Wednesday, April 10^th^ {-}
 
 #### Topics {-}
 
@@ -408,23 +403,11 @@ knitr::kable(
 * Boyer, Carol A. and Karen E. Lutfey. 2010. "Examining Critical Health Policy Issues within and beyond the Clinical Encounter: Patient--Provider Relationships and Help-seeking Behaviors." *Journal of Health and Social Behavior* 51(S):S80-S93. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 * Spencer, Karen Lutfey and Matthew Grace. 2016. "Social Foundations of Health Care Inequality and Treatment Bias." *Annual Review of Sociology* 42:101-120. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
----
-
-### *No Class* - Wednesday, November 21^st^ - Thanksgiving Break {-}
-
-#### Topics {-}
-
-* Culture and Myth
-
-#### Readings {-}
-
-* Siskand, Janet. 1992. "The Invention of Thanksgiving: A ritual of American nationality." *Critique of Anthropology* 12(2): 167-191. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
-
 ## Week 14 {-}
 
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
-### Lecture 22 - Monday, November 26^th^ {-}
+### Lecture 22 - Monday, April 15^th^ {-}
 
 #### Topics {-}
 
@@ -439,13 +422,9 @@ knitr::kable(
 * Jones, David S. 2006. "The persistence of American Indian health disparities." *American Journal of Public Health* 96(12): 2122-2134. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 * Sarche, Michelle, and Paul Spicer. 2008. "Poverty and health disparities for American Indian and Alaska Native children." *Annals of the New York Academy of Sciences* 1136(1): 126-136. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
-#### Assignments Due {-}
-
-* Entry Ticket - Myth and Culture (<a href="#" target="_blank">Google Classroom</a>)
-
 ---
 
-### Lecture 23 - Wednesday, November 28^th^ {-}
+### Lecture 23 - Wednesday, April 17^th^ {-}
 
 #### Topics {-}
 
@@ -464,7 +443,33 @@ knitr::kable(
 
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
-### Lecture 24 - Monday, December 3^rd^ {-}
+### *No Class* - Monday, April 22^nd^ - Easter Break {-}
+
+#### Topics {-}
+
+* TBA
+
+#### Readings {-}
+
+* TBA (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+
+---
+
+### Lecture 24 - Wednesday, April 24^th^ {-}
+
+#### Topics {-}
+
+* Globalization
+
+#### Readings {-}
+
+* Andersen, Chapter 15 - "Economy and Politics", pp. 363-376
+
+## Week 16 {-}
+
+<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
+
+### Lecture 25 - Monday, April 29^th^ {-}
 
 #### Topics {-}
 
@@ -476,11 +481,11 @@ knitr::kable(
 
 #### Readings {-}
 
-* Andersen, Chapter 15 - "Economy and Politics", pp. 363-376
+* TBA
 
 ---
 
-### Lecture 25 - Wednesday, December 5^th^ {-}
+### Lecture 26 - Wednesday, May 1^st^ {-}
 
 #### Topics {-}
 
@@ -492,14 +497,14 @@ knitr::kable(
 
 #### Assignments Due {-}
 
-* QHQ-03 (<a href="https://classroom.google.com/c/MTUxNzA3MjA3MjRa/a/MTUxODQ4MjYyNDJa/details" target="_blank">Google Classroom</a>)
+* QHQ-03 (<a href="" target="_blank">Google Classroom</a>)
     * see the QHQ Group assignments for which chapter you should write about
 
-## Week 16 {-}
+## Week 17 {-}
 
 <div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
-### Lecture 26 - Monday, December 10^th^ {-}
+### Lecture 27 - Monday, May 6th^th^ {-}
 
 #### Topics {-}
 
@@ -513,15 +518,14 @@ knitr::kable(
 * Quadagno, Jill. 2010. "Institutions, Interest Groups, and Ideology: An Agenda for the Sociology of Health Care Reform." *Journal of Health and Social Behavior* 51(2):125-136. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 * Williams, David. 2010. "Beyond The Affordable Care Act: Achieving Real Improvements In Americans’ Health." *Health Affairs* 29(8):1481-1488. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
----
+## Week 18 {-}
 
-### Exam 03 - Wednesday, December 12^th^ {-}
+### Exam 03 - TBA {-}
 
 ```{block, type = "rmdwarning"}
-The Exam will be held during our scheduled finals week slot from 2pm to 3:50pm
+The date and time for Exam 03 have yet to be scheduled by the Registrar.
 ```
 
 #### Topics {-}
 
-* covers Lectures 17 through 26, all associated readings, and the Thanksgiving Break reading
-
+* covers Lectures 17 through 27, all associated readings, and the Easter Break reading
