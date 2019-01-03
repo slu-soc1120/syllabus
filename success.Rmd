@@ -1,4 +1,4 @@
-# Success in SOC 1120
+# Success in this Course
 
 Students often ask me how to do well in various aspects of the course, and so this section features my *suggestions* for a successful semester. *These observations are provided with no warranty* - following them does not guarantee any particular outcome. You could do everything in here and still do poorly in the course, and conversely you could ignore much of what is in discussed in the links below and still do well. However, *most* of the students who are successful in this course will follow *most* of these ideas consistently.
 
