@@ -1,5 +1,5 @@
 --- 
-title: "SOC 1120-05: Introduction to Sociology - Diversity & Health"
+title: "SOC 1120-02: Introduction to Sociology - Diversity & Health"
 author: "Christopher Prener, Ph.D."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -17,7 +17,7 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 *When:* Mondays and Wednesdays, 2:10pm to 3:25pm
 
-*Where:* 2718 Morrissey Hall
+*Where:* 0400 Morrissey Hall
 
 ### Course Website {-}
 
@@ -36,10 +36,10 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 
 ## Change Log {-}
 
-August 21, 2018 - Fall 2018 release
+January 3, 2019 - Spring 2019 release
 
 ## License {-}
-Copyright © 2016-2018 [Christopher G. Prener](https://chris-prener.github.io)
+Copyright © 2016-2019 [Christopher G. Prener](https://chris-prener.github.io)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
