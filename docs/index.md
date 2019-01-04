@@ -36,7 +36,7 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 
 ## Change Log {-}
 
-January 3, 2019 - Spring 2019 release
+January 3, 2019 - Initial Spring 2019 release
 
 ## License {-}
 Copyright © 2016-2019 [Christopher G. Prener](https://chris-prener.github.io)
