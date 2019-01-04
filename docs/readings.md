@@ -52,11 +52,12 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Topics {-}
 
-* Martin Luther King, Jr. Day
+* Rev. Dr. Martin Luther King, Jr.'s Legacy
 
 #### Readings {-}
 
-* TBA (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* King, Jr., Martin Luther. 1963. ``Letter from Birmingham Jail.'' (<a href="https://web.cn.edu/kwheeler/documents/Letter_Birmingham_Jail.pdf" target="_blank">Read</a>, <a href="http://okra.stanford.edu/transcription/audio/630416001.mp3" target="_blank">Listen</a>)
+* King, Jr., Martin Luther. 1967. ``Beyond Vietnam.'' (<a href="https://kinginstitute.stanford.edu/king-papers/documents/beyond-vietnam" target="_blank">Read</a>, <a href="http://okra.stanford.edu/media/audio/1967_04_04_beyond_vietnam.mp3" target="_blank">Listen</a>)
 
 ---
 
@@ -74,7 +75,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Assignments Due {-}
 
-* Entry Ticket - Reflecting on Martin Luther King, Jr. Day (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0NzI5MTgyNjJa/details" target="_blank">Google Classroom</a>)
+* Entry Ticket - Reflecting on Rev. Dr. Martin Luther King, Jr.'s Legacy (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0NzI5MTgyNjJa/details" target="_blank">Google Classroom</a>)
 
 ## Week 03 {-}
 
@@ -442,11 +443,15 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Topics {-}
 
-* TBA
+* Sociology of Religion
 
 #### Readings {-}
 
-* TBA (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+Pick *one* of the following:
+
+* Edgell, Penny. 2012. "A cultural sociology of religion: New directions." *Annual Review of Sociology* 38: 247-265. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Wilde, Melissa and Lindsay Glassman. 2016. "How complex religion can improve our understanding of American politics." *Annual Review of Sociology* 42: 407-425.
+* Winstead, Kevin. 2017. "'Authentically Black, and Truly Catholic': A survey of the study on Black Catholics." *Sociology Compass* 11(10): e12517. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
 ---
 
@@ -462,7 +467,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Assignments Due {-}
 
-* Entry Ticket - TBA (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0NzcyOTAyMTda/details" target="_blank">Google Classroom</a>)
+* Entry Ticket - Sociology of Religion (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0NzcyOTAyMTda/details" target="_blank">Google Classroom</a>)
 
 ## Week 16 {-}
 
@@ -472,7 +477,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Topics {-}
 
-* Globalization and Health
+* Globalization, Economic Change, and Health
 
 #### Documentary {-}
 
@@ -480,7 +485,8 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Readings {-}
 
-* TBA
+* Reeves, Aaron, et al. 2012. "Increase in state suicide rates in the USA during economic recession." *The Lancet* 380(9856): 1813-1814. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Suhrcke, Marc, and David Stuckler.  2012. "Will the recession be bad for our health? It depends." *Social Science and Medicine* 74(5): 647. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
 ---
 
