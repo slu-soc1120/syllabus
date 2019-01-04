@@ -46,9 +46,9 @@ This course fulfills the College of Arts and Sciences core requirement for Cultu
 
 **[Google Classroom](https://classroom.google.com)** is a learning management system similar to Blackboard. There are two main areas - the `Stream` and the `Coursework` tabs. The `Stream` contains posts for announcements and assignments. Additions to the `Stream` should be emailed to your student e-mail account automatically. This will be my primary means for communicating with the class as a whole, and will be the venue where lecture slides and notes are made available. Assignments posted to the `Coursework` allow you to submit work for the course. Please see the section on "[Google Classroom Submissions]" for details on assignment submission.
 
-You will need an invitation to **Google Classroom** from Chris. Invitations will be sent to all enrolled students before the first class. If you enroll after the first day of class, please let Chris know that you will need an invitation. Inivtations will be sent to your SLU associated Google account, which consists of your *computer login* (e.g. `doej` for Jane Doe) entered as an email - `doej@slu.edu`. The password will be the same as your password used to login to mySLU and SLU computers. Using another Google account for this course is not permitted.
+You will need an invitation to **Google Classroom** from Chris. Invitations will be sent to all enrolled students before the first class. If you enroll after the first day of class, please let Chris know that you will need an invitation. Invitations will be sent to your SLU associated Google account, which consists of your *computer log in* (e.g. `doej` for Jane Doe) entered as an email - `doej@slu.edu`. The password will be the same as your password used to log in to mySLU and SLU computers. Using another Google account for this course is not permitted.
 
-In order to faciliate quick access to course materials, each lecture's section of the [**Reading List**](/lecture-schedule.html) will include a button that links to that lecture's post with lecture slides and notes. The button will look like this for posts that are available:
+In order to facilitate quick access to course materials, each lecture's section of the [**Reading List**](/lecture-schedule.html) will include a button that links to that lecture's post with lecture slides and notes. The button will look like this for posts that are available:
 
 <div class="open"><a href="#">View on Google Classroom</a></div>
 
@@ -60,7 +60,7 @@ If the button is red, it means that the post with lecture resources is not yet a
 
 <br>
 
-Assignments will also be linked from the [**Reading List**](/lecture-schedule.html) to the relevant post on the `Stream`. These will be noted with a hyperlink in paranetheses that looks like this: (<a href="#">Google Classroom</a>)
+Assignments will also be linked from the [**Reading List**](/lecture-schedule.html) to the relevant post on the `Stream`. These will be noted with a hyperlink in parentheses that looks like this: (<a href="#">Google Classroom</a>)
 
 ## Readings
 
@@ -74,4 +74,4 @@ I do not require students to buy physical copies of texts. You are free to selec
 
 All readings are listed on the [**Reading List**](/lecture-schedule.html) and should be completed before the course meeting on the week in which they are assigned (unless otherwise noted). Full text versions of most readings not found in the books assigned for the course can be obtained using the library's [Electronic Reserves](http://eres.slu.edu/eres/coursepass.aspx?cid=4443) system. The password for the Electric Reserves will be posted on **[Google Classroom](https://classroom.google.com)**.
 
-Many of the readings posted on [Electronic Reserves](http://eres.slu.edu/eres/coursepass.aspx?cid=4443) are peer reviewed journal articles. This means that they are written with an aim to contribute to scientific debates. Their primary audiances are typically health care providers, professors, and graduate students. They are therefore sometimes *difficult* to read. Give yourself time - I don't expect each student to fully understanding the intracacies of each article (especially the statistics included in some), but I do expect you to walk away with a general sense of the argument and evidence presented.
+Many of the readings posted on [Electronic Reserves](http://eres.slu.edu/eres/coursepass.aspx?cid=4443) are peer reviewed journal articles. This means that they are written with an aim to contribute to scientific debates. Their primary audiences are typically health care providers, professors, and graduate students. They are therefore sometimes *difficult* to read. Give yourself time - I don't expect each student to fully understanding the intricacies of each article (especially the statistics included in some), but I do expect you to walk away with a general sense of the argument and evidence presented.

@@ -1,5 +1,5 @@
 # Assignments and Grading
-This section provides general details on the different types of assignments for this course. It also contains policies for submitting work, reciving feedback, and late work.
+This section provides general details on the different types of assignments for this course. It also contains policies for submitting work, receiving feedback, and late work.
 
 ## Assignments
 
@@ -17,7 +17,7 @@ Attendance and participation are worth **10%** of your final grade
 
 As discussed above, both attendance and participation are important aspects of this class. The class participation grade will be based on (a) attendance, (b) level of engagement during class, and (c) class "entry" and "exit tickets".
 
-Each of these elements is assigned a point value and assessed using a scale that awards full, partial, or no credit. Not attending class or completing an "entry" or "exit" ticket will result in no credit being earned for that element on a given day. Diengagement during class may result in partial or no credit being earned. Late arrivals will result in only partial credit earned for that element on a given day.
+Each of these elements is assigned a point value and assessed using a scale that awards full, partial, or no credit. Not attending class or completing an "entry" or "exit" ticket will result in no credit being earned for that element on a given day. Disengagement during class may result in partial or no credit being earned. Late arrivals will result in only partial credit earned for that element on a given day.
 
 Your participation grade will be split, with 25 points (5% of your final grade) for the first half of the semester (through Week 8) and another 25 points (5%) for the second half (Weeks 9 to 17). Since the number of points awarded for participation are variable, the total number of points earned for each half will be **weighted** so that it is converted to a 0 to 25 scale. I provide the final number of points earned for each half of the course. If you would like a more detailed breakdown of your participation grade and/or attendance record, please reach out and I will happily provide one.
 
@@ -57,7 +57,7 @@ The Google Doc submission policy is in place because it facilitates clear, easy 
 
 ### Late Work
 
-Once the due date has passed, any assignments shared will be treated as late. Be advised that Google timestamps submissions, so that even being a few seconds over the due date and time will result in your assignment being marked late. Like arriving late to class, this happens automatically, so please let me know as soon as possible **before** class if you have a concern about a potentially late submission. 
+Once the due date has passed, any assignments shared will be treated as late. Be advised that Google time-stamps submissions, so that even being a few seconds over the due date and time will result in your assignment being marked late. Like arriving late to class, this happens automatically, so please let me know as soon as possible **before** class if you have a concern about a potentially late submission. 
 
 Assignments shared within 24-hours of the due date will have 15% deducted from the grade. I will deduct 15% per day for the next two 24-hour periods that assignments are late; after 72-hours, I will not accept late work. If you cannot submit work on time because of a personal illness, a family issue, jury duty, an athletic match, or a religious observance, you must contact me beforehand to discuss alternate submission of work. Internet or computer issues are not grounds for missed deadlines. I may ask for more information, such as a note from a physician, a travel letter from Athletics, or other documentation for absences. 
 
@@ -65,7 +65,7 @@ Assignments shared within 24-hours of the due date will have 15% deducted from t
 
 If you cannot attend an exam due to a personal illness, a family issue, jury duty, an athletic match, or a religious observance, you must contact me **beforehand** to discuss alternate exam scheduling. I may ask for more information, such as a note from a physician, a travel letter from Athletics, or other documentation for absences. Unless there is an extreme situation, such as emergency hospitalization, I do not allow students to make up exams if I have not been notified prior to the original exam date.
 
-Since the final exam schedule is not yet available, please do not book travel home at the end of the semester until you know the date of the third exam - I cannot accomodate students who request an alternative exam date due to travel conflicts.
+Since the final exam schedule is not yet available, please do not book travel home at the end of the semester until you know the date of the third exam - I cannot accommodate students who request an alternative exam date due to travel conflicts.
 
 ## Extra Credit
 
@@ -101,9 +101,9 @@ Some of the provided rubrics on **[Google Classroom](https://classroom.google.co
 
 ### Conflicting or Incorrect Grades
 
-Assignment grades will generally be given both as a comment in the Google Doc itself and on Google Classroom. If you notice a discrepancy between the grade you recieved in the feedback and what appears on Google Classroom, please let me know as soon as possible. I will default to taking the higher of the two grades as the offical grade.
+Assignment grades will generally be given both as a comment in the Google Doc itself and on Google Classroom. If you notice a discrepancy between the grade you received in the feedback and what appears on Google Classroom, please let me know as soon as possible. I will default to taking the higher of the two grades as the official grade.
 
-Since exams and scantrons are handed back in class, I will only consider possible scantron scoring errors that I am made aware of at the end of class on the day that exams are returned. Please make sure to discuss any concerns you have about your scantron with me that day. As with other assignments, if there is a discrepancy between the grade noted on your exam and what is entered on Google Classroom, I will default to taking the higher of the two grades as the offical grade.
+Since exams and scantrons are handed back in class, I will only consider possible scantron scoring errors that I am made aware of at the end of class on the day that exams are returned. Please make sure to discuss any concerns you have about your scantron with me that day. As with other assignments, if there is a discrepancy between the grade noted on your exam and what is entered on Google Classroom, I will default to taking the higher of the two grades as the official grade.
 
 ### Final Grades
 

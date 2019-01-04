@@ -61,7 +61,7 @@ Any work that is taken from another student, copied from printed material, or co
 
 All relevant assignments should include in-text citations and references formatted using the [American Sociological Association (ASA)](https://owl.english.purdue.edu/owl/resource/583/1/) style guidelines. Any student who is found to have been academically dishonest in their work risks failing both the assignment and this course.
 
-## Harrassment and Title IX
+## Harassment and Title IX
 
 While I have every expectation that each member of the Saint Louis University community is capable and willing to create a positive coursework experience, I fully recognize that there may be instances where students fall short of that expectation. Students should generally be aware that: 
 
