@@ -28,7 +28,7 @@ assignments, and response paper due dates.
 
 #### Assignments Due {-}
 
-* Draft of Op-Ed (<a href="" target="_blank">Google Classroom</a>)
+* Draft of Op-Ed (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0OTgxMjUyNTZa/details" target="_blank">Google Classroom</a>)
 
 ## Honors Week 16 {-}
 
@@ -36,4 +36,4 @@ assignments, and response paper due dates.
 
 #### Assignments Due {-}
 
-* Final Op-Ed (<a href="" target="_blank">Google Classroom</a>)
+* Final Op-Ed (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0OTgxMjUyNjda/details" target="_blank">Google Classroom</a>)
