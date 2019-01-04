@@ -1,5 +1,5 @@
 --- 
-title: "SOC 1120-02: Introduction to Sociology - Diversity & Health"
+title: "SOC 1120-02 and 02H: Introduction to Sociology - Diversity & Health"
 author: "Christopher Prener, Ph.D."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
