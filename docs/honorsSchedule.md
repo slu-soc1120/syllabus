@@ -1,0 +1,39 @@
+# Honors Schedule
+
+\begin{rmdwarning}
+Once the honors seminars have been selected by students enrolled in the
+honors seminar, this section will be updated with meeting dates, reading
+assignments, and response paper due dates.
+\end{rmdwarning}
+
+## Honors Week-01 {-}
+
+### Lecture 01 - Monday, January 14^th^ {-}
+
+#### Assignments Due {-}
+
+* Honors Seminar selection
+
+## Honors Week-07 {-}
+
+### Lecture 11 - Monday, February 25^th^ {-}
+
+#### Assignments Due {-}
+
+* Op-ed topic selection (including meeting with Chris)
+
+## Honors Week 14 {-}
+
+### Lecture 22 - Monday, April 15^th^ {-}
+
+#### Assignments Due {-}
+
+* Draft of Op-Ed (<a href="" target="_blank">Google Classroom</a>)
+
+## Honors Week 16 {-}
+
+### Lecture 25 - Monday, April 29^th^ {-}
+
+#### Assignments Due {-}
+
+* Final Op-Ed (<a href="" target="_blank">Google Classroom</a>)
