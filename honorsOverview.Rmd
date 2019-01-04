@@ -30,54 +30,72 @@ These discussions should inform a response paper written by each student that co
 * 1" margins on top, bottom, and sides
 * Papers should be no less than four and no longer than five pages in length
 * Papers should use in-text, parenthetical citations formatted using American Sociological Association (ASA) standards
-* Papers should include a works cited section on a separate page that is properly formatted using ASA standards
+* Papers should include a works cited section on a separate page that is properly formatted using ASA standards - this does not count towards the page limit
 
 ### Grading
 
 ```{block, type = "rmdtip"}
-Your papers are collectively worth **25%** of your final grade
+Your papers are collectively worth **22.5%** of your final grade
 ```
 
 Paper due-dates will be a week after each seminar meeting, and papers will be submitted via Google Classroom. Each response paper will be graded on four elements:
 
-1.  Content (40 points): How well does the paper synthesize information
+1.  Content (35 points): How well does the paper synthesize information
     from the in-depth readings, other course readings, the course
     lectures, and other course resources such as documentaries (as
     appropriate).
-2.  Organization (15 points): How well organized is the paper? Does it
+2.  Organization (10 points): How well organized is the paper? Does it
     have an introduction, a conclusion, and a thesis?
-3.  Writing (15 points): How well written is the paper? Is it free of
+3.  Writing (10 points): How well written is the paper? Is it free of
     spelling and grammatical errors?
 4.  Citations (5 points): Are citations correctly applied?
 
-Papers are worth approximately 8.33% of your final grade for each paper.
+Papers are worth approximately 7.5% of your final grade for each paper.
 
 ## Op-Ed
 
 ```{block, type = "rmdtip"}
-Your presentation is worth **6.25%** of your final grade
+Your op-ed is worth **8.75%** of your final grade
 ```
 
-You should pick a topic from [the honors seminar topic list](/honors-seminar-topics.html) that you would like to use as a jumping-off point for writing an op-ed style article. With a topic in-hand, you should read ahead and pick *one narrow aspect* of the topic to focus on. Topics must be selected by March 6^th^ and are "submitted" by coming to office hours (or making an appointment to see Chris if you have a scheduling conflict) to discuss your idea.
+You should pick a topic from [the honors seminar topic list](/honors-seminar-topics.html) that you would like to use as a jumping-off point for writing an op-ed style article. With a topic in-hand, you should read ahead and pick *one narrow aspect* of the topic to focus on. Topics must be selected by February 27^th^ and are "submitted" by coming to office hours (or making an appointment to see Chris if you have a scheduling conflict) to discuss your idea.
 
 Once you meet with Chris, you should complete additional background research on the topic, and put together a 700 to 800 word op-ed style article. This article should introduce your topic succinctly and *take a position* on it, providing specific data that supports your position. Remember that the main purpose of an op-ed is to persuade your reader. [Duke University](https://styleguide.duke.edu/toolkits/writing-media/how-to-write-an-op-ed-article/) provides some excellent guidance on forming your argument and approaching editorial writing.
 
-Since this is an op-ed, you do not need to provide citations in the body of the paper. Please provide a works cited page on a separate page of your submission that lists all sources of data and information included in the op-ed.
+Since this is an op-ed, you do not need to provide citations in the body of the paper. Instead, provide end-notes that describe the source of information. Please provide a bibliography on a separate page of your submission that lists all sources of data and information included in the op-ed.
+
+The final submission should be made to two venues - Chris via Google Classroom and a publication. The publication could be your hometown paper or a local St. Louis publication if the topic is about St. Louis. Any publication that accepts op-ed submissions without invitation is acceptable. You don't have to have your op-ed published, just submitted! Make sure to forward your submission email to Chris after it is completed.
+
+### Due Dates
+
+* Wednesday, February 27^th^ - topic selection deadline (must meet with Chris)
+* Monday, April 15^th^ - draft submission for feedback
+* Monday, April 29^th^ - final submission to Chris and your publication of choice
+* Op-Ed Seminar will be after May 1^st^
+
+### Op-Ed Format
+
+The op-ed should be formatted using the following guidelines:
+
+* Times New Roman font
+* 12 point font size
+* Double spaced
+* 1" margins on top, bottom, and sides
+* 700 to 800 words
+* End notes and a bibliography are used to provide sourcing and attribution, and do not count towards the word limit.
 
 ### Op-Ed Seminar
-Once submitted, op-eds will be shared with all honors students. Each of you should read the other op-eds and come prepared to discuss them during a final seminar session (date TBA). As with the other seminars, attendance and participation will be factored into your honors participation grade.
+Once submitted, op-eds will be shared with all honors students. Each of you should read the other op-eds and come prepared to discuss them during a final seminar session (date TBA - will be after May 1^st^). As with the other seminars, attendance and participation will be factored into your honors participation grade.
 
 ### Grading 
-Op-eds will be submitted to Chris by the last day of class - **Monday, May 1^st^** via Google Classroom. Each op-ed paper will be graded on four elements:
+Op-eds will be submitted by **Monday, April 29^th^** via Google Classroom. Each op-ed paper will be graded on four elements:
 
-1.  Content (40 points): How persuasive is the argument? What evidence is used to support the argument?
-2.  Organization (15 points): How well organized is the paper? Does it
+1.  Content (45 points): How persuasive is the argument? What evidence is used to support the argument?
+2.  Organization (10 points): How well organized is the paper? Does it
     have a clear thesis and present persuasive evidence in a clear, linear manner?
-3.  Writing (15 points): How well written is the paper? Is it free of
+3.  Writing (10 points): How well written is the paper? Is it free of
     spelling and grammatical errors?
-4.  Works Cited Page (5 points): Are citations correctly applied?
-
-Papers are worth approximately 8.33% of your final grade for each paper.
+4.  Bibliography Page (5 points): Are citations correctly applied?
 
 ## Honors Seminar Topics
 
@@ -124,11 +142,11 @@ The following point totals supersede the information on the main syllabus under 
 
 ```{r, echo=FALSE}
 points <- data.frame(
-  Assignment = c("Participation", "Sociological Experiences", "QHQs", "Exams", "Honors Participation", "Honors Presentation", "Honors Response Papers"),
-  Points = c("25 pts", "25 pts", "50 pts", "100 pts", "25 pts", "100 pts",  "75 pts"),
+  Assignment = c("Participation", "Sociological Experiences", "QHQs", "Exams", "Honors Participation", "Honors Op-Ed", "Honors Response Papers"),
+  Points = c("25 pts", "25 pts", "50 pts", "100 pts", "25 pts", "70 pts",  "60 pts"),
   Quantity = c("x2", "x2", "x2", "x3", "x2", "x1", "x3"),
-  Total = c("50 pts", "50 pts", "100 pts", "300 pts", "50 pts", "100 pts", "225 pts"),
-  Percent = c("6.25%", "6.25%", "12.50%", "37.50%", "6.25%", "6.25%", "25.00%"),
+  Total = c("50 pts", "50 pts", "100 pts", "300 pts", "50 pts", "70 pts", "180 pts"),
+  Percent = c("6.25%", "6.25%", "12.50%", "37.50%", "6.25%", "8.75%", "22.50%"),
   stringsAsFactors = FALSE
 )
 
@@ -138,4 +156,4 @@ knitr::kable(
 )
 ```
 
-The information listed in Sections 4.4.1 through 4.4.3 still applies to honors students, except that incompletes are based on 660 points of work being submitted.
+The information listed in Sections 4.4.1 through 4.4.3 still applies to honors students, except that incompletes are based on 530 points of work being submitted.

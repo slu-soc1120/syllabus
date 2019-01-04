@@ -4,23 +4,15 @@ Select a lecture from the menu to see details about topics, readings, and assign
 
 The primary readings will be referred to with an abbreviation each time they appear in the reading list:
 
-\begin{table}[t]
 
-\caption{(\#tab:unnamed-chunk-1)SOC 1120 Primary Readings}
-\centering
-\begin{tabular}{ll}
-\toprule
-Abbreviation & Citation\\
-\midrule
-Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9\textasciicircum{}th\textasciicircum{} edition. Independence, KY: Cengage.\\
-*Mamma* & Abraham, Laurie K. 1993. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press.\\
-\bottomrule
-\end{tabular}
-\end{table}
+Table: (\#tab:unnamed-chunk-1)SOC 1120 Primary Readings
+
+Abbreviation   Citation                                                                                                                                             
+-------------  -----------------------------------------------------------------------------------------------------------------------------------------------------
+Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9^th^ edition. Independence, KY: Cengage.                 
+*Mamma*        Abraham, Laurie K. 1993. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press. 
 
 ## Week 01 {-}
-
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
 ### Lecture 01 - Monday, January 14^th^ {-}
 
@@ -52,8 +44,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 02 {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 ### *No Class* - Monday, January 21^st^ - Martin Luther King, Jr. Day {-}
 
 #### Topics {-}
@@ -84,8 +74,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 * Entry Ticket - Reflecting on Rev. Dr. Martin Luther King, Jr.'s Legacy (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0NzI5MTgyNjJa/details" target="_blank">Google Classroom</a>)
 
 ## Week 03 {-}
-
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
 ### Lecture 04 - Monday, January 28^th^ {-}
 
@@ -121,8 +109,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 04 {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 ### Lecture 06 - Monday, February 4^th^ {-}
 
 #### Topics {-}
@@ -151,8 +137,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 05 {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 ### Exam 01  - Monday, February 11^th^ {-}
 
 #### Topics {-}
@@ -172,8 +156,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 * Andersen, Chapter 5 - "Social Structure and Social Interaction"
 
 ## Week 06 {-}
-
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
 ### Lecture 09 - Monday, February 18^th^ {-}
 
@@ -206,8 +188,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
     * Chapter 5 - "Segregation in St. Louis today", pp. 64-85
 
 ## Week 07 {-}
-
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
 ### Lecture 11 - Monday, February 25^th^ {-}
 
@@ -242,8 +222,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
     
 ## Week 08 {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 ### Lecture 13 - Monday, March 4^th^ {-}
 
 #### Topics {-}
@@ -274,8 +252,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 09 {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 ### *No Class* - Spring Break {-}
 
 #### Topics {-}
@@ -284,14 +260,12 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 #### Readings {-}
 
-* Civil Rights Division. 2015. *Investigation of the Furgeson Police Department*. Washington, DC: U.S. Department of Justice. (<a href="https://www.justice.gov/sites/default/files/opa/press-releases/attachments/2015/03/04/ferguson_police_department_report.pdf" target="_blank">Link</a>)
+* Civil Rights Division. 2015. *Investigation of the Ferguson Police Department*. Washington, DC: U.S. Department of Justice. (<a href="https://www.justice.gov/sites/default/files/opa/press-releases/attachments/2015/03/04/ferguson_police_department_report.pdf" target="_blank">Link</a>)
     * Part 1 - "Report Summary", pp. 1-6
     * Part 2 - "Background", pp 6-9
     * Part 3 - "Ferguson Law Enforcement Efforts Are Focused on Generating Revenue", pp. 9-15
 
 ## Week 10 {-}
-
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
 ### Lecture 15 - Monday, March 18^th^ {-}
 
@@ -321,8 +295,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 11 {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 ### Exam 02 - Monday, March 25^th^ {-}
 
 #### Topics {-}
@@ -342,8 +314,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 * Andersen, Chapter 10 - "Race and Ethnicity"
 
 ## Week 12 {-}
-
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
 ### Lecture 18 - Monday, April 1^st^ {-}
 
@@ -375,8 +345,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 13 {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 ### Lecture 20 - Monday, April 8^th^ {-}
 
 #### Topics {-}
@@ -406,8 +374,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 * Spencer, Karen Lutfey and Matthew Grace. 2016. "Social Foundations of Health Care Inequality and Treatment Bias." *Annual Review of Sociology* 42:101-120. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
 ## Week 14 {-}
-
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
 ### Lecture 22 - Monday, April 15^th^ {-}
 
@@ -443,8 +409,6 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 ## Week 15 {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 ### *No Class* - Monday, April 22^nd^ - Easter Break {-}
 
 #### Topics {-}
@@ -476,8 +440,6 @@ Pick *one* of the following:
 * Entry Ticket - Sociology of Religion (<a href="https://classroom.google.com/c/Mjg0NzE5Mzc4MjNa/a/Mjg0NzcyOTAyMTda/details" target="_blank">Google Classroom</a>)
 
 ## Week 16 {-}
-
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
 
 ### Lecture 25 - Monday, April 29^th^ {-}
 
@@ -513,8 +475,6 @@ Pick *one* of the following:
 
 ## Week 17 {-}
 
-<div class="closed"><a href="#" target="_blank">View on Google Classroom</a></div>
-
 ### Lecture 27 - Monday, May 6th^th^ {-}
 
 #### Topics {-}
@@ -533,9 +493,9 @@ Pick *one* of the following:
 
 ### Exam 03 - TBA {-}
 
-\begin{rmdwarning}
-The date and time for Exam 03 have yet to be scheduled by the Registrar.
-\end{rmdwarning}
+<div class="rmdwarning">
+<p>The date and time for Exam 03 have yet to be scheduled by the Registrar.</p>
+</div>
 
 #### Topics {-}
 
