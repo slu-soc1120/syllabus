@@ -58,20 +58,15 @@ Papers are worth approximately 7.5% of your final grade for each paper.
 <p>Your op-ed is worth <strong>8.75%</strong> of your final grade</p>
 </div>
 
-You should pick a topic from [the honors seminar topic list](/honors-seminar-topics.html) that you would like to use as a jumping-off point for writing an op-ed style article. With a topic in-hand, you should read ahead and pick *one narrow aspect* of the topic to focus on. Topics must be selected by February 27^th^ and are "submitted" by coming to office hours (or making an appointment to see Chris if you have a scheduling conflict) to discuss your idea.
+You should pick a topic from [the honors seminar topic list](/honors-seminar-topics.html) that you would like to use as a jumping-off point for writing an op-ed style article. With a topic in-hand, you should read ahead and pick *one narrow aspect* of the topic to focus on. Topics must be selected by **Wednesday, February 27^th^** and are "submitted" by coming to office hours (or making an appointment to see Chris if you have a scheduling conflict) to discuss your idea.
 
 Once you meet with Chris, you should complete additional background research on the topic, and put together a 700 to 800 word op-ed style article. This article should introduce your topic succinctly and *take a position* on it, providing specific data that supports your position. Remember that the main purpose of an op-ed is to persuade your reader. [Duke University](https://styleguide.duke.edu/toolkits/writing-media/how-to-write-an-op-ed-article/) provides some excellent guidance on forming your argument and approaching editorial writing.
 
 Since this is an op-ed, you do not need to provide citations in the body of the paper. Instead, provide end-notes that describe the source of information. Please provide a bibliography on a separate page of your submission that lists all sources of data and information included in the op-ed.
 
-The final submission should be made to two venues - Chris via Google Classroom and a publication. The publication could be your hometown paper or a local St. Louis publication if the topic is about St. Louis. Any publication that accepts op-ed submissions without invitation is acceptable. You don't have to have your op-ed published, just submitted! Make sure to forward your submission email to Chris after it is completed.
+A draft submission, which should contain all required elements, is due on **Monday, April 15^th^** for feedback via Google Classroom. It is ungraded; however, if not submitted, a 3% deduction will be applied to your final grade.
 
-### Due Dates
-
-* Wednesday, February 27^th^ - topic selection deadline (must meet with Chris)
-* Monday, April 15^th^ - draft submission for feedback
-* Monday, April 29^th^ - final submission to Chris and your publication of choice
-* Op-Ed Seminar will be after May 1^st^
+The final submission on **Monday, April 29^th^** should be made to two venues - Chris via Google Classroom and a publication. The publication could be your hometown paper or a local St. Louis publication if the topic is about St. Louis. Any publication that accepts op-ed submissions without invitation is acceptable. You don't have to have your op-ed published, just submitted! Make sure to forward your submission email to Chris after it is completed.
 
 ### Op-Ed Format
 
