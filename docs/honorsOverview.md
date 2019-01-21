@@ -6,10 +6,9 @@ This is the supplemental syllabus for the honors section of SOC 1120-02 (i.e. SO
 
 ## In-Depth Seminars
 
-\begin{rmdtip}
-Seminar attendance and participation is captured in the Honors
-Participation grade, which is worth \textbf{6.25\%} of your final grade
-\end{rmdtip}
+<div class="rmdtip">
+<p>Seminar attendance and participation is captured in the Honors Participation grade, which is worth <strong>6.25%</strong> of your final grade</p>
+</div>
 
 You are expected to complete three seminars over the course of the semester. The goal of the seminars is to go more in-depth on several topics covered during the class and to provide an additional series of venues to develop your analytic and communication skills. Each seminar will consist of three interrelated parts:
 
@@ -35,9 +34,9 @@ These discussions should inform a response paper written by each student that co
 
 ### Grading
 
-\begin{rmdtip}
-Your papers are collectively worth \textbf{22.5\%} of your final grade
-\end{rmdtip}
+<div class="rmdtip">
+<p>Your papers are collectively worth <strong>22.5%</strong> of your final grade</p>
+</div>
 
 Paper due-dates will be a week after each seminar meeting, and papers will be submitted via Google Classroom. Each response paper will be graded on four elements:
 
@@ -55,9 +54,9 @@ Papers are worth approximately 7.5% of your final grade for each paper.
 
 ## Op-Ed
 
-\begin{rmdtip}
-Your op-ed is worth \textbf{8.75\%} of your final grade
-\end{rmdtip}
+<div class="rmdtip">
+<p>Your op-ed is worth <strong>8.75%</strong> of your final grade</p>
+</div>
 
 You should pick a topic from [the honors seminar topic list](/honors-seminar-topics.html) that you would like to use as a jumping-off point for writing an op-ed style article. With a topic in-hand, you should read ahead and pick *one narrow aspect* of the topic to focus on. Topics must be selected by **Wednesday, February 27^th^** and are "submitted" by coming to office hours (or making an appointment to see Chris if you have a scheduling conflict) to discuss your idea.
 
@@ -95,54 +94,39 @@ Op-eds will be submitted by **Monday, April 29^th^** via Google Classroom. Each 
 
 ## Honors Seminar Topics
 
-\begin{table}[t]
 
-\caption{(\#tab:unnamed-chunk-4)SOC 1120 Honors Seminar Topics}
-\centering
-\begin{tabular}{lll}
-\toprule
-Week & Monday & Topic\\
-\midrule
-02 & January 21\textasciicircum{}st\textasciicircum{} & Theory and Health\\
-03 & January 28\textasciicircum{}th\textasciicircum{} & Culture\\
-04 & February 4\textasciicircum{}th\textasciicircum{} & Socialization\\
-05/06 & February 11\textasciicircum{}th\textasciicircum{} & Social Structure\\
-06/07 & February 18\textasciicircum{}th\textasciicircum{} & Urban Sociology\\
-\addlinespace
-08 & March 4\textasciicircum{}th\textasciicircum{} & Crime \& Deviance\\
-10 & March 18\textasciicircum{}th\textasciicircum{} & Class \& Stratification\\
-11/12 & March 25\textasciicircum{}th\textasciicircum{} & Race \& Ethnicity\\
-12 & April 1\textasciicircum{}st\textasciicircum{} & Gender\\
-13 & April 8\textasciicircum{}th\textasciicircum{} & The Health Care Experience\\
-\addlinespace
-14 & April 15\textasciicircum{}th\textasciicircum{} & Indigenous Americans **or** Intersectionality \& Health\\
-15/16 & April 22\textasciicircum{}nd\textasciicircum{} & Globalization\\
-\bottomrule
-\end{tabular}
-\end{table}
+Table: (\#tab:unnamed-chunk-4)SOC 1120 Honors Seminar Topics
+
+Week    Monday            Topic                                                  
+------  ----------------  -------------------------------------------------------
+02      January 21^st^    Theory and Health                                      
+03      January 28^th^    Culture                                                
+04      February 4^th^    Socialization                                          
+05/06   February 11^th^   Social Structure                                       
+06/07   February 18^th^   Urban Sociology                                        
+08      March 4^th^       Crime & Deviance                                       
+10      March 18^th^      Class & Stratification                                 
+11/12   March 25^th^      Race & Ethnicity                                       
+12      April 1^st^       Gender                                                 
+13      April 8^th^       The Health Care Experience                             
+14      April 15^th^      Indigenous Americans **or** Intersectionality & Health 
+15/16   April 22^nd^      Globalization                                          
 
 ## Honors Grading
 
 The following point totals supersede the information on the main syllabus under Section 4.4 - "Grading" if you are enrolled in the honors section of SOC 1120.
 
-\begin{table}[t]
 
-\caption{(\#tab:unnamed-chunk-5)SOC 1120 Honors Points Breakdown}
-\centering
-\begin{tabular}{lllll}
-\toprule
-Assignment & Points & Quantity & Total & Percent\\
-\midrule
-Participation & 25 pts & x2 & 50 pts & 6.25\%\\
-Sociological Experiences & 25 pts & x2 & 50 pts & 6.25\%\\
-QHQs & 50 pts & x2 & 100 pts & 12.50\%\\
-Exams & 100 pts & x3 & 300 pts & 37.50\%\\
-Honors Participation & 25 pts & x2 & 50 pts & 6.25\%\\
-\addlinespace
-Honors Op-Ed & 70 pts & x1 & 70 pts & 8.75\%\\
-Honors Response Papers & 60 pts & x3 & 180 pts & 22.50\%\\
-\bottomrule
-\end{tabular}
-\end{table}
+Table: (\#tab:unnamed-chunk-5)SOC 1120 Honors Points Breakdown
+
+Assignment                 Points    Quantity   Total     Percent 
+-------------------------  --------  ---------  --------  --------
+Participation              25 pts    x2         50 pts    6.25%   
+Sociological Experiences   25 pts    x2         50 pts    6.25%   
+QHQs                       50 pts    x2         100 pts   12.50%  
+Exams                      100 pts   x3         300 pts   37.50%  
+Honors Participation       25 pts    x2         50 pts    6.25%   
+Honors Op-Ed               70 pts    x1         70 pts    8.75%   
+Honors Response Papers     60 pts    x3         180 pts   22.50%  
 
 The information listed in Sections 4.4.1 through 4.4.3 still applies to honors students, except that incompletes are based on 530 points of work being submitted.

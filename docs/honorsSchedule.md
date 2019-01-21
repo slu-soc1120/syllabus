@@ -1,12 +1,10 @@
 # Honors Schedule
 
-\begin{rmdwarning}
-Once the honors seminars have been selected by students enrolled in the
-honors seminar, this section will be updated with meeting dates, reading
-assignments, and response paper due dates.
-\end{rmdwarning}
+<div class="rmdwarning">
+<p>Once the honors seminars have been selected by students enrolled in the honors seminar, this section will be updated with meeting dates, reading assignments, and response paper due dates.</p>
+</div>
 
-## Honors Week-01 {-}
+## Honors Week 01 {-}
 
 ### Lecture 01 - Monday, January 14^th^ {-}
 
@@ -14,7 +12,7 @@ assignments, and response paper due dates.
 
 * Honors Seminar selection
 
-## Honors Week-07 {-}
+## Honors Week 07 {-}
 
 ### Lecture 11 - Monday, February 25^th^ {-}
 
@@ -22,9 +20,58 @@ assignments, and response paper due dates.
 
 * Op-ed topic selection (including meeting with Chris)
 
+## Honors Week 08 {-}
+
+### Seminar-01 {-}
+
+<div class="rmdwarning">
+<p>Seminar date TBA.</p>
+</div>
+
+#### Topics {-}
+
+* Drugs, Incarceration, and Health
+
+#### Readings {-}
+
+* Massoglia, Michael and William Alex Pridemore. 2015. "Incarceration
+and Health." *Annual Review of Sociology* 41:291-310. 
+* Roberts, Bryan R. and Yu Chen. 2013. "Drugs, Violence, and the
+State." *Annual Review of Sociology* 39:105-125.
+
+## Honors Week 13 {-}
+
+### Seminar-02 {-}
+
+<div class="rmdwarning">
+<p>Seminar date TBA.</p>
+</div>
+
+#### Topics {-}
+
+* The Health Care Experience
+
+#### Readings {-}
+
+* Cook, Karen S., Roderick M. Kramer, David H. Thom, Irena Stepanikova, Stefanie B. Mollborn, and Robin M. Cooper. 2004. "Trust and Distrust in Patient-Provider Relationships: Perceived Determinants of High- and Low-Trust Relationships in Managed Care Settings." Pp. 65-98 in *Trust and Distrust in Organizations: Dilemmas and Approaches*, edited by R.M. Kramer and K.S. Cook. New York, NY: Russell Sage. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Lutfey, Karen, and Jeremy Freese. 2005. "Toward some fundamentals of fundamental causality: Socioeconomic status and health in the routine clinic visit for diabetes." *American Journal of Sociology* 110(5):1326-1372.
+
 ## Honors Week 14 {-}
 
-### Lecture 22 - Monday, April 15^th^ {-}
+### Seminar-03 {-}
+
+<div class="rmdwarning">
+<p>Seminar date TBA.</p>
+</div>
+
+#### Topics {-}
+
+* Native American Health
+
+#### Readings {-}
+
+* Gurney, Rachel M., Beth S. Caniglia, Tamara L. Mix, and Kristen A. Baum. 2015. "Native American Food Security and Traditional Foods: A Review of the Literature." *Sociology Compass* 9(8):681-693.
+* Gurr, Barbara. "Complex Intersections: Reproductive Justice and Native American Women." *Sociology Compass* 5(8):721-735.
 
 #### Assignments Due {-}
 
