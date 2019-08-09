@@ -27,7 +27,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 #### Topics {-}
 
 * Sociological Theory
-* Inequality and Health
+* Inequality & Health
 
 #### Documentary {-}
 
@@ -94,7 +94,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 #### Topics {-}
 
 * Social Science Research - Research Ethics
-* Culture and Health
+* Culture & Health
 
 #### Documentary {-}
 
@@ -112,7 +112,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Topics {-}
 
-* Nature, Nurture, and Socialization
+* Nature, Nurture, & Socialization
 
 #### Readings {-}
 
@@ -148,7 +148,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Topics {-}
 
-* Structure and Structural Inequalities
+* Structure & Structural Inequalities
 
 #### Readings {-}
 
@@ -192,7 +192,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Topics {-}
 
-* Neighborhoods and Health
+* Neighborhoods & Health
 * Urban Health Disparities in St. Louis
 
 #### Readings {-}
@@ -284,7 +284,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Topics {-}
 
-* Stratification and Health
+* Stratification & Health
 
 #### Readings {-}
 
@@ -333,7 +333,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Topics {-}
 
-* Gender and Health
+* Gender, Sexuality, & Health
 
 #### Readings {-}
 

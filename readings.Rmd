@@ -32,7 +32,7 @@ knitr::kable(
 #### Topics {-}
 
 * Sociological Theory
-* Inequality and Health
+* Inequality & Health
 
 #### Documentary {-}
 
@@ -99,7 +99,7 @@ knitr::kable(
 #### Topics {-}
 
 * Social Science Research - Research Ethics
-* Culture and Health
+* Culture & Health
 
 #### Documentary {-}
 
@@ -117,7 +117,7 @@ knitr::kable(
 
 #### Topics {-}
 
-* Nature, Nurture, and Socialization
+* Nature, Nurture, & Socialization
 
 #### Readings {-}
 
@@ -153,7 +153,7 @@ knitr::kable(
 
 #### Topics {-}
 
-* Structure and Structural Inequalities
+* Structure & Structural Inequalities
 
 #### Readings {-}
 
@@ -197,7 +197,7 @@ knitr::kable(
 
 #### Topics {-}
 
-* Neighborhoods and Health
+* Neighborhoods & Health
 * Urban Health Disparities in St. Louis
 
 #### Readings {-}
@@ -289,7 +289,7 @@ knitr::kable(
 
 #### Topics {-}
 
-* Stratification and Health
+* Stratification & Health
 
 #### Readings {-}
 
@@ -338,7 +338,7 @@ knitr::kable(
 
 #### Topics {-}
 
-* Gender and Health
+* Gender, Sexuality, & Health
 
 #### Readings {-}
 
