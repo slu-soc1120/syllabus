@@ -12,7 +12,7 @@ This course will survey the field of sociology, stressing important ideas, metho
 
 ## Two Courses, One Goal
 
-Students will quickly notice that this course has two numbers. SOC 1120-02 is the "regular" course section, and SOC 1120-02H is the honors section. If you are a [University Honors](https://www.slu.edu/honors/index.php) student, you may enroll in SOC 1120-02H if you wish to take this course for honors credit. Students in the honors section complete additional readings for three of the weeks, write several additional response papers, and give a presentation on a topic of their choice to the class. Additional details are include in the [honors supplement at the end of this document](/honors-overview.html). Both courses have the same goal - to introduce students to the fundamentals of sociology through an emphasis on health and medicine.
+Students will quickly notice that this course has two numbers. SOC 1120-05 is the "regular" course section, and SOC 1120-05H is the honors section. If you are a [University Honors](https://www.slu.edu/honors/index.php) student, you may enroll in SOC 1120-05H if you wish to take this course for honors credit. Students in the honors section complete additional readings for three of the weeks, write several additional response papers, and give a presentation on a topic of their choice to the class. Additional details are include in the [honors supplement at the end of this document](/honors-overview.html). Both courses have the same goal - to introduce students to the fundamentals of sociology through an emphasis on health and medicine.
 
 ## Course Objectives
 
@@ -48,25 +48,11 @@ This course fulfills the College of Arts and Sciences core requirement for Cultu
 
 You will need an invitation to **Google Classroom** from Chris. Invitations will be sent to all enrolled students before the first class. If you enroll after the first day of class, please let Chris know that you will need an invitation. Invitations will be sent to your SLU associated Google account, which consists of your *computer log in* (e.g. `doej` for Jane Doe) entered as an email - `doej@slu.edu`. The password will be the same as your password used to log in to mySLU and SLU computers. Using another Google account for this course is not permitted.
 
-In order to facilitate quick access to course materials, each lecture's section of the [**Reading List**](/lecture-schedule.html) will include a button that links to that lecture's post with lecture slides and notes. The button will look like this for posts that are available:
-
-<div class="open"><a href="#">View on Google Classroom</a></div>
-
-<br>
-
-If the button is red, it means that the post with lecture resources is not yet available on the `Stream`:
-
-<div class="closed"><a href="#">View on Google Classroom</a></div>
-
-<br>
-
-Assignments will also be linked from the [**Reading List**](/lecture-schedule.html) to the relevant post on the `Stream`. These will be noted with a hyperlink in parentheses that looks like this: (<a href="#">Google Classroom</a>)
-
 ## Readings
 
 There are two books required for this course. Each book has been selected to correspond with one or more of the course objectives. The books are:
 
-1.  Abraham, Laurie K. 1993. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press. ISBN-13: 978-0226001395; List Price: $20.00; e-book versions available.
+1.  Abraham, Laurie K. 2019. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press. ISBN-13: 978-0226623702; List Price: $20.00; e-book versions available.
 
 2.  Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9^th^ edition. Independence, KY: Cengage. ISBN-13: 978-1305503083; List Price: $202.95; e-book versions available.
 
