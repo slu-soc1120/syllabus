@@ -264,6 +264,8 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
     * Part 2 - "Background", pp 6-9
     * Part 3 - "Ferguson Law Enforcement Efforts Are Focused on Generating Revenue", pp. 9-15
 
+---
+
 ### Lecture 14 - Wednesday, October 23^rd^ {-}
 
 #### Topics {-}
