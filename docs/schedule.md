@@ -14,7 +14,7 @@ Week   Monday             Topic
 03     September 9^th^    Culture                                           
 04     September 16^th^   Socialization                                     
 05     September 23^rd^   Exam 1 / Social Structure                         
-06     September 30^th^   Social Structure / Urban Sociology                
+06     September 30^th^   Social Constructionism / Urban Sociology          
 07     October 7^th^      Urban Sociology / *Mama*, Part 1                  
 08     October 14^th^     Crime & Deviance                                  
 09     October 21^st^     *Fall Break* / Class & Stratification             
