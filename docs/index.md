@@ -21,6 +21,10 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 ### Course Website {-}
 
+<https://slu-soc1120.github.io>
+
+### Course Materials {-}
+
 <https://classroom.google.com> (you will need an invitation from Chris)
 
 ### Chris’s Information {-}
