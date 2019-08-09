@@ -141,7 +141,7 @@ knitr::kable(
 
 ## Week 05 {-}
 
-### Exam 1  - Monday, September 23^th^ {-}
+### Exam 1  - Monday, September 23^rd^ {-}
 
 #### Topics {-}
 

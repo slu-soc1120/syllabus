@@ -136,7 +136,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ## Week 05 {-}
 
-### Exam 1  - Monday, September 23^th^ {-}
+### Exam 1  - Monday, September 23^rd^ {-}
 
 #### Topics {-}
 
