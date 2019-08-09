@@ -1,5 +1,5 @@
 --- 
-title: "SOC 1120-02 and 02H: Introduction to Sociology - Diversity & Health"
+title: "SOC 1120-05 and 05H: Introduction to Sociology - Diversity & Health"
 author: "Christopher Prener, Ph.D."
 date: "2019-08-09"
 site: bookdown::bookdown_site
