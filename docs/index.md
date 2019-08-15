@@ -1,7 +1,7 @@
 --- 
 title: "SOC 1120-05 and 05H: Introduction to Sociology - Diversity & Health"
 author: "Christopher Prener, Ph.D."
-date: "2019-08-09"
+date: "2019-08-15"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -40,7 +40,8 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 
 ## Change Log {-}
 
-August 9, 2019 - Initial Spring 2019 release
+* August 9, 2019 - Initial Spring 2019 release
+* August 15, 2019 - Remove Sociological Experience assignment
 
 ## License {-}
 Copyright © 2016-2019 [Christopher G. Prener](https://chris-prener.github.io)
