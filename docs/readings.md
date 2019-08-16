@@ -4,14 +4,21 @@ Select a lecture from the menu to see details about topics, readings, and assign
 
 The primary readings will be referred to with an abbreviation each time they appear in the reading list:
 
+\begin{table}[t]
 
-Table: (\#tab:unnamed-chunk-1)SOC 1120 Primary Readings
+\caption{(\#tab:unnamed-chunk-1)SOC 1120 Primary Readings}
+\centering
+\begin{tabular}{ll}
+\toprule
+Abbreviation & Citation\\
+\midrule
+Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9\textasciicircum{}th\textasciicircum{} edition. Independence, KY: Cengage.\\
+*Mamma* & Abraham, Laurie K. 2019. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press.\\
+\bottomrule
+\end{tabular}
+\end{table}
 
-Abbreviation   Citation                                                                                                                                             
--------------  -----------------------------------------------------------------------------------------------------------------------------------------------------
-Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9^th^ edition. Independence, KY: Cengage.                 
-*Mamma*        Abraham, Laurie K. 2019. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press. 
-
+\newpage
 ## Week 01 {-}
 
 ### Lecture 01 - Monday, August 26^th^ {-}
@@ -42,6 +49,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 * Entry Ticket - Student Information Sheet (<a href="https://classroom.google.com/c/Mzc0ODgxNTg0NjJa/a/Mzc0ODgxNTg2MjVa/details" target="_blank">Google Classroom</a>)
 
+\newpage
 ## Week 02 {-}
 
 ### *No Class* - Monday, September 2^nd^ - Labor Day {-}
@@ -72,6 +80,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 * Entry Ticket - Reflecting on Labor Day's Roots (<a href="https://classroom.google.com/c/Mzc0ODgxNTg0NjJa/a/Mzc0ODg1NzE1MDRa/details" target="_blank">Google Classroom</a>)
 
+\newpage
 ## Week 03 {-}
 
 ### Lecture 04 - Monday, September 9^th^ {-}
@@ -450,9 +459,12 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ### Exam 3 - Monday, December 16^th^ {-}
 
-<div class="rmdwarning">
-<p>The time for Exam 3 is different than for the rest of the course - it will be held from 2:00pm until 3:50pm. The length will not be any different than the other exams, however, so most students should be finished prior to the official end time.</p>
-</div>
+\begin{rmdwarning}
+The time for Exam 3 is different than for the rest of the course - it
+will be held from 2:00pm until 3:50pm. The length will not be any
+different than the other exams, however, so most students should be
+finished prior to the official end time.
+\end{rmdwarning}
 
 #### Topics {-}
 
