@@ -115,6 +115,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 * Anderson, Chapter 3 - "Doing Sociological Research", pp. 72-74 
     * read "Research Ethics: Is Sociology Value Free?"
 
+\newpage
 ## Week 04 {-}
 
 ### Lecture 06 - Monday, September 16^th^ {-}
@@ -143,6 +144,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 * Anderson, Chapter 4 - "Socialization and the Life Course", pp. 80-101 
 * Braveman, Paula and Colleen Barclay. 2009. "Health Disparities Beginning in Childhood: A Life-Course Perspective." *Pediatrics* 123(S3):S163-S175. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
+\newpage
 ## Week 05 {-}
 
 ### Exam 1  - Monday, September 23^rd^ {-}
@@ -163,6 +165,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 * Andersen, Chapter 5 - "Social Structure and Social Interaction"
 
+\newpage
 ## Week 06 {-}
 
 ### Lecture 09 - Monday, September 30^th^ {-}
@@ -191,6 +194,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
     * Chapter 2 - "St. Louis: A city of promise, a history of segregation", pp. 14-25
     * Chapter 5 - "Segregation in St. Louis today", pp. 64-85
 
+\newpage
 ## Week 07 {-}
 
 ### Lecture 11 - Monday, October 7^th^ {-}
@@ -224,6 +228,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 * QHQ 1 (<a href="#" target="_blank">Google Classroom</a>)
     * see the <a href="#" target="_blank">QHQ Group assignments</a> assignments for which chapter you should write about
     
+\newpage    
 ## Week 08 {-}
 
 ### Lecture 12 - Monday, October 14^th^ {-}
@@ -254,6 +259,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
     * read from "Types of Crime" onward
 * Bourgois, Phillipe. 2008. "The Mystery of Marijuana: Science and the U.S. War on Drugs." Substance Use and Misuse 43: 581-583. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
+\newpage
 ## Week 09 {-}
 
 ### *No Class* - Monday, October 21^st^ - Fall Break {-}
@@ -285,6 +291,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 * Entry Ticket - Contextualizing Michael Brown (<a href="#" target="_blank">Google Classroom</a>)
 
+\newpage
 ## Week 10 {-}
 
 ### Lecture 15 - Monday, October 28^th^ {-}
@@ -305,6 +312,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 * covers Lectures 8 through 15, all associated readings, and the Fall Break reading on Michael Brown
 
+\newpage
 ## Week 11 {-}
 
 ### Lecture 16 - Monday, November 4^th^ {-}
@@ -330,6 +338,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 * Williams, David R. and Michelle Sternthal. 2010. "Understanding Racial-ethnic Disparities in Health : Sociological Contributions." *Journal of Health and Social Behavior* 51(S):S15-S27. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
+\newpage
 ## Week 12 {-}
 
 ### Lecture 18 - Monday, November 11^th^ {-}
@@ -360,6 +369,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 * QHQ 2 (<a href="#" target="_blank">Google Classroom</a>)
     * see the <a href="#" target="_blank">QHQ Group assignments</a> for which chapter you should write about
 
+\newpage
 ## Week 13 {-}
 
 ### Lecture 19 - Monday, November 18^th^ {-}
@@ -391,6 +401,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 * Jones, David S. 2006. "The persistence of American Indian health disparities." *American Journal of Public Health* 96(12): 2122-2134. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 * Sarche, Michelle, and Paul Spicer. 2008. "Poverty and health disparities for American Indian and Alaska Native children." *Annals of the New York Academy of Sciences* 1136(1): 126-136. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
+\newpage
 ## Week 14 {-}
 
 ### Lecture 21 - Monday, November 25^th^ {-}
@@ -420,6 +431,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 * Siskand, Janet. 1992. "The Invention of Thanksgiving: A ritual of American nationality." *Critique of Anthropology* 12(2): 167-191. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
+\newpage
 ## Week 15 {-}
 
 ### QHQ 3 - Monday, December 2^nd^ {-}
@@ -451,10 +463,12 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 * Quadagno, Jill. 2010. "Institutions, Interest Groups, and Ideology: An Agenda for the Sociology of Health Care Reform." *Journal of Health and Social Behavior* 51(2):125-136. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 * Williams, David. 2010. "Beyond The Affordable Care Act: Achieving Real Improvements In Americans’ Health." *Health Affairs* 29(8):1481-1488. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
+\newpage
 ## Week 16 {-}
 
 ### *No Class* - Finals Week {-}
 
+\newpage
 ## Week 17 {-}
 
 ### Exam 3 - Monday, December 16^th^ {-}
