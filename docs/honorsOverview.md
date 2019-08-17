@@ -138,4 +138,5 @@ Honors Response Papers & 60 pts & x3 & 180 pts & 22.50\%\\
 \end{tabular}
 \end{table}
 
-The information listed in Sections 4.4.1 through 4.4.3 still applies to honors students, except that incompletes are based on 530 points of work being submitted.
+The information listed in Sections 4.4.1 through 4.4.3 still applies to honors students, except that incompletes are based on 530 points of work being submitted. For honors students, midterm grades will be calculated out of a total of **TBA** possible points, a "week 16" grade will be calculated out of 700 possible points (all grades except the third exam), and the final grade will be calculated out of 800 possible points. Extra credit will be factored into the "week 16" and final grades. All letter grades will be disseminated via Google Classroom, and midterm as well as final grades will also be made available through Blackboard.
+
