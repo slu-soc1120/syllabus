@@ -128,12 +128,11 @@ The following point totals supersede the information on the main syllabus under 
 Assignment & Points & Quantity & Total & Percent\\
 \midrule
 Participation & 25 pts & x2 & 50 pts & 6.25\%\\
-Sociological Experiences & 25 pts & x2 & 50 pts & 6.25\%\\
-QHQs & 50 pts & x2 & 100 pts & 12.50\%\\
+QHQs & 75 pts & x2 & 150 pts & 18.70\%\\
 Exams & 100 pts & x3 & 300 pts & 37.50\%\\
 Honors Participation & 25 pts & x2 & 50 pts & 6.25\%\\
-\addlinespace
 Honors Op-Ed & 70 pts & x1 & 70 pts & 8.75\%\\
+\addlinespace
 Honors Response Papers & 60 pts & x3 & 180 pts & 22.50\%\\
 \bottomrule
 \end{tabular}

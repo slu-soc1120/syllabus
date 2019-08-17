@@ -5,8 +5,9 @@ This section provides general details on the different types of assignments for 
 
 \begin{rmdwarning}
 Students enrolled in the honors section should see
-\href{/honors-overview.html}{Section 7} for additional assignment
-descriptions as well as their weighting and final point totals.
+\href{/syllabus/honors-overview.html}{Section 7} for additional
+assignment descriptions as well as their weighting and final point
+totals.
 \end{rmdwarning}
 
 Your grade for this course will consist of a number of different assignments on which points may be earned. Each category of assignment is described below.
@@ -69,8 +70,9 @@ From time to time I may offer extra credit to be applied to your final grade. I 
 
 \begin{rmdwarning}
 Students enrolled in the honors section should see
-\href{/honors-overview.html}{Section 6} for their assignment weighting
-and final point totals
+\href{/syllabus/honors-overview.html}{Section 7} for additional
+assignment descriptions as well as their weighting and final point
+totals.
 \end{rmdwarning}
 
 I use a point system for calculating grades. The following table gives the weighting and final point totals for all assignments for this course:

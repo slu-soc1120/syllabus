@@ -119,11 +119,11 @@ The following point totals supersede the information on the main syllabus under 
 
 ```{r, echo=FALSE}
 points <- data.frame(
-  Assignment = c("Participation", "Sociological Experiences", "QHQs", "Exams", "Honors Participation", "Honors Op-Ed", "Honors Response Papers"),
-  Points = c("25 pts", "25 pts", "50 pts", "100 pts", "25 pts", "70 pts",  "60 pts"),
-  Quantity = c("x2", "x2", "x2", "x3", "x2", "x1", "x3"),
-  Total = c("50 pts", "50 pts", "100 pts", "300 pts", "50 pts", "70 pts", "180 pts"),
-  Percent = c("6.25%", "6.25%", "12.50%", "37.50%", "6.25%", "8.75%", "22.50%"),
+  Assignment = c("Participation", "QHQs", "Exams", "Honors Participation", "Honors Op-Ed", "Honors Response Papers"),
+  Points = c("25 pts", "75 pts", "100 pts", "25 pts", "70 pts",  "60 pts"),
+  Quantity = c("x2", "x2", "x3", "x2", "x1", "x3"),
+  Total = c("50 pts", "150 pts", "300 pts", "50 pts", "70 pts", "180 pts"),
+  Percent = c("6.25%", "18.70%", "37.50%", "6.25%", "8.75%", "22.50%"),
   stringsAsFactors = FALSE
 )
 
