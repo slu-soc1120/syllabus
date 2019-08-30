@@ -34,7 +34,7 @@ The seminar meeting will take place on September 5th from 3:30pm until
 
 ## Honors Week 03 {-}
 
-### Lecture 05 - Wednesday, September 11^th^
+### Lecture 05 - Wednesday, September 11^th^  {-}
 
 #### Assignments Due {-}
 
@@ -68,7 +68,7 @@ The seminar meeting will take place on October 17th from 3:30pm until
 
 ## Honors Week 09 {-}
 
-### Lecture 14 - Wednesday, October 23^rd^
+### Lecture 14 - Wednesday, October 23^rd^  {-}
 
 #### Assignments Due {-}
 
@@ -94,7 +94,7 @@ The seminar meeting will take place on November 7th from 3:30pm until
 
 ## Honors Week 12 {-}
 
-### QHQ 2 - Wednesday, November 13^th^
+### QHQ 2 - Wednesday, November 13^th^ {-}
 
 #### Assignments Due {-}
 
