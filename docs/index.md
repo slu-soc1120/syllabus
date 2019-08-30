@@ -17,7 +17,7 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 *When:* Mondays and Wednesdays, 2:10pm to 3:25pm
 
-*Where:* 0400 Morrissey Hall
+*Where:* 260 McGannon Hall
 
 ### Course Website {-}
 
@@ -46,8 +46,10 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 * August 17, 2019 - Update honors grading table and fix broken links
 * August 19, 2019 - Update location and add link to office hours note in success section
 * August 25, 2019 - Update student success links
-* August 30, 2019 - Add links to University's attendance and incomplete policies
-* August 30, 2019 - Update Honors supplement with meeting dates and readings
+* August 30, 2019 - 
+    * Add links to University's attendance and incomplete policies
+    * Update Honors supplement with meeting dates and readings
+    * Update classroom location
 
 ## License {-}
 Copyright © 2016-2019 [Christopher G. Prener](https://chris-prener.github.io)
