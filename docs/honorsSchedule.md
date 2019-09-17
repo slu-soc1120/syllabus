@@ -1,10 +1,8 @@
 # Honors Schedule
 
-\begin{rmdwarning}
-Once the honors seminars have been selected by students enrolled in the
-honors seminar, this section will be updated with meeting dates, reading
-assignments, and response paper due dates.
-\end{rmdwarning}
+<div class="rmdwarning">
+<p>Once the honors seminars have been selected by students enrolled in the honors seminar, this section will be updated with meeting dates, reading assignments, and response paper due dates.</p>
+</div>
 
 ## Honors Week 01 {-}
 
@@ -18,10 +16,9 @@ assignments, and response paper due dates.
 
 ### Seminar-01 {-}
 
-\begin{rmdwarning}
-The seminar meeting will take place on September 5th from 3:30pm until
-4:30pm.
-\end{rmdwarning}
+<div class="rmdwarning">
+<p>The seminar meeting will take place on September 5th from 3:30pm until 4:30pm.</p>
+</div>
 
 #### Topics {-}
 
@@ -52,10 +49,9 @@ The seminar meeting will take place on September 5th from 3:30pm until
 
 ### Seminar-02 {-}
 
-\begin{rmdwarning}
-The seminar meeting will take place on October 17th from 3:30pm until
-4:30pm.
-\end{rmdwarning}
+<div class="rmdwarning">
+<p>The seminar meeting will take place on October 17th from 3:30pm until 4:30pm.</p>
+</div>
 
 #### Topics {-}
 
@@ -78,10 +74,9 @@ The seminar meeting will take place on October 17th from 3:30pm until
 
 ### Seminar-03 {-}
 
-\begin{rmdwarning}
-The seminar meeting will take place on November 7th from 3:30pm until
-4:30pm.
-\end{rmdwarning}
+<div class="rmdwarning">
+<p>The seminar meeting will take place on November 7th from 3:30pm until 4:30pm.</p>
+</div>
 
 #### Topics {-}
 
@@ -110,10 +105,9 @@ The seminar meeting will take place on November 7th from 3:30pm until
 
 ## Honors Week 16 {-}
 
-\begin{rmdwarning}
-The final seminar meeting will take place on December 9th from 2:30pm
-until 3:30pm.
-\end{rmdwarning}
+<div class="rmdwarning">
+<p>The final seminar meeting will take place on December 9th from 2:30pm until 3:30pm.</p>
+</div>
 
 ### Final Seminar - Monday, December 9^th^ {-}
 
