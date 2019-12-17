@@ -15,7 +15,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 \newpage
 ## Week 01 {-}
 
-### Lecture 01 - Monday, August 26^th^ {-}
+### Lecture 01 - Monday, January 13^th^ {-}
 
 #### Topics {-}
 
@@ -23,7 +23,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### Lecture 02 - Wednesday, August 28^th^ {-}
+### Lecture 02 - Wednesday, January 15^th^ {-}
 
 #### Topics {-}
 
@@ -34,31 +34,32 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 *  *Unnatural Causes*, Part 1 - "In Sickness and in Wealth" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
 
-#### Readings {-}
+#### Readings {-} https://libguides.slu.edu/er.php?course_id=53391
 
-* Andersen, Chapter 1 - "The Sociological Perspective" (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
-* Carter, Gregg L. 2009. "A Primer on Critical Reading." Pp. 1-5 in *Empirical Approaches to Sociology: A Collection of Classic and Contemporary Readings*, edited by G.L. Carter. 5^th^ ed. New York, NY: Pearson. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Andersen, Chapter 1 - "The Sociological Perspective" (<a href="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Carter, Gregg L. 2009. "A Primer on Critical Reading." Pp. 1-5 in *Empirical Approaches to Sociology: A Collection of Classic and Contemporary Readings*, edited by G.L. Carter. 5^th^ ed. New York, NY: Pearson. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
 #### Assignments Due {-}
 
-* Entry Ticket - Student Information Sheet (<a href="https://classroom.google.com/c/Mzc0ODgxNTg0NjJa/a/Mzc0ODgxNTg2MjVa/details" target="_blank">Google Classroom</a>)
+* Entry Ticket - Student Information Sheet (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
 
 \newpage
 ## Week 02 {-}
 
-### *No Class* - Monday, September 2^nd^ - Labor Day {-}
+### *No Class* - Monday, January 20^th^ - Martin Luther King, Jr. Day {-}
 
 #### Topics {-}
 
-* The Roots of Labor Day
+* Rev. Dr. Martin Luther King, Jr.'s Legacy
 
 #### Readings {-}
 
-* Kazin, Michael, and Steven J. Ross. 1992. "America's Labor Day: The Dilemma of a Workers' Celebration." *The Journal of American History* 78(4):1294-1323. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* King, Jr., Martin Luther. 1963. ``Letter from Birmingham Jail.'' (<a href="https://web.cn.edu/kwheeler/documents/Letter_Birmingham_Jail.pdf" target="_blank">Read</a>, <a href="http://okra.stanford.edu/transcription/audio/630416001.mp3" target="_blank">Listen</a>)
+* King, Jr., Martin Luther. 1967. ``Beyond Vietnam.'' (<a href="https://kinginstitute.stanford.edu/king-papers/documents/beyond-vietnam" target="_blank">Read</a>, <a href="http://okra.stanford.edu/media/audio/1967_04_04_beyond_vietnam.mp3" target="_blank">Listen</a>)
 
 ---
 
-### Lecture 03 - Wednesday, September 4^th^ {-}
+### Lecture 03 - Wednesday, January 22^nd^ {-}
 
 #### Topics {-}
 
@@ -67,17 +68,17 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Readings {-}
 
-* Phelan, Jo C., Bruce Link, and Parisa Tehranifar. 2010. "Social Conditions as Fundamental Causes of Health Inequalities: Theory, Evidence, and Policy Implications." *Journal of Health and Social Behavior* 51(S):S28-S40. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
-* *Mama* - Preface and Introduction (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Phelan, Jo C., Bruce Link, and Parisa Tehranifar. 2010. "Social Conditions as Fundamental Causes of Health Inequalities: Theory, Evidence, and Policy Implications." *Journal of Health and Social Behavior* 51(S):S28-S40. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* *Mama* - Preface and Introduction (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
 #### Assignments Due {-}
 
-* Entry Ticket - Reflecting on Labor Day's Roots (<a href="https://classroom.google.com/c/Mzc0ODgxNTg0NjJa/a/Mzc0ODg1NzE1MDRa/details" target="_blank">Google Classroom</a>)
+* Entry Ticket - Reflecting on Rev. Dr. Martin Luther King, Jr.'s Legacy (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
 
 \newpage
 ## Week 03 {-}
 
-### Lecture 04 - Monday, September 9^th^ {-}
+### Lecture 04 - Monday, January 27^th^ {-}
 
 #### Topics {-}
 
@@ -92,7 +93,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### Lecture 05 - Wednesday, September 11^th^ {-}
+### Lecture 05 - Wednesday, January 29^th^ {-}
 
 #### Topics {-}
 
@@ -105,14 +106,14 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Readings {-}
 
-* Acevedo-Garcia, Dolores and Lisa M. Bates. 2008. "Latino Health Paradoxes: Empirical Evidence, Explanations, Future Research, and Implications." Pp. 101-113 in *Latinas/os in the United States: Changing the Face of América*, edited by H. Rodríguez, R. Sáenz, and C. Menjívar. New York: Springer. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Acevedo-Garcia, Dolores and Lisa M. Bates. 2008. "Latino Health Paradoxes: Empirical Evidence, Explanations, Future Research, and Implications." Pp. 101-113 in *Latinas/os in the United States: Changing the Face of América*, edited by H. Rodríguez, R. Sáenz, and C. Menjívar. New York: Springer. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 * Anderson, Chapter 3 - "Doing Sociological Research", pp. 72-74 
     * read "Research Ethics: Is Sociology Value Free?"
 
 \newpage
 ## Week 04 {-}
 
-### Lecture 06 - Monday, September 16^th^ {-}
+### Lecture 06 - Monday, February 3^rd^ {-}
 
 #### Topics {-}
 
@@ -122,11 +123,11 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 * Anderson, Chapter 4 - "Socialization and the Life Course", pp. 77-79 
     * read through the end of "The Nature-Nurture Controversy"
-* Bearman, Peter. 2008. "Introduction: Exploring Genetics and Social Structure." *American Journal of Sociology* 114(S1):v-x. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Bearman, Peter. 2008. "Introduction: Exploring Genetics and Social Structure." *American Journal of Sociology* 114(S1):v-x. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
 ---
 
-### Lecture 07 - Wednesday, September 18^th^ {-}
+### Lecture 07 - Wednesday, February 5^th^ {-}
 
 #### Topics {-}
 
@@ -136,20 +137,20 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 #### Readings {-}
 
 * Anderson, Chapter 4 - "Socialization and the Life Course", pp. 80-101 
-* Braveman, Paula and Colleen Barclay. 2009. "Health Disparities Beginning in Childhood: A Life-Course Perspective." *Pediatrics* 123(S3):S163-S175. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Braveman, Paula and Colleen Barclay. 2009. "Health Disparities Beginning in Childhood: A Life-Course Perspective." *Pediatrics* 123(S3):S163-S175. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
 \newpage
 ## Week 05 {-}
 
-### Exam 1  - Monday, September 23^rd^ {-}
+### Exam 1  - Monday, February 10^th^ {-}
 
 #### Topics {-}
 
-* covers Lectures 1 through 7, all associated readings, and the Labor Day reading
+* covers Lectures 1 through 7, all associated readings and documentaries, and the MLK Day assignment
 
 ---
 
-### Lecture 08 - Wednesday, September 25^th^ {-}
+### Lecture 08 - Wednesday, February 12^th^ {-}
 
 #### Topics {-}
 
@@ -162,7 +163,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 \newpage
 ## Week 06 {-}
 
-### Lecture 09 - Monday, September 30^th^ {-}
+### Lecture 09 - Monday, February 17^th^ {-}
 
 #### Topics {-}
 
@@ -171,11 +172,11 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Readings {-}
 
-* Conrad, Peter and Kristin K. Barker. 2010. "The Social Construction of Illness: Key Insights and Policy Implications." *Journal of Health and Social Behavior* 51(S):S67-S79. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Conrad, Peter and Kristin K. Barker. 2010. "The Social Construction of Illness: Key Insights and Policy Implications." *Journal of Health and Social Behavior* 51(S):S67-S79. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
 ---
 
-### Lecture 10 - Wednesday, October 2^nd^ {-}
+### Lecture 10 - Wednesday, February 19^th^ {-}
 
 #### Topics {-}
 
@@ -191,7 +192,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 \newpage
 ## Week 07 {-}
 
-### Lecture 11 - Monday, October 7^th^ {-}
+### Lecture 11 - Monday, February 24^th^ {-}
 
 #### Topics {-}
 
@@ -207,7 +208,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### QHQ 1 - Wednesday, October 9^th^ {-}
+### QHQ 1 - Wednesday, February 26^th^ {-}
 
 #### Topics {-}
 
@@ -219,13 +220,13 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Assignments Due {-}
 
-* QHQ 1 (<a href="#" target="_blank">Google Classroom</a>)
-    * see the <a href="#" target="_blank">QHQ Group assignments</a> assignments for which chapter you should write about
+* QHQ 1 (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
+    * see the QHQ Group assignments on Google Classroom for which chapter you should write about
     
 \newpage    
 ## Week 08 {-}
 
-### Lecture 12 - Monday, October 14^th^ {-}
+### Lecture 12 - Monday, March 2^nd^ {-}
 
 #### Topics {-}
 
@@ -239,7 +240,7 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 ---
 
-### Lecture 13 - Wednesday, October 16^th^ {-}
+### Lecture 13 - Wednesday, March 4^th^ {-}
 
 #### Topics {-}
 
@@ -251,12 +252,12 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 * Anderson, Chapter 7 - "Deviance and Crime", pp. 160-167
     * read from "Types of Crime" onward
-* Bourgois, Phillipe. 2008. "The Mystery of Marijuana: Science and the U.S. War on Drugs." Substance Use and Misuse 43: 581-583. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Bourgois, Phillipe. 2008. "The Mystery of Marijuana: Science and the U.S. War on Drugs." Substance Use and Misuse 43: 581-583. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
 \newpage
 ## Week 09 {-}
 
-### *No Class* - Monday, October 21^st^ - Fall Break {-}
+### *No Class* - Spring Break {-}
 
 #### Topics {-}
 
@@ -269,9 +270,10 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
     * Part 2 - "Background", pp 6-9
     * Part 3 - "Ferguson Law Enforcement Efforts Are Focused on Generating Revenue", pp. 9-15
 
----
+\newpage
+## Week 10 {-}
 
-### Lecture 14 - Wednesday, October 23^rd^ {-}
+### Lecture 14 - Monday, March 16^th^ {-}
 
 #### Topics {-}
 
@@ -283,33 +285,37 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Assignments Due {-}
 
-* Entry Ticket - Contextualizing Michael Brown (<a href="#" target="_blank">Google Classroom</a>)
-
-\newpage
-## Week 10 {-}
-
-### Lecture 15 - Monday, October 28^th^ {-}
-
-#### Topics {-}
-
-* Stratification & Health
-
-#### Readings {-}
-
-* Dow, William H. and David H. Rehkopf. 2010. "Socioeconomic gradients in health in international and historical context." *Annals of the New York Academy of Sciences* 1186:24-36. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Entry Ticket - Contextualizing Michael Brown (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
 
 ---
 
-### Exam 2 - Wednesday, October 30^th^ {-}
-
-#### Topics {-}
-
-* covers Lectures 8 through 15, all associated readings, and the Fall Break reading on Michael Brown
+### *No Class* - Wednesday, March 18^th^ {-}
 
 \newpage
 ## Week 11 {-}
 
-### Lecture 16 - Monday, November 4^th^ {-}
+### Lecture 15 - Monday, March 23^rd^ {-}
+
+#### Topics {-}
+
+* Stratification and Health
+
+#### Readings {-}
+
+* Dow, William H. and David H. Rehkopf. 2010. "Socioeconomic gradients in health in international and historical context." *Annals of the New York Academy of Sciences* 1186:24-36. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+---
+
+### Exam 02 - Wednesday, March 25^th^ {-}
+
+#### Topics {-}
+
+* covers Lectures 8 through 15, all associated readings and documentaries, and the Spring Break reading
+
+\newpage
+## Week 12 {-}
+
+### Lecture 16 - Monday, March 30^th^ {-}
 
 #### Topics {-}
 
@@ -318,11 +324,10 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 #### Readings {-}
 
 * Andersen, Chapter 10 - "Race and Ethnicity"
-* Cooper, Richard S., Jay S. Kaufman, and Ryk Ward. 2003. "Race and Genomics." *New England Journal of Medicine* 348(12):1166-1170. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
 
 ---
 
-### Lecture 17 - Wednesday, November 6^th^ {-}
+### Lecture 17 - Wednesday, April 1^st^ {-}
 
 #### Topics {-}
 
@@ -330,25 +335,26 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Readings {-}
 
-* Williams, David R. and Michelle Sternthal. 2010. "Understanding Racial-ethnic Disparities in Health : Sociological Contributions." *Journal of Health and Social Behavior* 51(S):S15-S27. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Cooper, Richard S., Jay S. Kaufman, and Ryk Ward. 2003. "Race and Genomics." *New England Journal of Medicine* 348(12):1166-1170. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Williams, David R. and Michelle Sternthal. 2010. "Understanding Racial-ethnic Disparities in Health : Sociological Contributions." *Journal of Health and Social Behavior* 51(S):S15-S27. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
 \newpage
-## Week 12 {-}
+## Week 13 {-}
 
-### Lecture 18 - Monday, November 11^th^ {-}
+### Lecture 18 - Monday, April 6^th^ {-}
 
 #### Topics {-}
 
-* Gender, Sexuality, & Health
+* Gender and Health
 
 #### Readings {-}
 
 * Andersen, Chapter 11 - "Gender"
-* Krieger, Nancy. 2003. "Genders, Sexes, and Health: What Are the Connections - and Why Does It Matter?" *International Journal of Epidemiology* 32(4):652-657. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Krieger, Nancy. 2003. "Genders, Sexes, and Health: What Are the Connections - and Why Does It Matter?" *International Journal of Epidemiology* 32(4):652-657. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
 ---
 
-### QHQ 2 - Wednesday, November 13^th^ {-}
+### QHQ 2 - Wednesday, April 8^th^ {-}
 
 #### Topics {-}
 
@@ -360,13 +366,29 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Assignments Due {-}
 
-* QHQ 2 (<a href="#" target="_blank">Google Classroom</a>)
-    * see the <a href="#" target="_blank">QHQ Group assignments</a> for which chapter you should write about
-
+* QHQ 2 (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
+    * see the QHQ Group assignments on Google Classroom for which chapter you should write about
+    
 \newpage
-## Week 13 {-}
+## Week 14 {-}
 
-### Lecture 19 - Monday, November 18^th^ {-}
+### *No Class* - Monday, April 13^th^ - Easter Break {-}
+
+#### Topics {-}
+
+* Sociology of Religion
+
+#### Readings {-}
+
+Pick *one* of the following:
+
+* Edgell, Penny. 2012. "A cultural sociology of religion: New directions." *Annual Review of Sociology* 38: 247-265. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Wilde, Melissa and Lindsay Glassman. 2016. "How complex religion can improve our understanding of American politics." *Annual Review of Sociology* 42: 407-425.
+* Winstead, Kevin. 2017. "'Authentically Black, and Truly Catholic': A survey of the study on Black Catholics." *Sociology Compass* 11(10): e12517. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+---
+
+### Lecture 19 - Wednesday, April 15^th^ {-}
 
 #### Topics {-}
 
@@ -374,17 +396,21 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Readings {-}
 
-* Boyer, Carol A. and Karen E. Lutfey. 2010. "Examining Critical Health Policy Issues within and beyond the Clinical Encounter: Patient--Provider Relationships and Help-seeking Behaviors." *Journal of Health and Social Behavior* 51(S):S80-S93. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
-* Spencer, Karen Lutfey and Matthew Grace. 2016. "Social Foundations of Health Care Inequality and Treatment Bias." *Annual Review of Sociology* 42:101-120. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
-    
----
+* Boyer, Carol A. and Karen E. Lutfey. 2010. "Examining Critical Health Policy Issues within and beyond the Clinical Encounter: Patient--Provider Relationships and Help-seeking Behaviors." *Journal of Health and Social Behavior* 51(S):S80-S93. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Spencer, Karen Lutfey and Matthew Grace. 2016. "Social Foundations of Health Care Inequality and Treatment Bias." *Annual Review of Sociology* 42:101-120. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
-### Lecture 20 - Wednesday, November 20^th^ {-}
+#### Assignments Due {-}
+
+* Entry Ticket - Sociology of Religion (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
+    
+\newpage     
+## Week 15 {-}
+
+### Lecture 20 - Monday, April 20^th^ {-}
 
 #### Topics {-}
 
-* Indigenous Americans
-* Health and Native Communities
+* Native American Health
 
 #### Documentary {-}
 
@@ -392,13 +418,12 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Readings {-}
 
-* Jones, David S. 2006. "The persistence of American Indian health disparities." *American Journal of Public Health* 96(12): 2122-2134. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
-* Sarche, Michelle, and Paul Spicer. 2008. "Poverty and health disparities for American Indian and Alaska Native children." *Annals of the New York Academy of Sciences* 1136(1): 126-136. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Jones, David S. 2006. "The persistence of American Indian health disparities." *American Journal of Public Health* 96(12): 2122-2134. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Sarche, Michelle, and Paul Spicer. 2008. "Poverty and health disparities for American Indian and Alaska Native children." *Annals of the New York Academy of Sciences* 1136(1): 126-136. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
-\newpage
-## Week 14 {-}
+---
 
-### Lecture 21 - Monday, November 25^th^ {-}
+### Lecture 21 - Wednesday, April 22^nd^ {-}
 
 #### Topics {-}
 
@@ -410,25 +435,30 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Readings {-}
 
-* Collins, Jr, James W. et al. 2004. "Very Low Birthweight in African American Infants: The Role of Maternal Exposure to Interpersonal Racial Discrimination." *American Journal of Public Health* 94(12):2132-2138. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
-* David, Richard J. and James W. Collins, Jr. 1997. "Differing Birth Weight among Infants of U.S.-Born Blacks, African-Born Blacks, and U.S.-Born Whites." *The New England Journal of Medicine* 337:1209-1214. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Collins, Jr, James W. et al. 2004. "Very Low Birthweight in African American Infants: The Role of Maternal Exposure to Interpersonal Racial Discrimination." *American Journal of Public Health* 94(12):2132-2138. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* David, Richard J. and James W. Collins, Jr. 1997. "Differing Birth Weight among Infants of U.S.-Born Blacks, African-Born Blacks, and U.S.-Born Whites." *The New England Journal of Medicine* 337:1209-1214. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
----
+\newpage
+## Week 16 {-}
 
-### *No Class* - Wednesday, November 27^th^ - Thanksgiving Break {-}
+### Lecture 22 - Monday, April 27^th^ {-}
 
 #### Topics {-}
 
-* Culture and Myth
+* Globalization, Economic Change, and Health
+
+#### Documentary {-}
+
+*  *Unnatural Causes*, Part 7 - "Not Just a Paycheck" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
 
 #### Readings {-}
 
-* Siskand, Janet. 1992. "The Invention of Thanksgiving: A ritual of American nationality." *Critique of Anthropology* 12(2): 167-191. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Reeves, Aaron, et al. 2012. "Increase in state suicide rates in the USA during economic recession." *The Lancet* 380(9856): 1813-1814. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Suhrcke, Marc, and David Stuckler.  2012. "Will the recession be bad for our health? It depends." *Social Science and Medicine* 74(5): 647. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
-\newpage
-## Week 15 {-}
+---
 
-### QHQ 3 - Monday, December 2^nd^ {-}
+### QHQ 3 - Wednesday, April 29^th^ {-}
 
 #### Topics {-}
 
@@ -440,12 +470,13 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Assignments Due {-}
 
-* QHQ-03 (<a href="#" target="_blank">Google Classroom</a>)
-    * see the <a href="#" target="_blank">QHQ Group assignments</a> for which chapter you should write about
+* QHQ 3 (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
+    * see the QHQ Group assignments on Google Classroom for which chapter you should write about
 
----
+\newpage
+## Week 17 {-}
 
-### Lecture 22 - Wednesday, December 4^th^ {-}
+### Lecture 23 - Monday, May 4^th^ {-}
 
 #### Topics {-}
 
@@ -454,18 +485,12 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Readings {-}
 
-* Quadagno, Jill. 2010. "Institutions, Interest Groups, and Ideology: An Agenda for the Sociology of Health Care Reform." *Journal of Health and Social Behavior* 51(2):125-136. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
-* Williams, David. 2010. "Beyond The Affordable Care Act: Achieving Real Improvements In Americans’ Health." *Health Affairs* 29(8):1481-1488. (<a href="http://eres.slu.edu/eres/coursepass.aspx?cid=4443" target="_blank">Electronic Reserves</a>)
+* Quadagno, Jill. 2010. "Institutions, Interest Groups, and Ideology: An Agenda for the Sociology of Health Care Reform." *Journal of Health and Social Behavior* 51(2):125-136. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Williams, David. 2010. "Beyond The Affordable Care Act: Achieving Real Improvements In Americans’ Health." *Health Affairs* 29(8):1481-1488. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
-\newpage
-## Week 16 {-}
+---
 
-### *No Class* - Finals Week {-}
-
-\newpage
-## Week 17 {-}
-
-### Exam 3 - Monday, December 16^th^ {-}
+### Exam 3 - Monday, May 6^th^ {-}
 
 <div class="rmdwarning">
 <p>The time for Exam 3 is different than for the rest of the course - it will be held from 2:00pm until 3:50pm. The length will not be any different than the other exams, however, so most students should be finished prior to the official end time.</p>
@@ -473,4 +498,4 @@ Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *So
 
 #### Topics {-}
 
-* covers Lectures 16 through 22, all associated readings, and the Thanksgiving Break reading
+* covers Lectures 16 through 23, including all associated readings and documentaries

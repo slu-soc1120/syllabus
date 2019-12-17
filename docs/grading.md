@@ -29,7 +29,7 @@ Your participation grade will be split, with 25 points (5% of your final grade) 
 <p>QHQ Papers are worth <strong>30%</strong> of your final grade</p>
 </div>
 
-Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. QHQ Paper 1 will be due on **Wednesday, October 9^th^**, QHQ Paper 2 will be due on **Wednesday, November 13^th^**, and QHQ Paper 3 will be due on **Monday, December 2^nd^**. QHQ Paper 1 is ungraded. If it is not turned in or not taking seriously, however, a deduction of 3% will be applied to your final grade. QHQ Papers 2 and 3 each count for 15% of your final grade.
+Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric are available on **[Google Classroom](https://classroom.google.com)** under the 'Classwork' tab. QHQ Paper 1 will be due on **Wednesday, February 26^th^**, QHQ Paper 2 will be due on **Wednesday, April 8^th^**, and QHQ Paper 3 will be due on **Wednesday, April 29^th^**. QHQ Paper 1 is ungraded. If it is not turned in or not taking seriously, however, a deduction of 3% will be applied to your final grade. QHQ Papers 2 and 3 each count for 15% of your final grade.
 
 ### Exams
 
@@ -37,7 +37,7 @@ Each student will write a QHQ reflection paper on three chapters (one chapter pe
 <p>Exams are worth <strong>60%</strong> of your final grade</p>
 </div>
 
-Three non-cumulative multiple choice exams will be given throughout the semester. Each exam will cover the breadth of the material in the course, including readings, lectures, and videos. Exam 1 will be given on **Monday, September 23^rd^**, Exam 2 will be given on **Wednesday, October 30^th^**, and Exam 3 will be given during our class's schedule final exam period on **Monday, December 16^th^**. Please note that Exam 3 will be held at a slightly different time (from 2pm to 3:50pm, though its format will be the same as the priort exams and most students should not need the full time period). Each exam is worth 20% of your final grade.
+Three non-cumulative multiple choice exams will be given throughout the semester. Each exam will cover the breadth of the material in the course, including readings, lectures, and videos. Exam 1 will be given on **Monday, February 10^th^**, Exam 2 will be given on **Wednesday, March 25^th^**, and Exam 3 will be given during our class's schedule final exam period on **Wednesday, May 6^th^**. Please note that Exam 3 will be held at a slightly different time (from 2pm to 3:50pm, though its format will be the same as the priort exams and most students should not need the full time period). Each exam is worth 20% of your final grade.
 
 ## Submission and Late Work
 
@@ -125,9 +125,7 @@ GPA   Letter   Percent
 </tbody>
 </table>
 
-For this course, midterm grades will be calculated out of a total of 150 possible points (first half participation and the first exam), a "week 16" grade will be calculated out of 400 possible points (all grades except the third exam), and the final grade will be calculated out of 500 possible points. Extra credit will be factored into the "week 16" and final grades. All letter grades will be disseminated via Google Classroom, and midterm as well as final grades will also be made available through Blackboard.
+For this course, midterm grades will be calculated out of a total of 150 possible points (first half participation and the first exam), a "week 16" grade will be calculated out of 400 possible points (all grades except the third exam), and the final grade will be calculated out of 500 possible points. Extra credit will be factored into the "week 16" and final grades. Point totals that convert to the midterm, "week 16," and final grades will be posted to Google Classroom.
 
 ### Revisions and Incompletes
-
 No chances will be given for revisions of poor grades. Incomplete grades will be given upon request only if you have a "C" average and have completed at least two-thirds of the possible points (330 points). You should note that incomplete grades must be rectified by the specified deadline or they convert to an "F". This policy reflects the [University's policy on incomplete coursework](https://catalog.slu.edu/academic-policies/academic-policies-procedures/incomplete-course/).
-
