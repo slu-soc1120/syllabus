@@ -40,7 +40,7 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 
 ## Change Log {-}
 
-* December 16, 2019 - Initial Spring 2020 release
+* December 17^th^, 2019 - Initial Spring 2020 draft
 
 ## License {-}
 Copyright © 2016-2020 [Christopher G. Prener](https://chris-prener.github.io)
