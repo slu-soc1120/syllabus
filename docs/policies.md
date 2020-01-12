@@ -11,9 +11,10 @@ My priority is that class periods are productive learning experiences for all st
     
 The following sections contain additional details about specific course policies related to attendance, participation, electronic device use, student support, academic honesty, and Title IX.
 
-<div class="rmdnote">
-<p>These general expectations were adopted from language originally used by Dr. Shelley Kimmelberg.</p>
-</div>
+\begin{rmdnote}
+These general expectations were adopted from language originally used by
+Dr.~Shelley Kimmelberg.
+\end{rmdnote}
 
 ## Attendance and Participation
 
@@ -51,9 +52,11 @@ If you have difficulty affording groceries or accessing sufficient food to eat e
 
 If you feel comfortable doing so, please discuss any concerns you might have with me. Doing so is particularly important if believe your performance in this course might be affected. I will do my best to work with you to come up with a plan for successfully completing the course and, if need be, work with you to identify on-campus resources. I will treat all discussions with discretion, though please be aware that certain situations, including disclosures of [sexual misconduct](/syllabus/harassment-and-title-ix.html) or self harm, must be reported by faculty to the appropriate University office.
 
-<div class="rmdnote">
-<p>This language is adopted from text written by <a href="https://medium.com/@saragoldrickrab/basic-needs-security-and-the-syllabus-d24cc7afe8c9">Dr. Sarah Goldrick-Rab</a>.</p>
-</div>
+\begin{rmdnote}
+This language is adopted from text written by
+\href{https://medium.com/@saragoldrickrab/basic-needs-security-and-the-syllabus-d24cc7afe8c9}{Dr.~Sarah
+Goldrick-Rab}.
+\end{rmdnote}
 
 ### Academic Accommodations 
 

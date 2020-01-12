@@ -4,29 +4,38 @@
 
 The following is a high-level schedule that details the general topic covered by each lecture.
 
+\begin{table}
 
-Table: (\#tab:unnamed-chunk-1)SOC 1120 Course Overview
-
-Week   Monday            Topic                                             
------  ----------------  --------------------------------------------------
-01     January 13^th^    Course Introduction; Inequality and Health        
-02     January 20^th^    Theory and Health                                 
-03     January 27^th^    Culture                                           
-04     February 3^rd^    Socialization                                     
-05     February 10^th^   Exam 1 / Social Structure                         
-06     February 17^th^   Social Structure / Urban Sociology                
-07     February 24^th^   Urban Sociology / *Mama*, Part 1                  
-08     March 2^nd^       Crime & Deviance                                  
-09     March 9^th^       *Spring Break*                                    
-10     March 16^th^      Class & Stratification / *No Class*               
-11     March 23^rd^      Stratification & Health / Exam 2                  
-12     March 30^th^      Race & Ethnicity                                  
-13     April 6^th^       Gender / *Mama*, Part 2                           
-14     April 13^th^      *Easter Break* / The Health Care Experience       
-15     April 20^th^      Indigenous Americans / Intersectionality & Health 
-16     April 27^th^      Globalization / *Mama*, Part 3                    
-17     May 4^th^         Course Conclusion                                 
-18     May 11^th^        Exam 3                                            
+\caption{(\#tab:unnamed-chunk-1)SOC 1120 Course Overview}
+\centering
+\begin{tabular}[t]{lll}
+\toprule
+Week & Monday & Topic\\
+\midrule
+01 & January 13\textasciicircum{}th\textasciicircum{} & Course Introduction; Inequality and Health\\
+02 & January 20\textasciicircum{}th\textasciicircum{} & Theory and Health\\
+03 & January 27\textasciicircum{}th\textasciicircum{} & Culture\\
+04 & February 3\textasciicircum{}rd\textasciicircum{} & Socialization\\
+05 & February 10\textasciicircum{}th\textasciicircum{} & Exam 1 / Social Structure\\
+\addlinespace
+06 & February 17\textasciicircum{}th\textasciicircum{} & Social Structure / Urban Sociology\\
+07 & February 24\textasciicircum{}th\textasciicircum{} & Urban Sociology / *Mama*, Part 1\\
+08 & March 2\textasciicircum{}nd\textasciicircum{} & Crime \& Deviance\\
+09 & March 9\textasciicircum{}th\textasciicircum{} & *Spring Break*\\
+10 & March 16\textasciicircum{}th\textasciicircum{} & Class \& Stratification / *No Class*\\
+\addlinespace
+11 & March 23\textasciicircum{}rd\textasciicircum{} & Stratification \& Health / Exam 2\\
+12 & March 30\textasciicircum{}th\textasciicircum{} & Race \& Ethnicity\\
+13 & April 6\textasciicircum{}th\textasciicircum{} & Gender / *Mama*, Part 2\\
+14 & April 13\textasciicircum{}th\textasciicircum{} & *Easter Break* / The Health Care Experience\\
+15 & April 20\textasciicircum{}th\textasciicircum{} & Indigenous Americans / Intersectionality \& Health\\
+\addlinespace
+16 & April 27\textasciicircum{}th\textasciicircum{} & Globalization / *Mama*, Part 3\\
+17 & May 4\textasciicircum{}th\textasciicircum{} & Course Conclusion\\
+18 & May 11\textasciicircum{}th\textasciicircum{} & Exam 3\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ### Scheduling Notes
 

@@ -1,7 +1,7 @@
 --- 
 title: "SOC 1120-02 and 02H: Introduction to Sociology - Diversity & Health"
 author: "Christopher Prener, Ph.D."
-date: "2019-12-17"
+date: "2020-01-12"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -33,7 +33,9 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 *Email:* <chris.prener@slu.edu>
 
-*Office Hours:* Tuesdays, 11am-noon
+*Office Hours, Drop-in:* Tuesdays, 11am-noon
+
+*Office Hours, Appointment Only:* Tuesdays, 9am-noon, [sign-up via Calendly](https://calendly.com/chris-prener)
 
 ## Hard-copy Syllabus {-}
 If you would like to keep a record of the syllabus, there is a `.pdf` download button (<i class="fa fa-file-pdf-o"></i>) in the top toolbar.This document will contain a "snapshot" of the course policies and planned schedule as of the beginning of the semester but will not be subsequently updated. See the "Preface and Warning" on page 2 of the `.pdf` for additional details.
@@ -41,6 +43,7 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 ## Change Log {-}
 
 * December 17^th^, 2019 - Initial Spring 2020 draft
+* January 12^th^, 2020 - Update office hours
 
 ## License {-}
 Copyright © 2016-2020 [Christopher G. Prener](https://chris-prener.github.io)
