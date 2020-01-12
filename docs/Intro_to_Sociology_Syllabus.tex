@@ -1,3 +1,6 @@
+\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+\PassOptionsToPackage{hyphens}{url}
+%
 \documentclass[]{book}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
@@ -6,31 +9,34 @@
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provides euro and other symbols
 \else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-  \else
-    \usepackage{fontspec}
-  \fi
+  \usepackage{unicode-math}
   \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
 \fi
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 % use microtype if available
 \IfFileExists{microtype.sty}{%
-\usepackage{microtype}
+\usepackage[]{microtype}
 \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
 \usepackage{hyperref}
-\hypersetup{unicode=true,
-            pdftitle={SOC 1120-05 and 05H: Introduction to Sociology - Diversity \& Health},
+\hypersetup{
+            pdftitle={SOC 1120-02 and 02H: Introduction to Sociology - Diversity \& Health},
             pdfauthor={Christopher Prener, Ph.D.},
             pdfborder={0 0 0},
             breaklinks=true}
 \urlstyle{same}  % don't use monospace font for urls
-\usepackage{natbib}
-\bibliographystyle{apalike}
 \usepackage{longtable,booktabs}
+% Fix footnotes in tables (requires footnote package)
+\IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{longtable}}{}
 \usepackage{graphicx,grffile}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -40,12 +46,6 @@
 % margins by default, and it is still possible to overwrite the defaults
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -60,31 +60,10 @@
 \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
 \fi
 
-%%% Use protect on footnotes to avoid problems with footnotes in titles
-\let\rmarkdownfootnote\footnote%
-\def\footnote{\protect\rmarkdownfootnote}
-
-%%% Change title format to be more compact
-\usepackage{titling}
-
-% Create subtitle command for use in maketitle
-\providecommand{\subtitle}[1]{
-  \posttitle{
-    \begin{center}\large#1\end{center}
-    }
-}
-
-\setlength{\droptitle}{-2em}
-
-  \title{SOC 1120-05 and 05H: Introduction to Sociology - Diversity \& Health}
-    \pretitle{\vspace{\droptitle}\centering\huge}
-  \posttitle{\par}
-    \author{Christopher Prener, Ph.D.}
-    \preauthor{\centering\large\emph}
-  \postauthor{\par}
-      \predate{\centering\large\emph}
-  \postdate{\par}
-    \date{2019-08-30}
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
 
 \usepackage{booktabs}
 \usepackage{amsthm}
@@ -166,6 +145,12 @@
 \usepackage{fancyhdr}
 \renewcommand{\chaptername}{Section}
 \renewcommand\thesection{\Alph{section}}
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+
+\title{SOC 1120-02 and 02H: Introduction to Sociology - Diversity \& Health}
+\author{Christopher Prener, Ph.D.}
+\date{2020-01-12}
 
 \begin{document}
 \maketitle
@@ -188,7 +173,7 @@ This is the hardcopy version of the \textbf{Fall 2019} syllabus.
 
 \emph{When:} Mondays and Wednesdays, 2:10pm to 3:25pm
 
-\emph{Where:} 260 McGannon Hall
+\emph{Where:} 0400 Morrissey Hall
 
 \hypertarget{course-website}{%
 \subsection*{Course Website}\label{course-website}}
@@ -210,7 +195,9 @@ This is the hardcopy version of the \textbf{Fall 2019} syllabus.
 
 \emph{Email:} \href{mailto:chris.prener@slu.edu}{\nolinkurl{chris.prener@slu.edu}}
 
-\emph{Office Hours:} Tuesdays, 11am-noon
+\emph{Office Hours, Drop-in:} Tuesdays, 11am-noon
+
+\emph{Office Hours, Appointment Only:} Tuesdays, 9am-noon, \href{https://calendly.com/chris-prener}{sign-up via Calendly}
 
 \hypertarget{hard-copy-syllabus}{%
 \section*{Hard-copy Syllabus}\label{hard-copy-syllabus}}
@@ -225,36 +212,16 @@ If you would like to keep a record of the syllabus, there is a \texttt{.pdf} dow
 \begin{itemize}
 \tightlist
 \item
-  August 9, 2019 - Initial Spring 2019 release
+  December 17\textsuperscript{th}, 2019 - Initial Spring 2020 draft
 \item
-  August 15, 2019 - Remove Sociological Experience assignment
-\item
-  August 16, 2019 - Update langauge on \href{/syllabus/student-support.html}{academic accomodations}, \href{/syllabus/academic-honesty.html}{academic honesty}, and \href{/syllabus/harassment-and-title-ix.html}{Title IX} to match latest versions of University syllabi statements
-\item
-  August 17, 2019 - Update honors grading table and fix broken links
-\item
-  August 19, 2019 - Update location and add link to office hours note in success section
-\item
-  August 25, 2019 - Update student success links
-\item
-  August 30, 2019 -
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Add links to University's attendance and incomplete policies
-  \item
-    Update Honors supplement with meeting dates and readings
-  \item
-    Update classroom location
-  \end{itemize}
+  January 12\textsuperscript{th}, 2020 - Update office hours
 \end{itemize}
 
 \hypertarget{license}{%
 \section*{License}\label{license}}
 \addcontentsline{toc}{section}{License}
 
-Copyright © 2016-2019 \href{https://chris-prener.github.io}{Christopher G. Prener}
+Copyright © 2016-2020 \href{https://chris-prener.github.io}{Christopher G. Prener}
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
@@ -275,7 +242,7 @@ This course will survey the field of sociology, stressing important ideas, metho
 \hypertarget{two-courses-one-goal}{%
 \section{Two Courses, One Goal}\label{two-courses-one-goal}}
 
-Students will quickly notice that this course has two numbers. SOC 1120-05 is the ``regular'' course section, and SOC 1120-05H is the honors section. If you are a \href{https://www.slu.edu/honors/index.php}{University Honors} student, you may enroll in SOC 1120-05H if you wish to take this course for honors credit. Students in the honors section complete additional readings for three of the weeks, write several additional response papers, and give a presentation on a topic of their choice to the class. Additional details are include in the \href{/syllabus/honors-overview.html}{honors supplement at the end of this document}. Both courses have the same goal - to introduce students to the fundamentals of sociology through an emphasis on health and medicine.
+Students will quickly notice that this course has two numbers. SOC 1120-02 is the ``regular'' course section, and SOC 1120-02H is the honors section. If you are a \href{https://www.slu.edu/honors/index.php}{University Honors} student, you may enroll in SOC 1120-05H if you wish to take this course for honors credit. Students in the honors section complete additional readings for three of the weeks, write several additional response papers, and give a presentation on a topic of their choice to the class. Additional details are include in the \href{/syllabus/honors-overview.html}{honors supplement at the end of this document}. Both courses have the same goal - to introduce students to the fundamentals of sociology through an emphasis on health and medicine.
 
 \hypertarget{course-objectives}{%
 \section{Course Objectives}\label{course-objectives}}
@@ -339,12 +306,12 @@ I do not require students to buy physical copies of texts. You are free to selec
 
 All readings are listed on the \href{/syllabus/lecture-schedule.html}{\textbf{Reading List}} and should be completed before the course meeting on the week in which they are assigned (unless otherwise noted). Full text versions of most readings not found in the books assigned for the course can be obtained using the library's \href{http://eres.slu.edu/eres/coursepass.aspx?cid=4443}{Electronic Reserves} system. The password for the Electric Reserves will be posted on \textbf{\href{https://classroom.google.com}{Google Classroom}}.
 
-Many of the readings posted on \href{http://eres.slu.edu/eres/coursepass.aspx?cid=4443}{Electronic Reserves} are peer reviewed journal articles. This means that they are written with an aim to contribute to scientific debates. Their primary audiences are typically health care providers, professors, and graduate students. They are therefore sometimes \emph{difficult} to read. Give yourself time - I don't expect each student to fully understanding the intricacies of each article (especially the statistics included in some), but I do expect you to walk away with a general sense of the argument and evidence presented.
+Many of the readings posted on \href{https://libguides.slu.edu/er.php?course_id=53391}{Electronic Reserves} are peer reviewed journal articles. This means that they are written with an aim to contribute to scientific debates. Their primary audiences are typically health care providers, professors, and graduate students. They are therefore sometimes \emph{difficult} to read. Give yourself time - I don't expect each student to fully understanding the intricacies of each article (especially the statistics included in some), but I do expect you to walk away with a general sense of the argument and evidence presented.
 
 \hypertarget{course-policies}{%
 \chapter{Course Policies}\label{course-policies}}
 
-My priority is that class periods are productive learning experiences for all students. In order to foster this type of productive environment, I ask students to follow a few general policies and expectations:\footnote{These general expectations were adopted from language originally used by Dr.~Shelley Kimmelberg.}
+My priority is that class periods are productive learning experiences for all students. In order to foster this type of productive environment, I ask students to follow a few general policies and expectations:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -364,6 +331,11 @@ My priority is that class periods are productive learning experiences for all st
 \end{enumerate}
 
 The following sections contain additional details about specific course policies related to attendance, participation, electronic device use, student support, academic honesty, and Title IX.
+
+\begin{rmdnote}
+These general expectations were adopted from language originally used by
+Dr.~Shelley Kimmelberg.
+\end{rmdnote}
 
 \hypertarget{attendance-and-participation}{%
 \section{Attendance and Participation}\label{attendance-and-participation}}
@@ -402,9 +374,15 @@ I therefore ask students to be conscious of how they are using their devices, th
 \hypertarget{basic-needs}{%
 \subsection{Basic Needs}\label{basic-needs}}
 
-If you have difficulty affording groceries or accessing sufficient food to eat every day, or lack a safe and stable place to live, you are urged to contact the \href{https://www.slu.edu/student-development/dean-of-students/index.php}{Dean of Students} for support. Likewise if you have concerns about your mental or physical health needs, or lack access to health care services you require, you should contact either the \href{https://www.slu.edu/student-development/dean-of-students/index.php}{Dean of Students}, \href{https://www.slu.edu/life-at-slu/student-health/index.php}{Student Health Services}, or the \href{https://www.slu.edu/life-at-slu/university-counseling/index.php}{University Counseling Center}.\footnote{This language is adopted from text written by \href{https://medium.com/@saragoldrickrab/basic-needs-security-and-the-syllabus-d24cc7afe8c9}{Dr.~Sarah Goldrick-Rab}.}
+If you have difficulty affording groceries or accessing sufficient food to eat every day, or lack a safe and stable place to live, you are urged to contact the \href{https://www.slu.edu/student-development/dean-of-students/index.php}{Dean of Students} for support. Likewise if you have concerns about your mental or physical health needs, or lack access to health care services you require, you should contact either the \href{https://www.slu.edu/student-development/dean-of-students/index.php}{Dean of Students}, \href{https://www.slu.edu/life-at-slu/student-health/index.php}{Student Health Services}, or the \href{https://www.slu.edu/life-at-slu/university-counseling/index.php}{University Counseling Center}.
 
 If you feel comfortable doing so, please discuss any concerns you might have with me. Doing so is particularly important if believe your performance in this course might be affected. I will do my best to work with you to come up with a plan for successfully completing the course and, if need be, work with you to identify on-campus resources. I will treat all discussions with discretion, though please be aware that certain situations, including disclosures of \href{/syllabus/harassment-and-title-ix.html}{sexual misconduct} or self harm, must be reported by faculty to the appropriate University office.
+
+\begin{rmdnote}
+This language is adopted from text written by
+\href{https://medium.com/@saragoldrickrab/basic-needs-security-and-the-syllabus-d24cc7afe8c9}{Dr.~Sarah
+Goldrick-Rab}.
+\end{rmdnote}
 
 \hypertarget{academic-accommodations}{%
 \subsection{Academic Accommodations}\label{academic-accommodations}}
@@ -475,11 +453,11 @@ Since I give this advice out in multiple classes, the documents themselves are s
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  \href{https://chris-prener.github.io/resources/students/little-things/}{Doing the Little Things Right}\footnote{Part of this document involves tips for emailing faculty and links to an article with some additional tips. If you send me an email prior to the second lecture that breaks as many rules as possible (but clearly identifies in some way who you are), I'll give you extra credit.}
+  \href{https://chris-prener.github.io/resources/students/little-things/}{Doing the Little Things Right}
 \item
   \href{https://chris-prener.github.io/resources/students/office-hours/}{Come to Office Hours!}
 \item
-  \href{https://chris-prener.github.io/resources/exams/}{Studying for Exams}
+  \href{https://chris-prener.github.io/resources/students/exams/}{Studying for Exams}
 \item
   \href{https://chris-prener.github.io/resources/students/writing/}{Writing in the Social Sciences}
 \item
@@ -487,6 +465,13 @@ Since I give this advice out in multiple classes, the documents themselves are s
 \end{enumerate}
 
 If there are other topics you have questions about, please let me know. These documents are a work in progress.
+
+\begin{rmdnote}
+Part of these documents involve tips for emailing faculty and link to an
+article with some additional tips. If you send me an email prior to the
+second lecture that breaks as many rules as possible (but clearly
+identifies in some way who you are), I'll give you extra credit.
+\end{rmdnote}
 
 \hypertarget{assignments-and-grading}{%
 \chapter{Assignments and Grading}\label{assignments-and-grading}}
@@ -527,7 +512,7 @@ Your participation grade will be split, with 25 points (5\% of your final grade)
 QHQ Papers are worth \textbf{30\%} of your final grade
 \end{rmdtip}
 
-Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of \emph{Mama Might Be Better Off Dead} (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric are available on \textbf{\href{https://classroom.google.com}{Google Classroom}} under the `Classwork' tab. QHQ Paper 1 will be due on \textbf{Wednesday, October 9\textsuperscript{th}}, QHQ Paper 2 will be due on \textbf{Wednesday, November 13\textsuperscript{th}}, and QHQ Paper 3 will be due on \textbf{Monday, December 2\textsuperscript{nd}}. QHQ Paper 1 is ungraded. If it is not turned in or not taking seriously, however, a deduction of 3\% will be applied to your final grade. QHQ Papers 2 and 3 each count for 15\% of your final grade.
+Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of \emph{Mama Might Be Better Off Dead} (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric are available on \textbf{\href{https://classroom.google.com}{Google Classroom}} under the `Classwork' tab. QHQ Paper 1 will be due on \textbf{Wednesday, February 26\textsuperscript{th}}, QHQ Paper 2 will be due on \textbf{Wednesday, April 8\textsuperscript{th}}, and QHQ Paper 3 will be due on \textbf{Wednesday, April 29\textsuperscript{th}}. QHQ Paper 1 is ungraded. If it is not turned in or not taking seriously, however, a deduction of 3\% will be applied to your final grade. QHQ Papers 2 and 3 each count for 15\% of your final grade.
 
 \hypertarget{exams}{%
 \subsection{Exams}\label{exams}}
@@ -536,7 +521,7 @@ Each student will write a QHQ reflection paper on three chapters (one chapter pe
 Exams are worth \textbf{60\%} of your final grade
 \end{rmdtip}
 
-Three non-cumulative multiple choice exams will be given throughout the semester. Each exam will cover the breadth of the material in the course, including readings, lectures, and videos. Exam 1 will be given on \textbf{Monday, September 23\textsuperscript{rd}}, Exam 2 will be given on \textbf{Wednesday, October 30\textsuperscript{th}}, and Exam 3 will be given during our class's schedule final exam period on \textbf{Monday, December 16\textsuperscript{th}}. Please note that Exam 3 will be held at a slightly different time (from 2pm to 3:50pm, though its format will be the same as the priort exams and most students should not need the full time period). Each exam is worth 20\% of your final grade.
+Three non-cumulative multiple choice exams will be given throughout the semester. Each exam will cover the breadth of the material in the course, including readings, lectures, and videos. Exam 1 will be given on \textbf{Monday, February 10\textsuperscript{th}}, Exam 2 will be given on \textbf{Wednesday, March 25\textsuperscript{th}}, and Exam 3 will be given during our class's schedule final exam period on \textbf{Wednesday, May 6\textsuperscript{th}}. Please note that Exam 3 will be held at a slightly different time (from 2pm to 3:50pm, though its format will be the same as the priort exams and most students should not need the full time period). Each exam is worth 20\% of your final grade.
 
 \hypertarget{submission-and-late-work}{%
 \section{Submission and Late Work}\label{submission-and-late-work}}
@@ -579,11 +564,11 @@ totals.
 
 I use a point system for calculating grades. The following table gives the weighting and final point totals for all assignments for this course:
 
-\begin{table}[t]
+\begin{table}
 
 \caption{\label{tab:unnamed-chunk-6}SOC 1120 Points Breakdown}
 \centering
-\begin{tabular}{lllll}
+\begin{tabular}[t]{lllll}
 \toprule
 Assignment & Points & Quantity & Total & Percent\\
 \midrule
@@ -614,7 +599,7 @@ letter grades will be calculated by taking the sum of all points earned and divi
 \caption{\label{tab:unnamed-chunk-7}Course Grading Scale}
 
 \centering
-\begin{tabular}{lll}
+\begin{tabular}[t]{lll}
 \toprule
 GPA & Letter & Percent\\
 \midrule
@@ -626,7 +611,7 @@ GPA & Letter & Percent\\
 \bottomrule
 \end{tabular}
 \centering
-\begin{tabular}{lll}
+\begin{tabular}[t]{lll}
 \toprule
 GPA & Letter & Percent\\
 \midrule
@@ -639,7 +624,7 @@ GPA & Letter & Percent\\
 \end{tabular}
 \end{table}
 
-For this course, midterm grades will be calculated out of a total of 150 possible points (first half participation and the first exam), a ``week 16'' grade will be calculated out of 400 possible points (all grades except the third exam), and the final grade will be calculated out of 500 possible points. Extra credit will be factored into the ``week 16'' and final grades. All letter grades will be disseminated via Google Classroom, and midterm as well as final grades will also be made available through Blackboard.
+For this course, midterm grades will be calculated out of a total of 150 possible points (first half participation and the first exam), a ``week 16'' grade will be calculated out of 400 possible points (all grades except the third exam), and the final grade will be calculated out of 500 possible points. Extra credit will be factored into the ``week 16'' and final grades. Point totals that convert to the midterm, ``week 16,'' and final grades will be posted to Google Classroom.
 
 \hypertarget{revisions-and-incompletes}{%
 \subsection{Revisions and Incompletes}\label{revisions-and-incompletes}}
@@ -654,34 +639,35 @@ No chances will be given for revisions of poor grades. Incomplete grades will be
 
 The following is a high-level schedule that details the general topic covered by each lecture.
 
-\begin{table}[t]
+\begin{table}
 
 \caption{\label{tab:unnamed-chunk-1}SOC 1120 Course Overview}
 \centering
-\begin{tabular}{lll}
+\begin{tabular}[t]{lll}
 \toprule
 Week & Monday & Topic\\
 \midrule
-01 & August 26\textasciicircum{}th\textasciicircum{} & Course Introduction; Inequality \& Health\\
-02 & September 2\textasciicircum{}nd\textasciicircum{} & *Labor Day* / Theory \& Health\\
-03 & September 9\textasciicircum{}th\textasciicircum{} & Culture\\
-04 & September 16\textasciicircum{}th\textasciicircum{} & Socialization\\
-05 & September 23\textasciicircum{}rd\textasciicircum{} & Exam 1 / Social Structure\\
+01 & January 13\textasciicircum{}th\textasciicircum{} & Course Introduction; Inequality and Health\\
+02 & January 20\textasciicircum{}th\textasciicircum{} & Theory and Health\\
+03 & January 27\textasciicircum{}th\textasciicircum{} & Culture\\
+04 & February 3\textasciicircum{}rd\textasciicircum{} & Socialization\\
+05 & February 10\textasciicircum{}th\textasciicircum{} & Exam 1 / Social Structure\\
 \addlinespace
-06 & September 30\textasciicircum{}th\textasciicircum{} & Social Constructionism / Urban Sociology\\
-07 & October 7\textasciicircum{}th\textasciicircum{} & Urban Sociology / *Mama*, Part 1\\
-08 & October 14\textasciicircum{}th\textasciicircum{} & Crime \& Deviance\\
-09 & October 21\textasciicircum{}st\textasciicircum{} & *Fall Break* / Class \& Stratification\\
-10 & October 28\textasciicircum{}th\textasciicircum{} & Stratification \& Health / Exam 2\\
+06 & February 17\textasciicircum{}th\textasciicircum{} & Social Structure / Urban Sociology\\
+07 & February 24\textasciicircum{}th\textasciicircum{} & Urban Sociology / *Mama*, Part 1\\
+08 & March 2\textasciicircum{}nd\textasciicircum{} & Crime \& Deviance\\
+09 & March 9\textasciicircum{}th\textasciicircum{} & *Spring Break*\\
+10 & March 16\textasciicircum{}th\textasciicircum{} & Class \& Stratification / *No Class*\\
 \addlinespace
-11 & November 4\textasciicircum{}th\textasciicircum{} & Race \& Ethnicity\\
-12 & November 11\textasciicircum{}th\textasciicircum{} & Gender \& Sexuality / *Mama*, Part 2\\
-13 & November 18\textasciicircum{}th\textasciicircum{} & The Health Care Experience / Indigenous Americans\\
-14 & November 25\textasciicircum{}th\textasciicircum{} & Intersectionality \& Health / *Thanksgiving*\\
-15 & December 2\textasciicircum{}nd\textasciicircum{} & *Mama*, Part 3 / Course Conclusion\\
+11 & March 23\textasciicircum{}rd\textasciicircum{} & Stratification \& Health / Exam 2\\
+12 & March 30\textasciicircum{}th\textasciicircum{} & Race \& Ethnicity\\
+13 & April 6\textasciicircum{}th\textasciicircum{} & Gender / *Mama*, Part 2\\
+14 & April 13\textasciicircum{}th\textasciicircum{} & *Easter Break* / The Health Care Experience\\
+15 & April 20\textasciicircum{}th\textasciicircum{} & Indigenous Americans / Intersectionality \& Health\\
 \addlinespace
-16 & December 9\textasciicircum{}th\textasciicircum{} & *No Class*\\
-17 & December 16\textasciicircum{}th\textasciicircum{} & Exam 3\\
+16 & April 27\textasciicircum{}th\textasciicircum{} & Globalization / *Mama*, Part 3\\
+17 & May 4\textasciicircum{}th\textasciicircum{} & Course Conclusion\\
+18 & May 11\textasciicircum{}th\textasciicircum{} & Exam 3\\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -698,11 +684,11 @@ Select a lecture from the menu to see details about topics, readings, and assign
 
 The primary readings will be referred to with an abbreviation each time they appear in the reading list:
 
-\begin{table}[t]
+\begin{table}
 
 \caption{\label{tab:unnamed-chunk-1}SOC 1120 Primary Readings}
 \centering
-\begin{tabular}{ll}
+\begin{tabular}[t]{ll}
 \toprule
 Abbreviation & Citation\\
 \midrule
@@ -718,9 +704,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \section*{Week 01}\label{week-01}}
 \addcontentsline{toc}{section}{Week 01}
 
-\hypertarget{lecture-01---monday-august-26th}{%
-\subsection*{\texorpdfstring{Lecture 01 - Monday, August 26\textsuperscript{th}}{Lecture 01 - Monday, August 26th}}\label{lecture-01---monday-august-26th}}
-\addcontentsline{toc}{subsection}{Lecture 01 - Monday, August 26\textsuperscript{th}}
+\hypertarget{lecture-01---monday-january-13th}{%
+\subsection*{\texorpdfstring{Lecture 01 - Monday, January 13\textsuperscript{th}}{Lecture 01 - Monday, January 13th}}\label{lecture-01---monday-january-13th}}
+\addcontentsline{toc}{subsection}{Lecture 01 - Monday, January 13\textsuperscript{th}}
 
 \hypertarget{topics}{%
 \subsubsection*{Topics}\label{topics}}
@@ -732,11 +718,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   Course Introduction
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
-
-\hypertarget{lecture-02---wednesday-august-28th}{%
-\subsection*{\texorpdfstring{Lecture 02 - Wednesday, August 28\textsuperscript{th}}{Lecture 02 - Wednesday, August 28th}}\label{lecture-02---wednesday-august-28th}}
-\addcontentsline{toc}{subsection}{Lecture 02 - Wednesday, August 28\textsuperscript{th}}
+\hypertarget{lecture-02---wednesday-january-15th}{%
+\subsection*{\texorpdfstring{Lecture 02 - Wednesday, January 15\textsuperscript{th}}{Lecture 02 - Wednesday, January 15th}}\label{lecture-02---wednesday-january-15th}}
+\addcontentsline{toc}{subsection}{Lecture 02 - Wednesday, January 15\textsuperscript{th}}
 
 \hypertarget{topics-1}{%
 \subsubsection*{Topics}\label{topics-1}}
@@ -788,9 +772,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \section*{Week 02}\label{week-02}}
 \addcontentsline{toc}{section}{Week 02}
 
-\hypertarget{no-class---monday-september-2nd---labor-day}{%
-\subsection*{\texorpdfstring{\emph{No Class} - Monday, September 2\textsuperscript{nd} - Labor Day}{No Class - Monday, September 2nd - Labor Day}}\label{no-class---monday-september-2nd---labor-day}}
-\addcontentsline{toc}{subsection}{\emph{No Class} - Monday, September 2\textsuperscript{nd} - Labor Day}
+\hypertarget{no-class---monday-january-20th---martin-luther-king-jr.day}{%
+\subsection*{\texorpdfstring{\emph{No Class} - Monday, January 20\textsuperscript{th} - Martin Luther King, Jr.~Day}{No Class - Monday, January 20th - Martin Luther King, Jr.~Day}}\label{no-class---monday-january-20th---martin-luther-king-jr.day}}
+\addcontentsline{toc}{subsection}{\emph{No Class} - Monday, January 20\textsuperscript{th} - Martin Luther King, Jr.~Day}
 
 \hypertarget{topics-2}{%
 \subsubsection*{Topics}\label{topics-2}}
@@ -799,7 +783,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \begin{itemize}
 \tightlist
 \item
-  The Roots of Labor Day
+  Rev.~Dr.~Martin Luther King, Jr.'s Legacy
 \end{itemize}
 
 \hypertarget{readings-2}{%
@@ -809,14 +793,14 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \begin{itemize}
 \tightlist
 \item
-  Kazin, Michael, and Steven J. Ross. 1992. ``America's Labor Day: The Dilemma of a Workers' Celebration.'' \emph{The Journal of American History} 78(4):1294-1323. (Electronic Reserves)
+  King, Jr., Martin Luther. 1963. ``Letter from Birmingham Jail.'' (Read, Listen)
+\item
+  King, Jr., Martin Luther. 1967. ``Beyond Vietnam.'' (Read, Listen)
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
-
-\hypertarget{lecture-03---wednesday-september-4th}{%
-\subsection*{\texorpdfstring{Lecture 03 - Wednesday, September 4\textsuperscript{th}}{Lecture 03 - Wednesday, September 4th}}\label{lecture-03---wednesday-september-4th}}
-\addcontentsline{toc}{subsection}{Lecture 03 - Wednesday, September 4\textsuperscript{th}}
+\hypertarget{lecture-03---wednesday-january-22nd}{%
+\subsection*{\texorpdfstring{Lecture 03 - Wednesday, January 22\textsuperscript{nd}}{Lecture 03 - Wednesday, January 22nd}}\label{lecture-03---wednesday-january-22nd}}
+\addcontentsline{toc}{subsection}{Lecture 03 - Wednesday, January 22\textsuperscript{nd}}
 
 \hypertarget{topics-3}{%
 \subsubsection*{Topics}\label{topics-3}}
@@ -849,7 +833,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \begin{itemize}
 \tightlist
 \item
-  Entry Ticket - Reflecting on Labor Day's Roots (Google Classroom)
+  Entry Ticket - Reflecting on Rev.~Dr.~Martin Luther King, Jr.'s Legacy (Google Classroom)
 \end{itemize}
 
 \newpage
@@ -858,9 +842,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \section*{Week 03}\label{week-03}}
 \addcontentsline{toc}{section}{Week 03}
 
-\hypertarget{lecture-04---monday-september-9th}{%
-\subsection*{\texorpdfstring{Lecture 04 - Monday, September 9\textsuperscript{th}}{Lecture 04 - Monday, September 9th}}\label{lecture-04---monday-september-9th}}
-\addcontentsline{toc}{subsection}{Lecture 04 - Monday, September 9\textsuperscript{th}}
+\hypertarget{lecture-04---monday-january-27th}{%
+\subsection*{\texorpdfstring{Lecture 04 - Monday, January 27\textsuperscript{th}}{Lecture 04 - Monday, January 27th}}\label{lecture-04---monday-january-27th}}
+\addcontentsline{toc}{subsection}{Lecture 04 - Monday, January 27\textsuperscript{th}}
 
 \hypertarget{topics-4}{%
 \subsubsection*{Topics}\label{topics-4}}
@@ -892,11 +876,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   \end{itemize}
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
-
-\hypertarget{lecture-05---wednesday-september-11th}{%
-\subsection*{\texorpdfstring{Lecture 05 - Wednesday, September 11\textsuperscript{th}}{Lecture 05 - Wednesday, September 11th}}\label{lecture-05---wednesday-september-11th}}
-\addcontentsline{toc}{subsection}{Lecture 05 - Wednesday, September 11\textsuperscript{th}}
+\hypertarget{lecture-05---wednesday-january-29th}{%
+\subsection*{\texorpdfstring{Lecture 05 - Wednesday, January 29\textsuperscript{th}}{Lecture 05 - Wednesday, January 29th}}\label{lecture-05---wednesday-january-29th}}
+\addcontentsline{toc}{subsection}{Lecture 05 - Wednesday, January 29\textsuperscript{th}}
 
 \hypertarget{topics-5}{%
 \subsubsection*{Topics}\label{topics-5}}
@@ -944,9 +926,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \section*{Week 04}\label{week-04}}
 \addcontentsline{toc}{section}{Week 04}
 
-\hypertarget{lecture-06---monday-september-16th}{%
-\subsection*{\texorpdfstring{Lecture 06 - Monday, September 16\textsuperscript{th}}{Lecture 06 - Monday, September 16th}}\label{lecture-06---monday-september-16th}}
-\addcontentsline{toc}{subsection}{Lecture 06 - Monday, September 16\textsuperscript{th}}
+\hypertarget{lecture-06---monday-february-3rd}{%
+\subsection*{\texorpdfstring{Lecture 06 - Monday, February 3\textsuperscript{rd}}{Lecture 06 - Monday, February 3rd}}\label{lecture-06---monday-february-3rd}}
+\addcontentsline{toc}{subsection}{Lecture 06 - Monday, February 3\textsuperscript{rd}}
 
 \hypertarget{topics-6}{%
 \subsubsection*{Topics}\label{topics-6}}
@@ -976,11 +958,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   Bearman, Peter. 2008. ``Introduction: Exploring Genetics and Social Structure.'' \emph{American Journal of Sociology} 114(S1):v-x. (Electronic Reserves)
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
-
-\hypertarget{lecture-07---wednesday-september-18th}{%
-\subsection*{\texorpdfstring{Lecture 07 - Wednesday, September 18\textsuperscript{th}}{Lecture 07 - Wednesday, September 18th}}\label{lecture-07---wednesday-september-18th}}
-\addcontentsline{toc}{subsection}{Lecture 07 - Wednesday, September 18\textsuperscript{th}}
+\hypertarget{lecture-07---wednesday-february-5th}{%
+\subsection*{\texorpdfstring{Lecture 07 - Wednesday, February 5\textsuperscript{th}}{Lecture 07 - Wednesday, February 5th}}\label{lecture-07---wednesday-february-5th}}
+\addcontentsline{toc}{subsection}{Lecture 07 - Wednesday, February 5\textsuperscript{th}}
 
 \hypertarget{topics-7}{%
 \subsubsection*{Topics}\label{topics-7}}
@@ -1012,9 +992,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \section*{Week 05}\label{week-05}}
 \addcontentsline{toc}{section}{Week 05}
 
-\hypertarget{exam-1---monday-september-23rd}{%
-\subsection*{\texorpdfstring{Exam 1 - Monday, September 23\textsuperscript{rd}}{Exam 1 - Monday, September 23rd}}\label{exam-1---monday-september-23rd}}
-\addcontentsline{toc}{subsection}{Exam 1 - Monday, September 23\textsuperscript{rd}}
+\hypertarget{exam-1---monday-february-10th}{%
+\subsection*{\texorpdfstring{Exam 1 - Monday, February 10\textsuperscript{th}}{Exam 1 - Monday, February 10th}}\label{exam-1---monday-february-10th}}
+\addcontentsline{toc}{subsection}{Exam 1 - Monday, February 10\textsuperscript{th}}
 
 \hypertarget{topics-8}{%
 \subsubsection*{Topics}\label{topics-8}}
@@ -1023,14 +1003,12 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \begin{itemize}
 \tightlist
 \item
-  covers Lectures 1 through 7, all associated readings, and the Labor Day reading
+  covers Lectures 1 through 7, all associated readings and documentaries, and the MLK Day assignment
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
-
-\hypertarget{lecture-08---wednesday-september-25th}{%
-\subsection*{\texorpdfstring{Lecture 08 - Wednesday, September 25\textsuperscript{th}}{Lecture 08 - Wednesday, September 25th}}\label{lecture-08---wednesday-september-25th}}
-\addcontentsline{toc}{subsection}{Lecture 08 - Wednesday, September 25\textsuperscript{th}}
+\hypertarget{lecture-08---wednesday-february-12th}{%
+\subsection*{\texorpdfstring{Lecture 08 - Wednesday, February 12\textsuperscript{th}}{Lecture 08 - Wednesday, February 12th}}\label{lecture-08---wednesday-february-12th}}
+\addcontentsline{toc}{subsection}{Lecture 08 - Wednesday, February 12\textsuperscript{th}}
 
 \hypertarget{topics-9}{%
 \subsubsection*{Topics}\label{topics-9}}
@@ -1058,9 +1036,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \section*{Week 06}\label{week-06}}
 \addcontentsline{toc}{section}{Week 06}
 
-\hypertarget{lecture-09---monday-september-30th}{%
-\subsection*{\texorpdfstring{Lecture 09 - Monday, September 30\textsuperscript{th}}{Lecture 09 - Monday, September 30th}}\label{lecture-09---monday-september-30th}}
-\addcontentsline{toc}{subsection}{Lecture 09 - Monday, September 30\textsuperscript{th}}
+\hypertarget{lecture-09---monday-february-17th}{%
+\subsection*{\texorpdfstring{Lecture 09 - Monday, February 17\textsuperscript{th}}{Lecture 09 - Monday, February 17th}}\label{lecture-09---monday-february-17th}}
+\addcontentsline{toc}{subsection}{Lecture 09 - Monday, February 17\textsuperscript{th}}
 
 \hypertarget{topics-10}{%
 \subsubsection*{Topics}\label{topics-10}}
@@ -1084,11 +1062,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   Conrad, Peter and Kristin K. Barker. 2010. ``The Social Construction of Illness: Key Insights and Policy Implications.'' \emph{Journal of Health and Social Behavior} 51(S):S67-S79. (Electronic Reserves)
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
-
-\hypertarget{lecture-10---wednesday-october-2nd}{%
-\subsection*{\texorpdfstring{Lecture 10 - Wednesday, October 2\textsuperscript{nd}}{Lecture 10 - Wednesday, October 2nd}}\label{lecture-10---wednesday-october-2nd}}
-\addcontentsline{toc}{subsection}{Lecture 10 - Wednesday, October 2\textsuperscript{nd}}
+\hypertarget{lecture-10---wednesday-february-19th}{%
+\subsection*{\texorpdfstring{Lecture 10 - Wednesday, February 19\textsuperscript{th}}{Lecture 10 - Wednesday, February 19th}}\label{lecture-10---wednesday-february-19th}}
+\addcontentsline{toc}{subsection}{Lecture 10 - Wednesday, February 19\textsuperscript{th}}
 
 \hypertarget{topics-11}{%
 \subsubsection*{Topics}\label{topics-11}}
@@ -1126,9 +1102,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \section*{Week 07}\label{week-07}}
 \addcontentsline{toc}{section}{Week 07}
 
-\hypertarget{lecture-11---monday-october-7th}{%
-\subsection*{\texorpdfstring{Lecture 11 - Monday, October 7\textsuperscript{th}}{Lecture 11 - Monday, October 7th}}\label{lecture-11---monday-october-7th}}
-\addcontentsline{toc}{subsection}{Lecture 11 - Monday, October 7\textsuperscript{th}}
+\hypertarget{lecture-11---monday-february-24th}{%
+\subsection*{\texorpdfstring{Lecture 11 - Monday, February 24\textsuperscript{th}}{Lecture 11 - Monday, February 24th}}\label{lecture-11---monday-february-24th}}
+\addcontentsline{toc}{subsection}{Lecture 11 - Monday, February 24\textsuperscript{th}}
 
 \hypertarget{topics-12}{%
 \subsubsection*{Topics}\label{topics-12}}
@@ -1162,11 +1138,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   \end{itemize}
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
-
-\hypertarget{qhq-1---wednesday-october-9th}{%
-\subsection*{\texorpdfstring{QHQ 1 - Wednesday, October 9\textsuperscript{th}}{QHQ 1 - Wednesday, October 9th}}\label{qhq-1---wednesday-october-9th}}
-\addcontentsline{toc}{subsection}{QHQ 1 - Wednesday, October 9\textsuperscript{th}}
+\hypertarget{qhq-1---wednesday-february-26th}{%
+\subsection*{\texorpdfstring{QHQ 1 - Wednesday, February 26\textsuperscript{th}}{QHQ 1 - Wednesday, February 26th}}\label{qhq-1---wednesday-february-26th}}
+\addcontentsline{toc}{subsection}{QHQ 1 - Wednesday, February 26\textsuperscript{th}}
 
 \hypertarget{topics-13}{%
 \subsubsection*{Topics}\label{topics-13}}
@@ -1200,7 +1174,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   \begin{itemize}
   \tightlist
   \item
-    see the QHQ Group assignments assignments for which chapter you should write about
+    see the QHQ Group assignments on Google Classroom for which chapter you should write about
   \end{itemize}
 \end{itemize}
 
@@ -1210,9 +1184,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \section*{Week 08}\label{week-08}}
 \addcontentsline{toc}{section}{Week 08}
 
-\hypertarget{lecture-12---monday-october-14th}{%
-\subsection*{\texorpdfstring{Lecture 12 - Monday, October 14\textsuperscript{th}}{Lecture 12 - Monday, October 14th}}\label{lecture-12---monday-october-14th}}
-\addcontentsline{toc}{subsection}{Lecture 12 - Monday, October 14\textsuperscript{th}}
+\hypertarget{lecture-12---monday-march-2nd}{%
+\subsection*{\texorpdfstring{Lecture 12 - Monday, March 2\textsuperscript{nd}}{Lecture 12 - Monday, March 2nd}}\label{lecture-12---monday-march-2nd}}
+\addcontentsline{toc}{subsection}{Lecture 12 - Monday, March 2\textsuperscript{nd}}
 
 \hypertarget{topics-14}{%
 \subsubsection*{Topics}\label{topics-14}}
@@ -1242,11 +1216,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   \end{itemize}
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
-
-\hypertarget{lecture-13---wednesday-october-16th}{%
-\subsection*{\texorpdfstring{Lecture 13 - Wednesday, October 16\textsuperscript{th}}{Lecture 13 - Wednesday, October 16th}}\label{lecture-13---wednesday-october-16th}}
-\addcontentsline{toc}{subsection}{Lecture 13 - Wednesday, October 16\textsuperscript{th}}
+\hypertarget{lecture-13---wednesday-march-4th}{%
+\subsection*{\texorpdfstring{Lecture 13 - Wednesday, March 4\textsuperscript{th}}{Lecture 13 - Wednesday, March 4th}}\label{lecture-13---wednesday-march-4th}}
+\addcontentsline{toc}{subsection}{Lecture 13 - Wednesday, March 4\textsuperscript{th}}
 
 \hypertarget{topics-15}{%
 \subsubsection*{Topics}\label{topics-15}}
@@ -1286,9 +1258,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \section*{Week 09}\label{week-09}}
 \addcontentsline{toc}{section}{Week 09}
 
-\hypertarget{no-class---monday-october-21st---fall-break}{%
-\subsection*{\texorpdfstring{\emph{No Class} - Monday, October 21\textsuperscript{st} - Fall Break}{No Class - Monday, October 21st - Fall Break}}\label{no-class---monday-october-21st---fall-break}}
-\addcontentsline{toc}{subsection}{\emph{No Class} - Monday, October 21\textsuperscript{st} - Fall Break}
+\hypertarget{no-class---spring-break}{%
+\subsection*{\texorpdfstring{\emph{No Class} - Spring Break}{No Class - Spring Break}}\label{no-class---spring-break}}
+\addcontentsline{toc}{subsection}{\emph{No Class} - Spring Break}
 
 \hypertarget{topics-16}{%
 \subsubsection*{Topics}\label{topics-16}}
@@ -1320,11 +1292,15 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   \end{itemize}
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\newpage
 
-\hypertarget{lecture-14---wednesday-october-23rd}{%
-\subsection*{\texorpdfstring{Lecture 14 - Wednesday, October 23\textsuperscript{rd}}{Lecture 14 - Wednesday, October 23rd}}\label{lecture-14---wednesday-october-23rd}}
-\addcontentsline{toc}{subsection}{Lecture 14 - Wednesday, October 23\textsuperscript{rd}}
+\hypertarget{week-10}{%
+\section*{Week 10}\label{week-10}}
+\addcontentsline{toc}{section}{Week 10}
+
+\hypertarget{lecture-14---monday-march-16th}{%
+\subsection*{\texorpdfstring{Lecture 14 - Monday, March 16\textsuperscript{th}}{Lecture 14 - Monday, March 16th}}\label{lecture-14---monday-march-16th}}
+\addcontentsline{toc}{subsection}{Lecture 14 - Monday, March 16\textsuperscript{th}}
 
 \hypertarget{topics-17}{%
 \subsubsection*{Topics}\label{topics-17}}
@@ -1356,15 +1332,19 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   Entry Ticket - Contextualizing Michael Brown (Google Classroom)
 \end{itemize}
 
+\hypertarget{no-class---wednesday-march-18th}{%
+\subsection*{\texorpdfstring{\emph{No Class} - Wednesday, March 18\textsuperscript{th}}{No Class - Wednesday, March 18th}}\label{no-class---wednesday-march-18th}}
+\addcontentsline{toc}{subsection}{\emph{No Class} - Wednesday, March 18\textsuperscript{th}}
+
 \newpage
 
-\hypertarget{week-10}{%
-\section*{Week 10}\label{week-10}}
-\addcontentsline{toc}{section}{Week 10}
+\hypertarget{week-11}{%
+\section*{Week 11}\label{week-11}}
+\addcontentsline{toc}{section}{Week 11}
 
-\hypertarget{lecture-15---monday-october-28th}{%
-\subsection*{\texorpdfstring{Lecture 15 - Monday, October 28\textsuperscript{th}}{Lecture 15 - Monday, October 28th}}\label{lecture-15---monday-october-28th}}
-\addcontentsline{toc}{subsection}{Lecture 15 - Monday, October 28\textsuperscript{th}}
+\hypertarget{lecture-15---monday-march-23rd}{%
+\subsection*{\texorpdfstring{Lecture 15 - Monday, March 23\textsuperscript{rd}}{Lecture 15 - Monday, March 23rd}}\label{lecture-15---monday-march-23rd}}
+\addcontentsline{toc}{subsection}{Lecture 15 - Monday, March 23\textsuperscript{rd}}
 
 \hypertarget{topics-18}{%
 \subsubsection*{Topics}\label{topics-18}}
@@ -1373,7 +1353,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \begin{itemize}
 \tightlist
 \item
-  Stratification \& Health
+  Stratification and Health
 \end{itemize}
 
 \hypertarget{readings-17}{%
@@ -1386,11 +1366,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   Dow, William H. and David H. Rehkopf. 2010. ``Socioeconomic gradients in health in international and historical context.'' \emph{Annals of the New York Academy of Sciences} 1186:24-36. (Electronic Reserves)
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
-
-\hypertarget{exam-2---wednesday-october-30th}{%
-\subsection*{\texorpdfstring{Exam 2 - Wednesday, October 30\textsuperscript{th}}{Exam 2 - Wednesday, October 30th}}\label{exam-2---wednesday-october-30th}}
-\addcontentsline{toc}{subsection}{Exam 2 - Wednesday, October 30\textsuperscript{th}}
+\hypertarget{exam-02---wednesday-march-25th}{%
+\subsection*{\texorpdfstring{Exam 02 - Wednesday, March 25\textsuperscript{th}}{Exam 02 - Wednesday, March 25th}}\label{exam-02---wednesday-march-25th}}
+\addcontentsline{toc}{subsection}{Exam 02 - Wednesday, March 25\textsuperscript{th}}
 
 \hypertarget{topics-19}{%
 \subsubsection*{Topics}\label{topics-19}}
@@ -1399,18 +1377,18 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \begin{itemize}
 \tightlist
 \item
-  covers Lectures 8 through 15, all associated readings, and the Fall Break reading on Michael Brown
+  covers Lectures 8 through 15, all associated readings and documentaries, and the Spring Break reading
 \end{itemize}
 
 \newpage
 
-\hypertarget{week-11}{%
-\section*{Week 11}\label{week-11}}
-\addcontentsline{toc}{section}{Week 11}
+\hypertarget{week-12}{%
+\section*{Week 12}\label{week-12}}
+\addcontentsline{toc}{section}{Week 12}
 
-\hypertarget{lecture-16---monday-november-4th}{%
-\subsection*{\texorpdfstring{Lecture 16 - Monday, November 4\textsuperscript{th}}{Lecture 16 - Monday, November 4th}}\label{lecture-16---monday-november-4th}}
-\addcontentsline{toc}{subsection}{Lecture 16 - Monday, November 4\textsuperscript{th}}
+\hypertarget{lecture-16---monday-march-30th}{%
+\subsection*{\texorpdfstring{Lecture 16 - Monday, March 30\textsuperscript{th}}{Lecture 16 - Monday, March 30th}}\label{lecture-16---monday-march-30th}}
+\addcontentsline{toc}{subsection}{Lecture 16 - Monday, March 30\textsuperscript{th}}
 
 \hypertarget{topics-20}{%
 \subsubsection*{Topics}\label{topics-20}}
@@ -1430,15 +1408,11 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \tightlist
 \item
   Andersen, Chapter 10 - ``Race and Ethnicity''
-\item
-  Cooper, Richard S., Jay S. Kaufman, and Ryk Ward. 2003. ``Race and Genomics.'' \emph{New England Journal of Medicine} 348(12):1166-1170. (Electronic Reserves)
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
-
-\hypertarget{lecture-17---wednesday-november-6th}{%
-\subsection*{\texorpdfstring{Lecture 17 - Wednesday, November 6\textsuperscript{th}}{Lecture 17 - Wednesday, November 6th}}\label{lecture-17---wednesday-november-6th}}
-\addcontentsline{toc}{subsection}{Lecture 17 - Wednesday, November 6\textsuperscript{th}}
+\hypertarget{lecture-17---wednesday-april-1st}{%
+\subsection*{\texorpdfstring{Lecture 17 - Wednesday, April 1\textsuperscript{st}}{Lecture 17 - Wednesday, April 1st}}\label{lecture-17---wednesday-april-1st}}
+\addcontentsline{toc}{subsection}{Lecture 17 - Wednesday, April 1\textsuperscript{st}}
 
 \hypertarget{topics-21}{%
 \subsubsection*{Topics}\label{topics-21}}
@@ -1457,18 +1431,20 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \begin{itemize}
 \tightlist
 \item
+  Cooper, Richard S., Jay S. Kaufman, and Ryk Ward. 2003. ``Race and Genomics.'' \emph{New England Journal of Medicine} 348(12):1166-1170. (Electronic Reserves)
+\item
   Williams, David R. and Michelle Sternthal. 2010. ``Understanding Racial-ethnic Disparities in Health : Sociological Contributions.'' \emph{Journal of Health and Social Behavior} 51(S):S15-S27. (Electronic Reserves)
 \end{itemize}
 
 \newpage
 
-\hypertarget{week-12}{%
-\section*{Week 12}\label{week-12}}
-\addcontentsline{toc}{section}{Week 12}
+\hypertarget{week-13}{%
+\section*{Week 13}\label{week-13}}
+\addcontentsline{toc}{section}{Week 13}
 
-\hypertarget{lecture-18---monday-november-11th}{%
-\subsection*{\texorpdfstring{Lecture 18 - Monday, November 11\textsuperscript{th}}{Lecture 18 - Monday, November 11th}}\label{lecture-18---monday-november-11th}}
-\addcontentsline{toc}{subsection}{Lecture 18 - Monday, November 11\textsuperscript{th}}
+\hypertarget{lecture-18---monday-april-6th}{%
+\subsection*{\texorpdfstring{Lecture 18 - Monday, April 6\textsuperscript{th}}{Lecture 18 - Monday, April 6th}}\label{lecture-18---monday-april-6th}}
+\addcontentsline{toc}{subsection}{Lecture 18 - Monday, April 6\textsuperscript{th}}
 
 \hypertarget{topics-22}{%
 \subsubsection*{Topics}\label{topics-22}}
@@ -1477,7 +1453,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \begin{itemize}
 \tightlist
 \item
-  Gender, Sexuality, \& Health
+  Gender and Health
 \end{itemize}
 
 \hypertarget{readings-20}{%
@@ -1492,11 +1468,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   Krieger, Nancy. 2003. ``Genders, Sexes, and Health: What Are the Connections - and Why Does It Matter?'' \emph{International Journal of Epidemiology} 32(4):652-657. (Electronic Reserves)
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
-
-\hypertarget{qhq-2---wednesday-november-13th}{%
-\subsection*{\texorpdfstring{QHQ 2 - Wednesday, November 13\textsuperscript{th}}{QHQ 2 - Wednesday, November 13th}}\label{qhq-2---wednesday-november-13th}}
-\addcontentsline{toc}{subsection}{QHQ 2 - Wednesday, November 13\textsuperscript{th}}
+\hypertarget{qhq-2---wednesday-april-8th}{%
+\subsection*{\texorpdfstring{QHQ 2 - Wednesday, April 8\textsuperscript{th}}{QHQ 2 - Wednesday, April 8th}}\label{qhq-2---wednesday-april-8th}}
+\addcontentsline{toc}{subsection}{QHQ 2 - Wednesday, April 8\textsuperscript{th}}
 
 \hypertarget{topics-23}{%
 \subsubsection*{Topics}\label{topics-23}}
@@ -1530,19 +1504,19 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   \begin{itemize}
   \tightlist
   \item
-    see the QHQ Group assignments for which chapter you should write about
+    see the QHQ Group assignments on Google Classroom for which chapter you should write about
   \end{itemize}
 \end{itemize}
 
 \newpage
 
-\hypertarget{week-13}{%
-\section*{Week 13}\label{week-13}}
-\addcontentsline{toc}{section}{Week 13}
+\hypertarget{week-14}{%
+\section*{Week 14}\label{week-14}}
+\addcontentsline{toc}{section}{Week 14}
 
-\hypertarget{lecture-19---monday-november-18th}{%
-\subsection*{\texorpdfstring{Lecture 19 - Monday, November 18\textsuperscript{th}}{Lecture 19 - Monday, November 18th}}\label{lecture-19---monday-november-18th}}
-\addcontentsline{toc}{subsection}{Lecture 19 - Monday, November 18\textsuperscript{th}}
+\hypertarget{no-class---monday-april-13th---easter-break}{%
+\subsection*{\texorpdfstring{\emph{No Class} - Monday, April 13\textsuperscript{th} - Easter Break}{No Class - Monday, April 13th - Easter Break}}\label{no-class---monday-april-13th---easter-break}}
+\addcontentsline{toc}{subsection}{\emph{No Class} - Monday, April 13\textsuperscript{th} - Easter Break}
 
 \hypertarget{topics-24}{%
 \subsubsection*{Topics}\label{topics-24}}
@@ -1551,11 +1525,41 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \begin{itemize}
 \tightlist
 \item
-  The Health Care Experience
+  Sociology of Religion
 \end{itemize}
 
 \hypertarget{readings-22}{%
 \subsubsection*{Readings}\label{readings-22}}
+\addcontentsline{toc}{subsubsection}{Readings}
+
+Pick \emph{one} of the following:
+
+\begin{itemize}
+\tightlist
+\item
+  Edgell, Penny. 2012. ``A cultural sociology of religion: New directions.'' \emph{Annual Review of Sociology} 38: 247-265. (Electronic Reserves)
+\item
+  Wilde, Melissa and Lindsay Glassman. 2016. ``How complex religion can improve our understanding of American politics.'' \emph{Annual Review of Sociology} 42: 407-425.
+\item
+  Winstead, Kevin. 2017. ``\,`Authentically Black, and Truly Catholic': A survey of the study on Black Catholics.'' \emph{Sociology Compass} 11(10): e12517. (Electronic Reserves)
+\end{itemize}
+
+\hypertarget{lecture-19---wednesday-april-15th}{%
+\subsection*{\texorpdfstring{Lecture 19 - Wednesday, April 15\textsuperscript{th}}{Lecture 19 - Wednesday, April 15th}}\label{lecture-19---wednesday-april-15th}}
+\addcontentsline{toc}{subsection}{Lecture 19 - Wednesday, April 15\textsuperscript{th}}
+
+\hypertarget{topics-25}{%
+\subsubsection*{Topics}\label{topics-25}}
+\addcontentsline{toc}{subsubsection}{Topics}
+
+\begin{itemize}
+\tightlist
+\item
+  The Health Care Experience
+\end{itemize}
+
+\hypertarget{readings-23}{%
+\subsubsection*{Readings}\label{readings-23}}
 \addcontentsline{toc}{subsubsection}{Readings}
 
 \begin{itemize}
@@ -1566,22 +1570,34 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   Spencer, Karen Lutfey and Matthew Grace. 2016. ``Social Foundations of Health Care Inequality and Treatment Bias.'' \emph{Annual Review of Sociology} 42:101-120. (Electronic Reserves)
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\hypertarget{assignments-due-5}{%
+\subsubsection*{Assignments Due}\label{assignments-due-5}}
+\addcontentsline{toc}{subsubsection}{Assignments Due}
 
-\hypertarget{lecture-20---wednesday-november-20th}{%
-\subsection*{\texorpdfstring{Lecture 20 - Wednesday, November 20\textsuperscript{th}}{Lecture 20 - Wednesday, November 20th}}\label{lecture-20---wednesday-november-20th}}
-\addcontentsline{toc}{subsection}{Lecture 20 - Wednesday, November 20\textsuperscript{th}}
+\begin{itemize}
+\tightlist
+\item
+  Entry Ticket - Sociology of Religion (Google Classroom)
+\end{itemize}
 
-\hypertarget{topics-25}{%
-\subsubsection*{Topics}\label{topics-25}}
+\newpage
+
+\hypertarget{week-15}{%
+\section*{Week 15}\label{week-15}}
+\addcontentsline{toc}{section}{Week 15}
+
+\hypertarget{lecture-20---monday-april-20th}{%
+\subsection*{\texorpdfstring{Lecture 20 - Monday, April 20\textsuperscript{th}}{Lecture 20 - Monday, April 20th}}\label{lecture-20---monday-april-20th}}
+\addcontentsline{toc}{subsection}{Lecture 20 - Monday, April 20\textsuperscript{th}}
+
+\hypertarget{topics-26}{%
+\subsubsection*{Topics}\label{topics-26}}
 \addcontentsline{toc}{subsubsection}{Topics}
 
 \begin{itemize}
 \tightlist
 \item
-  Indigenous Americans
-\item
-  Health and Native Communities
+  Native American Health
 \end{itemize}
 
 \hypertarget{documentary-2}{%
@@ -1594,8 +1610,8 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   \emph{Unnatural Causes}, Part 3 - ``Bad Sugar'' (Pius Library)
 \end{itemize}
 
-\hypertarget{readings-23}{%
-\subsubsection*{Readings}\label{readings-23}}
+\hypertarget{readings-24}{%
+\subsubsection*{Readings}\label{readings-24}}
 \addcontentsline{toc}{subsubsection}{Readings}
 
 \begin{itemize}
@@ -1606,18 +1622,12 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   Sarche, Michelle, and Paul Spicer. 2008. ``Poverty and health disparities for American Indian and Alaska Native children.'' \emph{Annals of the New York Academy of Sciences} 1136(1): 126-136. (Electronic Reserves)
 \end{itemize}
 
-\newpage
+\hypertarget{lecture-21---wednesday-april-22nd}{%
+\subsection*{\texorpdfstring{Lecture 21 - Wednesday, April 22\textsuperscript{nd}}{Lecture 21 - Wednesday, April 22nd}}\label{lecture-21---wednesday-april-22nd}}
+\addcontentsline{toc}{subsection}{Lecture 21 - Wednesday, April 22\textsuperscript{nd}}
 
-\hypertarget{week-14}{%
-\section*{Week 14}\label{week-14}}
-\addcontentsline{toc}{section}{Week 14}
-
-\hypertarget{lecture-21---monday-november-25th}{%
-\subsection*{\texorpdfstring{Lecture 21 - Monday, November 25\textsuperscript{th}}{Lecture 21 - Monday, November 25th}}\label{lecture-21---monday-november-25th}}
-\addcontentsline{toc}{subsection}{Lecture 21 - Monday, November 25\textsuperscript{th}}
-
-\hypertarget{topics-26}{%
-\subsubsection*{Topics}\label{topics-26}}
+\hypertarget{topics-27}{%
+\subsubsection*{Topics}\label{topics-27}}
 \addcontentsline{toc}{subsubsection}{Topics}
 
 \begin{itemize}
@@ -1636,8 +1646,8 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   \emph{Unnatural Causes}, Part 2 - ``When the Bough Breaks'' (Pius Library)
 \end{itemize}
 
-\hypertarget{readings-24}{%
-\subsubsection*{Readings}\label{readings-24}}
+\hypertarget{readings-25}{%
+\subsubsection*{Readings}\label{readings-25}}
 \addcontentsline{toc}{subsubsection}{Readings}
 
 \begin{itemize}
@@ -1648,41 +1658,15 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   David, Richard J. and James W. Collins, Jr.~1997. ``Differing Birth Weight among Infants of U.S.-Born Blacks, African-Born Blacks, and U.S.-Born Whites.'' \emph{The New England Journal of Medicine} 337:1209-1214. (Electronic Reserves)
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
-
-\hypertarget{no-class---wednesday-november-27th---thanksgiving-break}{%
-\subsection*{\texorpdfstring{\emph{No Class} - Wednesday, November 27\textsuperscript{th} - Thanksgiving Break}{No Class - Wednesday, November 27th - Thanksgiving Break}}\label{no-class---wednesday-november-27th---thanksgiving-break}}
-\addcontentsline{toc}{subsection}{\emph{No Class} - Wednesday, November 27\textsuperscript{th} - Thanksgiving Break}
-
-\hypertarget{topics-27}{%
-\subsubsection*{Topics}\label{topics-27}}
-\addcontentsline{toc}{subsubsection}{Topics}
-
-\begin{itemize}
-\tightlist
-\item
-  Culture and Myth
-\end{itemize}
-
-\hypertarget{readings-25}{%
-\subsubsection*{Readings}\label{readings-25}}
-\addcontentsline{toc}{subsubsection}{Readings}
-
-\begin{itemize}
-\tightlist
-\item
-  Siskand, Janet. 1992. ``The Invention of Thanksgiving: A ritual of American nationality.'' \emph{Critique of Anthropology} 12(2): 167-191. (Electronic Reserves)
-\end{itemize}
-
 \newpage
 
-\hypertarget{week-15}{%
-\section*{Week 15}\label{week-15}}
-\addcontentsline{toc}{section}{Week 15}
+\hypertarget{week-16}{%
+\section*{Week 16}\label{week-16}}
+\addcontentsline{toc}{section}{Week 16}
 
-\hypertarget{qhq-3---monday-december-2nd}{%
-\subsection*{\texorpdfstring{QHQ 3 - Monday, December 2\textsuperscript{nd}}{QHQ 3 - Monday, December 2nd}}\label{qhq-3---monday-december-2nd}}
-\addcontentsline{toc}{subsection}{QHQ 3 - Monday, December 2\textsuperscript{nd}}
+\hypertarget{lecture-22---monday-april-27th}{%
+\subsection*{\texorpdfstring{Lecture 22 - Monday, April 27\textsuperscript{th}}{Lecture 22 - Monday, April 27th}}\label{lecture-22---monday-april-27th}}
+\addcontentsline{toc}{subsection}{Lecture 22 - Monday, April 27\textsuperscript{th}}
 
 \hypertarget{topics-28}{%
 \subsubsection*{Topics}\label{topics-28}}
@@ -1691,7 +1675,17 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \begin{itemize}
 \tightlist
 \item
-  Discussion - \emph{Mama Might Be Better Off Dead}, Part 3
+  Globalization, Economic Change, and Health
+\end{itemize}
+
+\hypertarget{documentary-4}{%
+\subsubsection*{Documentary}\label{documentary-4}}
+\addcontentsline{toc}{subsubsection}{Documentary}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Unnatural Causes}, Part 7 - ``Not Just a Paycheck'' (Pius Library)
 \end{itemize}
 
 \hypertarget{readings-26}{%
@@ -1701,33 +1695,63 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 \begin{itemize}
 \tightlist
 \item
+  Reeves, Aaron, et al.~2012. ``Increase in state suicide rates in the USA during economic recession.'' \emph{The Lancet} 380(9856): 1813-1814. (Electronic Reserves)
+\item
+  Suhrcke, Marc, and David Stuckler. 2012. ``Will the recession be bad for our health? It depends.'' \emph{Social Science and Medicine} 74(5): 647. (Electronic Reserves)
+\end{itemize}
+
+\hypertarget{qhq-3---wednesday-april-29th}{%
+\subsection*{\texorpdfstring{QHQ 3 - Wednesday, April 29\textsuperscript{th}}{QHQ 3 - Wednesday, April 29th}}\label{qhq-3---wednesday-april-29th}}
+\addcontentsline{toc}{subsection}{QHQ 3 - Wednesday, April 29\textsuperscript{th}}
+
+\hypertarget{topics-29}{%
+\subsubsection*{Topics}\label{topics-29}}
+\addcontentsline{toc}{subsubsection}{Topics}
+
+\begin{itemize}
+\tightlist
+\item
+  Discussion - \emph{Mama Might Be Better Off Dead}, Part 3
+\end{itemize}
+
+\hypertarget{readings-27}{%
+\subsubsection*{Readings}\label{readings-27}}
+\addcontentsline{toc}{subsubsection}{Readings}
+
+\begin{itemize}
+\tightlist
+\item
   Abraham - Chapters 11 through \emph{Epilogue}
 \end{itemize}
 
-\hypertarget{assignments-due-5}{%
-\subsubsection*{Assignments Due}\label{assignments-due-5}}
+\hypertarget{assignments-due-6}{%
+\subsubsection*{Assignments Due}\label{assignments-due-6}}
 \addcontentsline{toc}{subsubsection}{Assignments Due}
 
 \begin{itemize}
 \tightlist
 \item
-  QHQ-03 (Google Classroom)
+  QHQ 3 (Google Classroom)
 
   \begin{itemize}
   \tightlist
   \item
-    see the QHQ Group assignments for which chapter you should write about
+    see the QHQ Group assignments on Google Classroom for which chapter you should write about
   \end{itemize}
 \end{itemize}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\newpage
 
-\hypertarget{lecture-22---wednesday-december-4th}{%
-\subsection*{\texorpdfstring{Lecture 22 - Wednesday, December 4\textsuperscript{th}}{Lecture 22 - Wednesday, December 4th}}\label{lecture-22---wednesday-december-4th}}
-\addcontentsline{toc}{subsection}{Lecture 22 - Wednesday, December 4\textsuperscript{th}}
+\hypertarget{week-17}{%
+\section*{Week 17}\label{week-17}}
+\addcontentsline{toc}{section}{Week 17}
 
-\hypertarget{topics-29}{%
-\subsubsection*{Topics}\label{topics-29}}
+\hypertarget{lecture-23---monday-may-4th}{%
+\subsection*{\texorpdfstring{Lecture 23 - Monday, May 4\textsuperscript{th}}{Lecture 23 - Monday, May 4th}}\label{lecture-23---monday-may-4th}}
+\addcontentsline{toc}{subsection}{Lecture 23 - Monday, May 4\textsuperscript{th}}
+
+\hypertarget{topics-30}{%
+\subsubsection*{Topics}\label{topics-30}}
 \addcontentsline{toc}{subsubsection}{Topics}
 
 \begin{itemize}
@@ -1738,8 +1762,8 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   Course Conclusion
 \end{itemize}
 
-\hypertarget{readings-27}{%
-\subsubsection*{Readings}\label{readings-27}}
+\hypertarget{readings-28}{%
+\subsubsection*{Readings}\label{readings-28}}
 \addcontentsline{toc}{subsubsection}{Readings}
 
 \begin{itemize}
@@ -1750,25 +1774,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
   Williams, David. 2010. ``Beyond The Affordable Care Act: Achieving Real Improvements In Americans' Health.'' \emph{Health Affairs} 29(8):1481-1488. (Electronic Reserves)
 \end{itemize}
 
-\newpage
-
-\hypertarget{week-16}{%
-\section*{Week 16}\label{week-16}}
-\addcontentsline{toc}{section}{Week 16}
-
-\hypertarget{no-class---finals-week}{%
-\subsection*{\texorpdfstring{\emph{No Class} - Finals Week}{No Class - Finals Week}}\label{no-class---finals-week}}
-\addcontentsline{toc}{subsection}{\emph{No Class} - Finals Week}
-
-\newpage
-
-\hypertarget{week-17}{%
-\section*{Week 17}\label{week-17}}
-\addcontentsline{toc}{section}{Week 17}
-
-\hypertarget{exam-3---monday-december-16th}{%
-\subsection*{\texorpdfstring{Exam 3 - Monday, December 16\textsuperscript{th}}{Exam 3 - Monday, December 16th}}\label{exam-3---monday-december-16th}}
-\addcontentsline{toc}{subsection}{Exam 3 - Monday, December 16\textsuperscript{th}}
+\hypertarget{exam-3---monday-may-6th}{%
+\subsection*{\texorpdfstring{Exam 3 - Monday, May 6\textsuperscript{th}}{Exam 3 - Monday, May 6th}}\label{exam-3---monday-may-6th}}
+\addcontentsline{toc}{subsection}{Exam 3 - Monday, May 6\textsuperscript{th}}
 
 \begin{rmdwarning}
 The time for Exam 3 is different than for the rest of the course - it
@@ -1777,14 +1785,14 @@ different than the other exams, however, so most students should be
 finished prior to the official end time.
 \end{rmdwarning}
 
-\hypertarget{topics-30}{%
-\subsubsection*{Topics}\label{topics-30}}
+\hypertarget{topics-31}{%
+\subsubsection*{Topics}\label{topics-31}}
 \addcontentsline{toc}{subsubsection}{Topics}
 
 \begin{itemize}
 \tightlist
 \item
-  covers Lectures 16 through 22, all associated readings, and the Thanksgiving Break reading
+  covers Lectures 16 through 23, including all associated readings and documentaries
 \end{itemize}
 
 \hypertarget{part-honors-supplement}{%
@@ -1793,7 +1801,7 @@ finished prior to the official end time.
 \hypertarget{honors-overview}{%
 \chapter{Honors Overview}\label{honors-overview}}
 
-This is the supplemental syllabus for the honors section of SOC 1120-05 (i.e.~SOC 1120-05H). Students enrolled in the honors section are expected to complete all \href{/lecture-schedule.html}{readings} and \href{/assignments-and-grading.html}{assignments} included in the syllabus and should look to the previous sections \href{/course-policies.html}{general course policies} as well. The following sections detail the additional work expected of students in the honors section.
+This is the supplemental syllabus for the honors section of SOC 1120-02 (i.e.~SOC 1120-02H). Students enrolled in the honors section are expected to complete all \href{/lecture-schedule.html}{readings} and \href{/assignments-and-grading.html}{assignments} included in the syllabus and should look to the previous sections \href{/course-policies.html}{general course policies} as well. The following sections detail the additional work expected of students in the honors section.
 
 \hypertarget{in-depth-seminars}{%
 \section{In-Depth Seminars}\label{in-depth-seminars}}
@@ -1816,7 +1824,7 @@ You are expected to complete three seminars over the course of the semester. The
   a short response paper.
 \end{enumerate}
 
-Seminar topics will be selected by the students as a group, and should align with \href{/honors-seminar-topics.html}{the topics listed below}. Consensus on seminar topics should be reached by class on \textbf{Wednesday, August 28\textsuperscript{th}}. All students will complete the same seminars. Once the seminars are selected, Chris will provide a list of additional journal articles and book chapters to read. You will be expected to retrieve readings from SLU's Library if they are available there. If they are not, Chris will provide everyone with a \texttt{pdf} copy of the readings. Approximately 40 to 50 pages of additional reading per seminar should be expected.
+Seminar topics will be selected by the students as a group, and should align with \href{/honors-seminar-topics.html}{the topics listed below}. Consensus on seminar topics should be reached by class on \textbf{Wednesday, January 15\textsuperscript{th}}. All students will complete the same seminars. Once the seminars are selected, Chris will provide a list of additional journal articles and book chapters to read. You will be expected to retrieve readings from SLU's Library if they are available there. If they are not, Chris will provide everyone with a \texttt{pdf} copy of the readings. Approximately 40 to 50 pages of additional reading per seminar should be expected.
 
 We will schedule a when all students are available to meet together and discuss the assigned readings. Each seminar meeting will occur after the lectures on the seminar topic (ideally later that week or the next week). Chris will coordinate scheduling the seminar meetings, which will take place in one of the Sociology Department's conference rooms. You should come to seminar meetings prepared to discuss the readings themselves and draw analytic connections to the course material from both the related week and prior weeks. Attendance and participation in the seminars themselves will be factored into your honors participation grade.
 
@@ -1874,15 +1882,15 @@ Papers are worth approximately 7.5\% of your final grade for each paper.
 Your op-ed is worth \textbf{8.75\%} of your final grade
 \end{rmdtip}
 
-You should pick a topic from \href{/honors-seminar-topics.html}{the honors seminar topic list} that you would like to use as a jumping-off point for writing an op-ed style article. With a topic in-hand, you should read ahead and pick \emph{one narrow aspect} of the topic to focus on. Topics must be selected by \textbf{Monday, October 7\textsuperscript{th}} and are ``submitted'' by coming to office hours (or making an appointment to see Chris if you have a scheduling conflict) to discuss your idea.
+You should pick a topic from \href{/honors-seminar-topics.html}{the honors seminar topic list} that you would like to use as a jumping-off point for writing an op-ed style article. With a topic in-hand, you should read ahead and pick \emph{one narrow aspect} of the topic to focus on. Topics must be selected by \textbf{Monday, February 25\textsuperscript{th}} and are ``submitted'' by coming to office hours (or making an appointment to see Chris if you have a scheduling conflict) to discuss your idea.
 
 Once you meet with Chris, you should complete additional background research on the topic, and put together a 700 to 800 word op-ed style article. This article should introduce your topic succinctly and \emph{take a position} on it, providing specific data that supports your position. Remember that the main purpose of an op-ed is to persuade your reader. \href{https://styleguide.duke.edu/toolkits/writing-media/how-to-write-an-op-ed-article/}{Duke University} provides some excellent guidance on forming your argument and approaching editorial writing.
 
 Since this is an op-ed, you do not need to provide citations in the body of the paper. Instead, provide end-notes that describe the source of information. Please provide a bibliography on a separate page of your submission that lists all sources of data and information included in the op-ed.
 
-A draft submission, which should contain all required elements, is due on \textbf{Monday, November 25\textsuperscript{th}} for feedback via Google Classroom. It is ungraded; however, if not submitted, a 3\% deduction will be applied to your final grade.
+A draft submission, which should contain all required elements, is due on \textbf{Wednesday, April 15\textsuperscript{th}} for feedback via Google Classroom. It is ungraded; however, if not submitted, a 3\% deduction will be applied to your final grade.
 
-The final submission on \textbf{Monday, December 9\textsuperscript{th}} should be made to two venues - Chris via Google Classroom and a publication. The publication could be your hometown paper or a local St.~Louis publication if the topic is about St.~Louis. Any publication that accepts op-ed submissions without invitation is acceptable. You don't have to have your op-ed published, just submitted! Make sure to forward your submission email to Chris after it is completed.
+The final submission on \textbf{Monday, May 4\textsuperscript{th}} should be made to two venues - Chris via Google Classroom and a publication. The publication could be your hometown paper or a local St.~Louis publication if the topic is about St.~Louis. Any publication that accepts op-ed submissions without invitation is acceptable. You don't have to have your op-ed published, just submitted! Make sure to forward your submission email to Chris after it is completed.
 
 \hypertarget{op-ed-format}{%
 \subsection{Op-Ed Format}\label{op-ed-format}}
@@ -1913,7 +1921,7 @@ Once submitted, op-eds will be shared with all honors students. Each of you shou
 \hypertarget{grading-2}{%
 \subsection{Grading}\label{grading-2}}
 
-Op-eds will be submitted by \textbf{Monday, December 9\textsuperscript{th}} via Google Classroom. Each op-ed paper will be graded on four elements:
+Op-eds will be submitted by \textbf{Monday, May 4\textsuperscript{th}} via Google Classroom. Each op-ed paper will be graded on four elements:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -1933,11 +1941,11 @@ Op-eds will be submitted by \textbf{Monday, December 9\textsuperscript{th}} via 
 \hypertarget{honors-seminar-topics}{%
 \section{Honors Seminar Topics}\label{honors-seminar-topics}}
 
-\begin{table}[t]
+\begin{table}
 
 \caption{\label{tab:unnamed-chunk-4}SOC 1120 Honors Seminar Topics}
 \centering
-\begin{tabular}{ll}
+\begin{tabular}[t]{ll}
 \toprule
 Week & Topic\\
 \midrule
@@ -1963,11 +1971,11 @@ Week & Topic\\
 
 The following point totals supersede the information on the main syllabus under Section 4.4 - ``Grading'' if you are enrolled in the honors section of SOC 1120.
 
-\begin{table}[t]
+\begin{table}
 
 \caption{\label{tab:unnamed-chunk-5}SOC 1120 Honors Points Breakdown}
 \centering
-\begin{tabular}{lllll}
+\begin{tabular}[t]{lllll}
 \toprule
 Assignment & Points & Quantity & Total & Percent\\
 \midrule
@@ -1982,7 +1990,7 @@ Honors Response Papers & 60 pts & x3 & 180 pts & 22.50\%\\
 \end{tabular}
 \end{table}
 
-The information listed in Sections 4.4.1 through 4.4.3 still applies to honors students, except that incompletes are based on 530 points of work being submitted. For honors students, midterm grades will be calculated out of a total of \textbf{TBA} possible points, a ``week 16'' grade will be calculated out of 700 possible points (all grades except the third exam), and the final grade will be calculated out of 800 possible points. Extra credit will be factored into the ``week 16'' and final grades. All letter grades will be disseminated via Google Classroom, and midterm as well as final grades will also be made available through Blackboard.
+The information listed in Sections 4.4.1 through 4.4.3 still applies to honors students, except that incompletes are based on 530 points of work being submitted. For honors students, midterm grades will be calculated out of a total of \textbf{TBA} possible points, a ``week 16'' grade will be calculated out of 700 possible points (all grades except the third exam), and the final grade will be calculated out of 800 possible points. Extra credit will be factored into the ``week 16'' and final grades. Point totals that convert to the midterm, ``week 16,'' and final grades will be posted to Google Classroom.
 
 \hypertarget{honors-schedule}{%
 \chapter{Honors Schedule}\label{honors-schedule}}
@@ -1993,243 +2001,6 @@ honors seminar, this section will be updated with meeting dates, reading
 assignments, and response paper due dates.
 \end{rmdwarning}
 
-\hypertarget{honors-week-01}{%
-\section*{Honors Week 01}\label{honors-week-01}}
-\addcontentsline{toc}{section}{Honors Week 01}
-
-\hypertarget{lecture-01---monday-january-14th}{%
-\subsection*{\texorpdfstring{Lecture 01 - Monday, January 14\textsuperscript{th}}{Lecture 01 - Monday, January 14th}}\label{lecture-01---monday-january-14th}}
-\addcontentsline{toc}{subsection}{Lecture 01 - Monday, January 14\textsuperscript{th}}
-
-\hypertarget{assignments-due-6}{%
-\subsubsection*{Assignments Due}\label{assignments-due-6}}
-\addcontentsline{toc}{subsubsection}{Assignments Due}
-
-\begin{itemize}
-\tightlist
-\item
-  Honors Seminar selection
-\end{itemize}
-
-\hypertarget{honors-week-02}{%
-\section*{Honors Week 02}\label{honors-week-02}}
-\addcontentsline{toc}{section}{Honors Week 02}
-
-\hypertarget{seminar-01}{%
-\subsection*{Seminar-01}\label{seminar-01}}
-\addcontentsline{toc}{subsection}{Seminar-01}
-
-\begin{rmdwarning}
-The seminar meeting will take place on September 5th from 3:30pm until
-4:30pm.
-\end{rmdwarning}
-
-\hypertarget{topics-31}{%
-\subsubsection*{Topics}\label{topics-31}}
-\addcontentsline{toc}{subsubsection}{Topics}
-
-\begin{itemize}
-\tightlist
-\item
-  Social Theory and Health
-\end{itemize}
-
-\hypertarget{readings-28}{%
-\subsubsection*{Readings}\label{readings-28}}
-\addcontentsline{toc}{subsubsection}{Readings}
-
-\begin{itemize}
-\tightlist
-\item
-  Link, Bruce and Jo Phelan. 1995. ``Social Conditions as Fundamental Causes of Disease.'' \emph{Journal of Health and Social Behavior} 35(S1):80-94.
-\item
-  Lutfey, Karen and Jeremy Freese. 2005. ``Toward Some Fundamentals of Fundamental Causality: Socioeconomic Status and Health in the Routine Clinic Visit for Diabetes.'' \emph{American Journal of Sociology} 110(5):1326-72,
-\end{itemize}
-
-\hypertarget{honors-week-03}{%
-\section*{Honors Week 03}\label{honors-week-03}}
-\addcontentsline{toc}{section}{Honors Week 03}
-
-\hypertarget{lecture-05---wednesday-september-11th-1}{%
-\subsection*{\texorpdfstring{Lecture 05 - Wednesday, September 11\textsuperscript{th}}{Lecture 05 - Wednesday, September 11th}}\label{lecture-05---wednesday-september-11th-1}}
-\addcontentsline{toc}{subsection}{Lecture 05 - Wednesday, September 11\textsuperscript{th}}
-
-\hypertarget{assignments-due-7}{%
-\subsubsection*{Assignments Due}\label{assignments-due-7}}
-\addcontentsline{toc}{subsubsection}{Assignments Due}
-
-\begin{itemize}
-\tightlist
-\item
-  Response Paper 01 (Google Classroom)
-\end{itemize}
-
-\hypertarget{honors-week-07}{%
-\section*{Honors Week 07}\label{honors-week-07}}
-\addcontentsline{toc}{section}{Honors Week 07}
-
-\hypertarget{lecture-11---monday-october-7th-1}{%
-\subsection*{\texorpdfstring{Lecture 11 - Monday, October 7\textsuperscript{th}}{Lecture 11 - Monday, October 7th}}\label{lecture-11---monday-october-7th-1}}
-\addcontentsline{toc}{subsection}{Lecture 11 - Monday, October 7\textsuperscript{th}}
-
-\hypertarget{assignments-due-8}{%
-\subsubsection*{Assignments Due}\label{assignments-due-8}}
-\addcontentsline{toc}{subsubsection}{Assignments Due}
-
-\begin{itemize}
-\tightlist
-\item
-  Op-ed topic selection (including meeting with Chris)
-\end{itemize}
-
-\hypertarget{honors-week-08}{%
-\section*{Honors Week 08}\label{honors-week-08}}
-\addcontentsline{toc}{section}{Honors Week 08}
-
-\hypertarget{seminar-02}{%
-\subsection*{Seminar-02}\label{seminar-02}}
-\addcontentsline{toc}{subsection}{Seminar-02}
-
-\begin{rmdwarning}
-The seminar meeting will take place on October 17th from 3:30pm until
-4:30pm.
-\end{rmdwarning}
-
-\hypertarget{topics-32}{%
-\subsubsection*{Topics}\label{topics-32}}
-\addcontentsline{toc}{subsubsection}{Topics}
-
-\begin{itemize}
-\tightlist
-\item
-  Drugs, Incarceration, and Health
-\end{itemize}
-
-\hypertarget{readings-29}{%
-\subsubsection*{Readings}\label{readings-29}}
-\addcontentsline{toc}{subsubsection}{Readings}
-
-\begin{itemize}
-\tightlist
-\item
-  Massoglia, Michael and William Alex Pridemore. 2015. ``Incarceration and Health.'' \emph{Annual Review of Sociology} 41:291-310.
-\item
-  Roberts, Bryan R. and Yu Chen. 2013. ``Drugs, Violence, and the State.'' \emph{Annual Review of Sociology} 39:105-125.
-\end{itemize}
-
-\hypertarget{honors-week-09}{%
-\section*{Honors Week 09}\label{honors-week-09}}
-\addcontentsline{toc}{section}{Honors Week 09}
-
-\hypertarget{lecture-14---wednesday-october-23rd-1}{%
-\subsection*{\texorpdfstring{Lecture 14 - Wednesday, October 23\textsuperscript{rd}}{Lecture 14 - Wednesday, October 23rd}}\label{lecture-14---wednesday-october-23rd-1}}
-\addcontentsline{toc}{subsection}{Lecture 14 - Wednesday, October 23\textsuperscript{rd}}
-
-\hypertarget{assignments-due-9}{%
-\subsubsection*{Assignments Due}\label{assignments-due-9}}
-\addcontentsline{toc}{subsubsection}{Assignments Due}
-
-\begin{itemize}
-\tightlist
-\item
-  Response Paper 02 (Google Classroom)
-\end{itemize}
-
-\hypertarget{honors-week-11}{%
-\section*{Honors Week 11}\label{honors-week-11}}
-\addcontentsline{toc}{section}{Honors Week 11}
-
-\hypertarget{seminar-03}{%
-\subsection*{Seminar-03}\label{seminar-03}}
-\addcontentsline{toc}{subsection}{Seminar-03}
-
-\begin{rmdwarning}
-The seminar meeting will take place on November 7th from 3:30pm until
-4:30pm.
-\end{rmdwarning}
-
-\hypertarget{topics-33}{%
-\subsubsection*{Topics}\label{topics-33}}
-\addcontentsline{toc}{subsubsection}{Topics}
-
-\begin{itemize}
-\tightlist
-\item
-  Race, Discrimination, and Health
-\end{itemize}
-
-\hypertarget{readings-30}{%
-\subsubsection*{Readings}\label{readings-30}}
-\addcontentsline{toc}{subsubsection}{Readings}
-
-\begin{itemize}
-\tightlist
-\item
-  Phelan, Jo and Bruce Link. 2015. ``Is Racism a Fundamental Cause of Inequalities in Health?'' \emph{Annual Review of Sociology} 41:311-330.
-\item
-  Williams, David and Chiquita Collins. 2001. ``Racial Residential Segregation: A Fundamental Cause of Racial Disparities in Health.'' \emph{Public Health Reports} 116(5):404-416.
-\end{itemize}
-
-\hypertarget{honors-week-12}{%
-\section*{Honors Week 12}\label{honors-week-12}}
-\addcontentsline{toc}{section}{Honors Week 12}
-
-\hypertarget{qhq-2---wednesday-november-13th-1}{%
-\subsection*{\texorpdfstring{QHQ 2 - Wednesday, November 13\textsuperscript{th}}{QHQ 2 - Wednesday, November 13th}}\label{qhq-2---wednesday-november-13th-1}}
-\addcontentsline{toc}{subsection}{QHQ 2 - Wednesday, November 13\textsuperscript{th}}
-
-\hypertarget{assignments-due-10}{%
-\subsubsection*{Assignments Due}\label{assignments-due-10}}
-\addcontentsline{toc}{subsubsection}{Assignments Due}
-
-\begin{itemize}
-\tightlist
-\item
-  Response Paper 03 (Google Classroom)
-\end{itemize}
-
-\hypertarget{honors-week-14}{%
-\section*{Honors Week 14}\label{honors-week-14}}
-\addcontentsline{toc}{section}{Honors Week 14}
-
-\hypertarget{lecture-21---monday-november-25th-1}{%
-\subsection*{\texorpdfstring{Lecture 21 - Monday, November 25\textsuperscript{th}}{Lecture 21 - Monday, November 25th}}\label{lecture-21---monday-november-25th-1}}
-\addcontentsline{toc}{subsection}{Lecture 21 - Monday, November 25\textsuperscript{th}}
-
-\hypertarget{assignments-due-11}{%
-\subsubsection*{Assignments Due}\label{assignments-due-11}}
-\addcontentsline{toc}{subsubsection}{Assignments Due}
-
-\begin{itemize}
-\tightlist
-\item
-  Draft of Op-Ed (Google Classroom)
-\end{itemize}
-
-\hypertarget{honors-week-16}{%
-\section*{Honors Week 16}\label{honors-week-16}}
-\addcontentsline{toc}{section}{Honors Week 16}
-
-\begin{rmdwarning}
-The final seminar meeting will take place on December 9th from 2:30pm
-until 3:30pm.
-\end{rmdwarning}
-
-\hypertarget{final-seminar---monday-december-9th}{%
-\subsection*{\texorpdfstring{Final Seminar - Monday, December 9\textsuperscript{th}}{Final Seminar - Monday, December 9th}}\label{final-seminar---monday-december-9th}}
-\addcontentsline{toc}{subsection}{Final Seminar - Monday, December 9\textsuperscript{th}}
-
-\hypertarget{assignments-due-12}{%
-\subsubsection*{Assignments Due}\label{assignments-due-12}}
-\addcontentsline{toc}{subsubsection}{Assignments Due}
-
-\begin{itemize}
-\tightlist
-\item
-  Final Op-Ed (Google Classroom)
-\end{itemize}
-
 \bibliography{book.bib,packages.bib}
-
 
 \end{document}
