@@ -41,8 +41,8 @@ knitr::kable(
 
 #### Readings {-}
 
-* Andersen, Chapter 1 - "The Sociological Perspective" (<a href="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
-* Carter, Gregg L. 2009. "A Primer on Critical Reading." Pp. 1-5 in *Empirical Approaches to Sociology: A Collection of Classic and Contemporary Readings*, edited by G.L. Carter. 5^th^ ed. New York, NY: Pearson. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Andersen, Chapter 1 - "The Sociological Perspective" (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
+* Carter, Gregg L. 2009. "A Primer on Critical Reading." Pp. 1-5 in *Empirical Approaches to Sociology: A Collection of Classic and Contemporary Readings*, edited by G.L. Carter. 5^th^ ed. New York, NY: Pearson. (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
 
 #### Assignments Due {-}
 
@@ -73,8 +73,8 @@ knitr::kable(
 
 #### Readings {-}
 
-* Phelan, Jo C., Bruce Link, and Parisa Tehranifar. 2010. "Social Conditions as Fundamental Causes of Health Inequalities: Theory, Evidence, and Policy Implications." *Journal of Health and Social Behavior* 51(S):S28-S40. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
-* *Mama* - Preface and Introduction (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Phelan, Jo C., Bruce Link, and Parisa Tehranifar. 2010. "Social Conditions as Fundamental Causes of Health Inequalities: Theory, Evidence, and Policy Implications." *Journal of Health and Social Behavior* 51(S):S28-S40. (<a href="http://ezp.slu.edu/login?url=http://www.jstor.org/stable/20798314" target="_blank">Link (login required)</a>)
+* *Mama* - Preface and Introduction (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
 
 #### Assignments Due {-}
 

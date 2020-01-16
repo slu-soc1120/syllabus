@@ -44,6 +44,7 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 
 * December 17^th^, 2019 - Initial Spring 2020 draft
 * January 12^th^, 2020 - Update office hours
+* January 16^th^, 2020 - Fix footnotes and note icon
 
 ## License {-}
 Copyright © 2016-2020 [Christopher G. Prener](https://chris-prener.github.io)
