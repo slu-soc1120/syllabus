@@ -1,0 +1,510 @@
+# Lecture Schedule
+
+Select a lecture from the menu to see details about topics, readings, and assignments. Additional notes and links to course materials are available through the [Google Classroom](https://classroom.google.com), which has dedicated pages for each lecture. Links to these pages are included on each lecture's reading list entry. 
+
+The primary readings will be referred to with an abbreviation each time they appear in the reading list:
+
+\begin{table}
+
+\caption{(\#tab:unnamed-chunk-1)SOC 1120 Primary Readings}
+\centering
+\begin{tabular}[t]{ll}
+\toprule
+Abbreviation & Citation\\
+\midrule
+Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9\textasciicircum{}th\textasciicircum{} edition. Independence, KY: Cengage.\\
+*Mamma* & Abraham, Laurie K. 2019. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press.\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\newpage
+## Week 01 {-}
+
+### Lecture 01 - Monday, January 13^th^ {-}
+
+#### Topics {-}
+
+* Course Introduction
+
+
+
+### Lecture 02 - Wednesday, January 15^th^ {-}
+
+#### Topics {-}
+
+* Sociological Theory
+* Inequality & Health
+
+#### Documentary {-}
+
+*  *Unnatural Causes*, Part 1 - "In Sickness and in Wealth" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
+
+#### Readings {-}
+
+* Andersen, Chapter 1 - "The Sociological Perspective" (<a href="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Carter, Gregg L. 2009. "A Primer on Critical Reading." Pp. 1-5 in *Empirical Approaches to Sociology: A Collection of Classic and Contemporary Readings*, edited by G.L. Carter. 5^th^ ed. New York, NY: Pearson. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+#### Assignments Due {-}
+
+* Entry Ticket - Student Information Sheet (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
+
+\newpage
+## Week 02 {-}
+
+### *No Class* - Monday, January 20^th^ - Martin Luther King, Jr. Day {-}
+
+#### Topics {-}
+
+* Rev. Dr. Martin Luther King, Jr.'s Legacy
+
+#### Readings {-}
+
+* King, Jr., Martin Luther. 1963. ``Letter from Birmingham Jail.'' (<a href="https://web.cn.edu/kwheeler/documents/Letter_Birmingham_Jail.pdf" target="_blank">Read</a>, <a href="http://okra.stanford.edu/transcription/audio/630416001.mp3" target="_blank">Listen</a>)
+* King, Jr., Martin Luther. 1967. ``Beyond Vietnam.'' (<a href="https://kinginstitute.stanford.edu/king-papers/documents/beyond-vietnam" target="_blank">Read</a>, <a href="http://okra.stanford.edu/media/audio/1967_04_04_beyond_vietnam.mp3" target="_blank">Listen</a>)
+
+
+
+### Lecture 03 - Wednesday, January 22^nd^ {-}
+
+#### Topics {-}
+
+* Social Science Research - The Sociological Imagination
+* Theory and Health - Fundamental Cause Theory
+
+#### Readings {-}
+
+* Phelan, Jo C., Bruce Link, and Parisa Tehranifar. 2010. "Social Conditions as Fundamental Causes of Health Inequalities: Theory, Evidence, and Policy Implications." *Journal of Health and Social Behavior* 51(S):S28-S40. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* *Mama* - Preface and Introduction (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+#### Assignments Due {-}
+
+* Entry Ticket - Reflecting on Rev. Dr. Martin Luther King, Jr.'s Legacy (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
+
+\newpage
+## Week 03 {-}
+
+### Lecture 04 - Monday, January 27^th^ {-}
+
+#### Topics {-}
+
+* Social Science Research - Praxis and Method
+* What is Culture?
+
+#### Readings {-}
+
+* Anderson, Chapter 2
+* Anderson, Chapter 3 - "Doing Sociological Research", pp. 57-72 
+    * read up to "Research Ethics: Is Sociology Value Free?"
+
+
+
+### Lecture 05 - Wednesday, January 29^th^ {-}
+
+#### Topics {-}
+
+* Social Science Research - Research Ethics
+* Culture & Health
+
+#### Documentary {-}
+
+*  *Unnatural Causes*, Part 3 - "Becoming Americans" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
+
+#### Readings {-}
+
+* Acevedo-Garcia, Dolores and Lisa M. Bates. 2008. "Latino Health Paradoxes: Empirical Evidence, Explanations, Future Research, and Implications." Pp. 101-113 in *Latinas/os in the United States: Changing the Face of América*, edited by H. Rodríguez, R. Sáenz, and C. Menjívar. New York: Springer. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Anderson, Chapter 3 - "Doing Sociological Research", pp. 72-74 
+    * read "Research Ethics: Is Sociology Value Free?"
+
+\newpage
+## Week 04 {-}
+
+### Lecture 06 - Monday, February 3^rd^ {-}
+
+#### Topics {-}
+
+* Nature, Nurture, & Socialization
+
+#### Readings {-}
+
+* Anderson, Chapter 4 - "Socialization and the Life Course", pp. 77-79 
+    * read through the end of "The Nature-Nurture Controversy"
+* Bearman, Peter. 2008. "Introduction: Exploring Genetics and Social Structure." *American Journal of Sociology* 114(S1):v-x. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+
+
+### Lecture 07 - Wednesday, February 5^th^ {-}
+
+#### Topics {-}
+
+* The Socialization Process
+* The Life Course Perspective
+
+#### Readings {-}
+
+* Anderson, Chapter 4 - "Socialization and the Life Course", pp. 80-101 
+* Braveman, Paula and Colleen Barclay. 2009. "Health Disparities Beginning in Childhood: A Life-Course Perspective." *Pediatrics* 123(S3):S163-S175. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+\newpage
+## Week 05 {-}
+
+### Exam 1  - Monday, February 10^th^ {-}
+
+#### Topics {-}
+
+* covers Lectures 1 through 7, all associated readings and documentaries, and the MLK Day assignment
+
+
+
+### Lecture 08 - Wednesday, February 12^th^ {-}
+
+#### Topics {-}
+
+* Structure & Structural Inequalities
+
+#### Readings {-}
+
+* Andersen, Chapter 5 - "Social Structure and Social Interaction"
+
+\newpage
+## Week 06 {-}
+
+### Lecture 09 - Monday, February 17^th^ {-}
+
+#### Topics {-}
+
+* The Social Construction of Health
+* Medicalization
+
+#### Readings {-}
+
+* Conrad, Peter and Kristin K. Barker. 2010. "The Social Construction of Illness: Key Insights and Policy Implications." *Journal of Health and Social Behavior* 51(S):S67-S79. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+
+
+### Lecture 10 - Wednesday, February 19^th^ {-}
+
+#### Topics {-}
+
+* Urban Sociology
+
+#### Readings {-}
+
+* For the Sake of All Project. 2018. *Segregation in St. Louis: Dismantling the Divide.* St. Louis, MO: Washington University in St. Louis and Saint Louis University. (<a href="https://forthesakeofall.org/wp-content/uploads/2018/04/SegregationinSTL_DismantlingDivideReport.pdf" target="_blank">Link</a>)
+    * Chapter 1 - "Segregation at the center", pp. 4-13
+    * Chapter 2 - "St. Louis: A city of promise, a history of segregation", pp. 14-25
+    * Chapter 5 - "Segregation in St. Louis today", pp. 64-85
+
+\newpage
+## Week 07 {-}
+
+### Lecture 11 - Monday, February 24^th^ {-}
+
+#### Topics {-}
+
+* Neighborhoods & Health
+* Urban Health Disparities in St. Louis
+
+#### Readings {-}
+
+* For the Sake of All Project. 2015. *For the Sake of All: A report on the health and well-being of African Americans in St. Louis and why it matters for everyone.* St. Louis, MO: Washington University in St. Louis and Saint Louis University. (<a href="https://forthesakeofall.org/wp-content/uploads/2016/06/FSOA_report_2.pdf" target="_blank">Link</a>)
+    * Chapter 1 - "Introduction: Why consider economics, education, and health together?", pp. 10-15
+    * Chapter 3 - "Place matters: Neighborhood resources and health", pp. 26-33
+    * Chapter 5 - "A health profile of African Americans in St. Louis", pp. 46-67
+
+
+
+### QHQ 1 - Wednesday, February 26^th^ {-}
+
+#### Topics {-}
+
+* Discussion - *Mama Might Be Better Off Dead*, Part 1
+
+#### Readings {-}
+
+* Abraham - Chapters 1 through 5
+
+#### Assignments Due {-}
+
+* QHQ 1 (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
+    * see the QHQ Group assignments on Google Classroom for which chapter you should write about
+    
+\newpage    
+## Week 08 {-}
+
+### Lecture 12 - Monday, March 2^nd^ {-}
+
+#### Topics {-}
+
+* The Social Construction of Deviance
+* Disparities in Crime
+
+#### Readings {-}
+
+* Andersen, Chapter 7 - "Deviance and Crime", pp. 147-160
+    * read through the end of "Measuring Crime: How Much Is There?"
+
+
+
+### Lecture 13 - Wednesday, March 4^th^ {-}
+
+#### Topics {-}
+
+* The War on Drugs
+* Social Responses to Crime
+* The Mark of a Criminal Record
+
+#### Readings {-}
+
+* Anderson, Chapter 7 - "Deviance and Crime", pp. 160-167
+    * read from "Types of Crime" onward
+* Bourgois, Phillipe. 2008. "The Mystery of Marijuana: Science and the U.S. War on Drugs." Substance Use and Misuse 43: 581-583. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+\newpage
+## Week 09 {-}
+
+### *No Class* - Spring Break {-}
+
+#### Topics {-}
+
+* Michael Brown's Death
+
+#### Readings {-}
+
+* Civil Rights Division. 2015. *Investigation of the Ferguson Police Department*. Washington, DC: U.S. Department of Justice. (<a href="https://www.justice.gov/sites/default/files/opa/press-releases/attachments/2015/03/04/ferguson_police_department_report.pdf" target="_blank">Link</a>)
+    * Part 1 - "Report Summary", pp. 1-6
+    * Part 2 - "Background", pp 6-9
+    * Part 3 - "Ferguson Law Enforcement Efforts Are Focused on Generating Revenue", pp. 9-15
+
+\newpage
+## Week 10 {-}
+
+### Lecture 14 - Monday, March 16^th^ {-}
+
+#### Topics {-}
+
+* What is Social Class?
+
+#### Readings {-}
+
+* Andersen, Chapter 8 - "Social Class and Social Stratification"
+
+#### Assignments Due {-}
+
+* Entry Ticket - Contextualizing Michael Brown (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
+
+
+
+### *No Class* - Wednesday, March 18^th^ {-}
+
+\newpage
+## Week 11 {-}
+
+### Lecture 15 - Monday, March 23^rd^ {-}
+
+#### Topics {-}
+
+* Stratification and Health
+
+#### Readings {-}
+
+* Dow, William H. and David H. Rehkopf. 2010. "Socioeconomic gradients in health in international and historical context." *Annals of the New York Academy of Sciences* 1186:24-36. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+
+
+### Exam 02 - Wednesday, March 25^th^ {-}
+
+#### Topics {-}
+
+* covers Lectures 8 through 15, all associated readings and documentaries, and the Spring Break reading
+
+\newpage
+## Week 12 {-}
+
+### Lecture 16 - Monday, March 30^th^ {-}
+
+#### Topics {-}
+
+* The Social Construction of Race
+
+#### Readings {-}
+
+* Andersen, Chapter 10 - "Race and Ethnicity"
+
+
+
+### Lecture 17 - Wednesday, April 1^st^ {-}
+
+#### Topics {-}
+
+* Racial Disparities in Health
+
+#### Readings {-}
+
+* Cooper, Richard S., Jay S. Kaufman, and Ryk Ward. 2003. "Race and Genomics." *New England Journal of Medicine* 348(12):1166-1170. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Williams, David R. and Michelle Sternthal. 2010. "Understanding Racial-ethnic Disparities in Health : Sociological Contributions." *Journal of Health and Social Behavior* 51(S):S15-S27. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+\newpage
+## Week 13 {-}
+
+### Lecture 18 - Monday, April 6^th^ {-}
+
+#### Topics {-}
+
+* Gender and Health
+
+#### Readings {-}
+
+* Andersen, Chapter 11 - "Gender"
+* Krieger, Nancy. 2003. "Genders, Sexes, and Health: What Are the Connections - and Why Does It Matter?" *International Journal of Epidemiology* 32(4):652-657. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+
+
+### QHQ 2 - Wednesday, April 8^th^ {-}
+
+#### Topics {-}
+
+* Discussion - *Mama Might Be Better Off Dead*, Part 2
+
+#### Readings {-}
+
+* Abraham - Chapters 6 through 10
+
+#### Assignments Due {-}
+
+* QHQ 2 (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
+    * see the QHQ Group assignments on Google Classroom for which chapter you should write about
+    
+\newpage
+## Week 14 {-}
+
+### *No Class* - Monday, April 13^th^ - Easter Break {-}
+
+#### Topics {-}
+
+* Sociology of Religion
+
+#### Readings {-}
+
+Pick *one* of the following:
+
+* Edgell, Penny. 2012. "A cultural sociology of religion: New directions." *Annual Review of Sociology* 38: 247-265. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Wilde, Melissa and Lindsay Glassman. 2016. "How complex religion can improve our understanding of American politics." *Annual Review of Sociology* 42: 407-425.
+* Winstead, Kevin. 2017. "'Authentically Black, and Truly Catholic': A survey of the study on Black Catholics." *Sociology Compass* 11(10): e12517. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+
+
+### Lecture 19 - Wednesday, April 15^th^ {-}
+
+#### Topics {-}
+
+* The Health Care Experience
+
+#### Readings {-}
+
+* Boyer, Carol A. and Karen E. Lutfey. 2010. "Examining Critical Health Policy Issues within and beyond the Clinical Encounter: Patient--Provider Relationships and Help-seeking Behaviors." *Journal of Health and Social Behavior* 51(S):S80-S93. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Spencer, Karen Lutfey and Matthew Grace. 2016. "Social Foundations of Health Care Inequality and Treatment Bias." *Annual Review of Sociology* 42:101-120. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+#### Assignments Due {-}
+
+* Entry Ticket - Sociology of Religion (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
+    
+\newpage     
+## Week 15 {-}
+
+### Lecture 20 - Monday, April 20^th^ {-}
+
+#### Topics {-}
+
+* Native American Health
+
+#### Documentary {-}
+
+*  *Unnatural Causes*, Part 3 - "Bad Sugar" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
+
+#### Readings {-}
+
+* Jones, David S. 2006. "The persistence of American Indian health disparities." *American Journal of Public Health* 96(12): 2122-2134. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Sarche, Michelle, and Paul Spicer. 2008. "Poverty and health disparities for American Indian and Alaska Native children." *Annals of the New York Academy of Sciences* 1136(1): 126-136. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+
+
+### Lecture 21 - Wednesday, April 22^nd^ {-}
+
+#### Topics {-}
+
+* Intersectionality and Health: Race, Class, Gender, and Birth Weight
+
+#### Documentary {-}
+
+*  *Unnatural Causes*, Part 2 - "When the Bough Breaks" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
+
+#### Readings {-}
+
+* Collins, Jr, James W. et al. 2004. "Very Low Birthweight in African American Infants: The Role of Maternal Exposure to Interpersonal Racial Discrimination." *American Journal of Public Health* 94(12):2132-2138. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* David, Richard J. and James W. Collins, Jr. 1997. "Differing Birth Weight among Infants of U.S.-Born Blacks, African-Born Blacks, and U.S.-Born Whites." *The New England Journal of Medicine* 337:1209-1214. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+\newpage
+## Week 16 {-}
+
+### Lecture 22 - Monday, April 27^th^ {-}
+
+#### Topics {-}
+
+* Globalization, Economic Change, and Health
+
+#### Documentary {-}
+
+*  *Unnatural Causes*, Part 7 - "Not Just a Paycheck" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
+
+#### Readings {-}
+
+* Reeves, Aaron, et al. 2012. "Increase in state suicide rates in the USA during economic recession." *The Lancet* 380(9856): 1813-1814. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Suhrcke, Marc, and David Stuckler.  2012. "Will the recession be bad for our health? It depends." *Social Science and Medicine* 74(5): 647. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+
+
+### QHQ 3 - Wednesday, April 29^th^ {-}
+
+#### Topics {-}
+
+* Discussion - *Mama Might Be Better Off Dead*, Part 3
+
+#### Readings {-}
+
+* Abraham - Chapters 11 through *Epilogue*
+
+#### Assignments Due {-}
+
+* QHQ 3 (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
+    * see the QHQ Group assignments on Google Classroom for which chapter you should write about
+
+\newpage
+## Week 17 {-}
+
+### Lecture 23 - Monday, May 4^th^ {-}
+
+#### Topics {-}
+
+* Health Care Reform
+* Course Conclusion
+
+#### Readings {-}
+
+* Quadagno, Jill. 2010. "Institutions, Interest Groups, and Ideology: An Agenda for the Sociology of Health Care Reform." *Journal of Health and Social Behavior* 51(2):125-136. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Williams, David. 2010. "Beyond The Affordable Care Act: Achieving Real Improvements In Americans’ Health." *Health Affairs* 29(8):1481-1488. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+
+
+
+### Exam 3 - Monday, May 6^th^ {-}
+
+\begin{rmdwarning}
+The time for Exam 3 is different than for the rest of the course - it
+will be held from 2:00pm until 3:50pm. The length will not be any
+different than the other exams, however, so most students should be
+finished prior to the official end time.
+\end{rmdwarning}
+
+#### Topics {-}
+
+* covers Lectures 16 through 23, including all associated readings and documentaries
