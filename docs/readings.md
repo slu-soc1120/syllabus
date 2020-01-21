@@ -4,19 +4,13 @@ Select a lecture from the menu to see details about topics, readings, and assign
 
 The primary readings will be referred to with an abbreviation each time they appear in the reading list:
 
-\begin{table}
 
-\caption{(\#tab:unnamed-chunk-1)SOC 1120 Primary Readings}
-\centering
-\begin{tabular}[t]{ll}
-\toprule
-Abbreviation & Citation\\
-\midrule
-Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9\textasciicircum{}th\textasciicircum{} edition. Independence, KY: Cengage.\\
-*Mamma* & Abraham, Laurie K. 2019. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press.\\
-\bottomrule
-\end{tabular}
-\end{table}
+Table: (\#tab:unnamed-chunk-1)SOC 1120 Primary Readings
+
+Abbreviation   Citation                                                                                                                                             
+-------------  -----------------------------------------------------------------------------------------------------------------------------------------------------
+Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9^th^ edition. Independence, KY: Cengage.                 
+*Mamma*        Abraham, Laurie K. 2019. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press. 
 
 \newpage
 ## Week 01 {-}
@@ -27,7 +21,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 * Course Introduction
 
-
+---
 
 ### Lecture 02 - Wednesday, January 15^th^ {-}
 
@@ -63,7 +57,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 * King, Jr., Martin Luther. 1963. ``Letter from Birmingham Jail.'' (<a href="https://web.cn.edu/kwheeler/documents/Letter_Birmingham_Jail.pdf" target="_blank">Read</a>, <a href="http://okra.stanford.edu/transcription/audio/630416001.mp3" target="_blank">Listen</a>)
 * King, Jr., Martin Luther. 1967. ``Beyond Vietnam.'' (<a href="https://kinginstitute.stanford.edu/king-papers/documents/beyond-vietnam" target="_blank">Read</a>, <a href="http://okra.stanford.edu/media/audio/1967_04_04_beyond_vietnam.mp3" target="_blank">Listen</a>)
 
-
+---
 
 ### Lecture 03 - Wednesday, January 22^nd^ {-}
 
@@ -74,7 +68,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 #### Readings {-}
 
-* Phelan, Jo C., Bruce Link, and Parisa Tehranifar. 2010. "Social Conditions as Fundamental Causes of Health Inequalities: Theory, Evidence, and Policy Implications." *Journal of Health and Social Behavior* 51(S):S28-S40. (<a href="http://ezp.slu.edu/login?url=http://www.jstor.org/stable/20798314" target="_blank">Link (login required)</a>)
+* Phelan, Jo C., Bruce Link, and Parisa Tehranifar. 2010. "Social Conditions as Fundamental Causes of Health Inequalities: Theory, Evidence, and Policy Implications." *Journal of Health and Social Behavior* 51(S):S28-S40. (<a href="http://ezp.slu.edu/login?url=http://www.jstor.org/stable/20798314" target="_blank">Link</a>)
 * *Mama* - Preface and Introduction (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
 
 #### Assignments Due {-}
@@ -97,7 +91,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 * Anderson, Chapter 3 - "Doing Sociological Research", pp. 57-72 
     * read up to "Research Ethics: Is Sociology Value Free?"
 
-
+---
 
 ### Lecture 05 - Wednesday, January 29^th^ {-}
 
@@ -112,7 +106,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 #### Readings {-}
 
-* Acevedo-Garcia, Dolores and Lisa M. Bates. 2008. "Latino Health Paradoxes: Empirical Evidence, Explanations, Future Research, and Implications." Pp. 101-113 in *Latinas/os in the United States: Changing the Face of América*, edited by H. Rodríguez, R. Sáenz, and C. Menjívar. New York: Springer. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Acevedo-Garcia, Dolores and Lisa M. Bates. 2008. "Latino Health Paradoxes: Empirical Evidence, Explanations, Future Research, and Implications." Pp. 101-113 in *Latinas/os in the United States: Changing the Face of América*, edited by H. Rodríguez, R. Sáenz, and C. Menjívar. New York: Springer. (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
 * Anderson, Chapter 3 - "Doing Sociological Research", pp. 72-74 
     * read "Research Ethics: Is Sociology Value Free?"
 
@@ -129,9 +123,9 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 * Anderson, Chapter 4 - "Socialization and the Life Course", pp. 77-79 
     * read through the end of "The Nature-Nurture Controversy"
-* Bearman, Peter. 2008. "Introduction: Exploring Genetics and Social Structure." *American Journal of Sociology* 114(S1):v-x. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Bearman, Peter. 2008. "Introduction: Exploring Genetics and Social Structure." *American Journal of Sociology* 114(S1):v-x. (<a href="http://ezp.slu.edu/login?url=http://www.jstor.org/stable/10.1086/596596" target="_blank">Link</a>)
 
-
+---
 
 ### Lecture 07 - Wednesday, February 5^th^ {-}
 
@@ -143,7 +137,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 #### Readings {-}
 
 * Anderson, Chapter 4 - "Socialization and the Life Course", pp. 80-101 
-* Braveman, Paula and Colleen Barclay. 2009. "Health Disparities Beginning in Childhood: A Life-Course Perspective." *Pediatrics* 123(S3):S163-S175. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Braveman, Paula and Colleen Barclay. 2009. "Health Disparities Beginning in Childhood: A Life-Course Perspective." *Pediatrics* 123(S3):S163-S175. (<a href="http://pediatrics.aappublications.org.ezp.slu.edu/content/124/Supplement_3/S163" target="_blank">Link</a>)
 
 \newpage
 ## Week 05 {-}
@@ -154,7 +148,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 * covers Lectures 1 through 7, all associated readings and documentaries, and the MLK Day assignment
 
-
+---
 
 ### Lecture 08 - Wednesday, February 12^th^ {-}
 
@@ -180,7 +174,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 * Conrad, Peter and Kristin K. Barker. 2010. "The Social Construction of Illness: Key Insights and Policy Implications." *Journal of Health and Social Behavior* 51(S):S67-S79. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
-
+---
 
 ### Lecture 10 - Wednesday, February 19^th^ {-}
 
@@ -212,7 +206,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
     * Chapter 3 - "Place matters: Neighborhood resources and health", pp. 26-33
     * Chapter 5 - "A health profile of African Americans in St. Louis", pp. 46-67
 
-
+---
 
 ### QHQ 1 - Wednesday, February 26^th^ {-}
 
@@ -244,7 +238,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 * Andersen, Chapter 7 - "Deviance and Crime", pp. 147-160
     * read through the end of "Measuring Crime: How Much Is There?"
 
-
+---
 
 ### Lecture 13 - Wednesday, March 4^th^ {-}
 
@@ -293,7 +287,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 * Entry Ticket - Contextualizing Michael Brown (<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>)
 
-
+---
 
 ### *No Class* - Wednesday, March 18^th^ {-}
 
@@ -310,7 +304,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 * Dow, William H. and David H. Rehkopf. 2010. "Socioeconomic gradients in health in international and historical context." *Annals of the New York Academy of Sciences* 1186:24-36. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
-
+---
 
 ### Exam 02 - Wednesday, March 25^th^ {-}
 
@@ -331,7 +325,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 
 * Andersen, Chapter 10 - "Race and Ethnicity"
 
-
+---
 
 ### Lecture 17 - Wednesday, April 1^st^ {-}
 
@@ -358,7 +352,7 @@ Anderson & Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociol
 * Andersen, Chapter 11 - "Gender"
 * Krieger, Nancy. 2003. "Genders, Sexes, and Health: What Are the Connections - and Why Does It Matter?" *International Journal of Epidemiology* 32(4):652-657. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
-
+---
 
 ### QHQ 2 - Wednesday, April 8^th^ {-}
 
@@ -392,7 +386,7 @@ Pick *one* of the following:
 * Wilde, Melissa and Lindsay Glassman. 2016. "How complex religion can improve our understanding of American politics." *Annual Review of Sociology* 42: 407-425.
 * Winstead, Kevin. 2017. "'Authentically Black, and Truly Catholic': A survey of the study on Black Catholics." *Sociology Compass* 11(10): e12517. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
-
+---
 
 ### Lecture 19 - Wednesday, April 15^th^ {-}
 
@@ -427,7 +421,7 @@ Pick *one* of the following:
 * Jones, David S. 2006. "The persistence of American Indian health disparities." *American Journal of Public Health* 96(12): 2122-2134. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 * Sarche, Michelle, and Paul Spicer. 2008. "Poverty and health disparities for American Indian and Alaska Native children." *Annals of the New York Academy of Sciences* 1136(1): 126-136. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
-
+---
 
 ### Lecture 21 - Wednesday, April 22^nd^ {-}
 
@@ -462,7 +456,7 @@ Pick *one* of the following:
 * Reeves, Aaron, et al. 2012. "Increase in state suicide rates in the USA during economic recession." *The Lancet* 380(9856): 1813-1814. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 * Suhrcke, Marc, and David Stuckler.  2012. "Will the recession be bad for our health? It depends." *Social Science and Medicine* 74(5): 647. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
-
+---
 
 ### QHQ 3 - Wednesday, April 29^th^ {-}
 
@@ -494,16 +488,13 @@ Pick *one* of the following:
 * Quadagno, Jill. 2010. "Institutions, Interest Groups, and Ideology: An Agenda for the Sociology of Health Care Reform." *Journal of Health and Social Behavior* 51(2):125-136. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 * Williams, David. 2010. "Beyond The Affordable Care Act: Achieving Real Improvements In Americans’ Health." *Health Affairs* 29(8):1481-1488. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
 
-
+---
 
 ### Exam 3 - Monday, May 6^th^ {-}
 
-\begin{rmdwarning}
-The time for Exam 3 is different than for the rest of the course - it
-will be held from 2:00pm until 3:50pm. The length will not be any
-different than the other exams, however, so most students should be
-finished prior to the official end time.
-\end{rmdwarning}
+<div class="rmdwarning">
+<p>The time for Exam 3 is different than for the rest of the course - it will be held from 2:00pm until 3:50pm. The length will not be any different than the other exams, however, so most students should be finished prior to the official end time.</p>
+</div>
 
 #### Topics {-}
 

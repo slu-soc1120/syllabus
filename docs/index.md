@@ -1,7 +1,7 @@
 --- 
 title: "SOC 1120-02 and 02H: Introduction to Sociology - Diversity & Health"
 author: "Christopher Prener, Ph.D."
-date: "2020-01-16"
+date: "2020-01-20"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -45,6 +45,7 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 * December 17^th^, 2019 - Initial Spring 2020 draft
 * January 12^th^, 2020 - Update office hours
 * January 16^th^, 2020 - Fix footnotes and note icon; update week 1 and 2 reading links
+* January 20^th^, 2020 - Add direct links to week 3 and 4 readings
 
 ## License {-}
 Copyright © 2016-2020 [Christopher G. Prener](https://chris-prener.github.io)
