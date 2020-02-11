@@ -177,7 +177,7 @@ knitr::kable(
 
 #### Readings {-}
 
-* Conrad, Peter and Kristin K. Barker. 2010. "The Social Construction of Illness: Key Insights and Policy Implications." *Journal of Health and Social Behavior* 51(S):S67-S79. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Conrad, Peter and Kristin K. Barker. 2010. "The Social Construction of Illness: Key Insights and Policy Implications." *Journal of Health and Social Behavior* 51(S):S67-S79. (<a href="http://ezp.slu.edu/login?url=https://www.jstor.org/stable/20798317" target="_blank">Link</a>)
 
 ---
 
@@ -257,7 +257,7 @@ knitr::kable(
 
 * Anderson, Chapter 7 - "Deviance and Crime", pp. 160-167
     * read from "Types of Crime" onward
-* Bourgois, Phillipe. 2008. "The Mystery of Marijuana: Science and the U.S. War on Drugs." Substance Use and Misuse 43: 581-583. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Bourgois, Phillipe. 2008. "The Mystery of Marijuana: Science and the U.S. War on Drugs." Substance Use and Misuse 43: 581-583. (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=s3h&AN=31417063&site=eds-live" target="_blank">Pius Library</a>)
 
 \newpage
 ## Week 09 {-}
@@ -307,7 +307,7 @@ knitr::kable(
 
 #### Readings {-}
 
-* Dow, William H. and David H. Rehkopf. 2010. "Socioeconomic gradients in health in international and historical context." *Annals of the New York Academy of Sciences* 1186:24-36. (<a hhref="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+* Dow, William H. and David H. Rehkopf. 2010. "Socioeconomic gradients in health in international and historical context." *Annals of the New York Academy of Sciences* 1186:24-36. (<a hhref="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edselc&AN=edselc.2-52.0-77249121135&site=eds-live" target="_blank">Pius Library</a>)
 
 ---
 
