@@ -92,19 +92,19 @@ Op-eds will be submitted by **Monday, May 4^th^** via Google Classroom. Each op-
 
 Table: (\#tab:unnamed-chunk-4)SOC 1120 Honors Seminar Topics
 
-Week    Topic                                                  
-------  -------------------------------------------------------
-02      Theory & Health                                        
-03      Culture                                                
-04      Socialization                                          
-05/06   Social Structure                                       
-06/07   Urban Sociology                                        
-08      Crime & Deviance                                       
-09/10   Class & Stratification                                 
-11      Race & Ethnicity                                       
-12      Gender & Sexuality                                     
-13      The Health Care Experience **or** Indigenous Americans 
-14      Intersectionality & Health                             
+|Week  |Topic                                                  |
+|:-----|:------------------------------------------------------|
+|02    |Theory & Health                                        |
+|03    |Culture                                                |
+|04    |Socialization                                          |
+|05/06 |Social Structure                                       |
+|06/07 |Urban Sociology                                        |
+|08    |Crime & Deviance                                       |
+|09/10 |Class & Stratification                                 |
+|11    |Race & Ethnicity                                       |
+|12    |Gender & Sexuality                                     |
+|13    |The Health Care Experience **or** Indigenous Americans |
+|14    |Intersectionality & Health                             |
 
 ## Honors Grading
 
@@ -113,14 +113,14 @@ The following point totals supersede the information on the main syllabus under 
 
 Table: (\#tab:unnamed-chunk-5)SOC 1120 Honors Points Breakdown
 
-Assignment               Points    Quantity   Total     Percent 
------------------------  --------  ---------  --------  --------
-Participation            25 pts    x2         50 pts    6.25%   
-QHQs                     75 pts    x2         150 pts   18.70%  
-Exams                    100 pts   x3         300 pts   37.50%  
-Honors Participation     25 pts    x2         50 pts    6.25%   
-Honors Op-Ed             70 pts    x1         70 pts    8.75%   
-Honors Response Papers   60 pts    x3         180 pts   22.50%  
+|Assignment             |Points  |Quantity |Total   |Percent |
+|:----------------------|:-------|:--------|:-------|:-------|
+|Participation          |25 pts  |x2       |50 pts  |6.25%   |
+|QHQs                   |75 pts  |x2       |150 pts |18.70%  |
+|Exams                  |100 pts |x3       |300 pts |37.50%  |
+|Honors Participation   |25 pts  |x2       |50 pts  |6.25%   |
+|Honors Op-Ed           |70 pts  |x1       |70 pts  |8.75%   |
+|Honors Response Papers |60 pts  |x3       |180 pts |22.50%  |
 
 The information listed in Sections 4.4.1 through 4.4.3 still applies to honors students, except that incompletes are based on 530 points of work being submitted. For honors students, midterm grades will be calculated out of a total of **TBA** possible points, a "week 16" grade will be calculated out of 700 possible points (all grades except the third exam), and the final grade will be calculated out of 800 possible points. Extra credit will be factored into the "week 16" and final grades. Point totals that convert to the midterm, "week 16," and final grades will be posted to Google Classroom.
 

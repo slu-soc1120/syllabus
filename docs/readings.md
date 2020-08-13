@@ -7,10 +7,10 @@ The primary readings will be referred to with an abbreviation each time they app
 
 Table: (\#tab:unnamed-chunk-1)SOC 1120 Primary Readings
 
-Abbreviation   Citation                                                                                                                                             
--------------  -----------------------------------------------------------------------------------------------------------------------------------------------------
-Anderson       Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9^th^ edition. Independence, KY: Cengage.                 
-*Mamma*        Abraham, Laurie K. 2019. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press. 
+|Abbreviation |Citation                                                                                                                                             |
+|:------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
+|Anderson     |Andersen, Margaret, Howard F. Taylor, and Kim A. Logio. 2016. *Sociology: The Essentials*. 9^th^ edition. Independence, KY: Cengage.                 |
+|*Mamma*      |Abraham, Laurie K. 2019. *Mama Might Be Better Off Dead: The Failure of Health Care in Urban America*. Chicago, IL: The University of Chicago Press. |
 
 \newpage
 ## Week 01 {-}

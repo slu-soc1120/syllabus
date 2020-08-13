@@ -1,7 +1,7 @@
 --- 
 title: "SOC 1120-02 and 02H: Introduction to Sociology - Diversity & Health"
 author: "Christopher Prener, Ph.D."
-date: "2020-02-11"
+date: "2020-08-13"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -15,9 +15,9 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 ### Course Meetings {-}
 
-*When:* Mondays and Wednesdays, 2:10pm to 3:25pm
+*When:* Tuesdays and Thursdays, 11:00am CST to 12:15pm CST
 
-*Where:* 0400 Morrissey Hall
+*Where:*  Zoom (see <a href = "https://blackboard.slu.edu" target = "_blank">Blackboard</a> for the link and password)
 
 ### Course Website {-}
 
@@ -25,27 +25,24 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 ### Course Materials {-}
 
-<https://classroom.google.com> (you will need an invitation from Chris)
+<https://blackboard.slu.edu>
 
 ### Chris’s Information {-}
 
-*Office:* 1918 Morrissey Hall
+**Please note that I am not on-campus this semester due to the continuing COVID-19 pandemic.**
 
-*Email:* <chris.prener@slu.edu>
+**Email:** <chris.prener@slu.edu>
 
-*Office Hours, Drop-in:* Tuesdays, 11am-noon
+**Office Hours, Appointment Only:** Thursdays, 9am-10am via Zoom; <a href = "https://calendly.com/chris-prener" target = "_blank">sign-up via Calendly</a> to recieve personalized calendar and Zoom invitations (SLU log-in required; SLU log-in required)
 
-*Office Hours, Appointment Only:* Tuesdays, 9am-noon, [sign-up via Calendly](https://calendly.com/chris-prener)
+**Office Hours, Drop-in:** Thursdays, 10am-10:45am via <a href = "https://slu.zoom.us/j/94750927433" target = "_blank">Zoom</a> (SLU log-in required; you will be admitted to a waiting room)
 
 ## Hard-copy Syllabus {-}
 If you would like to keep a record of the syllabus, there is a `.pdf` download button (<i class="fa fa-file-pdf-o"></i>) in the top toolbar.This document will contain a "snapshot" of the course policies and planned schedule as of the beginning of the semester but will not be subsequently updated. See the "Preface and Warning" on page 2 of the `.pdf` for additional details.
 
 ## Change Log {-}
 
-* December 17^th^, 2019 - Initial Spring 2020 draft
-* January 12^th^, 2020 - Update office hours
-* January 16^th^, 2020 - Fix footnotes and note icon; update week 1 and 2 reading links
-* January 20^th^, 2020 - Add direct links to week 3 and 4 readings
+* August 13^th^, 2019 - Initial Fall 2020 draft
 
 ## License {-}
 Copyright © 2016-2020 [Christopher G. Prener](https://chris-prener.github.io)

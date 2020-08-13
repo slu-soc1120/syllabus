@@ -74,11 +74,11 @@ I use a point system for calculating grades. The following table gives the weigh
 
 Table: (\#tab:unnamed-chunk-6)SOC 1120 Points Breakdown
 
-Assignment      Points    Quantity   Total     Percent 
---------------  --------  ---------  --------  --------
-Participation   25 pts    x2         50 pts    10%     
-QHQs            75 pts    x2         150 pts   30%     
-Exams           100 pts   x3         300 pts   60%     
+|Assignment    |Points  |Quantity |Total   |Percent |
+|:-------------|:-------|:--------|:-------|:-------|
+|Participation |25 pts  |x2       |50 pts  |10%     |
+|QHQs          |75 pts  |x2       |150 pts |30%     |
+|Exams         |100 pts |x3       |300 pts |60%     |
 
 All feedback will include grades that represent number of points earned. If you want to know your percentage on a particular assignment, divide the number of points earned by the number of points possible and then multiply it by 100.
 
@@ -101,24 +101,24 @@ letter grades will be calculated by taking the sum of all points earned and divi
   <tr>
    <td> 
 
-GPA   Letter   Percent       
-----  -------  --------------
-4.0   A        93.0% - 100%  
-3.7   A-       90.0% - 92.9% 
-3.3   B+       87.0% - 89.9% 
-3.0   B        83.0% - 86.9% 
-2.7   B-       80.0% - 82.9% 
+|GPA |Letter |Percent       |
+|:---|:------|:-------------|
+|4.0 |A      |93.0% - 100%  |
+|3.7 |A-     |90.0% - 92.9% |
+|3.3 |B+     |87.0% - 89.9% |
+|3.0 |B      |83.0% - 86.9% |
+|2.7 |B-     |80.0% - 82.9% |
 
  </td>
    <td> 
 
-GPA   Letter   Percent       
-----  -------  --------------
-2.3   C+       77.0% - 79.9% 
-2.0   C        73.0% - 76.9% 
-1.7   C-       70.0% - 72.9% 
-1.0   D        63.0% - 69.9% 
-0.0   F        < 63.0%       
+|GPA |Letter |Percent       |
+|:---|:------|:-------------|
+|2.3 |C+     |77.0% - 79.9% |
+|2.0 |C      |73.0% - 76.9% |
+|1.7 |C-     |70.0% - 72.9% |
+|1.0 |D      |63.0% - 69.9% |
+|0.0 |F      |< 63.0%       |
 
  </td>
   </tr>
