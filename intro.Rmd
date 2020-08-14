@@ -12,7 +12,7 @@ This course will survey the field of sociology, stressing important ideas, metho
 
 ## Two Courses, One Goal
 
-Students will quickly notice that this course has two numbers. SOC 1120-02 is the "regular" course section, and SOC 1120-02H is the honors section. If you are a [University Honors](https://www.slu.edu/honors/index.php) student, you may enroll in SOC 1120-05H if you wish to take this course for honors credit. Students in the honors section complete additional readings for three of the weeks, write several additional response papers, and give a presentation on a topic of their choice to the class. Additional details are include in the [honors supplement at the end of this document](/syllabus/honors-overview.html). Both courses have the same goal - to introduce students to the fundamentals of sociology through an emphasis on health and medicine.
+Students will quickly notice that this course has two numbers. SOC 1120-05 is the "regular" course section, and SOC 1120-05H is the honors section. If you are a [University Honors](https://www.slu.edu/honors/index.php) student, you may enroll in SOC 1120-05H if you wish to take this course for honors credit. Students in the honors section complete additional readings for three of the weeks, write several additional response papers, and give a presentation on a topic of their choice to the class. Additional details are include in the [honors supplement at the end of this document](/syllabus/honors-overview.html). Both courses have the same goal - to introduce students to the fundamentals of sociology through an emphasis on health and medicine.
 
 ## Course Objectives
 
@@ -49,8 +49,7 @@ There are two books required for this course. Each book has been selected to cor
     * I do not require students to buy physical copies of *Mama Might Be Better Off Dead.* You are free to select a means for accessing *Mama* that meets your budget and learning style.
 
 2. Khan, Shamus, Patrick Sharkey, and Gwen Sharp, eds. *<a href = "https://www.sociologyexperiment.com" target = "_blank">A Sociology Experiment*</a>; e-book only.
-    * This is a unique "textbook" where you purchase it by chapter instead of buying the entire book. Each chapter is written by one or more leading sociologists in the fields that the chapter covers.
-    * Purchasing these chapters requires access to a credit card. If you do not have access to one, or have a concern about accessing this non-traditional resource, please let me know as soon as possible!
+    * This is a unique "textbook" where you purchase it by chapter instead of buying the entire book. Each chapter is written by one or more leading sociologists in the fields that the chapter covers. Each chapter costs $1. If you have a concern about accessing this non-traditional resource, please let me know as soon as possible.
     * Once you purchase a chapter, you will be able to download a `.pdf` copy of the text to keep.
     * You will need to purchase the following Chapters:
       * All of Part 1- "A Sociology Experiment," "Research Methods," and "Social Structure and the Individual"

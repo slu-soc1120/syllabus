@@ -33,7 +33,7 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 **Email:** <chris.prener@slu.edu>
 
-**Office Hours, Appointment Only:** Thursdays, 9am-10am via Zoom; <a href = "https://calendly.com/chris-prener" target = "_blank">sign-up via Calendly</a> to recieve personalized calendar and Zoom invitations (SLU log-in required; SLU log-in required)
+**Office Hours, Appointment Only:** Thursdays, 9am-10am via Zoom; <a href = "https://calendly.com/chris-prener" target = "_blank">sign-up via Calendly</a> to receive personalized calendar and Zoom invitations (SLU log-in required; SLU log-in required)
 
 **Office Hours, Drop-in:** Thursdays, 10am-10:45am via <a href = "https://slu.zoom.us/j/94750927433" target = "_blank">Zoom</a> (SLU log-in required; you will be admitted to a waiting room)
 

@@ -8,7 +8,7 @@ My priority is that class periods are productive learning experiences for all st
   4. Do not engage in side conversations. This is disrespectful to the speaker (whether me or a classmate), and can affect the ability of others in the class to learn.
   5. Be respectful of your fellow classmates. Do not interrupt when someone is speaking, monopolize the conversation, or belittle the ideas or opinions of others. 
   6. Complete the assigned readings for each class in advance, and come prepared with discussion points and questions.
-  7. Follow my best practices for using <a href = "https://slu-soc1120.github.io/docs/start_zoom/#other-considerations" target = "_blank">Zoom</a> and <a href = "https://slu-soc1120.github.io/docs/start_blackboard/#netiqutte-considerations" target = "_blank">Blackboard</a>.
+  7. Follow my best practices for using <a href = "https://slu-soc1120.github.io/docs/start_zoom/#other-considerations" target = "_blank">Zoom</a> and <a href = "https://slu-soc1120.github.io/docs/start_blackboard/#netiquette-considerations" target = "_blank">Blackboard</a>.
     
 The following sections contain additional details about specific course policies related to attendance, participation, electronic device use, student support, academic honesty, and Title IX.
 
@@ -16,9 +16,9 @@ The following sections contain additional details about specific course policies
 
 We are in the midst of something very few Americans alive today have experienced before to this degree - a pandemic caused by a highly contagious virus called "SARS-CoV-2." This virus causes an illness called COVID-19. Not since the fall of 1919 have Saint Louis University students begun a semester quite like this one. I think acknowledging that we are all starting from varying places of exhaustion, stress, and anxiety is critical. To that end, I've written an <a href = "https://slu-soc1120.github.io/covid19/" target = "_blank">open letter to all of you</a> that I ask you to read before our first class. 
 
-Please, first and foremost focus on what matters and practice self care. Please follow SLU's guidance both for <a href = "https://www.slu.edu/health-advisory/messages/update-students-maintain-community-health-march20.php" target = "_blank">your own health and for maintaining community</a>. If you are living on-campus, please follow all of SLU's policies for social distancing and <a href = "https://slu.policystat.com/policy/token_access/2e1e7d4c-49c9-42ba-8055-ca833711bea4/" target = "_blank">mask wearing</a>. These are critical for our collective safety. If you are off campus this semester, please follow them anyway! 
+Please, first and foremost, focus on what matters most and practice self care. Please follow SLU's guidance both for <a href = "https://www.slu.edu/health-advisory/messages/update-students-maintain-community-health-march20.php" target = "_blank">your own health and for maintaining community</a>. If you are living on-campus, please follow all of SLU's policies for social distancing and <a href = "https://slu.policystat.com/policy/token_access/2e1e7d4c-49c9-42ba-8055-ca833711bea4/" target = "_blank">mask wearing</a>. These are critical for our collective safety. If you are off campus this semester, please follow them anyway! 
 
-Again, my biggest priority this semester is your health and wellbeing. Please reach out if you want to talk about strategies for managing our "new normal," if you find yourself struggling, or just need someone to vent to. Alternatively, you can reach out to either the <a href = "https://www.slu.edu/life-at-slu/university-counseling/index.php" target = "_blank">University Counseling Center</a> at 314-977-TALK or <a href = "https://www.slu.edu/life-at-slu/campus-ministry/index.php" target = "_blank">Campus Ministry</a> at 314-977-2425 or <campusministry@slu.edu>.
+Again, my biggest priority this semester is your health and well-being. Please reach out if you want to talk about strategies for managing our "new normal," if you find yourself struggling, or just need someone to vent to. Alternatively, you can reach out to either the <a href = "https://www.slu.edu/life-at-slu/university-counseling/index.php" target = "_blank">University Counseling Center</a> at 314-977-TALK or <a href = "https://www.slu.edu/life-at-slu/campus-ministry/index.php" target = "_blank">Campus Ministry</a> at 314-977-2425 or <campusministry@slu.edu>.
 
 ### Face Masks
 Since we are meeting virtually, I hope that our class meetings are able to be more relaxed than an in-person course, where face masks and social distancing will be ever present. If you do decide to meet-up with classmates in-person to study for a quiz or work on coursework, it is imperative that you follow SLU's policies for social distancing and <a href = "https://slu.policystat.com/policy/token_access/2e1e7d4c-49c9-42ba-8055-ca833711bea4/" target = "_blank">mask wearing</a>.
@@ -45,7 +45,7 @@ Attendance and participation are important components of this course. Your expec
 ### Zoom Policies
 Since we are meeting virtually via Zoom, there are several additional policies to note:
 
-  1. Attending via Zoom is required. There is not an alternative means for completing this course.
+  1. Attending via Zoom is required. There is not an alternative means for completing this course. If you have a concern about technology, internet access, or other barriers to regularly attending class via Zoom, please let me know as soon as possible.
   2. Do not share Zoom details, including login information, links, and passwords, with anyone outside of this course.
   3. Using your camera is *strongly encouraged* during group discussions, but is not otherwise required.
   4. Please keep your microphone muted unless you are actively speaking. 
@@ -104,7 +104,7 @@ If you feel comfortable doing so, please discuss any concerns you might have wit
 
 If you meet the eligibility requirements for academic accommodations through the [Office of Disability Services](https://www.slu.edu/life-at-slu/student-success-center/disability-services/index.php) (located within the Student Success Center) *and you wish to use them for this class*, you should arrange to discuss your needs with me after the first class. All discussions of this nature are treated confidentially, and I will make every effort to work with you to come up with a plan for successfully completing the course requirements. 
 
-Please note that I will not provide accommodations to students who are not working with Disability Services, and that I cannot retroactively alter assignments or grades if they have already been completed. This follows the University policies on disability accomodations:
+Please note that I will not provide accommodations to students who are not working with Disability Services, and that I cannot retroactively alter assignments or grades if they have already been completed. This follows the University policies on disability accommodations:
 
 > Students with a documented disability who wish to request academic accommodations must formally register their disability with the University. Once successfully registered, students also must notify their course instructor that they wish to use their approved accommodations in the course. 
 
@@ -112,7 +112,11 @@ Please note that I will not provide accommodations to students who are not worki
 
 ### Writing Services
 
-I also encourage you to take advantage of the [University Writing Services (UWS) program](https://www.slu.edu/life-at-slu/student-success-center/academic-support/university-writing-services/index.php). Getting feedback benefits writers at all skill levels and the quality of your writing will be reflected in assignment grades. The UWS has trained writing consultants who can help you improve the quality of your written work. UWS’s consultants are available to address everything from brainstorming and developing ideas to crafting strong sentences and documenting sources.
+I also encourage you to take advantage of the [University Writing Services (UWS) program](https://www.slu.edu/life-at-slu/student-success-center/academic-support/university-writing-services/index.php). Getting feedback benefits writers at all skill levels and the quality of your writing will be reflected in assignment grades. The UWS has trained writing consultants who can help you improve the quality of your written work. UWS’s consultants are available to address everything from brainstorming and developing ideas to crafting strong sentences and documenting sources. **Due to COVID-19, all writing services appointments are occurring either over Zoom or asynchronously. Appointments can be made through EAB Navigate.**
+
+### Student Success Coaching
+
+<a href = "https://www.slu.edu/life-at-slu/student-success-center/student-success-coaching.php" target = "_blank">Academic coaches</a> are staff members who can assist with study skills, time management, test and note taking, goal setting, and motivations. They can also help deal with navigating homesickness, making connections on campus, and being successful in online/remote coursework. Coaches will work with you on a weekly basis to develop the skills that are most important to you. For more information, please contact <a href = "emily.m.tuttle@slu.edu" target = "_blank">Emily Tuttle</a>. **Due to COVID-19, appointments will be held over Zoom.**
 
 ## Academic Honesty
 
@@ -120,9 +124,9 @@ All students should familiarize themselves with  [Saint Louis University’s pol
 
 > Academic integrity is honest, truthful and responsible conduct in all academic endeavors. The mission of Saint Louis University is “the pursuit of truth for the greater glory of God and for the service of humanity.” Accordingly, all acts of falsehood demean and compromise the corporate endeavors of teaching, research, health care, and community service through which SLU fulfills its mission. The University strives to prepare students for lives of personal and professional integrity, and therefore regards all breaches of academic integrity as matters of serious concern.
 
-Any work that is taken from another student, copied from printed material, or copied the internet without proper citation is expressly prohibited, and will be addressed by the instructor.
+Any work that is taken from another student, copied from printed material, or copied the internet without proper citation is expressly prohibited, and will be addressed by the instructor. Any student who is found to have been academically dishonest in their work risks failing both the assignment and this course.
 
-All relevant assignments should include in-text citations and references formatted using the [American Sociological Association (ASA)](https://owl.english.purdue.edu/owl/resource/583/1/) style guidelines. Any student who is found to have been academically dishonest in their work risks failing both the assignment and this course.
+All relevant assignments should include in-text citations and references formatted using the [American Sociological Association (ASA)](https://owl.english.purdue.edu/owl/resource/583/1/) style guidelines. 
 
 ## Harassment and Title IX
 
