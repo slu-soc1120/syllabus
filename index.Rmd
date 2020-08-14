@@ -29,7 +29,9 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 ### Chris’s Information {-}
 
-**Please note that I am not on-campus this semester due to the continuing COVID-19 pandemic.**
+```{block, type = "rmdwarning"}
+Please note that I am not on-campus this semester due to the continuing COVID-19 pandemic. All course meetings, office hours, and individual student meetings will occur virtually via Zoom.
+```
 
 **Email:** <chris.prener@slu.edu>
 

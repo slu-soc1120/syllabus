@@ -20,6 +20,15 @@ Please, first and foremost, focus on what matters most and practice self care. P
 
 Again, my biggest priority this semester is your health and well-being. Please reach out if you want to talk about strategies for managing our "new normal," if you find yourself struggling, or just need someone to vent to. Alternatively, you can reach out to either the <a href = "https://www.slu.edu/life-at-slu/university-counseling/index.php" target = "_blank">University Counseling Center</a> at 314-977-TALK or <a href = "https://www.slu.edu/life-at-slu/campus-ministry/index.php" target = "_blank">Campus Ministry</a> at 314-977-2425 or <campusministry@slu.edu>.
 
+### Planning for Disruptions
+While we are starting the semester with many of you in St. Louis, and I am certainly rooting for a semester where you all are able to remain on-campus through Thanksgiving Break, we should recognize that there may be disruptions. For some of you, you may find yourselves quarantined because of an exposure to someone infected with COVID-19. You may become sick yourselves. Changes both on-campus and in the greater St. Louis community may mean changes to how SLU operates and even whether or not you can continue to remain on-campus. 
+
+Given that these are not abstract concerns, everything laid out here represents a best case scenario for the semester. We may find ourselves needing to change some course policies, reading and assignment schedules, and even teaching modalities based on the challenges we are confronted with this semester. I ask for your patience and your flexibility if and when we do need to make these changes. For my part, I will do my best to stay in touch with you and communicate clearly how these changes will impact our course. 
+
+One way that I am proactively preparing for disruptions is to add two **"flex days"** to the syllabus. I do not have any content planned for **October 22^nd^** or **November 24^th^**. If there is a widespread disruption, such as the need for many of you to move off campus, I will use these flex days as a buffer so that we can adjust our course schedule without changing the basic structure of the course. If we are approaching these dates without having had to use them, I will communicate my plans for both days with you all so that you can plan your time accordingly.
+
+**You should therefore treat all of the course due dates as provisional.** This is my plan as of August 14^th^, and I may modify it further as we progress through the the semester. If I become sick or a member of my family becomes ill, modifications will likely be required. If another faculty member has to take over teaching my class, there may be changes to course content, teaching modality, and assignments. I will do my best to keep everyone updated in a timely fashion. Please check your email and Blackboard regularly. I appreciate everyone’s willingness to roll with the many punches we are all facing right now. Remember, we are in this together. 
+
 ### Face Masks
 Since we are meeting virtually, I hope that our class meetings are able to be more relaxed than an in-person course, where face masks and social distancing will be ever present. If you do decide to meet-up with classmates in-person to study for a quiz or work on coursework, it is imperative that you follow SLU's policies for social distancing and <a href = "https://slu.policystat.com/policy/token_access/2e1e7d4c-49c9-42ba-8055-ca833711bea4/" target = "_blank">mask wearing</a>.
 
@@ -40,21 +49,27 @@ Students are strongly encouraged to identify to their instructor any student or 
 ## Attendance and Participation
 
 ### General Attendance Policy
-Attendance and participation are important components of this course. Your expected to attend all class sessions and to arrive before the beginning of class. If you cannot attend class or arrive on time because of a personal illness, a family issue, jury duty, an athletic match, or a religious observance, you must contact me **beforehand** to let me know if at all possible. I may ask for more information, such as a note from a physician, a travel letter from Athletics, or other documentation for absences. Please see the <a href = "https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/" target = "_blank">University's attendance policy</a> for additional details.
+Attendance and participation are important components of this course. Your expected to attend all class sessions and to arrive before the beginning of class. That said, it is important to recognize that our normal attendance policies are not well suited to a pandemic. If you cannot attend class or arrive on time because of a personal illness, a family issue, jury duty, an athletic match, or a religious observance, you must contact me **beforehand** to let me know if at all possible. I define family issues broadly - if your family or friends become sick or are being affected by COVID-19 in other ways, please know that I want you to keep your focus on what is most important. 
+
+I may ask for more information, such as a note from a health care provider, a travel letter from Athletics, or other documentation for absences. I will not be asking for health care provider documentation for acute illnesses or injuries, though, since if you’re sick but not *very* sick, the last thing most you will want to do is go to a doctor just to get a note. I am proceeding with a spirit of trust in all of you, and ask you reciprocate that with me. If you need to modify assignment due dates, please let me know prior to those deadlines.
+
+Please see the <a href = "https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/" target = "_blank">University's attendance policy</a> for additional details.
 
 ### Zoom Policies
 Since we are meeting virtually via Zoom, there are several additional policies to note:
 
-  1. Attending via Zoom is required. There is not an alternative means for completing this course. If you have a concern about technology, internet access, or other barriers to regularly attending class via Zoom, please let me know as soon as possible.
+  1. Attending via Zoom is required. There is not an alternative means for completing this course. *If you have a concern about technology, internet access, or other barriers to regularly attending class via Zoom, please let me know as soon as possible.*
+      * If there is a need for some or all of you to change from learning on-campus to learning from home or another location, we will work together to identify strategies for you to successfully complete the course.
+    
   2. Do not share Zoom details, including login information, links, and passwords, with anyone outside of this course.
   3. Using your camera is *strongly encouraged* during group discussions, but is not otherwise required.
   4. Please keep your microphone muted unless you are actively speaking. 
-  5. Class recordings will be made via Zoom and/or Panopto, and will be posted to Blackboard. Recordings should not be shared outside of class. They will capture whatever is happening on my screen, which may include sharing your name and whatever is actively shown via your webcam.
+  5. Class recordings will be made via Zoom and/or Panopto, and will be posted to Blackboard. Recordings should not be shared outside of class. They will capture whatever is happening on my screen, which may include sharing your name and whatever is actively shown via your webcam. *If this presents a privacy concern for you, please let me know as soon as possible.*
 
 The <a href ="https://slu-soc1120.github.io/docs/start_zoom/" target = "_blank">Course Docs</a> contain some additional tips for using Zoom. Please review them closely.
 
 ### COVID-19 Specific Policies
-The following COVID-19 specific policies apply to this course. In general, if you are sick but you feel well enough to attend class, you should continue to attend this class since we are meeting virtually. If you are sick and do not feel well enough to attend class, please let me know as soon as possible!
+The following COVID-19 specific policies apply to this course. In general, if you are sick but you feel well enough to attend class, you should continue to attend this class since we are meeting virtually. If you are sick and do not feel well enough to attend class, please let me know as soon as possible! As I have said previously, taking care of yourselves should be your first priority.
 
   1. Students who exhibit any <a href = "https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html" target = "_blank">potential COVID symptoms</a> (those that cannot be attributed to some other medical condition the students are known to have, such as allergies, asthma, etc.) shall absent themselves from any in-person class attendance or in-person participation in any class-related activity until they have been evaluated by a qualified medical official. Students should contact the <a href = "https://www.slu.edu/life-at-slu/student-health/index.php" target = "_blank">University Student Health Center</a> for immediate assistance. 
    2. Students who exhibit any <a href = "https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html" target = "_blank">potential COVID symptoms</a> (those that cannot be attributed to some other medical condition the students are known to have, such as allergies, asthma, etc.) but who feel well enough to a) attend the course synchronously in an online class session or b) participate in asynchronous online class activities, are expected to do so.  Those who do not feel well enough to do so should absent themselves accordingly. 
@@ -63,15 +78,17 @@ The following COVID-19 specific policies apply to this course. In general, if yo
    5. As a temporary amendment to the current <a href = "https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/" target = "_blank">University Attendance Policy</a>, all absences due to illness or an isolation/quarantine directive issued by a qualified health official shall be considered “Authorized” absences (effective August 2020 through May 2021). 
 
 ### Missed Classes
-A penalty will not be applied to your first two unexcused absences or late arrivals. Any unexcused absences or late arrivals beyond those two will result in no credit (for an absences) or only partial credit (for a late arrival) being earned for that day's participation grade.
-
 Attendance check-ins will be collected either in-person or through a simple web-form. Students will need a <a href = "https://en.wikipedia.org/wiki/QR_code" target = "_blank">QR code</a> reader application installed on their smartphone to check-in if their phone does not support it automatically. The <a href ="https://slu-soc1120.github.io/docs/start_other/#attendance" target = "_blank">Course Docs</a> contain some additional details and links for learning more about how this works. 
 
 These web forms are **time stamped**, so if you sign in 3 minutes after the beginning of class or later, you will be marked as 'late' in the attendance database. This is done automatically by my gradebook, so please see me if you have a concern about how this works or, more generally, if you have a concern about regularly being able to arrive to class on time.
 
 If you do not own a smartphone, please let me know as soon as possible. You should note that attendance check-ins are covered by the course's Academic Honesty policy. Sharing the check-in form with another student or signing in on their behalf are both violations of this policy.
 
-Making up missed classes is your responsibility, including viewing the lecture recording and, if needed, obtaining notes from a classmate All lecture slides will be posted on Blackboard before class begins along with relevant notes for that lecture. Please note that lectures and discussions cannot be recorded by any means (e.g. audio or video recordings, or photographs) without my permission.
+My priority with attendance is to identify students who may be struggling or in need of additional support. However, because attending class is crucial, I do factor attendance into your overall participation grade. In order to give you some flexibility, I do not apply any penalties to your first two unexcused absences. Any unexcused absences beyond those two will result in no credit (for an absences). Regular late arrivals may result in partial credit being earned for that day's participation grade.
+
+Specific elements of the course, such as participation in group discussions during lectures as well as the QHQ discussions, will also be factored into your participation grade. If there is a need for you to miss a significant portion of your coursework, such as because of an illness, please reach out to me and we will make a plan for alternative ways to make-up these activities based on the circumstances.
+
+It is your responsibility to make-up missed classes, including viewing the lecture recording and, if needed, obtaining notes from a classmate All lecture slides will be posted on Blackboard before class begins along with relevant notes for that lecture. Please note that lectures and discussions cannot be recorded by any means (e.g. audio or video recordings, or photographs) without my permission.
 
 ## Communication
 
@@ -89,8 +106,9 @@ There is evidence that using electronic devices during lectures results in decre
 
 I therefore ask students to be conscious of how they are using their devices, the ways such use impacts their own learning, and the effect that it may have on others around them. I reserve the right to alter this policy if electronic device use becomes problematic during the semester.
 
-### Note Taking
-I *strongly* encourage you to take notes for this course either on a second device or by hand so that you can make the Zoom window as large as possible. Please let me know by clicking "slow down" in Zoom's <a href = "https://support.zoom.us/hc/en-us/articles/200941109-Attendee-controls-in-a-meeting" target = "_blank">attendee controls</a> or let me know via the chat if you need something repeated or clarified.
+<div class="rmdnote">
+<p>I <em>strongly</em> encourage you to take notes for this course either on a second device or by hand so that you can make the Zoom window as large as possible. Please let me know by clicking “slow down” in Zoom’s <a href = "https://support.zoom.us/hc/en-us/articles/200941109-Attendee-controls-in-a-meeting" target = "_blank">attendee controls</a> or let me know via the chat if you need something repeated or clarified.</p>
+</div>
 
 ## Student Support
 
@@ -112,11 +130,19 @@ Please note that I will not provide accommodations to students who are not worki
 
 ### Writing Services
 
-I also encourage you to take advantage of the [University Writing Services (UWS) program](https://www.slu.edu/life-at-slu/student-success-center/academic-support/university-writing-services/index.php). Getting feedback benefits writers at all skill levels and the quality of your writing will be reflected in assignment grades. The UWS has trained writing consultants who can help you improve the quality of your written work. UWS’s consultants are available to address everything from brainstorming and developing ideas to crafting strong sentences and documenting sources. **Due to COVID-19, all writing services appointments are occurring either over Zoom or asynchronously. Appointments can be made through EAB Navigate.**
+I also encourage you to take advantage of the [University Writing Services (UWS) program](https://www.slu.edu/life-at-slu/student-success-center/academic-support/university-writing-services/index.php). Getting feedback benefits writers at all skill levels and the quality of your writing will be reflected in assignment grades. The UWS has trained writing consultants who can help you improve the quality of your written work. UWS’s consultants are available to address everything from brainstorming and developing ideas to crafting strong sentences and documenting sources. 
+
+<div class="rmdnote">
+<p>Due to COVID-19, all writing services appointments are occurring either over Zoom or asynchronously. Appointments can be made through EAB Navigate.</p>
+</div>
 
 ### Student Success Coaching
 
-<a href = "https://www.slu.edu/life-at-slu/student-success-center/student-success-coaching.php" target = "_blank">Academic coaches</a> are staff members who can assist with study skills, time management, test and note taking, goal setting, and motivations. They can also help deal with navigating homesickness, making connections on campus, and being successful in online/remote coursework. Coaches will work with you on a weekly basis to develop the skills that are most important to you. For more information, please contact <a href = "emily.m.tuttle@slu.edu" target = "_blank">Emily Tuttle</a>. **Due to COVID-19, appointments will be held over Zoom.**
+<a href = "https://www.slu.edu/life-at-slu/student-success-center/student-success-coaching.php" target = "_blank">Academic coaches</a> are staff members who can assist with study skills, time management, test and note taking, goal setting, and motivations. They can also help deal with navigating homesickness, making connections on campus, and being successful in online/remote coursework. Coaches will work with you on a weekly basis to develop the skills that are most important to you. For more information, please contact <a href = "emily.m.tuttle@slu.edu" target = "_blank">Emily Tuttle</a>. 
+
+<div class="rmdnote">
+<p>Due to COVID-19, appointments will be held over Zoom.</p>
+</div>
 
 ## Academic Honesty
 
@@ -124,7 +150,7 @@ All students should familiarize themselves with  [Saint Louis University’s pol
 
 > Academic integrity is honest, truthful and responsible conduct in all academic endeavors. The mission of Saint Louis University is “the pursuit of truth for the greater glory of God and for the service of humanity.” Accordingly, all acts of falsehood demean and compromise the corporate endeavors of teaching, research, health care, and community service through which SLU fulfills its mission. The University strives to prepare students for lives of personal and professional integrity, and therefore regards all breaches of academic integrity as matters of serious concern.
 
-Any work that is taken from another student, copied from printed material, or copied the internet without proper citation is expressly prohibited, and will be addressed by the instructor. Any student who is found to have been academically dishonest in their work risks failing both the assignment and this course.
+Any work that is taken from another student, copied from printed material, or copied the internet without proper citation is expressly prohibited, and will be addressed by the instructor. Collaborating on quizzes, such as taking them in groups (whether in-person or virtually), is also prohibited. Any student who is found to have been academically dishonest in their work risks failing both the assignment and this course.
 
 All relevant assignments should include in-text citations and references formatted using the [American Sociological Association (ASA)](https://owl.english.purdue.edu/owl/resource/583/1/) style guidelines. 
 
