@@ -1,5 +1,5 @@
 # Assignments and Grading
-This section provides general details on the different types of assignments for this course. It also contains policies for submitting work, receiving feedback, and late work. A summary schedule with all due dates is availabe as part of the [Course Schedule](course-schedule.html).
+This section provides general details on the different types of assignments for this course. It also contains policies for submitting work, receiving feedback, and late work. A summary schedule with all due dates is available as part of the [Course Schedule](course-schedule.html).
 
 <div class="rmdwarning">
 <p>Students enrolled in the honors section should see <a href="/syllabus/honors-overview.html">Section 7</a> for additional assignment descriptions as well as their weighting and final point totals.</p>
@@ -33,7 +33,7 @@ Your participation grade will be split, with 20 points for Part 1, 30 points eac
 
 Over the course of the semester, there will be four short exercises that ask you to tie social theory, social science research, and current events together. For each of these assignments, I will post a news article. Based on your read of the article, you should pick one of the social theories we have discussed in class or in readings, briefly describe why you selected that theory (in 2-3 sentences), and then craft a theoretically motivated research question and hypothesis (a sentence each). Finally, you will briefly describe how you would propose to study this hypothesis (in 2-3 sentences). Your assignments will be posted to Blackboard before 5pm on the due date.
 
-Once the due date has past, you will need to follow-up with two of your group members and provide a peer review of their proposal. These reviews should point out a strength of the theory that they selected as it relates to the article, and then raise one point that you think their theory selection may miss by providing an alternative theoretical perspective. These should be approximately 4-5 sentences in length. When responding, prioritize group members' posts that have not yet recieved any peer review. Reviews are due by the beginning of class on the follow-up due date.
+Once the due date has past, you will need to follow-up with two of your group members and provide a peer review of their proposal. These reviews should point out a strength of the theory that they selected as it relates to the article, and then raise one point that you think their theory selection may miss by providing an alternative theoretical perspective. These should be approximately 4-5 sentences in length. When responding, prioritize group members' posts that have not yet received any peer review. Reviews are due by the beginning of class on the follow-up due date.
 
 Additional details and a sample assignment will be made available via Blackboard. Each Theory Post is worth 20 points, 15 for the written portion and 5 for the follow-up posts. Both elements will be assessed using a scale that awards full, partial, or no credit (see [Grading](grading.html)).
 
@@ -143,7 +143,7 @@ Table: (\#tab:unnamed-chunk-10)SOC 1120 Points Breakdown
 |Sociological Experiences |       |20 pts |x4       |80 pts  |12.8%   |
 |QHQs                     |       |75 pts |x2       |150 pts |24.0%   |
 |Quizzes                  |       |50 pts |x3       |150 pts |24.0%   |
-|Final Project            |       |75pts  |x1       |75 pts  |12.0%   |
+|Final Project            |       |75 pts |x1       |75 pts  |12.0%   |
 
 All feedback will include grades that represent number of points earned. If you want to know your percentage on a particular assignment, divide the number of points earned by the number of points possible and then multiply it by 100.
 

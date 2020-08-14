@@ -120,7 +120,7 @@ Select a module from the menu to see details about topics, readings, and assignm
 
   * **Before Class:**
     * Read Dow and Rehkopf (2010)
-      * Dow, William H. and David H. Rehkopf. 2010. "Socioeconomic gradients in health in international and historical context." *Annals of the New York Academy of Sciences* 1186:24-36. (<a hhref="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edselc&AN=edselc.2-52.0-77249121135&site=eds-live" target="_blank">Pius Library</a>)
+      * Dow, William H. and David H. Rehkopf. 2010. "Socioeconomic gradients in health in international and historical context." *Annals of the New York Academy of Sciences* 1186:24-36. (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edselc&AN=edselc.2-52.0-77249121135&site=eds-live" target="_blank">Pius Library</a>)
   * **After Class:**
     * Watch *Unnatural Causes*, Part 7 - "Not Just a Paycheck" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
   
@@ -140,7 +140,7 @@ Select a module from the menu to see details about topics, readings, and assignm
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 6 - Gender and Sexuality," pp. 1-28 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
     * Read Krieger (2003)
-      * Krieger, Nancy. 2003. "Genders, Sexes, and Health: What Are the Connections - and Why Does It Matter?" *International Journal of Epidemiology* 32(4):652-657. (<a href="https://libguides.slu.edu/er.php?course_id=53391" target="_blank">Electronic Reserves</a>)
+      * Krieger, Nancy. 2003. "Genders, Sexes, and Health: What Are the Connections - and Why Does It Matter?" *International Journal of Epidemiology* 32(4):652-657. (<a href="#" target="_blank">Link</a>)
   
 ---
 
