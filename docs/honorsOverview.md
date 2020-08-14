@@ -2,13 +2,14 @@
 
 # Honors Overview
 
-This is the supplemental syllabus for the honors section of SOC 1120-02 (i.e. SOC 1120-02H). Students enrolled in the honors section are expected to complete all [readings](/lecture-schedule.html) and [assignments](/assignments-and-grading.html) included in the syllabus and should look to the previous sections [general course policies](/course-policies.html) as well. The following sections detail the additional work expected of students in the honors section.
+This is the supplemental syllabus for the honors section of SOC 1120-05 (i.e. SOC 1120-05H). Students enrolled in the honors section are expected to complete all [readings](/lecture-schedule.html) and [assignments](/assignments-and-grading.html) included in the syllabus and should look to the previous sections [general course policies](/course-policies.html) as well. The following sections detail the additional work expected of students in the honors section.
 
 ## In-Depth Seminars
 
-<div class="rmdtip">
-<p>Seminar attendance and participation is captured in your participation grade.</p>
-</div>
+\begin{rmdtip}
+Seminar attendance and participation is captured in your participation
+grade.
+\end{rmdtip}
 
 You are expected to complete three seminars over the course of the semester. The goal of the seminars is to go more in-depth on several topics covered during the class and to provide an additional series of venues to develop your analytic and communication skills. Each seminar will consist of three interrelated parts:
 
@@ -34,9 +35,9 @@ These discussions should inform a response paper written by each student that co
 
 ### Grading
 
-<div class="rmdtip">
-<p>Your papers are collectively worth <strong>17.65%</strong> of your final grade</p>
-</div>
+\begin{rmdtip}
+Your papers are collectively worth \textbf{17.65\%} of your final grade
+\end{rmdtip}
 
 Paper due-dates will be a week after each seminar meeting, and papers will be submitted via Blackboard. Each response paper will be graded on four elements:
 
@@ -49,9 +50,9 @@ Papers are worth approximately 7.5% of your final grade for each paper.
 
 ## Op-Ed
 
-<div class="rmdtip">
-<p>Your op-ed is worth <strong>8.82%</strong> of your final grade</p>
-</div>
+\begin{rmdtip}
+Your op-ed is worth \textbf{8.82\%} of your final grade
+\end{rmdtip}
 
 You should pick a topic from [the honors seminar topic list](/honors-seminar-topics.html) that you would like to use as a jumping-off point for writing an op-ed style article. With a topic in-hand, you should read ahead and pick *one narrow aspect* of the topic to focus on. Topics must be selected by **Thursday, September 17^th^** and are "submitted" by coming to office hours (or making an appointment to see Chris if you have a scheduling conflict) to discuss your idea.
 
@@ -89,41 +90,56 @@ Op-eds will be submitted by **Monday, May 4^th^** via Blackboard. Each op-ed pap
 
 ## Honors Seminar Topics
 
+\begin{table}
 
-Table: (\#tab:unnamed-chunk-4)SOC 1120 Honors Seminar Topics
-
-|Module |Topic                        |
-|:------|:----------------------------|
-|2      |Nature or Nurture?           |
-|2      |Social Structure             |
-|2      |Socialization                |
-|2      |Medicalization               |
-|3      |Culture                      |
-|4      |Socioeconomic Status         |
-|5      |Gender and Sexuality         |
-|6      |Race and Racism              |
-|7      |Intersectionality and Health |
-|8      |Urban Sociology              |
+\caption{(\#tab:unnamed-chunk-4)SOC 1120 Honors Seminar Topics}
+\centering
+\begin{tabular}[t]{ll}
+\toprule
+Module & Topic\\
+\midrule
+2 & Nature or Nurture?\\
+2 & Social Structure\\
+2 & Socialization\\
+2 & Medicalization\\
+3 & Culture\\
+\addlinespace
+4 & Socioeconomic Status\\
+5 & Gender and Sexuality\\
+6 & Race and Racism\\
+7 & Intersectionality and Health\\
+8 & Urban Sociology\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 ## Honors Grading
 
 The following point totals supersede the information on the main syllabus under Section 4.4 - "Grading" if you are enrolled in the honors section of SOC 1120.
 
+\begin{table}
 
-Table: (\#tab:unnamed-chunk-5)SOC 1120 Points Breakdown
-
-|Assignment               |Period |Points |Quantity |Total   |Percent |
-|:------------------------|:------|:------|:--------|:-------|:-------|
-|Participation            |Part 1 |20 pts |x1       |20 pts  |10.6%   |
-|                         |Part 2 |30 pts |x1       |30 pts  |        |
-|                         |Part 3 |30 pts |x1       |30 pts  |        |
-|                         |Part 4 |10 pts |x1       |10 pts  |        |
-|Theory Isn't Dead        |       |20 pts |x4       |80 pts  |9.4%    |
-|Sociological Experiences |       |20 pts |x4       |80 pts  |9.4%    |
-|QHQs                     |       |75 pts |x2       |150 pts |17.7%   |
-|Quizzes                  |       |50 pts |x3       |150 pts |17.7%   |
-|Final Project            |       |75 pts |x1       |75 pts  |8.8%    |
-|Honors Response Papers   |       |50 pts |x3       |150 pts |17.7%   |
-|Honors Op-Ed             |       |75 pts |x1       |75 pts  |8.8%    |
+\caption{(\#tab:unnamed-chunk-5)SOC 1120 Points Breakdown}
+\centering
+\begin{tabular}[t]{llllll}
+\toprule
+Assignment & Period & Points & Quantity & Total & Percent\\
+\midrule
+Participation & Part 1 & 20 pts & x1 & 20 pts & 10.6\%\\
+ & Part 2 & 30 pts & x1 & 30 pts & \\
+ & Part 3 & 30 pts & x1 & 30 pts & \\
+ & Part 4 & 10 pts & x1 & 10 pts & \\
+Theory Isn't Dead &  & 20 pts & x4 & 80 pts & 9.4\%\\
+\addlinespace
+Sociological Experiences &  & 20 pts & x4 & 80 pts & 9.4\%\\
+QHQs &  & 75 pts & x2 & 150 pts & 17.7\%\\
+Quizzes &  & 50 pts & x3 & 150 pts & 17.7\%\\
+Final Project &  & 75 pts & x1 & 75 pts & 8.8\%\\
+Honors Response Papers &  & 50 pts & x3 & 150 pts & 17.7\%\\
+\addlinespace
+Honors Op-Ed &  & 75 pts & x1 & 75 pts & 8.8\%\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 The information listed in Sections 4.4.1 and 4.4.2 still applies to honors students.

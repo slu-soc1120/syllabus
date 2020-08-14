@@ -1,5 +1,5 @@
 --- 
-title: "SOC 1120-02 and 02H: Introduction to Sociology - Diversity & Health"
+title: "SOC 1120-05 and 05H: Introduction to Sociology - Diversity & Health"
 author: "Christopher Prener, Ph.D."
 date: "2020-08-14"
 site: bookdown::bookdown_site
@@ -29,9 +29,11 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 ### Chris’s Information {-}
 
-<div class="rmdwarning">
-<p>Please note that I am not on-campus this semester due to the continuing COVID-19 pandemic. All course meetings, office hours, and individual student meetings will occur virtually via Zoom.</p>
-</div>
+\begin{rmdwarning}
+Please note that I am not on-campus this semester due to the continuing
+COVID-19 pandemic. All course meetings, office hours, and individual
+student meetings will occur virtually via Zoom.
+\end{rmdwarning}
 
 **Email:** <chris.prener@slu.edu>
 
@@ -44,7 +46,8 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 
 ## Change Log {-}
 
-* August 13^th^, 2019 - Initial Fall 2020 draft
+* August 13^th^, 2019 - Add Fall 2020 draft
+* August 14^th^, 2019 - Publish initial Fall 2020 draft
 
 ## License {-}
 Copyright © 2016-2020 [Christopher G. Prener](https://chris-prener.github.io)
