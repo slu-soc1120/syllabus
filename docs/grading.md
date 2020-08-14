@@ -74,7 +74,7 @@ Additional details and a grading rubric will be available on Blackboard. QHQ Pap
 Due dates for the QHQs are as follows:
 
   1. QHQ Paper 1 - **Thursday, October 1^st^**
-  2. QHQ Paper 2 - **Thursday, November 5^th^**
+  2. QHQ Paper 2 - **Tuesday, November 3^rd^**
   3. QHQ Paper 3 - **Tuesday, November 17^th^**
 
 ### Quizzes
