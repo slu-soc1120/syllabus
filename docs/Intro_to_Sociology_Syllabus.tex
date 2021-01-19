@@ -5,12 +5,13 @@
 \documentclass[
 ]{book}
 \usepackage{lmodern}
-\usepackage{amssymb,amsmath}
+\usepackage{amsmath}
 \usepackage{ifxetex,ifluatex}
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
+  \usepackage{amssymb}
 \else % if luatex or xetex
   \usepackage{unicode-math}
   \defaultfontfeatures{Scale=MatchLowercase}
@@ -36,12 +37,13 @@
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-  pdftitle={SOC 1120-05 and 05H: Introduction to Sociology - Diversity \& Health},
+  pdftitle={SOC 1120-02 and H02: Introduction to Sociology - Diversity \& Health},
   pdfauthor={Christopher Prener, Ph.D.},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs}
+\usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
 \makeatletter
@@ -50,7 +52,7 @@
 % Allow footnotes in longtable head/foot
 \IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
 \makesavenoteenv{longtable}
-\usepackage{graphicx,grffile}
+\usepackage{graphicx}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -147,12 +149,15 @@
 \usepackage{fancyhdr}
 \renewcommand{\chaptername}{Section}
 \renewcommand\thesection{\Alph{section}}
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
 
-\title{SOC 1120-05 and 05H: Introduction to Sociology - Diversity \& Health}
+\title{SOC 1120-02 and H02: Introduction to Sociology - Diversity \& Health}
 \author{Christopher Prener, Ph.D.}
-\date{2020-08-18}
+\date{2021-01-19}
 
 \begin{document}
 \maketitle
@@ -173,7 +178,7 @@ This is the hardcopy version of the \textbf{Fall 2020} syllabus.
 \subsection*{Course Meetings}\label{course-meetings}}
 \addcontentsline{toc}{subsection}{Course Meetings}
 
-\emph{When:} Tuesdays and Thursdays, 11:00am CST to 12:15pm CST
+\emph{When:} Monday and Wednesday, 2:00pm CST to 3:25pm CST
 
 \emph{Where:} Zoom (see Blackboard for the link and password)
 
@@ -201,9 +206,9 @@ student meetings will occur virtually via Zoom.
 
 \textbf{Email:} \href{mailto:chris.prener@slu.edu}{\nolinkurl{chris.prener@slu.edu}}
 
-\textbf{Office Hours, Appointment Only:} Thursdays, 9am-10am via Zoom; sign-up via Calendly to receive personalized calendar and Zoom invitations (SLU log-in required; SLU log-in required)
+\textbf{Office Hours, Appointment Only:} TBD; sign-up via Calendly to receive personalized calendar and Zoom invitations (SLU log-in required; SLU log-in required)
 
-\textbf{Office Hours, Drop-in:} Thursdays, 10am-10:45am via Zoom (SLU log-in required; you will be admitted to a waiting room)
+\textbf{Office Hours, Drop-in:} TBD via Zoom (SLU log-in required; you will be admitted to a waiting room)
 
 \hypertarget{hard-copy-syllabus}{%
 \section*{Hard-copy Syllabus}\label{hard-copy-syllabus}}
@@ -218,20 +223,14 @@ If you would like to keep a record of the syllabus, there is a \texttt{.pdf} dow
 \begin{itemize}
 \tightlist
 \item
-  August 13\textsuperscript{th}, 2019 - Add Fall 2020 draft
-\item
-  August 14\textsuperscript{th}, 2019 - Publish initial Fall 2020 draft
-\item
-  August 17\textsuperscript{th}, 2019 - Clarify accessing \emph{A Sociology Experiment} and how attendance collection works
-\item
-  August 18\textsuperscript{th}, 2019 - Clarify attendance further
+  January 19, 2021 - Add schedule for Spring 2021
 \end{itemize}
 
 \hypertarget{license}{%
 \section*{License}\label{license}}
 \addcontentsline{toc}{section}{License}
 
-Copyright © 2016-2020 \href{https://chris-prener.github.io}{Christopher G. Prener}
+Copyright © 2016-2021 \href{https://chris-prener.github.io}{Christopher G. Prener}
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
@@ -663,11 +662,11 @@ update you during class and via Blackboard about the status of each
 assignment's due dates as the semester progresses.
 \end{rmdwarning}
 
-\hypertarget{attendance-and-participation}{%
-\subsection{Attendance and Participation}\label{attendance-and-participation}}
+\hypertarget{attendance-and-participation-1}{%
+\subsection{Attendance and Participation}\label{attendance-and-participation-1}}
 
 \begin{rmdtip}
-Attendance and participation are worth 90 points, or \textbf{14.4\%} of
+Attendance and participation are worth 95 points, or \textbf{16.1\%} of
 your final grade
 \end{rmdtip}
 
@@ -675,20 +674,18 @@ As discussed above, both attendance and participation are important aspects of t
 
 Each of these elements is assigned a point value and assessed using a scale that awards full, partial, or no credit (see \href{grading.html}{Grading}). Not attending class or completing an ``entry'' or ``exit'' ticket will result in no credit being earned for that element on a given day. Disengagement during class may result in partial or no credit being earned. Late arrivals will result in only partial credit earned for that element on a given day.
 
-Your participation grade will be split, with 20 points for Part 1, 30 points each for Parts 2 and 3, and 10 points for Part 4. Since the number of points awarded for participation are variable, the total number of points earned for each half will be \textbf{weighted} so that it is converted to a final score that matches the points available for that part of the course. I provide the final number of points earned for each part of the course. If you would like a more detailed breakdown of your participation grade and/or attendance record, please reach out and I will happily provide one.
+Your participation grade will be split, with 20 points for Part 1, 30 points each for Parts 2 and 3, and 15 points for Part 4. Since the number of points awarded for participation are variable, the total number of points earned for each half will be \textbf{weighted} so that it is converted to a final score that matches the points available for that part of the course. I provide the final number of points earned for each part of the course. If you would like a more detailed breakdown of your participation grade and/or attendance record, please reach out and I will happily provide one.
 
 \hypertarget{theory-isnt-dead-posts}{%
 \subsection{Theory Isn't Dead Posts}\label{theory-isnt-dead-posts}}
 
 \begin{rmdtip}
-Theory posts are worth 80 points, or \textbf{12.8\%} of your final grade
+Theory posts are worth 40 points, or \textbf{6.8\%} of your final grade
 \end{rmdtip}
 
 Over the course of the semester, there will be four short exercises that ask you to tie social theory, social science research, and current events together. For each of these assignments, I will post a news article. Based on your read of the article, you should pick one of the social theories we have discussed in class or in readings, briefly describe why you selected that theory (in 2-3 sentences), and then craft a theoretically motivated research question and hypothesis (a sentence each). Finally, you will briefly describe how you would propose to study this hypothesis (in 2-3 sentences). Your assignments will be posted to Blackboard before 5pm on the due date.
 
-Once the due date has past, you will need to follow-up with two of your group members and provide a peer review of their proposal. These reviews should point out a strength of the theory that they selected as it relates to the article, and then raise one point that you think their theory selection may miss by providing an alternative theoretical perspective. These should be approximately 4-5 sentences in length. When responding, prioritize group members' posts that have not yet received any peer review. Reviews are due by the beginning of class on the follow-up due date.
-
-Additional details and a sample assignment will be made available via Blackboard. Each Theory Post is worth 20 points, 15 for the written portion and 5 for the follow-up posts. Both elements will be assessed using a scale that awards full, partial, or no credit (see \href{grading.html}{Grading}).
+Additional details and a sample assignment will be made available via Blackboard. Each Theory Post is worth 20 points. Both elements will be assessed using a scale that awards full, partial, or no credit (see \href{grading.html}{Grading}).
 
 Due dates for the Theory Post are as follows:
 
@@ -696,20 +693,16 @@ Due dates for the Theory Post are as follows:
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Theory Isn't Dead 1 - \textbf{Sunday, August 30\textsuperscript{th}}, with follow-ups due on \textbf{Tuesday, September 1\textsuperscript{st}}
+  Theory Isn't Dead 1 - \textbf{Wednesday, February 10}
 \item
-  Theory Isn't Dead 2 - \textbf{Sunday, September 20\textsuperscript{th}}, with follow-ups due on \textbf{Tuesday, September 22\textsuperscript{nd}}
-\item
-  Theory Isn't Dead 3 - \textbf{Sunday, November 1\textsuperscript{st}}, with follow-ups due on \textbf{Tuesday, November 3\textsuperscript{rd}}
-\item
-  Theory Isn't Dead 4 - \textbf{Sunday, November 22\textsuperscript{nd}}, with follow-ups due on \textbf{Tuesday, November 24\textsuperscript{th}}
+  Theory Isn't Dead 2 - \textbf{Monday, March 8}
 \end{enumerate}
 
 \hypertarget{sociological-experiences}{%
 \subsection{Sociological Experiences}\label{sociological-experiences}}
 
 \begin{rmdtip}
-Theory reflections are worth 80 points, or \textbf{12.8\%} of your final
+Theory reflections are worth 80 points, or \textbf{13.6\%} of your final
 grade
 \end{rmdtip}
 
@@ -723,20 +716,20 @@ Due dates for the Sociological Experiences are as follows:
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Sociological Experience 1 - High School - \textbf{Thursday, September 10\textsuperscript{th}}
+  Sociological Experience 1 - High School - \textbf{Wednesday, February 24}
 \item
-  Sociological Experience 2 - Socioeconomic Status - \textbf{Tuesday, September 29\textsuperscript{th}}
+  Sociological Experience 2 - Socioeconomic Status - \textbf{Wednesday, March 17}
 \item
-  Sociological Experience 3 - Segregation - \textbf{Thursday, October 29\textsuperscript{th}}
+  Sociological Experience 3 - Segregation - \textbf{Monday, April 12}
 \item
-  Sociological Experience 4 - St.~Louis - \textbf{Thursday, November 12\textsuperscript{th}}
+  Sociological Experience 4 - St.~Louis - \textbf{Wednesday, April 28}
 \end{enumerate}
 
 \hypertarget{qhq-papers}{%
 \subsection{QHQ Papers}\label{qhq-papers}}
 
 \begin{rmdtip}
-QHQ Papers are worth 150 points, or \textbf{24\%} of your final grade
+QHQ Papers are worth 150 points, or \textbf{25.4\%} of your final grade
 \end{rmdtip}
 
 Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of \emph{Mama Might Be Better Off Dead} (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book.
@@ -749,18 +742,18 @@ Due dates for the QHQs are as follows:
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  QHQ Paper 1 - \textbf{Thursday, October 1\textsuperscript{st}}
+  QHQ Paper 1 - \textbf{Wednesday, March 24}
 \item
-  QHQ Paper 2 - \textbf{Tuesday, November 3\textsuperscript{rd}}
+  QHQ Paper 2 - \textbf{Monday, April 19}
 \item
-  QHQ Paper 3 - \textbf{Tuesday, November 17\textsuperscript{th}}
+  QHQ Paper 3 - \textbf{Monday, May 3}
 \end{enumerate}
 
 \hypertarget{quizzes}{%
 \subsection{Quizzes}\label{quizzes}}
 
 \begin{rmdtip}
-Quizzes are worth 150 points, or \textbf{24\%} of your final grade
+Quizzes are worth 150 points, or \textbf{25.4\%} of your final grade
 \end{rmdtip}
 
 Three non-cumulative multiple choice quizzes will be given throughout the semester. Each quiz will cover the breadth of the material in the course, including readings, lectures, and videos. Each quiz will consist of 30 multiple choice questions and will be worth 50 points. They will be administered via Blackboard. Quizzes must be taken between 7am CST and 10pm CST on the quiz date. They can be started at any point within that range, but once you begin the quiz, you will have only 35 minutes to complete it.
@@ -771,16 +764,16 @@ Quiz dates are as follows:
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Quiz 1 - \textbf{Monday, September 14\textsuperscript{th}}
+  Quiz 1 - \textbf{Friday, March 5}
 \item
-  Quiz 2 - \textbf{Monday, October 12\textsuperscript{th}}
+  Quiz 2 - \textbf{Tuesday, April 6}
 \item
-  Quiz 3 - \textbf{Monday, November 23\textsuperscript{rd}}
+  Quiz 3 - \textbf{Monday, May 10}
 
   \begin{itemize}
   \tightlist
   \item
-    If the flex day on Tuesday, November 24\textsuperscript{th} is needed for instruction, this quiz will be rescheduled.
+    This is planned as a flex day, and the date of this quiz may change if that day needs to be used for other course content.
   \end{itemize}
 \end{enumerate}
 
@@ -788,11 +781,11 @@ Quiz dates are as follows:
 \subsection{Final Project}\label{final-project}}
 
 \begin{rmdtip}
-The Final Project is worth 75 points, or \textbf{12\%} of your final
+The Final Project is worth 75 points, or \textbf{12.7\%} of your final
 grade
 \end{rmdtip}
 
-This project involves the creation of a single page handout that illustrates the origins of a health disparity present in American society. On the handout, you should provide some background information, data about the disparity, and connect the disparity to fundamental cause theory and/or the social determinants of health perspective. You have creative license to design the handout as you see fit, and should feel free to add graphs, maps, or photographs that help you illustrate the issues you are describing. The second page of the handout should contain a list of works cited. More details and a rubric will be provided on Blackboard. The final project will be due by \textbf{Monday, November 30\textsuperscript{th}.}
+This project involves the creation of a single page handout that illustrates the origins of a health disparity present in American society. On the handout, you should provide some background information, data about the disparity, and connect the disparity to fundamental cause theory and/or the social determinants of health perspective. You have creative license to design the handout as you see fit, and should feel free to add graphs, maps, or photographs that help you illustrate the issues you are describing. The second page of the handout should contain a list of works cited. More details and a rubric will be provided on Blackboard. The final project will be due by \textbf{Monday, May 17.}
 
 \hypertarget{submission-and-late-work}{%
 \section{Submission and Late Work}\label{submission-and-late-work}}
@@ -800,7 +793,7 @@ This project involves the creation of a single page handout that illustrates the
 \hypertarget{blackboard-submissions}{%
 \subsection{Blackboard Submissions}\label{blackboard-submissions}}
 
-All assignments must be submitted via Blackboard \emph{as a Word (\texttt{.doc} or \texttt{.docx}) file or a \texttt{.pdf} file} unless otherwise noted in the assignment instructions. Feedback will be returned to students via comments embedded in each document.
+All assignments must be submitted via Blackboard \emph{as a \texttt{.pdf} file} unless otherwise noted in the assignment instructions. Feedback will be returned to students via comments embedded in each document.
 
 \hypertarget{late-work}{%
 \subsection{Late Work}\label{late-work}}
@@ -835,22 +828,22 @@ I use a point system for calculating grades. The following table gives the weigh
 
 \begin{table}
 
-\caption{\label{tab:unnamed-chunk-10}SOC 1120 Points Breakdown}
+\caption{\label{tab:unnamed-chunk-11}SOC 1120 Points Breakdown}
 \centering
 \begin{tabular}[t]{llllll}
 \toprule
 Assignment & Period & Points & Quantity & Total & Percent\\
 \midrule
-Participation & Part 1 & 20 pts & x1 & 20 pts & 14.4\%\\
+Participation & Part 1 & 20 pts & x1 & 20 pts & 16.1\%\\
  & Part 2 & 30 pts & x1 & 30 pts & \\
  & Part 3 & 30 pts & x1 & 30 pts & \\
- & Part 4 & 10 pts & x1 & 10 pts & \\
-Theory Isn't Dead &  & 20 pts & x4 & 80 pts & 12.8\%\\
+ & Part 4 & 15 pts & x1 & 15 pts & \\
+Theory Isn't Dead &  & 20 pts & x2 & 40 pts & 6.8\%\\
 \addlinespace
-Sociological Experiences &  & 20 pts & x4 & 80 pts & 12.8\%\\
-QHQs &  & 75 pts & x2 & 150 pts & 24.0\%\\
-Quizzes &  & 50 pts & x3 & 150 pts & 24.0\%\\
-Final Project &  & 75 pts & x1 & 75 pts & 12.0\%\\
+Sociological Experiences &  & 20 pts & x4 & 80 pts & 13.6\%\\
+QHQs &  & 75 pts & x2 & 150 pts & 25.4\%\\
+Quizzes &  & 50 pts & x3 & 150 pts & 25.4\%\\
+Final Project &  & 75 pts & x1 & 75 pts & 12.7\%\\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -870,7 +863,7 @@ If you notice a discrepancy between the grade you received in the feedback and w
 letter grades will be calculated by taking the sum of all points earned and dividing it by the total number of points possible. This will be multiplied by 100 and then converted to a letter grade using the following table:
 
 \begin{table}
-\caption{\label{tab:unnamed-chunk-11}Course Grading Scale}
+\caption{\label{tab:unnamed-chunk-12}Course Grading Scale}
 
 \centering
 \begin{tabular}[t]{lll}
@@ -920,72 +913,27 @@ The following is a high-level schedule that details the general topic covered by
 
 \begin{table}
 
-\caption{\label{tab:unnamed-chunk-1}SOC 1120 Course Overview}
+\caption{\label{tab:unnamed-chunk-2}SOC 1120 Course Overview}
 \centering
 \begin{tabular}[t]{llll}
 \toprule
 Part & Module & Planned Start Date & Title\\
 \midrule
 **1** &  &  & **Thinking Like Sociologists**\\
-1 & 1 & August 18\textasciicircum{}th\textasciicircum{} & Engaging the Social World\\
-1 & 2 & September 1\textasciicircum{}st\textasciicircum{} & Structuring the Social World\\
+1 & 1 & Monday, February 1 & Engaging the Social World\\
+1 & 2 & Monday, February 15 & Structuring the Social World\\
 **2** &  &  & **The Building Blocks of Society**\\
-2 & 3 & September 15\textasciicircum{}th\textasciicircum{} & Culture\\
+2 & 3 & Wednesday, March 3 & Culture\\
 \addlinespace
-2 & 4 & September 22\textasciicircum{}nd\textasciicircum{} & Socioeconomic Status\\
-2 & 5 & October 6\textasciicircum{}th\textasciicircum{} & Gender and Sexuality\\
+2 & 4 & Monday, March 15 & Socioeconomic Status\\
+2 & 5 & Monday, March 29 & Gender and Sexuality\\
 **3** &  &  & **The Broken Heart of America**\\
-3 & 6 & October 13\textasciicircum{}th\textasciicircum{} & Race and Racism\\
-3 & 7 & November 3\textasciicircum{}rd\textasciicircum{} & Intersectionality\\
+3 & 6 & Monday, April 5 & Race and Racism\\
+3 & 7 & Monday, April 19 & Intersectionality\\
 \addlinespace
-3 & 8 & November 10\textasciicircum{}th\textasciicircum{} & Urban Sociology\\
+3 & 8 & Monday, April 26 & Urban Sociology\\
 **4** &  &  & **Course Conclusion**\\
-4 & 9 & November 17\textasciicircum{}th\textasciicircum{} & Course Conclusion\\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\hypertarget{assignment-due-dates}{%
-\subsection{Assignment Due Dates}\label{assignment-due-dates}}
-
-All assignments are due by the beginning of class unless otherwise noted, and all times are in Central time.
-
-\begin{table}
-
-\caption{\label{tab:unnamed-chunk-2}SOC 1120 Assignment Timeline}
-\centering
-\begin{tabular}[t]{lll}
-\toprule
-Date & Time & Assignment\\
-\midrule
-**August** &  & \\
-Thursday, August 20\textasciicircum{}th\textasciicircum{} &  & Student Information Sheet\\
-Sunday, August 30\textasciicircum{}th\textasciicircum{} & 5pm & Theory Isn't Dead Post 1\\
-**September** &  & \\
-Tuesday, September 1\textasciicircum{}st\textasciicircum{} &  & Theory Isn't Dead Follow-up 1\\
-\addlinespace
-Thursday, September 10\textasciicircum{}th\textasciicircum{} &  & Sociological Experience 1\\
-Monday, September 14\textasciicircum{}th\textasciicircum{} &  & Quiz 1\\
-Sunday, September 20\textasciicircum{}th\textasciicircum{} & 5pm & Theory Isn't Dead Post 2\\
-Tuesday, September 22\textasciicircum{}nd\textasciicircum{} &  & Theory Isn't Dead Follow-up 2\\
-Tuesday, September 29\textasciicircum{}th\textasciicircum{} &  & Sociological Experience 2\\
-\addlinespace
-**October** &  & \\
-Thursday, October 1\textasciicircum{}st\textasciicircum{} &  & QHQ Paper 1\\
-Monday, October 12\textasciicircum{}th\textasciicircum{} &  & Quiz 2\\
-Thursday, October 29\textasciicircum{}th\textasciicircum{} &  & Sociological Experience 3\\
-**November** &  & \\
-\addlinespace
-Sunday, November 1\textasciicircum{}st\textasciicircum{} & 5pm & Theory Isn't Dead Post 3\\
-Tuesday, November 3\textasciicircum{}rd\textasciicircum{} &  & Theory Isn't Dead Follow-up 3\\
-Tuesday, November 3\textasciicircum{}rd\textasciicircum{} &  & QHQ Paper 2\\
-Thursday, November 12\textasciicircum{}th\textasciicircum{} &  & Sociological Experience 4\\
-Tuesday, November 17\textasciicircum{}th\textasciicircum{} &  & QHQ Paper 3\\
-\addlinespace
-Sunday, November 22\textasciicircum{}nd\textasciicircum{} & 5pm & Theory Isn't Dead Post 4\\
-Monday, November 23\textasciicircum{}rd\textasciicircum{} &  & Quiz 3\\
-Tuesday, November 24\textasciicircum{}th\textasciicircum{} &  & Theory Isn't Dead Follow-up 4\\
-Monday, November 30\textasciicircum{}th\textasciicircum{} &  & Final Project\\
+4 & 9 & Monday, May 3 & Course Conclusion\\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -994,6 +942,8 @@ Monday, November 30\textasciicircum{}th\textasciicircum{} &  & Final Project\\
 \subsection{Scheduling Notes}\label{scheduling-notes}}
 
 The course schedule may change as it depends on the progress of the class and the \href{covid-19.html}{challenges we are confronted by this semester}. The web version of this document will be updated to reflect any alterations, but the \texttt{.pdf} version will remain unaltered.
+
+This semester, we will not have class on \textbf{February 17} because it is one of the University's break days. Additionally, no class activities are scheduled for \textbf{March 10} or \textbf{May 10}. These are ``flex days,'' which I have left without a scheduled plan to accommodate changes due to COVID-19. If we have to reschedule class days, these two dates will be used before we begin to remove content from the course plan. I will provide updates on my plans for both of these days as the semester progresses.
 
 \hypertarget{meeting-schedule}{%
 \chapter{Meeting Schedule}\label{meeting-schedule}}
@@ -1005,9 +955,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-1---engaging-the-social-world}{%
 \section{Module 1 - Engaging the Social World}\label{module-1---engaging-the-social-world}}
 
-\hypertarget{meeting-01---tuesday-august-18th---course-introduction}{%
-\subsection*{\texorpdfstring{Meeting 01 - Tuesday, August 18\textsuperscript{th} - Course Introduction}{Meeting 01 - Tuesday, August 18th - Course Introduction}}\label{meeting-01---tuesday-august-18th---course-introduction}}
-\addcontentsline{toc}{subsection}{Meeting 01 - Tuesday, August 18\textsuperscript{th} - Course Introduction}
+\hypertarget{meeting-01---monday-february-1---course-introduction}{%
+\subsection*{Meeting 01 - Monday, February 1 - Course Introduction}\label{meeting-01---monday-february-1---course-introduction}}
+\addcontentsline{toc}{subsection}{Meeting 01 - Monday, February 1 - Course Introduction}
 
 \begin{itemize}
 \tightlist
@@ -1025,9 +975,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-02---thursday-august-20th---social-theory}{%
-\subsection*{\texorpdfstring{Meeting 02 - Thursday, August 20\textsuperscript{th} - Social Theory}{Meeting 02 - Thursday, August 20th - Social Theory}}\label{meeting-02---thursday-august-20th---social-theory}}
-\addcontentsline{toc}{subsection}{Meeting 02 - Thursday, August 20\textsuperscript{th} - Social Theory}
+\hypertarget{meeting-02---wednesday-february-3---social-theory}{%
+\subsection*{Meeting 02 - Wednesday, February 3 - Social Theory}\label{meeting-02---wednesday-february-3---social-theory}}
+\addcontentsline{toc}{subsection}{Meeting 02 - Wednesday, February 3 - Social Theory}
 
 \begin{itemize}
 \tightlist
@@ -1045,9 +995,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-03---tuesday-august-25th---theorizing-health-disparities}{%
-\subsection*{\texorpdfstring{Meeting 03 - Tuesday, August 25\textsuperscript{th} - Theorizing Health Disparities}{Meeting 03 - Tuesday, August 25th - Theorizing Health Disparities}}\label{meeting-03---tuesday-august-25th---theorizing-health-disparities}}
-\addcontentsline{toc}{subsection}{Meeting 03 - Tuesday, August 25\textsuperscript{th} - Theorizing Health Disparities}
+\hypertarget{meeting-03---monday-february-8---theorizing-health-disparities}{%
+\subsection*{Meeting 03 - Monday, February 8 - Theorizing Health Disparities}\label{meeting-03---monday-february-8---theorizing-health-disparities}}
+\addcontentsline{toc}{subsection}{Meeting 03 - Monday, February 8 - Theorizing Health Disparities}
 
 \begin{itemize}
 \tightlist
@@ -1073,9 +1023,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-04---thursday-august-27th---studying-society}{%
-\subsection*{\texorpdfstring{Meeting 04 - Thursday, August 27\textsuperscript{th} - Studying Society}{Meeting 04 - Thursday, August 27th - Studying Society}}\label{meeting-04---thursday-august-27th---studying-society}}
-\addcontentsline{toc}{subsection}{Meeting 04 - Thursday, August 27\textsuperscript{th} - Studying Society}
+\hypertarget{meeting-04---wednesday-february-10---studying-society}{%
+\subsection*{Meeting 04 - Wednesday, February 10 - Studying Society}\label{meeting-04---wednesday-february-10---studying-society}}
+\addcontentsline{toc}{subsection}{Meeting 04 - Wednesday, February 10 - Studying Society}
 
 \begin{itemize}
 \tightlist
@@ -1093,7 +1043,7 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Complete Theory Isn't Dead Post 1 and the associated Follow-up
+    Complete Theory Isn't Dead 1
   \end{itemize}
 \end{itemize}
 
@@ -1102,9 +1052,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-2---structuring-the-social-world}{%
 \section{Module 2 - Structuring the Social World}\label{module-2---structuring-the-social-world}}
 
-\hypertarget{meeting-05---tuesday-september-1st---nature-or-nurture}{%
-\subsection*{\texorpdfstring{Meeting 05 - Tuesday, September 1\textsuperscript{st} - Nature or Nurture?}{Meeting 05 - Tuesday, September 1st - Nature or Nurture?}}\label{meeting-05---tuesday-september-1st---nature-or-nurture}}
-\addcontentsline{toc}{subsection}{Meeting 05 - Tuesday, September 1\textsuperscript{st} - Nature or Nurture?}
+\hypertarget{meeting-05---monday-february-15---nature-or-nurture}{%
+\subsection*{Meeting 05 - Monday, February 15 - Nature or Nurture?}\label{meeting-05---monday-february-15---nature-or-nurture}}
+\addcontentsline{toc}{subsection}{Meeting 05 - Monday, February 15 - Nature or Nurture?}
 
 \begin{itemize}
 \tightlist
@@ -1128,9 +1078,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-06---thursday-september-3rd---social-structure}{%
-\subsection*{\texorpdfstring{Meeting 06 - Thursday, September 3\textsuperscript{rd} - Social Structure}{Meeting 06 - Thursday, September 3rd - Social Structure}}\label{meeting-06---thursday-september-3rd---social-structure}}
-\addcontentsline{toc}{subsection}{Meeting 06 - Thursday, September 3\textsuperscript{rd} - Social Structure}
+\hypertarget{meeting-06---monday-february-22---social-structure}{%
+\subsection*{Meeting 06 - Monday, February 22 - Social Structure}\label{meeting-06---monday-february-22---social-structure}}
+\addcontentsline{toc}{subsection}{Meeting 06 - Monday, February 22 - Social Structure}
 
 \begin{itemize}
 \tightlist
@@ -1146,9 +1096,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-07---tuesday-september-8th---socialization}{%
-\subsection*{\texorpdfstring{Meeting 07 - Tuesday, September 8\textsuperscript{th} - Socialization}{Meeting 07 - Tuesday, September 8th - Socialization}}\label{meeting-07---tuesday-september-8th---socialization}}
-\addcontentsline{toc}{subsection}{Meeting 07 - Tuesday, September 8\textsuperscript{th} - Socialization}
+\hypertarget{meeting-07---wednesday-february-24---socialization}{%
+\subsection*{Meeting 07 - Wednesday, February 24 - Socialization}\label{meeting-07---wednesday-february-24---socialization}}
+\addcontentsline{toc}{subsection}{Meeting 07 - Wednesday, February 24 - Socialization}
 
 \begin{itemize}
 \tightlist
@@ -1180,9 +1130,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-08---thursday-september-10th---medicalization}{%
-\subsection*{\texorpdfstring{Meeting 08 - Thursday, September 10\textsuperscript{th} - Medicalization}{Meeting 08 - Thursday, September 10th - Medicalization}}\label{meeting-08---thursday-september-10th---medicalization}}
-\addcontentsline{toc}{subsection}{Meeting 08 - Thursday, September 10\textsuperscript{th} - Medicalization}
+\hypertarget{meeting-08---monday-march-1---medicalization}{%
+\subsection*{Meeting 08 - Monday, March 1 - Medicalization}\label{meeting-08---monday-march-1---medicalization}}
+\addcontentsline{toc}{subsection}{Meeting 08 - Monday, March 1 - Medicalization}
 
 \begin{itemize}
 \tightlist
@@ -1208,7 +1158,7 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Study for Quiz 1 on Monday, September 14\textsuperscript{th}
+    Study for Quiz 1 on \textbf{Friday, March 5}
   \end{itemize}
 \end{itemize}
 
@@ -1217,9 +1167,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-3---culture}{%
 \section{Module 3 - Culture}\label{module-3---culture}}
 
-\hypertarget{meeting-09---tuesday-september-15th---decoding-culture}{%
-\subsection*{\texorpdfstring{Meeting 09 - Tuesday, September 15\textsuperscript{th} - Decoding Culture}{Meeting 09 - Tuesday, September 15th - Decoding Culture}}\label{meeting-09---tuesday-september-15th---decoding-culture}}
-\addcontentsline{toc}{subsection}{Meeting 09 - Tuesday, September 15\textsuperscript{th} - Decoding Culture}
+\hypertarget{meeting-09---wednesday-march-3---decoding-culture}{%
+\subsection*{Meeting 09 - Wednesday, March 3 - Decoding Culture}\label{meeting-09---wednesday-march-3---decoding-culture}}
+\addcontentsline{toc}{subsection}{Meeting 09 - Wednesday, March 3 - Decoding Culture}
 
 \begin{itemize}
 \tightlist
@@ -1235,9 +1185,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-10---thursday-september-17th---culture-and-health}{%
-\subsection*{\texorpdfstring{Meeting 10 - Thursday, September 17\textsuperscript{th} - Culture and Health}{Meeting 10 - Thursday, September 17th - Culture and Health}}\label{meeting-10---thursday-september-17th---culture-and-health}}
-\addcontentsline{toc}{subsection}{Meeting 10 - Thursday, September 17\textsuperscript{th} - Culture and Health}
+\hypertarget{meeting-10---monday-march-8---culture-and-health}{%
+\subsection*{Meeting 10 - Monday, March 8 - Culture and Health}\label{meeting-10---monday-march-8---culture-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 10 - Monday, March 8 - Culture and Health}
 
 \begin{itemize}
 \tightlist
@@ -1263,7 +1213,7 @@ Select a module from the menu to see details about topics, readings, and assignm
   \item
     Watch \emph{Unnatural Causes}, Part 3 - ``Becoming Americans'' (Pius Library)
   \item
-    Complete Theory Isn't Dead Post 2 and the associated Follow-up
+    Complete Theory Isn't Dead 2
   \end{itemize}
 \end{itemize}
 
@@ -1272,9 +1222,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-4---socioeconomic-status}{%
 \section{Module 4 - Socioeconomic Status}\label{module-4---socioeconomic-status}}
 
-\hypertarget{meeting-11---tuesday-september-22nd---social-class}{%
-\subsection*{\texorpdfstring{Meeting 11 - Tuesday, September 22\textsuperscript{nd} - Social Class}{Meeting 11 - Tuesday, September 22nd - Social Class}}\label{meeting-11---tuesday-september-22nd---social-class}}
-\addcontentsline{toc}{subsection}{Meeting 11 - Tuesday, September 22\textsuperscript{nd} - Social Class}
+\hypertarget{meeting-11---monday-march-15---social-class}{%
+\subsection*{Meeting 11 - Monday, March 15 - Social Class}\label{meeting-11---monday-march-15---social-class}}
+\addcontentsline{toc}{subsection}{Meeting 11 - Monday, March 15 - Social Class}
 
 \begin{itemize}
 \tightlist
@@ -1290,9 +1240,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-12---thursday-september-24th---inequality-and-poverty}{%
-\subsection*{\texorpdfstring{Meeting 12 - Thursday, September 24\textsuperscript{th} - Inequality and Poverty}{Meeting 12 - Thursday, September 24th - Inequality and Poverty}}\label{meeting-12---thursday-september-24th---inequality-and-poverty}}
-\addcontentsline{toc}{subsection}{Meeting 12 - Thursday, September 24\textsuperscript{th} - Inequality and Poverty}
+\hypertarget{meeting-12---wednesday-march-17---inequality-and-poverty}{%
+\subsection*{Meeting 12 - Wednesday, March 17 - Inequality and Poverty}\label{meeting-12---wednesday-march-17---inequality-and-poverty}}
+\addcontentsline{toc}{subsection}{Meeting 12 - Wednesday, March 17 - Inequality and Poverty}
 
 \begin{itemize}
 \tightlist
@@ -1316,9 +1266,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-13---tuesday-september-29th---socioeconomic-status-and-health}{%
-\subsection*{\texorpdfstring{Meeting 13 - Tuesday, September 29\textsuperscript{th} - Socioeconomic Status and Health}{Meeting 13 - Tuesday, September 29th - Socioeconomic Status and Health}}\label{meeting-13---tuesday-september-29th---socioeconomic-status-and-health}}
-\addcontentsline{toc}{subsection}{Meeting 13 - Tuesday, September 29\textsuperscript{th} - Socioeconomic Status and Health}
+\hypertarget{meeting-13---monday-march-22---socioeconomic-status-and-health}{%
+\subsection*{Meeting 13 - Monday, March 22 - Socioeconomic Status and Health}\label{meeting-13---monday-march-22---socioeconomic-status-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 13 - Monday, March 22 - Socioeconomic Status and Health}
 
 \begin{itemize}
 \tightlist
@@ -1348,9 +1298,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-14---thursday-october-1st---qhq-1-discussion}{%
-\subsection*{\texorpdfstring{Meeting 14 - Thursday, October 1\textsuperscript{st} - QHQ 1 Discussion}{Meeting 14 - Thursday, October 1st - QHQ 1 Discussion}}\label{meeting-14---thursday-october-1st---qhq-1-discussion}}
-\addcontentsline{toc}{subsection}{Meeting 14 - Thursday, October 1\textsuperscript{st} - QHQ 1 Discussion}
+\hypertarget{meeting-14---wednesday-march-24---qhq-1-discussion}{%
+\subsection*{Meeting 14 - Wednesday, March 24 - QHQ 1 Discussion}\label{meeting-14---wednesday-march-24---qhq-1-discussion}}
+\addcontentsline{toc}{subsection}{Meeting 14 - Wednesday, March 24 - QHQ 1 Discussion}
 
 \begin{itemize}
 \tightlist
@@ -1371,9 +1321,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-5---gender-and-sexuality}{%
 \section{Module 5 - Gender and Sexuality}\label{module-5---gender-and-sexuality}}
 
-\hypertarget{meeting-15---tuesday-october-6th---gender-and-health}{%
-\subsection*{\texorpdfstring{Meeting 15 - Tuesday, October 6\textsuperscript{th} - Gender and Health}{Meeting 15 - Tuesday, October 6th - Gender and Health}}\label{meeting-15---tuesday-october-6th---gender-and-health}}
-\addcontentsline{toc}{subsection}{Meeting 15 - Tuesday, October 6\textsuperscript{th} - Gender and Health}
+\hypertarget{meeting-15---monday-march-29---gender-and-health}{%
+\subsection*{Meeting 15 - Monday, March 29 - Gender and Health}\label{meeting-15---monday-march-29---gender-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 15 - Monday, March 29 - Gender and Health}
 
 \begin{itemize}
 \tightlist
@@ -1397,9 +1347,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-16---thursday-october-8th---sexuality-and-health}{%
-\subsection*{\texorpdfstring{Meeting 16 - Thursday, October 8\textsuperscript{th} - Sexuality and Health}{Meeting 16 - Thursday, October 8th - Sexuality and Health}}\label{meeting-16---thursday-october-8th---sexuality-and-health}}
-\addcontentsline{toc}{subsection}{Meeting 16 - Thursday, October 8\textsuperscript{th} - Sexuality and Health}
+\hypertarget{meeting-16---wednesday-march-31---sexuality-and-health}{%
+\subsection*{Meeting 16 - Wednesday, March 31 - Sexuality and Health}\label{meeting-16---wednesday-march-31---sexuality-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 16 - Wednesday, March 31 - Sexuality and Health}
 
 \begin{itemize}
 \tightlist
@@ -1417,7 +1367,7 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Study for Quiz 2 on Monday, October 12\textsuperscript{th}
+    Study for Quiz 2 on \textbf{Tuesday, April 6}
   \end{itemize}
 \end{itemize}
 
@@ -1426,9 +1376,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-6---race-and-racism}{%
 \section{Module 6 - Race and Racism}\label{module-6---race-and-racism}}
 
-\hypertarget{meeting-17---tuesday-october-13nd---race-and-racism-1}{%
-\subsection*{\texorpdfstring{Meeting 17 - Tuesday, October 13\textsuperscript{nd} - Race and Racism 1}{Meeting 17 - Tuesday, October 13nd - Race and Racism 1}}\label{meeting-17---tuesday-october-13nd---race-and-racism-1}}
-\addcontentsline{toc}{subsection}{Meeting 17 - Tuesday, October 13\textsuperscript{nd} - Race and Racism 1}
+\hypertarget{meeting-17---monday-april-5---race-and-racism-1}{%
+\subsection*{Meeting 17 - Monday, April 5 - Race and Racism 1}\label{meeting-17---monday-april-5---race-and-racism-1}}
+\addcontentsline{toc}{subsection}{Meeting 17 - Monday, April 5 - Race and Racism 1}
 
 \begin{itemize}
 \tightlist
@@ -1454,9 +1404,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-18---thursday-october-15th---race-and-racism-2}{%
-\subsection*{\texorpdfstring{Meeting 18 - Thursday, October 15\textsuperscript{th} - Race and Racism 2}{Meeting 18 - Thursday, October 15th - Race and Racism 2}}\label{meeting-18---thursday-october-15th---race-and-racism-2}}
-\addcontentsline{toc}{subsection}{Meeting 18 - Thursday, October 15\textsuperscript{th} - Race and Racism 2}
+\hypertarget{meeting-18--wednesday-april-7---race-and-racism-2}{%
+\subsection*{Meeting 18 -Wednesday, April 7 - Race and Racism 2}\label{meeting-18--wednesday-april-7---race-and-racism-2}}
+\addcontentsline{toc}{subsection}{Meeting 18 -Wednesday, April 7 - Race and Racism 2}
 
 \begin{itemize}
 \tightlist
@@ -1466,27 +1416,15 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Reading TBD
+    \emph{no assignments}
   \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{fall-break---tuesday-october-20th}{%
-\subsection*{\texorpdfstring{Fall Break - Tuesday, October 20\textsuperscript{th}}{Fall Break - Tuesday, October 20th}}\label{fall-break---tuesday-october-20th}}
-\addcontentsline{toc}{subsection}{Fall Break - Tuesday, October 20\textsuperscript{th}}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{flex-day-1---thursday-october-22nd}{%
-\subsection*{\texorpdfstring{Flex Day 1 - Thursday, October 22\textsuperscript{nd}}{Flex Day 1 - Thursday, October 22nd}}\label{flex-day-1---thursday-october-22nd}}
-\addcontentsline{toc}{subsection}{Flex Day 1 - Thursday, October 22\textsuperscript{nd}}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{meeting-19---tuesday-october-27th---race-and-racism-3}{%
-\subsection*{\texorpdfstring{Meeting 19 - Tuesday, October 27\textsuperscript{th} - Race and Racism 3}{Meeting 19 - Tuesday, October 27th - Race and Racism 3}}\label{meeting-19---tuesday-october-27th---race-and-racism-3}}
-\addcontentsline{toc}{subsection}{Meeting 19 - Tuesday, October 27\textsuperscript{th} - Race and Racism 3}
+\hypertarget{meeting-19---monday-april-12---race-and-racism-3}{%
+\subsection*{Meeting 19 - Monday, April 12 - Race and Racism 3}\label{meeting-19---monday-april-12---race-and-racism-3}}
+\addcontentsline{toc}{subsection}{Meeting 19 - Monday, April 12 - Race and Racism 3}
 
 \begin{itemize}
 \tightlist
@@ -1497,8 +1435,6 @@ Select a module from the menu to see details about topics, readings, and assignm
   \tightlist
   \item
     Read \emph{A Sociology Experiment}, ``Chapter 7 - Race and Ethnicity,'' pp.~23-28 (Link)
-  \item
-    Reading TBD
   \end{itemize}
 \item
   \textbf{After Class:}
@@ -1512,9 +1448,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-20---thursday-october-29th---racism-and-health}{%
-\subsection*{\texorpdfstring{Meeting 20 - Thursday, October 29\textsuperscript{th} - Racism and Health}{Meeting 20 - Thursday, October 29th - Racism and Health}}\label{meeting-20---thursday-october-29th---racism-and-health}}
-\addcontentsline{toc}{subsection}{Meeting 20 - Thursday, October 29\textsuperscript{th} - Racism and Health}
+\hypertarget{meeting-20---wednesday-april-14---racism-and-health}{%
+\subsection*{Meeting 20 - Wednesday, April 14 - Racism and Health}\label{meeting-20---wednesday-april-14---racism-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 20 - Wednesday, April 14 - Racism and Health}
 
 \begin{itemize}
 \tightlist
@@ -1555,8 +1491,6 @@ Select a module from the menu to see details about topics, readings, and assignm
   \tightlist
   \item
     Watch \emph{Unnatural Causes}, Part 4 - ``Bad Sugar'' (Pius Library)
-  \item
-    Complete Theory Isn't Dead Post 3 and the associated Follow-up
   \end{itemize}
 \end{itemize}
 
@@ -1565,9 +1499,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-7---intersectionality}{%
 \section{Module 7 - Intersectionality}\label{module-7---intersectionality}}
 
-\hypertarget{meeting-21---tuesday-november-3rd---qhq-2-discussion}{%
-\subsection*{\texorpdfstring{Meeting 21 - Tuesday, November 3\textsuperscript{rd} - QHQ 2 Discussion}{Meeting 21 - Tuesday, November 3rd - QHQ 2 Discussion}}\label{meeting-21---tuesday-november-3rd---qhq-2-discussion}}
-\addcontentsline{toc}{subsection}{Meeting 21 - Tuesday, November 3\textsuperscript{rd} - QHQ 2 Discussion}
+\hypertarget{meeting-21---monday-april-19---qhq-2-discussion}{%
+\subsection*{Meeting 21 - Monday, April 19 - QHQ 2 Discussion}\label{meeting-21---monday-april-19---qhq-2-discussion}}
+\addcontentsline{toc}{subsection}{Meeting 21 - Monday, April 19 - QHQ 2 Discussion}
 
 \begin{itemize}
 \tightlist
@@ -1585,9 +1519,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-22---thursday-november-5th---intersectionality-and-health}{%
-\subsection*{\texorpdfstring{Meeting 22 - Thursday, November 5\textsuperscript{th} - Intersectionality and Health}{Meeting 22 - Thursday, November 5th - Intersectionality and Health}}\label{meeting-22---thursday-november-5th---intersectionality-and-health}}
-\addcontentsline{toc}{subsection}{Meeting 22 - Thursday, November 5\textsuperscript{th} - Intersectionality and Health}
+\hypertarget{meeting-22---wednesday-april-21---intersectionality-and-health}{%
+\subsection*{Meeting 22 - Wednesday, April 21 - Intersectionality and Health}\label{meeting-22---wednesday-april-21---intersectionality-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 22 - Wednesday, April 21 - Intersectionality and Health}
 
 \begin{itemize}
 \tightlist
@@ -1628,9 +1562,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-8---urban-sociology}{%
 \section{Module 8 - Urban Sociology}\label{module-8---urban-sociology}}
 
-\hypertarget{meeting-23---tuesday-november-10th---urban-america}{%
-\subsection*{\texorpdfstring{Meeting 23 - Tuesday, November 10\textsuperscript{th} - Urban America}{Meeting 23 - Tuesday, November 10th - Urban America}}\label{meeting-23---tuesday-november-10th---urban-america}}
-\addcontentsline{toc}{subsection}{Meeting 23 - Tuesday, November 10\textsuperscript{th} - Urban America}
+\hypertarget{meeting-23---monday-april-26---urban-america}{%
+\subsection*{Meeting 23 - Monday, April 26 - Urban America}\label{meeting-23---monday-april-26---urban-america}}
+\addcontentsline{toc}{subsection}{Meeting 23 - Monday, April 26 - Urban America}
 
 \begin{itemize}
 \tightlist
@@ -1666,9 +1600,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-24---thursday-november-12th---cities-and-health}{%
-\subsection*{\texorpdfstring{Meeting 24 - Thursday, November 12\textsuperscript{th} - Cities and Health}{Meeting 24 - Thursday, November 12th - Cities and Health}}\label{meeting-24---thursday-november-12th---cities-and-health}}
-\addcontentsline{toc}{subsection}{Meeting 24 - Thursday, November 12\textsuperscript{th} - Cities and Health}
+\hypertarget{meeting-24---wednesday-april-28---cities-and-health}{%
+\subsection*{Meeting 24 - Wednesday, April 28 - Cities and Health}\label{meeting-24---wednesday-april-28---cities-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 24 - Wednesday, April 28 - Cities and Health}
 
 \begin{itemize}
 \tightlist
@@ -1705,9 +1639,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-9---course-conclusion}{%
 \section{Module 9 - Course Conclusion}\label{module-9---course-conclusion}}
 
-\hypertarget{meeting-23---tuesday-november-17th---qhq-3-discussion}{%
-\subsection*{\texorpdfstring{Meeting 23 - Tuesday, November 17\textsuperscript{th} - QHQ 3 Discussion}{Meeting 23 - Tuesday, November 17th - QHQ 3 Discussion}}\label{meeting-23---tuesday-november-17th---qhq-3-discussion}}
-\addcontentsline{toc}{subsection}{Meeting 23 - Tuesday, November 17\textsuperscript{th} - QHQ 3 Discussion}
+\hypertarget{meeting-25---monday-may-3---qhq-3-discussion}{%
+\subsection*{Meeting 25 - Monday, May 3 - QHQ 3 Discussion}\label{meeting-25---monday-may-3---qhq-3-discussion}}
+\addcontentsline{toc}{subsection}{Meeting 25 - Monday, May 3 - QHQ 3 Discussion}
 
 \begin{itemize}
 \tightlist
@@ -1725,9 +1659,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-24---thursday-november-19th---course-conclusion}{%
-\subsection*{\texorpdfstring{Meeting 24 - Thursday, November 19\textsuperscript{th} - Course Conclusion}{Meeting 24 - Thursday, November 19th - Course Conclusion}}\label{meeting-24---thursday-november-19th---course-conclusion}}
-\addcontentsline{toc}{subsection}{Meeting 24 - Thursday, November 19\textsuperscript{th} - Course Conclusion}
+\hypertarget{meeting-26---wednesday-may-5---course-conclusion}{%
+\subsection*{Meeting 26 - Wednesday, May 5 - Course Conclusion}\label{meeting-26---wednesday-may-5---course-conclusion}}
+\addcontentsline{toc}{subsection}{Meeting 26 - Wednesday, May 5 - Course Conclusion}
 
 \begin{itemize}
 \tightlist
@@ -1759,19 +1693,11 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Complete Theory Isn't Dead Post 4 and the associated Follow-up
+    Study for Quiz 3 on \textbf{Monday, May 10} (this is planned as a flex day, and the date of this quiz may change if that day needs to be used for other course content)
   \item
-    Study for Quiz 3 on Monday, November 23\textsuperscript{rd}
-  \item
-    Complete the Final Project, which is due on Monday, November 30\textsuperscript{th}
+    Complete the Final Project, which is due on \textbf{Monday, May 17.}
   \end{itemize}
 \end{itemize}
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
-
-\hypertarget{flex-day-2---tuesday-november-24th}{%
-\subsection*{\texorpdfstring{Flex Day 2 - Tuesday, November 24\textsuperscript{th}}{Flex Day 2 - Tuesday, November 24th}}\label{flex-day-2---tuesday-november-24th}}
-\addcontentsline{toc}{subsection}{Flex Day 2 - Tuesday, November 24\textsuperscript{th}}
 
 \hypertarget{part-honors-supplement}{%
 \part{Honors Supplement}\label{part-honors-supplement}}
@@ -1779,7 +1705,7 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{honors-overview}{%
 \chapter{Honors Overview}\label{honors-overview}}
 
-This is the supplemental syllabus for the honors section of SOC 1120-05 (i.e.~SOC 1120-05H). Students enrolled in the honors section are expected to complete all \href{/lecture-schedule.html}{readings} and \href{/assignments-and-grading.html}{assignments} included in the syllabus and should look to the previous sections \href{/course-policies.html}{general course policies} as well. The following sections detail the additional work expected of students in the honors section.
+This is the supplemental syllabus for the honors section of SOC 1120-02 (i.e.~SOC 1120-H02). Students enrolled in the honors section are expected to complete all \href{/lecture-schedule.html}{readings} and \href{/assignments-and-grading.html}{assignments} included in the syllabus and should look to the previous sections \href{/course-policies.html}{general course policies} as well. The following sections detail the additional work expected of students in the honors section.
 
 \hypertarget{in-depth-seminars}{%
 \section{In-Depth Seminars}\label{in-depth-seminars}}
@@ -1802,7 +1728,7 @@ You are expected to complete three seminars over the course of the semester. The
   a short response paper.
 \end{enumerate}
 
-Seminar topics will be selected by the students as a group, and should align with \href{/honors-seminar-topics.html}{the topics listed below}. Consensus on seminar topics should be reached by class on \textbf{Thursday, August 20\textsuperscript{th}}. All students will complete the same seminars. Once the seminars are selected, Chris will provide a list of additional journal articles and book chapters to read. You will be expected to retrieve readings from SLU's Library if they are available there. If they are not, Chris will provide everyone with a \texttt{pdf} copy of the readings. Approximately 40 to 50 pages of additional reading per seminar should be expected.
+Seminar topics will be selected by the students as a group, and should align with \href{/honors-seminar-topics.html}{the topics listed below}. Consensus on seminar topics should be reached by class on \textbf{Wednesday, February 3}. All students will complete the same seminars. Once the seminars are selected, Chris will provide a list of additional journal articles and book chapters to read. You will be expected to retrieve readings from SLU's Library if they are available there. If they are not, Chris will provide everyone with a \texttt{pdf} copy of the readings. Approximately 40 to 50 pages of additional reading per seminar should be expected.
 
 We will schedule a when all students are available to meet together and discuss the assigned readings. Each seminar meeting will occur after the lectures on the seminar topic (ideally later that week or the next week). Chris will coordinate scheduling the seminar meetings, which will take place in one of the Sociology Department's conference rooms. You should come to seminar meetings prepared to discuss the readings themselves and draw analytic connections to the course material from both the related week and prior weeks. Attendance and participation in the seminars themselves will be factored into your honors participation grade.
 
@@ -1829,11 +1755,11 @@ These discussions should inform a response paper written by each student that co
   Papers should include a works cited section on a separate page that is properly formatted using ASA standards - this does not count towards the page limit
 \end{itemize}
 
-\hypertarget{grading}{%
-\subsection{Grading}\label{grading}}
+\hypertarget{grading-1}{%
+\subsection{Grading}\label{grading-1}}
 
 \begin{rmdtip}
-Your papers are collectively worth \textbf{17.65\%} of your final grade
+Your papers are collectively worth \textbf{18.4\%} of your final grade
 \end{rmdtip}
 
 Paper due-dates will be a week after each seminar meeting, and papers will be submitted via Blackboard. Each response paper will be graded on four elements:
@@ -1851,24 +1777,24 @@ Paper due-dates will be a week after each seminar meeting, and papers will be su
   Citations (5 points): Are citations correctly applied?
 \end{enumerate}
 
-Papers are worth approximately 7.5\% of your final grade for each paper.
+Papers are worth approximately 6.1\% of your final grade for each paper.
 
 \hypertarget{op-ed}{%
 \section{Op-Ed}\label{op-ed}}
 
 \begin{rmdtip}
-Your op-ed is worth \textbf{8.82\%} of your final grade
+Your op-ed is worth \textbf{9.2\%} of your final grade
 \end{rmdtip}
 
-You should pick a topic from \href{/honors-seminar-topics.html}{the honors seminar topic list} that you would like to use as a jumping-off point for writing an op-ed style article. With a topic in-hand, you should read ahead and pick \emph{one narrow aspect} of the topic to focus on. Topics must be selected by \textbf{Thursday, September 17\textsuperscript{th}} and are ``submitted'' by coming to office hours (or making an appointment to see Chris if you have a scheduling conflict) to discuss your idea.
+You should pick a topic from \href{/honors-seminar-topics.html}{the honors seminar topic list} that you would like to use as a jumping-off point for writing an op-ed style article. With a topic in-hand, you should read ahead and pick \emph{one narrow aspect} of the topic to focus on. Topics must be selected by \textbf{Monday, February 22} and are ``submitted'' by coming to office hours (or making an appointment to see Chris if you have a scheduling conflict) to discuss your idea.
 
 Once you meet with Chris, you should complete additional background research on the topic, and put together a 700 to 800 word op-ed style article. This article should introduce your topic succinctly and \emph{take a position} on it, providing specific data that supports your position. Remember that the main purpose of an op-ed is to persuade your reader. \href{https://styleguide.duke.edu/toolkits/writing-media/how-to-write-an-op-ed-article/}{Duke University} provides some excellent guidance on forming your argument and approaching editorial writing.
 
 Since this is an op-ed, you do not need to provide citations in the body of the paper. Instead, provide end-notes that describe the source of information. Please provide a bibliography on a separate page of your submission that lists all sources of data and information included in the op-ed.
 
-A draft submission, which should contain all required elements, is due on \textbf{Tuesday, November 10\textsuperscript{th}} for feedback via Blackboard. It is ungraded; however, if not submitted, a 3\% deduction will be applied to your final grade.
+A draft submission, which should contain all required elements, is due on \textbf{Tuesday, April 5} for feedback via Blackboard. It is ungraded; however, if not submitted, a 3\% deduction will be applied to your final grade.
 
-The final submission on \textbf{Monday, December 7\textsuperscript{th}} should be made to two venues - Chris via Blackboard and a publication. The publication could be your hometown paper or a local St.~Louis publication if the topic is about St.~Louis. Any publication that accepts op-ed submissions without invitation is acceptable. You don't have to have your op-ed published, just submitted! Make sure to forward your submission email to Chris after it is completed.
+The final submission on \textbf{Monday, May 10} should be made to two venues - Chris via Blackboard and a publication. The publication could be your hometown paper or a local St.~Louis publication if the topic is about St.~Louis. Any publication that accepts op-ed submissions without invitation is acceptable. You don't have to have your op-ed published, just submitted! Make sure to forward your submission email to Chris after it is completed.
 
 \hypertarget{op-ed-format}{%
 \subsection{Op-Ed Format}\label{op-ed-format}}
@@ -1896,10 +1822,10 @@ The op-ed should be formatted using the following guidelines:
 
 Once submitted, op-eds will be shared with all honors students. Each of you should read the other op-eds and come prepared to discuss them during a final seminar session (date TBA - will be after May 1\textsuperscript{st}). As with the other seminars, attendance and participation will be factored into your honors participation grade.
 
-\hypertarget{grading-1}{%
-\subsection{Grading}\label{grading-1}}
+\hypertarget{grading-2}{%
+\subsection{Grading}\label{grading-2}}
 
-Op-eds will be submitted by \textbf{Monday, May 4\textsuperscript{th}} via Blackboard. Each op-ed paper will be graded on four elements:
+Op-eds will be submitted by \textbf{Monday, May 10} via Blackboard. Each op-ed paper will be graded on four elements:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -1955,19 +1881,19 @@ The following point totals supersede the information on the main syllabus under 
 \toprule
 Assignment & Period & Points & Quantity & Total & Percent\\
 \midrule
-Participation & Part 1 & 20 pts & x1 & 20 pts & 10.6\%\\
+Participation & Part 1 & 20 pts & x1 & 20 pts & 11.6\%\\
  & Part 2 & 30 pts & x1 & 30 pts & \\
  & Part 3 & 30 pts & x1 & 30 pts & \\
- & Part 4 & 10 pts & x1 & 10 pts & \\
-Theory Isn't Dead &  & 20 pts & x4 & 80 pts & 9.4\%\\
+ & Part 4 & 10 pts & x1 & 15 pts & \\
+Theory Isn't Dead &  & 20 pts & x4 & 40 pts & 4.9\%\\
 \addlinespace
-Sociological Experiences &  & 20 pts & x4 & 80 pts & 9.4\%\\
-QHQs &  & 75 pts & x2 & 150 pts & 17.7\%\\
-Quizzes &  & 50 pts & x3 & 150 pts & 17.7\%\\
-Final Project &  & 75 pts & x1 & 75 pts & 8.8\%\\
-Honors Response Papers &  & 50 pts & x3 & 150 pts & 17.7\%\\
+Sociological Experiences &  & 20 pts & x4 & 80 pts & 9.9\%\\
+QHQs &  & 75 pts & x2 & 150 pts & 18.4\%\\
+Quizzes &  & 50 pts & x3 & 150 pts & 18.4\%\\
+Final Project &  & 75 pts & x1 & 75 pts & 9.2\%\\
+Honors Response Papers &  & 50 pts & x3 & 150 pts & 18.4\%\\
 \addlinespace
-Honors Op-Ed &  & 75 pts & x1 & 75 pts & 8.8\%\\
+Honors Op-Ed &  & 75 pts & x1 & 75 pts & 9.2\%\\
 \bottomrule
 \end{tabular}
 \end{table}

@@ -2,7 +2,7 @@
 
 # Honors Overview
 
-This is the supplemental syllabus for the honors section of SOC 1120-05 (i.e. SOC 1120-05H). Students enrolled in the honors section are expected to complete all [readings](/lecture-schedule.html) and [assignments](/assignments-and-grading.html) included in the syllabus and should look to the previous sections [general course policies](/course-policies.html) as well. The following sections detail the additional work expected of students in the honors section.
+This is the supplemental syllabus for the honors section of SOC 1120-02 (i.e. SOC 1120-H02). Students enrolled in the honors section are expected to complete all [readings](/lecture-schedule.html) and [assignments](/assignments-and-grading.html) included in the syllabus and should look to the previous sections [general course policies](/course-policies.html) as well. The following sections detail the additional work expected of students in the honors section.
 
 ## In-Depth Seminars
 
@@ -16,7 +16,7 @@ You are expected to complete three seminars over the course of the semester. The
 2.  a group seminar meeting, and
 3.  a short response paper.
 
-Seminar topics will be selected by the students as a group, and should align with [the topics listed below](/honors-seminar-topics.html). Consensus on seminar topics should be reached by class on **Thursday, August 20^th^**. All students will complete the same seminars. Once the seminars are selected, Chris will provide a list of additional journal articles and book chapters to read. You will be expected to retrieve readings from SLU's Library if they are available there. If they are not, Chris will provide everyone with a `pdf` copy of the readings. Approximately 40 to 50 pages of additional reading per seminar should be expected.
+Seminar topics will be selected by the students as a group, and should align with [the topics listed below](/honors-seminar-topics.html). Consensus on seminar topics should be reached by class on **Wednesday, February 3**. All students will complete the same seminars. Once the seminars are selected, Chris will provide a list of additional journal articles and book chapters to read. You will be expected to retrieve readings from SLU's Library if they are available there. If they are not, Chris will provide everyone with a `pdf` copy of the readings. Approximately 40 to 50 pages of additional reading per seminar should be expected.
 
 We will schedule a when all students are available to meet together and discuss the assigned readings. Each seminar meeting will occur after the lectures on the seminar topic (ideally later that week or the next week). Chris will coordinate scheduling the seminar meetings, which will take place in one of the Sociology Department's conference rooms. You should come to seminar meetings prepared to discuss the readings themselves and draw analytic connections to the course material from both the related week and prior weeks. Attendance and participation in the seminars themselves will be factored into your honors participation grade.
 
@@ -35,7 +35,7 @@ These discussions should inform a response paper written by each student that co
 ### Grading
 
 ```{block, type = "rmdtip"}
-Your papers are collectively worth **17.65%** of your final grade
+Your papers are collectively worth **18.4%** of your final grade
 ```
 
 Paper due-dates will be a week after each seminar meeting, and papers will be submitted via Blackboard. Each response paper will be graded on four elements:
@@ -45,23 +45,23 @@ Paper due-dates will be a week after each seminar meeting, and papers will be su
 3.  Writing (10 points): How well written is the paper? Is it free of spelling and grammatical errors?
 4.  Citations (5 points): Are citations correctly applied?
 
-Papers are worth approximately 7.5% of your final grade for each paper.
+Papers are worth approximately 6.1% of your final grade for each paper.
 
 ## Op-Ed
 
 ```{block, type = "rmdtip"}
-Your op-ed is worth **8.82%** of your final grade
+Your op-ed is worth **9.2%** of your final grade
 ```
 
-You should pick a topic from [the honors seminar topic list](/honors-seminar-topics.html) that you would like to use as a jumping-off point for writing an op-ed style article. With a topic in-hand, you should read ahead and pick *one narrow aspect* of the topic to focus on. Topics must be selected by **Thursday, September 17^th^** and are "submitted" by coming to office hours (or making an appointment to see Chris if you have a scheduling conflict) to discuss your idea.
+You should pick a topic from [the honors seminar topic list](/honors-seminar-topics.html) that you would like to use as a jumping-off point for writing an op-ed style article. With a topic in-hand, you should read ahead and pick *one narrow aspect* of the topic to focus on. Topics must be selected by **Monday, February 22** and are "submitted" by coming to office hours (or making an appointment to see Chris if you have a scheduling conflict) to discuss your idea.
 
 Once you meet with Chris, you should complete additional background research on the topic, and put together a 700 to 800 word op-ed style article. This article should introduce your topic succinctly and *take a position* on it, providing specific data that supports your position. Remember that the main purpose of an op-ed is to persuade your reader. [Duke University](https://styleguide.duke.edu/toolkits/writing-media/how-to-write-an-op-ed-article/) provides some excellent guidance on forming your argument and approaching editorial writing.
 
 Since this is an op-ed, you do not need to provide citations in the body of the paper. Instead, provide end-notes that describe the source of information. Please provide a bibliography on a separate page of your submission that lists all sources of data and information included in the op-ed.
 
-A draft submission, which should contain all required elements, is due on **Tuesday, November 10^th^** for feedback via Blackboard. It is ungraded; however, if not submitted, a 3% deduction will be applied to your final grade.
+A draft submission, which should contain all required elements, is due on **Tuesday, April 5** for feedback via Blackboard. It is ungraded; however, if not submitted, a 3% deduction will be applied to your final grade.
 
-The final submission on **Monday, December 7^th^** should be made to two venues - Chris via Blackboard and a publication. The publication could be your hometown paper or a local St. Louis publication if the topic is about St. Louis. Any publication that accepts op-ed submissions without invitation is acceptable. You don't have to have your op-ed published, just submitted! Make sure to forward your submission email to Chris after it is completed.
+The final submission on **Monday, May 10** should be made to two venues - Chris via Blackboard and a publication. The publication could be your hometown paper or a local St. Louis publication if the topic is about St. Louis. Any publication that accepts op-ed submissions without invitation is acceptable. You don't have to have your op-ed published, just submitted! Make sure to forward your submission email to Chris after it is completed.
 
 ### Op-Ed Format
 
@@ -78,7 +78,7 @@ The op-ed should be formatted using the following guidelines:
 Once submitted, op-eds will be shared with all honors students. Each of you should read the other op-eds and come prepared to discuss them during a final seminar session (date TBA - will be after May 1^st^). As with the other seminars, attendance and participation will be factored into your honors participation grade.
 
 ### Grading 
-Op-eds will be submitted by **Monday, May 4^th^** via Blackboard. Each op-ed paper will be graded on four elements:
+Op-eds will be submitted by **Monday, May 10** via Blackboard. Each op-ed paper will be graded on four elements:
 
 1.  Content (45 points): How persuasive is the argument? What evidence is used to support the argument?
 2.  Organization (10 points): How well organized is the paper? Does it
@@ -122,8 +122,8 @@ points <- data.frame(
   Period = c("Part 1", "Part 2", "Part 3", "Part 4", "", "", "", "", "", "", ""),
   Points = c("20 pts", "30 pts", "30 pts", "10 pts", "20 pts", "20 pts", "75 pts", "50 pts", "75 pts", "50 pts", "75 pts"),
   Quantity = c("x1", "x1", "x1", "x1", "x4", "x4", "x2", "x3", "x1", "x3", "x1"),
-  Total = c("20 pts", "30 pts", "30 pts", "10 pts", "80 pts", "80 pts", "150 pts", "150 pts", "75 pts", "150 pts", "75 pts"),
-  Percent = c("10.6%", "", "", "", "9.4%", "9.4%", "17.7%", "17.7%", "8.8%", "17.7%", "8.8%"),
+  Total = c("20 pts", "30 pts", "30 pts", "15 pts", "40 pts", "80 pts", "150 pts", "150 pts", "75 pts", "150 pts", "75 pts"),
+  Percent = c("11.6%", "", "", "", "4.9%", "9.9%", "18.4%", "18.4%", "9.2%", "18.4%", "9.2%"),
   stringsAsFactors = FALSE
 )
 

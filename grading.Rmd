@@ -5,6 +5,21 @@ This section provides general details on the different types of assignments for 
 Students enrolled in the honors section should see [Section 7](/syllabus/honors-overview.html) for additional assignment descriptions as well as their weighting and final point totals.
 ```
 
+```{r, echo=FALSE}
+schedule_tbl <- readr::read_csv("schedule.csv", 
+                                col_types = readr::cols(
+                                  module = readr::col_character(),
+                                  date = readr::col_character(),
+                                  start = readr::col_logical()
+  ))
+schedule_tbl <- dplyr::mutate(schedule_tbl, date = lubridate::mdy(date))
+schedule_tbl <- dplyr::mutate(schedule_tbl, month = lubridate::month(date))
+schedule_tbl <- dplyr::mutate(schedule_tbl, month = month.name[month])
+schedule_tbl <- dplyr::mutate(schedule_tbl, day = lubridate::day(date))
+schedule_tbl <- dplyr::mutate(schedule_tbl, dow = weekdays(date, abbreviate = FALSE))
+schedule_tbl <- dplyr::mutate(schedule_tbl, label = paste0(dow, ", ", month, " ", day))
+```
+
 ## Assignments
 
 Your grade for this course will consist of a number of different assignments on which points may be earned. Each category of assignment is described below. 
@@ -16,38 +31,34 @@ As a reminder, all due dates are provisional due to the uncertainty around COVID
 ### Attendance and Participation
 
 ```{block, type = "rmdtip"}
-Attendance and participation are worth 90 points, or **14.4%** of your final grade
+Attendance and participation are worth 95 points, or **16.1%** of your final grade
 ```
 
 As discussed above, both attendance and participation are important aspects of this class. The class participation grade will be based on (a) attendance, (b) level of engagement during class (including being present for and participating in course discussions), and (c) class "entry" and "exit tickets."
 
 Each of these elements is assigned a point value and assessed using a scale that awards full, partial, or no credit (see [Grading](grading.html)). Not attending class or completing an "entry" or "exit" ticket will result in no credit being earned for that element on a given day. Disengagement during class may result in partial or no credit being earned. Late arrivals will result in only partial credit earned for that element on a given day.
 
-Your participation grade will be split, with 20 points for Part 1, 30 points each for Parts 2 and 3, and 10 points for Part 4. Since the number of points awarded for participation are variable, the total number of points earned for each half will be **weighted** so that it is converted to a final score that matches the points available for that part of the course. I provide the final number of points earned for each part of the course. If you would like a more detailed breakdown of your participation grade and/or attendance record, please reach out and I will happily provide one.
+Your participation grade will be split, with 20 points for Part 1, 30 points each for Parts 2 and 3, and 15 points for Part 4. Since the number of points awarded for participation are variable, the total number of points earned for each half will be **weighted** so that it is converted to a final score that matches the points available for that part of the course. I provide the final number of points earned for each part of the course. If you would like a more detailed breakdown of your participation grade and/or attendance record, please reach out and I will happily provide one.
 
 ### Theory Isn't Dead Posts
 
 ```{block, type = "rmdtip"}
-Theory posts are worth 80 points, or **12.8%** of your final grade
+Theory posts are worth 40 points, or **6.8%** of your final grade
 ```
 
 Over the course of the semester, there will be four short exercises that ask you to tie social theory, social science research, and current events together. For each of these assignments, I will post a news article. Based on your read of the article, you should pick one of the social theories we have discussed in class or in readings, briefly describe why you selected that theory (in 2-3 sentences), and then craft a theoretically motivated research question and hypothesis (a sentence each). Finally, you will briefly describe how you would propose to study this hypothesis (in 2-3 sentences). Your assignments will be posted to Blackboard before 5pm on the due date.
 
-Once the due date has past, you will need to follow-up with two of your group members and provide a peer review of their proposal. These reviews should point out a strength of the theory that they selected as it relates to the article, and then raise one point that you think their theory selection may miss by providing an alternative theoretical perspective. These should be approximately 4-5 sentences in length. When responding, prioritize group members' posts that have not yet received any peer review. Reviews are due by the beginning of class on the follow-up due date.
-
-Additional details and a sample assignment will be made available via Blackboard. Each Theory Post is worth 20 points, 15 for the written portion and 5 for the follow-up posts. Both elements will be assessed using a scale that awards full, partial, or no credit (see [Grading](grading.html)).
+Additional details and a sample assignment will be made available via Blackboard. Each Theory Post is worth 20 points. Both elements will be assessed using a scale that awards full, partial, or no credit (see [Grading](grading.html)).
 
 Due dates for the Theory Post are as follows:
 
-  1. Theory Isn't Dead 1 - **Sunday, August 30^th^**, with follow-ups due on **Tuesday, September 1^st^**
-  2. Theory Isn't Dead 2 - **Sunday, September 20^th^**, with follow-ups due on **Tuesday, September 22^nd^**
-  3. Theory Isn't Dead 3 - **Sunday, November 1^st^**, with follow-ups due on **Tuesday, November 3^rd^**
-  4. Theory Isn't Dead 4 - **Sunday, November 22^nd^**, with follow-ups due on **Tuesday, November 24^th^**
+  1. Theory Isn't Dead 1 - **`r schedule_tbl$label[4]`**
+  2. Theory Isn't Dead 2 - **`r schedule_tbl$label[10]`**
 
 ### Sociological Experiences
 
 ```{block, type = "rmdtip"}
-Theory reflections are worth 80 points, or **12.8%** of your final grade
+Theory reflections are worth 80 points, or **13.6%** of your final grade
 ```
 
 Over the course of the semester, there will be four short exercises that ask you to link data to your own personal experiences. Data for these exercises will be drawn primarily from <a href = "http://ezp.slu.edu/login?url=http://www.socialexplorer.com/ezproxy" target = "_blank">Social Explorer</a>, a tool that makes it easy to find demographic data about various places in the United States. These reflections should be approximately 1-2 paragraphs in length.
@@ -56,15 +67,15 @@ Additional details and a sample assignment will be made available via Blackboard
 
 Due dates for the Sociological Experiences are as follows:
 
-  1. Sociological Experience 1 - High School - **Thursday, September 10^th^**
-  2. Sociological Experience 2 - Socioeconomic Status - **Tuesday, September 29^th^**
-  3. Sociological Experience 3 - Segregation - **Thursday, October 29^th^**
-  4. Sociological Experience 4 - St. Louis - **Thursday, November 12^th^**
+  1. Sociological Experience 1 - High School - **`r schedule_tbl$label[7]`**
+  2. Sociological Experience 2 - Socioeconomic Status - **`r schedule_tbl$label[12]`**
+  3. Sociological Experience 3 - Segregation - **`r schedule_tbl$label[19]`**
+  4. Sociological Experience 4 - St. Louis - **`r schedule_tbl$label[24]`**
 
 ### QHQ Papers
 
 ```{block, type = "rmdtip"}
-QHQ Papers are worth 150 points, or **24%** of your final grade
+QHQ Papers are worth 150 points, or **25.4%** of your final grade
 ```
 
 Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. 
@@ -73,38 +84,38 @@ Additional details and a grading rubric will be available on Blackboard. QHQ Pap
 
 Due dates for the QHQs are as follows:
 
-  1. QHQ Paper 1 - **Thursday, October 1^st^**
-  2. QHQ Paper 2 - **Tuesday, November 3^rd^**
-  3. QHQ Paper 3 - **Tuesday, November 17^th^**
+  1. QHQ Paper 1 - **`r schedule_tbl$label[14]`**
+  2. QHQ Paper 2 - **`r schedule_tbl$label[21]`**
+  3. QHQ Paper 3 - **`r schedule_tbl$label[25]`**
 
 ### Quizzes
 
 ```{block, type = "rmdtip"}
-Quizzes are worth 150 points, or **24%** of your final grade
+Quizzes are worth 150 points, or **25.4%** of your final grade
 ```
 
 Three non-cumulative multiple choice quizzes will be given throughout the semester. Each quiz will cover the breadth of the material in the course, including readings, lectures, and videos. Each quiz will consist of 30 multiple choice questions and will be worth 50 points. They will be administered via Blackboard. Quizzes must be taken between 7am CST and 10pm CST on the quiz date. They can be started at any point within that range, but once you begin the quiz, you will have only 35 minutes to complete it. 
 
 Quiz dates are as follows:
 
-  1. Quiz 1 - **Monday, September 14^th^**
-  2. Quiz 2 - **Monday, October 12^th^**
-  3. Quiz 3 - **Monday, November 23^rd^**
-      * If the flex day on Tuesday, November 24^th^ is needed for instruction, this quiz will be rescheduled.
+  1. Quiz 1 - **Friday, March 5**
+  2. Quiz 2 - **Tuesday, April 6**
+  3. Quiz 3 - **Monday, May 10**
+      * This is planned as a flex day, and the date of this quiz may change if that day needs to be used for other course content.
 
 ### Final Project
 
 ```{block, type = "rmdtip"}
-The Final Project is worth 75 points, or **12%** of your final grade
+The Final Project is worth 75 points, or **12.7%** of your final grade
 ```
 
-This project involves the creation of a single page handout that illustrates the origins of a health disparity present in American society. On the handout, you should provide some background information, data about the disparity, and connect the disparity to fundamental cause theory and/or the social determinants of health perspective. You have creative license to design the handout as you see fit, and should feel free to add graphs, maps, or photographs that help you illustrate the issues you are describing. The second page of the handout should contain a list of works cited. More details and a rubric will be provided on Blackboard. The final project will be due by **Monday, November 30^th^.**
+This project involves the creation of a single page handout that illustrates the origins of a health disparity present in American society. On the handout, you should provide some background information, data about the disparity, and connect the disparity to fundamental cause theory and/or the social determinants of health perspective. You have creative license to design the handout as you see fit, and should feel free to add graphs, maps, or photographs that help you illustrate the issues you are describing. The second page of the handout should contain a list of works cited. More details and a rubric will be provided on Blackboard. The final project will be due by **Monday, May 17.**
 
 ## Submission and Late Work
 
 ### Blackboard Submissions
 
-All assignments must be submitted via Blackboard *as a Word (`.doc` or `.docx`) file or a `.pdf` file* unless otherwise noted in the assignment instructions. Feedback will be returned to students via comments embedded in each document.
+All assignments must be submitted via Blackboard *as a `.pdf` file* unless otherwise noted in the assignment instructions. Feedback will be returned to students via comments embedded in each document.
 
 ### Late Work
 
@@ -134,10 +145,10 @@ I use a point system for calculating grades. The following table gives the weigh
 points <- data.frame(
   Assignment = c("Participation", "", "", "", "Theory Isn't Dead", "Sociological Experiences", "QHQs", "Quizzes", "Final Project"),
   Period = c("Part 1", "Part 2", "Part 3", "Part 4", "", "", "", "", ""),
-  Points = c("20 pts", "30 pts", "30 pts", "10 pts", "20 pts", "20 pts", "75 pts", "50 pts", "75 pts"),
-  Quantity = c("x1", "x1", "x1", "x1", "x4", "x4", "x2", "x3", "x1"),
-  Total = c("20 pts", "30 pts", "30 pts", "10 pts", "80 pts", "80 pts", "150 pts", "150 pts", "75 pts"),
-  Percent = c("14.4%", "", "", "", "12.8%", "12.8%", "24.0%", "24.0%", "12.0%"),
+  Points = c("20 pts", "30 pts", "30 pts", "15 pts", "20 pts", "20 pts", "75 pts", "50 pts", "75 pts"),
+  Quantity = c("x1", "x1", "x1", "x1", "x2", "x4", "x2", "x3", "x1"),
+  Total = c("20 pts", "30 pts", "30 pts", "15 pts", "40 pts", "80 pts", "150 pts", "150 pts", "75 pts"),
+  Percent = c("16.1%", "", "", "", "6.8%", "13.6%", "25.4%", "25.4%", "12.7%"),
   stringsAsFactors = FALSE
 )
 
