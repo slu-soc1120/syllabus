@@ -1,0 +1,1916 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+  \usepackage{amssymb}
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={SOC 1120-02 and H02: Introduction to Sociology - Diversity \& Health},
+  pdfauthor={Christopher Prener, Ph.D.},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+
+% work around for errors related to the undefined shaded* enviornment:
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+
+% create callout boxes:
+\newenvironment{rmdblock}[1]
+  {\begin{shaded*}
+  \begin{itemize}
+  \renewcommand{\labelitemi}{
+    \raisebox{-.7\height}[0pt][0pt]{
+      {\setkeys{Gin}{width=3em,keepaspectratio}\includegraphics{images/#1}}
+    }
+  }
+  \item
+  }
+  {
+  \end{itemize}
+  \end{shaded*}
+  }
+\newenvironment{rmdnote}
+  {\begin{rmdblock}{note}}
+  {\end{rmdblock}}
+\newenvironment{rmdtip}
+  {\begin{rmdblock}{tip}}
+  {\end{rmdblock}}
+\newenvironment{rmdwarning}
+  {\begin{rmdblock}{warning}}
+  {\end{rmdblock}}
+
+% set part and section names:
+\usepackage{fancyhdr}
+\renewcommand{\chaptername}{Section}
+\renewcommand\thesection{\Alph{section}}
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+
+\title{SOC 1120-02 and H02: Introduction to Sociology - Diversity \& Health}
+\author{Christopher Prener, Ph.D.}
+\date{2021-01-26}
+
+\begin{document}
+\maketitle
+
+\begin{center}
+{\huge Preface and Warning} \\
+\end{center}
+\vspace{5mm}
+This is the hardcopy version of the \textbf{Fall 2020} syllabus.
+\vspace{5mm}
+\par \noindent This \texttt{.pdf} version of the course syllabus is automatically created as part of the document generation process. It is meant for students who wish to keep a hardcopy of the course policies and planned course schedule. \textbf{Since it is automatically created, it is not optimized for easy use} - readers may notice formatting inconsitencies and stray characters that are a result of the markdown to \LaTeX{} conversion process. The web version (located at \href{https://slu-soc1120.github/syllabus/}{https://slu-soc1120.github/syllabus/}) is meant to be the version of the syllabus used for everyday reference during the semester. As such, this \texttt{.pdf} version will not be updated as the semester progresses should any changes to the course schedule be necessary.
+
+\hypertarget{basics}{%
+\chapter*{Basics}\label{basics}}
+\addcontentsline{toc}{chapter}{Basics}
+
+\hypertarget{course-meetings}{%
+\subsection*{Course Meetings}\label{course-meetings}}
+\addcontentsline{toc}{subsection}{Course Meetings}
+
+\emph{When:} Monday and Wednesday, 2:00pm CST to 3:25pm CST
+
+\emph{Where:} Zoom (see Blackboard for the link and password)
+
+\hypertarget{course-website}{%
+\subsection*{Course Website}\label{course-website}}
+\addcontentsline{toc}{subsection}{Course Website}
+
+\url{https://slu-soc1120.github.io}
+
+\hypertarget{course-materials}{%
+\subsection*{Course Materials}\label{course-materials}}
+\addcontentsline{toc}{subsection}{Course Materials}
+
+\url{https://blackboard.slu.edu}
+
+\hypertarget{chriss-information}{%
+\subsection*{Chris's Information}\label{chriss-information}}
+\addcontentsline{toc}{subsection}{Chris's Information}
+
+\begin{rmdwarning}
+Please note that I am not on-campus this semester due to the continuing
+COVID-19 pandemic. All course meetings, office hours, and individual
+student meetings will occur virtually via Zoom.
+\end{rmdwarning}
+
+\textbf{Email:} \href{mailto:chris.prener@slu.edu}{\nolinkurl{chris.prener@slu.edu}}
+
+\textbf{Office Hours, Appointment Only:} Wednesdays, 9:00 AM CST to 10:00 AM CST; sign-up via Calendly to receive personalized calendar and Zoom invitations (SLU log-in required)
+
+\textbf{Office Hours, Drop-in:} Wednesdays, 10:00 AM CST to 10:45 AM CST via Zoom (SLU log-in required; you will be admitted to a waiting room)
+
+\hypertarget{hard-copy-syllabus}{%
+\section*{Hard-copy Syllabus}\label{hard-copy-syllabus}}
+\addcontentsline{toc}{section}{Hard-copy Syllabus}
+
+If you would like to keep a record of the syllabus, there is a \texttt{.pdf} download button () in the top toolbar.This document will contain a ``snapshot'' of the course policies and planned schedule as of the beginning of the semester but will not be subsequently updated. See the ``Preface and Warning'' on page 2 of the \texttt{.pdf} for additional details.
+
+\hypertarget{change-log}{%
+\section*{Change Log}\label{change-log}}
+\addcontentsline{toc}{section}{Change Log}
+
+\begin{itemize}
+\tightlist
+\item
+  January 19, 2021 - Add schedule for Spring 2021
+\item
+  January 26, 2021 - Add Spring 2021 office hours
+\end{itemize}
+
+\hypertarget{license}{%
+\section*{License}\label{license}}
+\addcontentsline{toc}{section}{License}
+
+Copyright © 2016-2021 \href{https://chris-prener.github.io}{Christopher G. Prener}
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+\hypertarget{part-syllabus}{%
+\part{Syllabus}\label{part-syllabus}}
+
+\hypertarget{course-introduction}{%
+\chapter{Course Introduction}\label{course-introduction}}
+
+\begin{quote}
+The function of sociology, as of every science, is to reveal that which is hidden.
+\end{quote}
+
+\textbf{Pierre Bourdieu (1996)}
+
+This course will survey the field of sociology, stressing important ideas, methods, and results. We focus on health to illustrate the application of sociological ideas. The survey is designed to develop analytic thinking skills. Weekly readings from a text will be supplemented with articles and chapters illustrating topical issues and exercises on the skills and craft of the social sciences.
+
+\hypertarget{two-courses-one-goal}{%
+\section{Two Courses, One Goal}\label{two-courses-one-goal}}
+
+Students will quickly notice that this course has two numbers. SOC 1120-05 is the ``regular'' course section, and SOC 1120-05H is the honors section. If you are a \href{https://www.slu.edu/honors/index.php}{University Honors} student, you may enroll in SOC 1120-05H if you wish to take this course for honors credit. Students in the honors section complete additional readings for three of the weeks, write several additional response papers, and give a presentation on a topic of their choice to the class. Additional details are include in the \href{/syllabus/honors-overview.html}{honors supplement at the end of this document}. Both courses have the same goal - to introduce students to the fundamentals of sociology through an emphasis on health and medicine.
+
+\hypertarget{course-objectives}{%
+\section{Course Objectives}\label{course-objectives}}
+
+By the \emph{end} of the semester, you should be able to:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Describe the major theoretical traditions within sociology and the way that we use social theory, and apply these theories to current events.
+\item
+  Identify sociological contributions to a number of substantive areas, including urban sociology, crime and deviance, race, class, and gender.
+\item
+  Apply core sociological concepts by analyzing data and your own experiences to understand how they reflect fundamental social issues.
+\item
+  Integrate core sociological concepts into analyses of population health and health disparities using both fundamental cause theory and the social determinants of health perspective as well as other sociological concepts and data.
+\end{enumerate}
+
+\hypertarget{cultural-diversity-core-requirement}{%
+\section{Cultural Diversity Core Requirement}\label{cultural-diversity-core-requirement}}
+
+This course fulfills the College of Arts and Sciences core requirement for Cultural Diversity in the United States. The Cultural Diversity in the United States requirement is designed to help students gain a better understanding of the cultural groups in the United States and their interactions. Students who complete a Cultural Diversity course in this category will gain a substantial subset of the following skills:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Analyze and evaluate how various underrepresented social groups confront inequality and claim a just place in society.
+\item
+  Examine how conflict and cooperation between social groups shapes U.S. society and culture.
+\item
+  Identify how individual and institutional forms of discrimination impact leaders, communities and community building through the examination of such factors as race, ethnicity, gender, religion, economic class, age, physical and mental capability, and sexual orientation.
+\item
+  Evaluate how their personal life experiences and choices fit within the larger mosaic of U.S. society by confronting and critically analyzing their own values and assumptions about individuals and groups from different cultural contexts.
+\item
+  Understand how questions of diversity intersect with moral and political questions of justice and equality.
+\end{enumerate}
+
+\hypertarget{blackboard}{%
+\section{Blackboard}\label{blackboard}}
+
+\textbf{Blackboard} is a learning management system similar to Google Classroom and Canvas. There are two main areas - the \texttt{Annoucements} page and the various ``modules'' that contain course content. The \texttt{Annoucements} contains posts for announcements and assignments. Additions to the \texttt{Annoucements} should be emailed to your student e-mail account automatically. This will be my primary means for communicating with the class as a whole. Assignments posted to the various modules will allow you to submit work for the course.
+
+\hypertarget{readings}{%
+\section{Readings}\label{readings}}
+
+There are two books required for this course. Each book has been selected to correspond with one or more of the course objectives. The books are:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Abraham, Laurie K. 2019. \emph{Mama Might Be Better Off Dead: The Failure of Health Care in Urban America}. Chicago, IL: The University of Chicago Press. ISBN-13: 978-0226623702; List Price: \$20.00; e-book versions available.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    I do not require students to buy physical copies of \emph{Mama Might Be Better Off Dead.} You are free to select a means for accessing \emph{Mama} that meets your budget and learning style.
+  \end{itemize}
+\item
+  Khan, Shamus, Patrick Sharkey, and Gwen Sharp, eds.~\emph{A Sociology Experiment}; e-book only.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is a unique ``textbook'' where you purchase it by chapter instead of buying the entire book. Each chapter is written by one or more leading sociologists in the fields that the chapter covers. Each chapter costs \$1. If you have a concern about accessing this non-traditional resource, please let me know as soon as possible.
+  \item
+    Once you purchase a chapter, you will be able to download a \texttt{.pdf} copy of the text to keep.
+  \item
+    You will need to purchase the following Chapters:
+
+    \begin{itemize}
+    \tightlist
+    \item
+      All of Part 1- ``1 - A Sociology Experiment,'' ``2 - Research Methods,'' and ``3- Social Structure and the Individual''
+    \item
+      All of Part 2 - ``4 - Social Class, Inequality, and Poverty,'' ``5 - Culture,'' ``6 - Gender and Sexuality,'' and ``7 - Race and Ethnicity''
+    \item
+      From Part 3 - ``12 - Urban Sociology'' and ``15 - Health and Illness''
+    \end{itemize}
+  \end{itemize}
+\end{enumerate}
+
+\begin{rmdwarning}
+Only \emph{Mama Might Be Better Off Dead} is available through the
+bookstore! Use this link or the link below to access \emph{A Sociology
+Experiment}! All chapters can be purchased through the text's website.
+\end{rmdwarning}
+
+All readings are listed on the \href{/syllabus/lecture-schedule.html}{\textbf{Reading List}} and should be completed before the course meeting on the week in which they are assigned (unless otherwise noted).
+
+Many of the readings on the syllabus are peer reviewed journal articles that you'll be able to access through the library. Being ``peer reviewed'' means that they are written with an aim to contribute to scientific debates. Their primary audiences are typically health care providers, professors, and graduate students. They are therefore sometimes \emph{difficult} to read. Give yourself time - I don't expect each student to fully understanding the intricacies of each article (especially the statistics included in some), but I do expect you to walk away with a general sense of the argument and evidence presented.
+
+\hypertarget{course-policies}{%
+\chapter{Course Policies}\label{course-policies}}
+
+My priority is that class periods are productive learning experiences for all students. In order to foster this type of productive environment, I ask students to follow a few general policies and expectations:\footnote{These general expectations were adopted from language originally used by Dr.~Shelley Kimmelberg.}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Work each week to contribute to a positive, supportive, welcoming, and compassionate class environment.
+\item
+  Arrive to class on time and stay for the entire class period.
+\item
+  Silence \emph{all} electronic devices before entering the classroom.
+\item
+  Do not engage in side conversations. This is disrespectful to the speaker (whether me or a classmate), and can affect the ability of others in the class to learn.
+\item
+  Be respectful of your fellow classmates. Do not interrupt when someone is speaking, monopolize the conversation, or belittle the ideas or opinions of others.
+\item
+  Complete the assigned readings for each class in advance, and come prepared with discussion points and questions.
+\item
+  Follow my best practices for using Zoom and Blackboard.
+\end{enumerate}
+
+The following sections contain additional details about specific course policies related to attendance, participation, electronic device use, student support, academic honesty, and Title IX.
+
+\hypertarget{covid-19}{%
+\section{COVID-19}\label{covid-19}}
+
+We are in the midst of something very few Americans alive today have experienced before to this degree - a pandemic caused by a highly contagious virus called ``SARS-CoV-2.'' This virus causes an illness called COVID-19. Not since the fall of 1919 have Saint Louis University students begun a semester quite like this one. I think acknowledging that we are all starting from varying places of exhaustion, stress, and anxiety is critical. To that end, I've written an open letter to all of you that I ask you to read before our first class.
+
+Please, first and foremost, focus on what matters most and practice self care. Please follow SLU's guidance both for your own health and for maintaining community. If you are living on-campus, please follow all of SLU's policies for social distancing and mask wearing. These are critical for our collective safety. If you are off campus this semester, please follow them anyway!
+
+Again, my biggest priority this semester is your health and well-being. Please reach out if you want to talk about strategies for managing our ``new normal,'' if you find yourself struggling, or just need someone to vent to. Alternatively, you can reach out to either the University Counseling Center at 314-977-TALK or Campus Ministry at 314-977-2425 or \href{mailto:campusministry@slu.edu}{\nolinkurl{campusministry@slu.edu}}.
+
+\hypertarget{planning-for-disruptions}{%
+\subsection{Planning for Disruptions}\label{planning-for-disruptions}}
+
+While we are starting the semester with many of you in St.~Louis, and I am certainly rooting for a semester where you all are able to remain on-campus through Thanksgiving Break, we should recognize that there may be disruptions. For some of you, you may find yourselves quarantined because of an exposure to someone infected with COVID-19. You may become sick yourselves. Changes both on-campus and in the greater St.~Louis community may mean changes to how SLU operates and even whether or not you can continue to remain on-campus.
+
+Given that these are not abstract concerns, everything laid out here represents a best case scenario for the semester. We may find ourselves needing to change some course policies, reading and assignment schedules, and even teaching modalities based on the challenges we are confronted with this semester. I ask for your patience and your flexibility if and when we do need to make these changes. For my part, I will do my best to stay in touch with you and communicate clearly how these changes will impact our course.
+
+One way that I am proactively preparing for disruptions is to add two \textbf{``flex days''} to the syllabus. I do not have any content planned for \textbf{October 22\textsuperscript{nd}} or \textbf{November 24\textsuperscript{th}}. If there is a widespread disruption, such as the need for many of you to move off campus, I will use these flex days as a buffer so that we can adjust our course schedule without changing the basic structure of the course. If we are approaching these dates without having had to use them, I will communicate my plans for both days with you all so that you can plan your time accordingly.
+
+\textbf{You should therefore treat all of the course dates as provisional.} This is my plan as of August 14\textsuperscript{th}, and I may modify it further as we progress through the the semester. If I become sick or a member of my family becomes ill, modifications will likely be required. If another faculty member has to take over teaching my class, there may be changes to course content, teaching modality, and assignments. I will do my best to keep everyone updated in a timely fashion. Please check your email and Blackboard regularly. I appreciate everyone's willingness to roll with the many punches we are all facing right now. Remember, we are in this together.
+
+\hypertarget{face-masks}{%
+\subsection{Face Masks}\label{face-masks}}
+
+Since we are meeting virtually, I hope that our class meetings are able to be more relaxed than an in-person course, where face masks and social distancing will be ever present. If you do decide to meet-up with classmates in-person to study for a quiz or work on coursework, it is imperative that you follow SLU's policies for social distancing and mask wearing.
+
+The University's Interim Policy on Face Masks governs all students, faculty, staff, and campus visitors in all University-owned, leased, or operated facilities. All persons physically present in any such University facility associated with this course shall comply fully with this policy at all times. Masks must be worn before entry to all such University facilities (as well as outdoors on all University property when six feet of distance is unpredictable or cannot be maintained).
+
+Saint Louis University is committed to maintaining an inclusive and accessible environment. Individuals who are unable to wear a face mask due to medical reasons should contact the Office of Disability Services or Human Resources to initiate the accommodation process identified in the University's ADA Policy. Inquires or concerns may also be directed to the Office of Institutional Equity and Diversity. Notification to instructors of SLU-approved ADA accommodations should be made in writing prior to the first class session in any term (or as soon thereafter as possible).
+
+As the instructor of this course, I shall comply fully with SLU's policy and all related ADA regulations.
+
+Students who do not comply with a request by a SLU instructor to wear a mask in accordance with the University's Interim Policy on Face Masks may be subject to disciplinary actions per the rules, regulations, and policies of Saint Louis University, including but not limited to the Student Handbook. Non-compliance with this policy may result in disciplinary action, up to and including any of the following:
+
+\begin{itemize}
+\tightlist
+\item
+  dismissal from the course(s)
+\item
+  removal from campus housing (if applicable)
+\item
+  dismissal from the University
+\end{itemize}
+
+Students are strongly encouraged to identify to their instructor any student or instructor not in compliance. Non-compliance may be anonymously reported via the SLU Integrity Hotline at 1-877-525-5669 (or confidentially via the Integrity Hotline's website.
+
+\hypertarget{attendance-and-participation}{%
+\section{Attendance and Participation}\label{attendance-and-participation}}
+
+\hypertarget{general-attendance-policy}{%
+\subsection{General Attendance Policy}\label{general-attendance-policy}}
+
+Attendance and participation are important components of this course. Your expected to attend all class sessions and to arrive before the beginning of class. That said, it is important to recognize that our normal attendance policies are not well suited to a pandemic. If you cannot attend class or arrive on time because of a personal illness, a family issue, jury duty, an athletic match, or a religious observance, you must contact me \textbf{beforehand} to let me know if at all possible. I define family issues broadly - if your family or friends become sick or are being affected by COVID-19 in other ways, please know that I want you to keep your focus on what is most important.
+
+I may ask for more information, such as a note from a health care provider, a travel letter from Athletics, or other documentation for absences. I will not be asking for health care provider documentation for acute illnesses or injuries, though, since if you're sick but not \emph{very} sick, the last thing most you will want to do is go to a doctor just to get a note. I am proceeding with a spirit of trust in all of you, and ask you reciprocate that with me. If you need to modify assignment due dates, please let me know prior to those deadlines.
+
+Please see the University's attendance policy for additional details.
+
+\hypertarget{attendace-collection}{%
+\subsection{Attendace Collection}\label{attendace-collection}}
+
+In order to help identify students who might need extra support, I do keep track of who attends class. Attendance check-ins will be collected through a simple web-form. Students will need a QR code reader application installed on their smartphone to check-in if their phone does not support it automatically. The Course Docs contain some additional details and links for learning more about how this works.
+
+This QR code will be available on-screen until I begin class. This means that you need to arrive to class at least a minute or two before we begin. If you arrive after the QR code has been taken down, I'll put it up again at the end of the ``front matter'' and ``back matter'' sections of the lecture slides. Attendance submissions must be received by the end of the class period.
+
+These web forms are \textbf{time stamped}, so if you sign the form 3 minutes after the beginning of class or later, you will be marked as `late' in the attendance database. This is done automatically by my gradebook, so please see me if you have a concern about how this works or, more generally, if you have a concern about regularly being able to arrive to class on time.
+
+If you do not own a smartphone, please let me know as soon as possible. You should note that attendance check-ins are covered by the course's Academic Honesty policy. Sharing the check-in form with another student or signing in on their behalf are both violations of this policy.
+
+\hypertarget{zoom-policies}{%
+\subsection{Zoom Policies}\label{zoom-policies}}
+
+Since we are meeting virtually via Zoom, there are several additional policies to note:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Attending via Zoom is required. There is not an alternative means for completing this course. \emph{If you have a concern about technology, internet access, or other barriers to regularly attending class via Zoom, please let me know as soon as possible.}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    If there is a need for some or all of you to change from learning on-campus to learning from home or another location, we will work together to identify strategies for you to successfully complete the course.
+  \end{itemize}
+\item
+  Do not share Zoom details, including login information, links, and passwords, with anyone outside of this course.
+\item
+  Using your camera is \emph{strongly encouraged} during group discussions, but is not otherwise required.
+\item
+  Please keep your microphone muted unless you are actively speaking.
+\item
+  Class recordings will be made via Zoom and/or Panopto, and will be posted to Blackboard. Recordings should not be shared outside of class. They will capture whatever is happening on my screen, which may include sharing your name and whatever is actively shown via your webcam. \emph{If this presents a privacy concern for you, please let me know as soon as possible.}
+\end{enumerate}
+
+The Course Docs contain some additional tips for using Zoom. Please review them closely.
+
+\hypertarget{covid-19-specific-policies}{%
+\subsection{COVID-19 Specific Policies}\label{covid-19-specific-policies}}
+
+The following COVID-19 specific policies apply to this course. In general, if you are sick but you feel well enough to attend class, you should continue to attend this class since we are meeting virtually. If you are sick and do not feel well enough to attend class, please let me know as soon as possible! As I have said previously, taking care of yourselves should be your first priority.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Students who exhibit any potential COVID symptoms (those that cannot be attributed to some other medical condition the students are known to have, such as allergies, asthma, etc.) shall absent themselves from any in-person class attendance or in-person participation in any class-related activity until they have been evaluated by a qualified medical official. Students should contact the University Student Health Center for immediate assistance.
+\item
+  Students who exhibit any potential COVID symptoms (those that cannot be attributed to some other medical condition the students are known to have, such as allergies, asthma, etc.) but who feel well enough to a) attend the course synchronously in an online class session or b) participate in asynchronous online class activities, are expected to do so. Those who do not feel well enough to do so should absent themselves accordingly.
+\item
+  Students (whether exhibiting any of potential COVID symptoms or not, and regardless of how they feel) who are under either an isolation or quarantine directive issued by a qualified health official must absent themselves from all in-person course activity per the stipulations of the isolation or quarantine directive. They are expected to participate in synchronous or asynchronous online class activities as they feel able to do so, or absent themselves accordingly.
+\item
+  Students are responsible for notifying each instructor of an absence as far in advance as possible; when advance notification is not possible, students are responsible for notifying each instructor as soon after the absence as possible.
+\item
+  As a temporary amendment to the current University Attendance Policy, all absences due to illness or an isolation/quarantine directive issued by a qualified health official shall be considered ``Authorized'' absences (effective August 2020 through May 2021).
+\end{enumerate}
+
+\hypertarget{missed-classes}{%
+\subsection{Missed Classes}\label{missed-classes}}
+
+My priority with attendance is to identify students who may be struggling or in need of additional support. However, because attending class is crucial, I do factor attendance into your overall participation grade. In order to give you some flexibility, I do not apply any penalties to your first two unexcused absences. Any unexcused absences beyond those two will result in no credit (for an absences). Regular late arrivals may result in partial credit being earned for that day's participation grade.
+
+Specific elements of the course, such as participation in group discussions during lectures as well as the QHQ discussions, will also be factored into your participation grade. If there is a need for you to miss a significant portion of your coursework, such as because of an illness, please reach out to me and we will make a plan for alternative ways to make-up these activities based on the circumstances.
+
+It is your responsibility to make-up missed classes, including viewing the lecture recording and, if needed, obtaining notes from a classmate All lecture slides will be posted on Blackboard before class begins along with relevant notes for that lecture. Please note that lectures and discussions cannot be recorded by any means (e.g.~audio or video recordings, or photographs) without my permission.
+
+\hypertarget{communication}{%
+\section{Communication}\label{communication}}
+
+Email is my preferred method of communication. I dedicate time to email responses each workday, meaning that my response time is typically within 24 hours during the workweek. If you have not received a response from me after 48 hours (or by end of business on Monday if you emailed me over the weekend), please feel free to follow-up with me.
+
+Please use your SLU email account when emailing me. All messages regarding course updates, assignments, and changes to the class schedule including cancellations will be sent to your SLU email account. It is therefore imperative that you check your SLU email account regularly.
+
+Please also ensure that all concerns or questions about your standing in the course are directed to me immediately. Inquires from parents, SLU staff members, and others will not be honored.
+
+\hypertarget{electronic-devices}{%
+\section{Electronic Devices}\label{electronic-devices}}
+
+During class periods, students are asked to refrain from using electronic devices (including cell phones) for activities not directly related to the course. For this class, I expect students to limit their use of electronic devices to accessing Zoom, course readings, notes, and other course materials.
+
+There is evidence that using electronic devices during lectures results in decreased retention of course content (\href{https://link.springer.com/article/10.1007/BF02940852}{Hembrooke and Gay 2003}) and lower overall course performance (\href{https://www.sciencedirect.com/science/article/pii/S0360131506001436}{Fried 2008}). Students who are not using a laptop but are in direct view of another student's laptop also have decreased performance in courses (\href{https://www.sciencedirect.com/science/article/pii/S0360131512002254}{Sana et al.~2013}). Conversely, students who take notes the ``old fashioned way'' have better performance on tests compared to students who take notes on laptops (\href{http://journals.sagepub.com/doi/abs/10.1177/0956797614524581}{Mueller and Oppenheimer 2014}).
+
+I therefore ask students to be conscious of how they are using their devices, the ways such use impacts their own learning, and the effect that it may have on others around them. I reserve the right to alter this policy if electronic device use becomes problematic during the semester.
+
+\begin{rmdnote}
+I \emph{strongly} encourage you to take notes for this course either on
+a second device or by hand so that you can make the Zoom window as large
+as possible. Please let me know by clicking ``slow down'' in Zoom's
+attendee controls or let me know via the chat if you need something
+repeated or clarified.
+\end{rmdnote}
+
+\hypertarget{student-support}{%
+\section{Student Support}\label{student-support}}
+
+\hypertarget{basic-needs}{%
+\subsection{Basic Needs}\label{basic-needs}}
+
+If you have difficulty affording groceries or accessing sufficient food to eat every day, or lack a safe and stable place to live, you are urged to contact the \href{https://www.slu.edu/student-development/dean-of-students/index.php}{Dean of Students} for support. Likewise if you have concerns about your mental or physical health needs, or lack access to health care services you require, you should contact either the \href{https://www.slu.edu/student-development/dean-of-students/index.php}{Dean of Students}, \href{https://www.slu.edu/life-at-slu/student-health/index.php}{Student Health Services}, or the \href{https://www.slu.edu/life-at-slu/university-counseling/index.php}{University Counseling Center}.\footnote{This language is adopted from text written by \href{https://medium.com/@saragoldrickrab/basic-needs-security-and-the-syllabus-d24cc7afe8c9}{Dr.~Sarah Goldrick-Rab}.}
+
+If you feel comfortable doing so, please discuss any concerns you might have with me. Doing so is particularly important if believe your performance in this course might be affected. I will do my best to work with you to come up with a plan for successfully completing the course and, if need be, work with you to identify on-campus resources. I will treat all discussions with discretion, though please be aware that certain situations, including disclosures of \href{/syllabus/harassment-and-title-ix.html}{sexual misconduct} or self harm, must be reported by faculty to the appropriate University office.
+
+\hypertarget{academic-accommodations}{%
+\subsection{Academic Accommodations}\label{academic-accommodations}}
+
+If you meet the eligibility requirements for academic accommodations through the \href{https://www.slu.edu/life-at-slu/student-success-center/disability-services/index.php}{Office of Disability Services} (located within the Student Success Center) \emph{and you wish to use them for this class}, you should arrange to discuss your needs with me after the first class. All discussions of this nature are treated confidentially, and I will make every effort to work with you to come up with a plan for successfully completing the course requirements.
+
+Please note that I will not provide accommodations to students who are not working with Disability Services, and that I cannot retroactively alter assignments or grades if they have already been completed. This follows the University policies on disability accommodations:
+
+\begin{quote}
+Students with a documented disability who wish to request academic accommodations must formally register their disability with the University. Once successfully registered, students also must notify their course instructor that they wish to use their approved accommodations in the course.
+\end{quote}
+
+\begin{quote}
+Please contact Disability Services to schedule an appointment to discuss accommodation requests and eligibility requirements. Most students on the St.~Louis campus will contact Disability Services, located in the Student Success Center and available by email at \href{mailto:Disability_services@slu.edu}{\nolinkurl{Disability\_services@slu.edu}} or by phone at 314-977-3484. Once approved, information about a student's eligibility for academic accommodations will be shared with course instructors by email from Disability Services and within the instructor's official course roster. Students who do not have a documented disability but who think they may have one also are encouraged to contact to Disability Services. Confidentiality will be observed in all inquiries.
+\end{quote}
+
+\hypertarget{writing-services}{%
+\subsection{Writing Services}\label{writing-services}}
+
+I also encourage you to take advantage of the \href{https://www.slu.edu/life-at-slu/student-success-center/academic-support/university-writing-services/index.php}{University Writing Services (UWS) program}. Getting feedback benefits writers at all skill levels and the quality of your writing will be reflected in assignment grades. The UWS has trained writing consultants who can help you improve the quality of your written work. UWS's consultants are available to address everything from brainstorming and developing ideas to crafting strong sentences and documenting sources.
+
+\begin{rmdnote}
+Due to COVID-19, all writing services appointments are occurring either
+over Zoom or asynchronously. Appointments can be made through EAB
+Navigate.
+\end{rmdnote}
+
+\hypertarget{student-success-coaching}{%
+\subsection{Student Success Coaching}\label{student-success-coaching}}
+
+Academic coaches are staff members who can assist with study skills, time management, test and note taking, goal setting, and motivations. They can also help deal with navigating homesickness, making connections on campus, and being successful in online/remote coursework. Coaches will work with you on a weekly basis to develop the skills that are most important to you. For more information, please contact Emily Tuttle.
+
+\begin{rmdnote}
+Due to COVID-19, appointments will be held over Zoom.
+\end{rmdnote}
+
+\hypertarget{academic-honesty}{%
+\section{Academic Honesty}\label{academic-honesty}}
+
+All students should familiarize themselves with \href{https://www.slu.edu/provost/policies/academic-and-course/policy_academic-integrity_6-26-2015.pdf}{Saint Louis University's policies} the the \href{https://www.slu.edu/arts-and-sciences/student-resources/academic-honesty.php}{College of Arts and Sciences policies} concerning cheating, plagiarism, and other academically dishonest practices:
+
+\begin{quote}
+Academic integrity is honest, truthful and responsible conduct in all academic endeavors. The mission of Saint Louis University is ``the pursuit of truth for the greater glory of God and for the service of humanity.'' Accordingly, all acts of falsehood demean and compromise the corporate endeavors of teaching, research, health care, and community service through which SLU fulfills its mission. The University strives to prepare students for lives of personal and professional integrity, and therefore regards all breaches of academic integrity as matters of serious concern.
+\end{quote}
+
+Any work that is taken from another student, copied from printed material, or copied the internet without proper citation is expressly prohibited, and will be addressed by the instructor. Collaborating on quizzes, such as taking them in groups (whether in-person or virtually), is also prohibited. Any student who is found to have been academically dishonest in their work risks failing both the assignment and this course.
+
+All relevant assignments should include in-text citations and references formatted using the \href{https://owl.english.purdue.edu/owl/resource/583/1/}{American Sociological Association (ASA)} style guidelines.
+
+\hypertarget{harassment-and-title-ix}{%
+\section{Harassment and Title IX}\label{harassment-and-title-ix}}
+
+While I have every expectation that each member of the Saint Louis University community is capable and willing to create a positive coursework experience, I fully recognize that there may be instances where students fall short of that expectation. Students should generally be aware that:
+
+\begin{quote}
+Saint Louis University prohibits harassment because of sex, race, color, religion, national origin, ancestry, disability, age, sexual orientation, marital status, military status, veteran status, gender expression/identity, genetic information, pregnancy, or any other characteristics protected by law.
+\end{quote}
+
+All students should also familiarize themselves with \href{http://www.slu.edu/general-counsel/institutional-equity-diversity/}{Saint Louis University's polices} on bias, discrimination, harassment, and sexual misconduct. In particular, they should be aware of policies on \href{http://www.slu.edu/general-counsel/institutional-equity-diversity/harassment.php}{harassment} and \href{https://www.slu.edu/about/safety/sexual-assault-resources.php}{sexual misconduct}:
+
+\begin{quote}
+Saint Louis University and its faculty are committed to supporting our students and seeking an environment that is free of bias, discrimination, and harassment. If you have encountered any form of sexual harassment, including sexual assault, stalking, domestic or dating violence, we encourage you to report this to the University. If you speak with a faculty member about an incident that involves a Title IX matter, that faculty member must notify SLU's Title IX Coordinator and share the basic facts of your experience. This is true even if you ask the faculty member not to disclose the incident. The Title IX Coordinator will then be available to assist you in understanding all of your options and in connecting you with all possible resources on and off campus.
+\end{quote}
+
+\begin{quote}
+Anna Kratky is the Title IX Coordinator at Saint Louis University (DuBourg Hall, Room 36; \href{mailto:anna.kratky@slu.edu}{\nolinkurl{anna.kratky@slu.edu}}; 314-977-3886). If you wish to speak with a confidential source, you may contact the counselors at the University Counseling Center at 314-977-TALK or make an anonymous report through SLU's Integrity Hotline by calling 1-877-525-5669 or online at \url{https://www.lighthouse-services.com/_StandardCustomURL/LHILandingPage.asp}. To view SLU's policies, and for resources, please visit the following web addresses: \url{https://www.slu.edu/here4you} and \url{https://www.slu.edu/general-counsel}.
+\end{quote}
+
+Instances of abusive, harassing, or otherwise unacceptable behavior should be reported either directly to the instructor or to the University Administration. Consistent with the above policies, I will forward all reports of inappropriate conduct to the Title IX Coordinator's office or to the Office of Diversity and Affirmative Action. Please be aware that University policies may require me to forward information about the identity of any students connected to the disclosure.
+
+Please also be aware that communications over various online services, including (but not limited to) Blackboard and Zoom, are covered by this policy.
+
+\hypertarget{success-in-soc-1120}{%
+\chapter{Success in SOC 1120}\label{success-in-soc-1120}}
+
+Since this course will meet remotely for the entire semester, I have posted several articles on the Course Docs that include suggestions for navigating the course content, using Zoom, and using Blackboard. Please review these before the semester begins. Following these will be crucial for having a successful semester!
+
+Students often ask me how to do well in various aspects of the course, and so I also have \emph{suggestions} for a successful semester. \emph{These observations are provided with no warranty} - following them does not guarantee any particular outcome. You could do everything in here and still do poorly in the course, and conversely you could ignore much of what is in discussed in the links below and still do well. However, \emph{most} of the students who are successful in this course will follow \emph{most} of these ideas consistently.
+
+These tips are an effort to illuminate what sociologists refer to as the ``\href{https://books.google.com/books?hl=en\&lr=\&id=5r-TAgAAQBAJ\&oi=fnd\&pg=PP1\&dq=hidden+curriculum\#v=onepage\&q=hidden\%20curriculum\&f=false}{hidden curriculum}'' of higher education - there are things you need to do to be successful, but they are often unstated or not clearly communicated.
+
+Since I give this advice out in multiple classes, the documents themselves are stored on my \href{https://chris-prener.github.io}{personal website}:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \href{https://chris-prener.github.io/resources/students/little-things/}{Doing the Little Things Right}
+\item
+  \href{https://chris-prener.github.io/resources/students/office-hours/}{Come to Office Hours!}
+\item
+  \href{https://chris-prener.github.io/resources/students/exams/}{Studying for Exams} (you can ignore the bit about short answer questions, since we won't have any this semester)
+\item
+  \href{https://chris-prener.github.io/resources/students/writing/}{Writing in the Social Sciences}
+\item
+  \href{https://chris-prener.github.io/resources/students/exams/}{Letters of Recommendation} - Pay particular to the section titled ``\href{https://chris-prener.github.io/resources/students/letters/\#if-i-say-no}{If I Say No}'' if you may want an Instructor Evaluation for medical school - I prioritize letter writing for students who I get to know outside of the classroom.
+\end{enumerate}
+
+If there are other topics you have questions about, please let me know. These documents are a work in progress.
+
+\begin{rmdnote}
+Part of these documents involve tips for emailing faculty and link to an
+article with some additional tips. If you send me an email prior to the
+second lecture that breaks as many rules as possible (but clearly
+identifies in some way who you are), I'll give you extra credit.
+\end{rmdnote}
+
+\hypertarget{assignments-and-grading}{%
+\chapter{Assignments and Grading}\label{assignments-and-grading}}
+
+This section provides general details on the different types of assignments for this course. It also contains policies for submitting work, receiving feedback, and late work. A summary schedule with all due dates is available as part of the \href{course-schedule.html}{Course Schedule}.
+
+\begin{rmdwarning}
+Students enrolled in the honors section should see
+\href{/syllabus/honors-overview.html}{Section 7} for additional
+assignment descriptions as well as their weighting and final point
+totals.
+\end{rmdwarning}
+
+\hypertarget{assignments}{%
+\section{Assignments}\label{assignments}}
+
+Your grade for this course will consist of a number of different assignments on which points may be earned. Each category of assignment is described below.
+
+\begin{rmdwarning}
+As a reminder, all due dates are provisional due to the uncertainty
+around COVID-19 and how it will affect our semester. I will continually
+update you during class and via Blackboard about the status of each
+assignment's due dates as the semester progresses.
+\end{rmdwarning}
+
+\hypertarget{attendance-and-participation-1}{%
+\subsection{Attendance and Participation}\label{attendance-and-participation-1}}
+
+\begin{rmdtip}
+Attendance and participation are worth 95 points, or \textbf{16.1\%} of
+your final grade
+\end{rmdtip}
+
+As discussed above, both attendance and participation are important aspects of this class. The class participation grade will be based on (a) attendance, (b) level of engagement during class (including being present for and participating in course discussions), and (c) class ``entry'' and ``exit tickets.''
+
+Each of these elements is assigned a point value and assessed using a scale that awards full, partial, or no credit (see \href{grading.html}{Grading}). Not attending class or completing an ``entry'' or ``exit'' ticket will result in no credit being earned for that element on a given day. Disengagement during class may result in partial or no credit being earned. Late arrivals will result in only partial credit earned for that element on a given day.
+
+Your participation grade will be split, with 20 points for Part 1, 30 points each for Parts 2 and 3, and 15 points for Part 4. Since the number of points awarded for participation are variable, the total number of points earned for each half will be \textbf{weighted} so that it is converted to a final score that matches the points available for that part of the course. I provide the final number of points earned for each part of the course. If you would like a more detailed breakdown of your participation grade and/or attendance record, please reach out and I will happily provide one.
+
+\hypertarget{theory-isnt-dead-posts}{%
+\subsection{Theory Isn't Dead Posts}\label{theory-isnt-dead-posts}}
+
+\begin{rmdtip}
+Theory posts are worth 40 points, or \textbf{6.8\%} of your final grade
+\end{rmdtip}
+
+Over the course of the semester, there will be four short exercises that ask you to tie social theory, social science research, and current events together. For each of these assignments, I will post a news article. Based on your read of the article, you should pick one of the social theories we have discussed in class or in readings, briefly describe why you selected that theory (in 2-3 sentences), and then craft a theoretically motivated research question and hypothesis (a sentence each). Finally, you will briefly describe how you would propose to study this hypothesis (in 2-3 sentences). Your assignments will be posted to Blackboard before 5pm on the due date.
+
+Additional details and a sample assignment will be made available via Blackboard. Each Theory Post is worth 20 points. Both elements will be assessed using a scale that awards full, partial, or no credit (see \href{grading.html}{Grading}).
+
+Due dates for the Theory Post are as follows:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Theory Isn't Dead 1 - \textbf{Wednesday, February 10}
+\item
+  Theory Isn't Dead 2 - \textbf{Monday, March 8}
+\end{enumerate}
+
+\hypertarget{sociological-experiences}{%
+\subsection{Sociological Experiences}\label{sociological-experiences}}
+
+\begin{rmdtip}
+Theory reflections are worth 80 points, or \textbf{13.6\%} of your final
+grade
+\end{rmdtip}
+
+Over the course of the semester, there will be four short exercises that ask you to link data to your own personal experiences. Data for these exercises will be drawn primarily from Social Explorer, a tool that makes it easy to find demographic data about various places in the United States. These reflections should be approximately 1-2 paragraphs in length.
+
+Additional details and a sample assignment will be made available via Blackboard. Each Sociological Experience is worth 20 points, and will be assessed using a scale that awards full, partial, or no credit (see \href{grading.html}{Grading}). Assignments are due by the beginning of class on the due date.
+
+Due dates for the Sociological Experiences are as follows:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Sociological Experience 1 - High School - \textbf{Wednesday, February 24}
+\item
+  Sociological Experience 2 - Socioeconomic Status - \textbf{Wednesday, March 17}
+\item
+  Sociological Experience 3 - Segregation - \textbf{Monday, April 12}
+\item
+  Sociological Experience 4 - St.~Louis - \textbf{Wednesday, April 28}
+\end{enumerate}
+
+\hypertarget{qhq-papers}{%
+\subsection{QHQ Papers}\label{qhq-papers}}
+
+\begin{rmdtip}
+QHQ Papers are worth 150 points, or \textbf{25.4\%} of your final grade
+\end{rmdtip}
+
+Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of \emph{Mama Might Be Better Off Dead} (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book.
+
+Additional details and a grading rubric will be available on Blackboard. QHQ Paper 1 is ungraded. If it is not turned in or not taking seriously, however, a deduction of 3\% will be applied to your final grade. QHQ Papers 2 and 3 each count for 75 points. Papers must be completed and submitted by the beginning of class on the date due.
+
+Due dates for the QHQs are as follows:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  QHQ Paper 1 - \textbf{Wednesday, March 24}
+\item
+  QHQ Paper 2 - \textbf{Monday, April 19}
+\item
+  QHQ Paper 3 - \textbf{Monday, May 3}
+\end{enumerate}
+
+\hypertarget{quizzes}{%
+\subsection{Quizzes}\label{quizzes}}
+
+\begin{rmdtip}
+Quizzes are worth 150 points, or \textbf{25.4\%} of your final grade
+\end{rmdtip}
+
+Three non-cumulative multiple choice quizzes will be given throughout the semester. Each quiz will cover the breadth of the material in the course, including readings, lectures, and videos. Each quiz will consist of 30 multiple choice questions and will be worth 50 points. They will be administered via Blackboard. Quizzes must be taken between 7am CST and 10pm CST on the quiz date. They can be started at any point within that range, but once you begin the quiz, you will have only 35 minutes to complete it.
+
+Quiz dates are as follows:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Quiz 1 - \textbf{Friday, March 5}
+\item
+  Quiz 2 - \textbf{Tuesday, April 6}
+\item
+  Quiz 3 - \textbf{Monday, May 10}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is planned as a flex day, and the date of this quiz may change if that day needs to be used for other course content.
+  \end{itemize}
+\end{enumerate}
+
+\hypertarget{final-project}{%
+\subsection{Final Project}\label{final-project}}
+
+\begin{rmdtip}
+The Final Project is worth 75 points, or \textbf{12.7\%} of your final
+grade
+\end{rmdtip}
+
+This project involves the creation of a single page handout that illustrates the origins of a health disparity present in American society. On the handout, you should provide some background information, data about the disparity, and connect the disparity to fundamental cause theory and/or the social determinants of health perspective. You have creative license to design the handout as you see fit, and should feel free to add graphs, maps, or photographs that help you illustrate the issues you are describing. The second page of the handout should contain a list of works cited. More details and a rubric will be provided on Blackboard. The final project will be due by \textbf{Monday, May 17.}
+
+\hypertarget{submission-and-late-work}{%
+\section{Submission and Late Work}\label{submission-and-late-work}}
+
+\hypertarget{blackboard-submissions}{%
+\subsection{Blackboard Submissions}\label{blackboard-submissions}}
+
+All assignments must be submitted via Blackboard \emph{as a \texttt{.pdf} file} unless otherwise noted in the assignment instructions. Feedback will be returned to students via comments embedded in each document.
+
+\hypertarget{late-work}{%
+\subsection{Late Work}\label{late-work}}
+
+Once the due date has passed, any assignments shared will be treated as late. Be advised that Blackboard time-stamps submissions, so that even being a few seconds over the due date and time will result in your assignment being marked late. Like arriving late to class, this happens automatically, so please let me know as soon as possible \textbf{before} a due date if you have a concern about a potentially late submission.
+
+Assignments shared within 24-hours of the due date will have 15\% deducted from the grade. I will deduct 15\% per day for the next two 24-hour periods that assignments are late; after 72-hours, I will not accept late work. If you cannot submit work on time because of a personal illness, a family issue, jury duty, an athletic match, or a religious observance, you must contact me \emph{beforehand if at all possible} to discuss alternate submission of work. I may ask for more information, such as a note from a physician, a travel letter from Athletics, or other documentation for alternative deadlines.
+
+\hypertarget{missed-quizzes}{%
+\subsection{Missed Quizzes}\label{missed-quizzes}}
+
+If you cannot attend an exam due to a personal illness, a family issue, jury duty, an athletic match, or a religious observance, you must contact me \textbf{beforehand} to discuss alternate quiz scheduling. I may ask for more information, such as a note from a physician, a travel letter from Athletics, or other documentation for rescheduled quizzes.
+
+\hypertarget{extra-credit}{%
+\section{Extra Credit}\label{extra-credit}}
+
+From time to time I may offer extra credit to be applied to your final grade. I will only offer extra credit if it is open to the entire class (typically for something like attending a lecture or event on-campus). If I offer extra credit, I will generally require you to submit a short written summary of the activity within a week of the event to obtain the credit. Papers should be submitted via Blackboard and will typically consist of a paragraph describing the event and a paragraph connecting the event to the class material in some way. When offered, extra credit opportunities cannot be made-up or substituted if you are unable to attend the event.
+
+\hypertarget{grading}{%
+\section{Grading}\label{grading}}
+
+\begin{rmdwarning}
+Students enrolled in the honors section should see
+\href{/syllabus/honors-overview.html}{Section 7} for additional
+assignment descriptions as well as their weighting and final point
+totals.
+\end{rmdwarning}
+
+All grades that use a ``check'' system (the Theory Isn't Dead and Sociological Experience assignments as well as ``entry'' and ``exit'' tickets) will be calculated using the following approach. A ``check-plus-plus'' represents exceptional work and will get full credit. A ``check-plus'' represents great work and will get 92\% of the points available for the assignment. A ``check'' represents satisfactory work and will get 85\% of the points available for that assignment. A ``check-minus'' represents work that needs substantial improvement and will get 75\% of the points available for that assignment. For other assignments, rubrics will be provided prior to the due date that break down how grading works.
+
+I use a point system for calculating grades. The following table gives the weighting and final point totals for all assignments for this course:
+
+\begin{table}
+
+\caption{\label{tab:unnamed-chunk-11}SOC 1120 Points Breakdown}
+\centering
+\begin{tabular}[t]{llllll}
+\toprule
+Assignment & Period & Points & Quantity & Total & Percent\\
+\midrule
+Participation & Part 1 & 20 pts & x1 & 20 pts & 16.1\%\\
+ & Part 2 & 30 pts & x1 & 30 pts & \\
+ & Part 3 & 30 pts & x1 & 30 pts & \\
+ & Part 4 & 15 pts & x1 & 15 pts & \\
+Theory Isn't Dead &  & 20 pts & x2 & 40 pts & 6.8\%\\
+\addlinespace
+Sociological Experiences &  & 20 pts & x4 & 80 pts & 13.6\%\\
+QHQs &  & 75 pts & x2 & 150 pts & 25.4\%\\
+Quizzes &  & 50 pts & x3 & 150 pts & 25.4\%\\
+Final Project &  & 75 pts & x1 & 75 pts & 12.7\%\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+All feedback will include grades that represent number of points earned. If you want to know your percentage on a particular assignment, divide the number of points earned by the number of points possible and then multiply it by 100.
+
+Some of the provided rubrics on Blackboard result in final points for assignments that include decimals. In the event of non-standard decimals (those other than .25, .5, or .75), I will round your grade up to the next standard decimal value (e.g.~.25, .5, or .75).
+
+\hypertarget{conflicting-or-incorrect-grades}{%
+\subsection{Conflicting or Incorrect Grades}\label{conflicting-or-incorrect-grades}}
+
+If you notice a discrepancy between the grade you received in the feedback and what appears on Blackboard, please let me know as soon as possible. I will default to taking the higher of the two grades as the official grade.
+
+\hypertarget{letter-grades}{%
+\subsection{Letter Grades}\label{letter-grades}}
+
+letter grades will be calculated by taking the sum of all points earned and dividing it by the total number of points possible. This will be multiplied by 100 and then converted to a letter grade using the following table:
+
+\begin{table}
+\caption{\label{tab:unnamed-chunk-12}Course Grading Scale}
+
+\centering
+\begin{tabular}[t]{lll}
+\toprule
+GPA & Letter & Percent\\
+\midrule
+4.0 & A & 93.0\% - 100\%\\
+3.7 & A- & 90.0\% - 92.9\%\\
+3.3 & B+ & 87.0\% - 89.9\%\\
+3.0 & B & 83.0\% - 86.9\%\\
+2.7 & B- & 80.0\% - 82.9\%\\
+\bottomrule
+\end{tabular}
+\centering
+\begin{tabular}[t]{lll}
+\toprule
+GPA & Letter & Percent\\
+\midrule
+2.3 & C+ & 77.0\% - 79.9\%\\
+2.0 & C & 73.0\% - 76.9\%\\
+1.7 & C- & 70.0\% - 72.9\%\\
+1.0 & D & 63.0\% - 69.9\%\\
+0.0 & F & < 63.0\%\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Updates to grades will be provided at midterms, and you can follow your progress via the \texttt{My\ Grades} area on Blackboard. I round-up final grades that are within a half percentage point of the next highest letter grade. Requests for final grade changes outside of this range will not be honored.
+
+\begin{rmdwarning}
+No chances will be given for revisions of poor grades. Incomplete grades
+will be given upon request only if you have a ``C'' average and have
+completed at least two-thirds of the possible points (412 points). You
+should note that incomplete grades must be rectified by the specified
+deadline or they convert to an ``F''. This policy reflects the
+\href{https://catalog.slu.edu/academic-policies/academic-policies-procedures/incomplete-course/}{University's
+policy on incomplete coursework}.
+\end{rmdwarning}
+
+\hypertarget{part-reading-list}{%
+\part{Reading List}\label{part-reading-list}}
+
+\hypertarget{course-schedule}{%
+\chapter{Course Schedule}\label{course-schedule}}
+
+The following is a high-level schedule that details the general topic covered by each module. Modules are collections of two or more lectures and class discussions under the broad headings provided below.
+
+\begin{table}
+
+\caption{\label{tab:unnamed-chunk-2}SOC 1120 Course Overview}
+\centering
+\begin{tabular}[t]{llll}
+\toprule
+Part & Module & Planned Start Date & Title\\
+\midrule
+**1** &  &  & **Thinking Like Sociologists**\\
+1 & 1 & Monday, February 1 & Engaging the Social World\\
+1 & 2 & Monday, February 15 & Structuring the Social World\\
+**2** &  &  & **The Building Blocks of Society**\\
+2 & 3 & Wednesday, March 3 & Culture\\
+\addlinespace
+2 & 4 & Monday, March 15 & Socioeconomic Status\\
+2 & 5 & Monday, March 29 & Gender and Sexuality\\
+**3** &  &  & **The Broken Heart of America**\\
+3 & 6 & Monday, April 5 & Race and Racism\\
+3 & 7 & Monday, April 19 & Intersectionality\\
+\addlinespace
+3 & 8 & Monday, April 26 & Urban Sociology\\
+**4** &  &  & **Course Conclusion**\\
+4 & 9 & Monday, May 3 & Course Conclusion\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\hypertarget{scheduling-notes}{%
+\subsection{Scheduling Notes}\label{scheduling-notes}}
+
+The course schedule may change as it depends on the progress of the class and the \href{covid-19.html}{challenges we are confronted by this semester}. The web version of this document will be updated to reflect any alterations, but the \texttt{.pdf} version will remain unaltered.
+
+This semester, we will not have class on \textbf{February 17} because it is one of the University's break days. Additionally, no class activities are scheduled for \textbf{March 10} or \textbf{May 10}. These are ``flex days,'' which I have left without a scheduled plan to accommodate changes due to COVID-19. If we have to reschedule class days, these two dates will be used before we begin to remove content from the course plan. I will provide updates on my plans for both of these days as the semester progresses.
+
+\hypertarget{meeting-schedule}{%
+\chapter{Meeting Schedule}\label{meeting-schedule}}
+
+Select a module from the menu to see details about topics, readings, and assignments. Additional notes and links to course materials are available through Blackboard, which has dedicated folders for each module and Meeting.
+
+\newpage
+
+\hypertarget{module-1---engaging-the-social-world}{%
+\section{Module 1 - Engaging the Social World}\label{module-1---engaging-the-social-world}}
+
+\hypertarget{meeting-01---monday-february-1---course-introduction}{%
+\subsection*{Meeting 01 - Monday, February 1 - Course Introduction}\label{meeting-01---monday-february-1---course-introduction}}
+\addcontentsline{toc}{subsection}{Meeting 01 - Monday, February 1 - Course Introduction}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{A Sociology Experiment}, ``Chapter 1 - A Sociology Experiment,'' pp.~1-9 (Link)
+  \item
+    Complete the Course Onboarding tasks (see Blackboard)
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-02---wednesday-february-3---social-theory}{%
+\subsection*{Meeting 02 - Wednesday, February 3 - Social Theory}\label{meeting-02---wednesday-february-3---social-theory}}
+\addcontentsline{toc}{subsection}{Meeting 02 - Wednesday, February 3 - Social Theory}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{A Sociology Experiment}, ``Chapter 1 - A Sociology Experiment,'' pp.~9-24 (Link)
+  \item
+    Complete the Student Information Sheet (see Blackboard)
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-03---monday-february-8---theorizing-health-disparities}{%
+\subsection*{Meeting 03 - Monday, February 8 - Theorizing Health Disparities}\label{meeting-03---monday-february-8---theorizing-health-disparities}}
+\addcontentsline{toc}{subsection}{Meeting 03 - Monday, February 8 - Theorizing Health Disparities}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{A Sociology Experiment}, ``Chapter 15 - Health and Illness,'' pp.~1-10 and pp.~23-35 (Link)
+  \item
+    Read Phelan et al.~(2010)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Phelan, Jo C., Bruce Link, and Parisa Tehranifar. 2010. ``Social Conditions as Fundamental Causes of Health Inequalities: Theory, Evidence, and Policy Implications.'' \emph{Journal of Health and Social Behavior} 51(S):S28-S40. (Link)
+    \end{itemize}
+  \item
+    Watch \emph{Unnatural Causes}, Part 1 - ``In Sickness and in Wealth'' (Pius Library)
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-04---wednesday-february-10---studying-society}{%
+\subsection*{Meeting 04 - Wednesday, February 10 - Studying Society}\label{meeting-04---wednesday-february-10---studying-society}}
+\addcontentsline{toc}{subsection}{Meeting 04 - Wednesday, February 10 - Studying Society}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{A Sociology Experiment}, ``Chapter 2 - Research Methods'' (Link)
+  \end{itemize}
+\item
+  \textbf{After Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Complete Theory Isn't Dead 1
+  \end{itemize}
+\end{itemize}
+
+\newpage
+
+\hypertarget{module-2---structuring-the-social-world}{%
+\section{Module 2 - Structuring the Social World}\label{module-2---structuring-the-social-world}}
+
+\hypertarget{meeting-05---monday-february-15---nature-or-nurture}{%
+\subsection*{Meeting 05 - Monday, February 15 - Nature or Nurture?}\label{meeting-05---monday-february-15---nature-or-nurture}}
+\addcontentsline{toc}{subsection}{Meeting 05 - Monday, February 15 - Nature or Nurture?}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{A Sociology Experiment}, ``Chapter 3 - Social Structure and the Individual,'' pp.~1-4 (Link)
+  \item
+    Read Bearman (2008)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Bearman, Peter. 2008. ``Introduction: Exploring Genetics and Social Structure.'' \emph{American Journal of Sociology} 114(S1):v-x. (Link)
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-06---monday-february-22---social-structure}{%
+\subsection*{Meeting 06 - Monday, February 22 - Social Structure}\label{meeting-06---monday-february-22---social-structure}}
+\addcontentsline{toc}{subsection}{Meeting 06 - Monday, February 22 - Social Structure}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{A Sociology Experiment}, ``Chapter 3 - Social Structure and the Individual,'' pp.~4-14 (Link)
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-07---wednesday-february-24---socialization}{%
+\subsection*{Meeting 07 - Wednesday, February 24 - Socialization}\label{meeting-07---wednesday-february-24---socialization}}
+\addcontentsline{toc}{subsection}{Meeting 07 - Wednesday, February 24 - Socialization}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{A Sociology Experiment}, ``Chapter 3 - Social Structure and the Individual,'' pp.~15-26 (Link)
+  \item
+    Read Braveman and Barclay (2009)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Braveman, Paula and Colleen Barclay. 2009. ``Health Disparities Beginning in Childhood: A Life-Course Perspective.'' \emph{Pediatrics} 123(S3):S163-S175. (Link)
+    \end{itemize}
+  \end{itemize}
+\item
+  \textbf{After Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Complete Sociological Experience 1 - High School
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-08---monday-march-1---medicalization}{%
+\subsection*{Meeting 08 - Monday, March 1 - Medicalization}\label{meeting-08---monday-march-1---medicalization}}
+\addcontentsline{toc}{subsection}{Meeting 08 - Monday, March 1 - Medicalization}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{A Sociology Experiment}, ``Chapter 15 - Health and Illness,'' pp.~10-16 (Link)
+  \item
+    Read Conrad and Barker (2010)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Conrad, Peter and Kristin K. Barker. 2010. ``The Social Construction of Illness: Key Insights and Policy Implications.'' \emph{Journal of Health and Social Behavior} 51(S):S67-S79. (Link)
+    \end{itemize}
+  \end{itemize}
+\item
+  \textbf{After Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Study for Quiz 1 on \textbf{Friday, March 5}
+  \end{itemize}
+\end{itemize}
+
+\newpage
+
+\hypertarget{module-3---culture}{%
+\section{Module 3 - Culture}\label{module-3---culture}}
+
+\hypertarget{meeting-09---wednesday-march-3---decoding-culture}{%
+\subsection*{Meeting 09 - Wednesday, March 3 - Decoding Culture}\label{meeting-09---wednesday-march-3---decoding-culture}}
+\addcontentsline{toc}{subsection}{Meeting 09 - Wednesday, March 3 - Decoding Culture}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{A Sociology Experiment}, ``Chapter 5 - Culture'' (Link)
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-10---monday-march-8---culture-and-health}{%
+\subsection*{Meeting 10 - Monday, March 8 - Culture and Health}\label{meeting-10---monday-march-8---culture-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 10 - Monday, March 8 - Culture and Health}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read Acevedo-Garcia and Bates (2008)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Acevedo-Garcia, Dolores and Lisa M. Bates. 2008. ``Latino Health Paradoxes: Empirical Evidence, Explanations, Future Research, and Implications.'' Pp. 101-113 in \emph{Latinas/os in the United States: Changing the Face of América}, edited by H. Rodríguez, R. Sáenz, and C. Menjívar. New York: Springer. (Blackboard)
+    \end{itemize}
+  \end{itemize}
+\item
+  \textbf{After Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Watch \emph{Unnatural Causes}, Part 3 - ``Becoming Americans'' (Pius Library)
+  \item
+    Complete Theory Isn't Dead 2
+  \end{itemize}
+\end{itemize}
+
+\newpage
+
+\hypertarget{module-4---socioeconomic-status}{%
+\section{Module 4 - Socioeconomic Status}\label{module-4---socioeconomic-status}}
+
+\hypertarget{meeting-11---monday-march-15---social-class}{%
+\subsection*{Meeting 11 - Monday, March 15 - Social Class}\label{meeting-11---monday-march-15---social-class}}
+\addcontentsline{toc}{subsection}{Meeting 11 - Monday, March 15 - Social Class}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{A Sociology Experiment}, ``Chapter 4 - Social Class, Inequality, and Poverty,'' pp.~1-15 (Link)
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-12---wednesday-march-17---inequality-and-poverty}{%
+\subsection*{Meeting 12 - Wednesday, March 17 - Inequality and Poverty}\label{meeting-12---wednesday-march-17---inequality-and-poverty}}
+\addcontentsline{toc}{subsection}{Meeting 12 - Wednesday, March 17 - Inequality and Poverty}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{A Sociology Experiment}, ``Chapter 4 - Social Class, Inequality, and Poverty,'' pp.~15-35 (Link)
+  \end{itemize}
+\item
+  \textbf{After Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Complete Sociological Experience 2
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-13---monday-march-22---socioeconomic-status-and-health}{%
+\subsection*{Meeting 13 - Monday, March 22 - Socioeconomic Status and Health}\label{meeting-13---monday-march-22---socioeconomic-status-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 13 - Monday, March 22 - Socioeconomic Status and Health}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read Dow and Rehkopf (2010)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Dow, William H. and David H. Rehkopf. 2010. ``Socioeconomic gradients in health in international and historical context.'' \emph{Annals of the New York Academy of Sciences} 1186:24-36. (Pius Library)
+    \end{itemize}
+  \end{itemize}
+\item
+  \textbf{After Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Watch \emph{Unnatural Causes}, Part 7 - ``Not Just a Paycheck'' (Pius Library)
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-14---wednesday-march-24---qhq-1-discussion}{%
+\subsection*{Meeting 14 - Wednesday, March 24 - QHQ 1 Discussion}\label{meeting-14---wednesday-march-24---qhq-1-discussion}}
+\addcontentsline{toc}{subsection}{Meeting 14 - Wednesday, March 24 - QHQ 1 Discussion}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{Mama Might Be Better Off Dead}, Chapters 1-5
+  \item
+    Complete QHQ Paper 1
+  \end{itemize}
+\end{itemize}
+
+\newpage
+
+\hypertarget{module-5---gender-and-sexuality}{%
+\section{Module 5 - Gender and Sexuality}\label{module-5---gender-and-sexuality}}
+
+\hypertarget{meeting-15---monday-march-29---gender-and-health}{%
+\subsection*{Meeting 15 - Monday, March 29 - Gender and Health}\label{meeting-15---monday-march-29---gender-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 15 - Monday, March 29 - Gender and Health}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{A Sociology Experiment}, ``Chapter 6 - Gender and Sexuality,'' pp.~1-28 (Link)
+  \item
+    Read Krieger (2003)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Krieger, Nancy. 2003. ``Genders, Sexes, and Health: What Are the Connections - and Why Does It Matter?'' \emph{International Journal of Epidemiology} 32(4):652-657. (Link)
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-16---wednesday-march-31---sexuality-and-health}{%
+\subsection*{Meeting 16 - Wednesday, March 31 - Sexuality and Health}\label{meeting-16---wednesday-march-31---sexuality-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 16 - Wednesday, March 31 - Sexuality and Health}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{A Sociology Experiment}, ``Chapter 6 - Gender and Sexuality,'' pp.~28-36 (Link)
+  \end{itemize}
+\item
+  \textbf{After Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Study for Quiz 2 on \textbf{Tuesday, April 6}
+  \end{itemize}
+\end{itemize}
+
+\newpage
+
+\hypertarget{module-6---race-and-racism}{%
+\section{Module 6 - Race and Racism}\label{module-6---race-and-racism}}
+
+\hypertarget{meeting-17---monday-april-5---race-and-racism-1}{%
+\subsection*{Meeting 17 - Monday, April 5 - Race and Racism 1}\label{meeting-17---monday-april-5---race-and-racism-1}}
+\addcontentsline{toc}{subsection}{Meeting 17 - Monday, April 5 - Race and Racism 1}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{A Sociology Experiment}, ``Chapter 7 - Race and Ethnicity,'' pp.~1-23 (Link)
+  \item
+    Reading TBD
+  \item
+    Read Cooper et al.~(2003)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Cooper, Richard S., Jay S. Kaufman, and Ryk Ward. 2003. ``Race and Genomics.'' \emph{New England Journal of Medicine} 348(12):1166-1170. (Link)
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-18--wednesday-april-7---race-and-racism-2}{%
+\subsection*{Meeting 18 -Wednesday, April 7 - Race and Racism 2}\label{meeting-18--wednesday-april-7---race-and-racism-2}}
+\addcontentsline{toc}{subsection}{Meeting 18 -Wednesday, April 7 - Race and Racism 2}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{no assignments}
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-19---monday-april-12---race-and-racism-3}{%
+\subsection*{Meeting 19 - Monday, April 12 - Race and Racism 3}\label{meeting-19---monday-april-12---race-and-racism-3}}
+\addcontentsline{toc}{subsection}{Meeting 19 - Monday, April 12 - Race and Racism 3}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{A Sociology Experiment}, ``Chapter 7 - Race and Ethnicity,'' pp.~23-28 (Link)
+  \end{itemize}
+\item
+  \textbf{After Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Complete Sociological Experience 3
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-20---wednesday-april-14---racism-and-health}{%
+\subsection*{Meeting 20 - Wednesday, April 14 - Racism and Health}\label{meeting-20---wednesday-april-14---racism-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 20 - Wednesday, April 14 - Racism and Health}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read Jones (2006)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Jones, David S. 2006. ``The persistence of American Indian health disparities.'' \emph{American Journal of Public Health} 96(12): 2122-2134. (Link)
+    \end{itemize}
+  \item
+    Read Sarche and Spicer (2008)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Sarche, Michelle, and Paul Spicer. 2008. ``Poverty and health disparities for American Indian and Alaska Native children.'' \emph{Annals of the New York Academy of Sciences} 1136(1): 126-136. (Link)
+    \end{itemize}
+  \item
+    Read Williams and Sternthal (2010)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Williams, David R. and Michelle Sternthal. 2010. ``Understanding Racial-ethnic Disparities in Health : Sociological Contributions.'' \emph{Journal of Health and Social Behavior} 51(S):S15-S27. (Link)
+    \end{itemize}
+  \end{itemize}
+\item
+  \textbf{After Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Watch \emph{Unnatural Causes}, Part 4 - ``Bad Sugar'' (Pius Library)
+  \end{itemize}
+\end{itemize}
+
+\newpage
+
+\hypertarget{module-7---intersectionality}{%
+\section{Module 7 - Intersectionality}\label{module-7---intersectionality}}
+
+\hypertarget{meeting-21---monday-april-19---qhq-2-discussion}{%
+\subsection*{Meeting 21 - Monday, April 19 - QHQ 2 Discussion}\label{meeting-21---monday-april-19---qhq-2-discussion}}
+\addcontentsline{toc}{subsection}{Meeting 21 - Monday, April 19 - QHQ 2 Discussion}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{Mama Might Be Better Off Dead}, Chapters 6-10
+  \item
+    Complete QHQ Paper 2
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-22---wednesday-april-21---intersectionality-and-health}{%
+\subsection*{Meeting 22 - Wednesday, April 21 - Intersectionality and Health}\label{meeting-22---wednesday-april-21---intersectionality-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 22 - Wednesday, April 21 - Intersectionality and Health}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read Collins et al.~(2004)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Collins, Jr, James W. et al.~2004. ``Very Low Birthweight in African American Infants: The Role of Maternal Exposure to Interpersonal Racial Discrimination.'' \emph{American Journal of Public Health} 94(12):2132-2138. (Link)
+    \end{itemize}
+  \item
+    Read David and Collins (1997)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      David, Richard J. and James W. Collins, Jr.~1997. ``Differing Birth Weight among Infants of U.S.-Born Blacks, African-Born Blacks, and U.S.-Born Whites.'' \emph{The New England Journal of Medicine} 337:1209-1214. (Link)
+    \end{itemize}
+  \end{itemize}
+\item
+  \textbf{After Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Watch \emph{Unnatural Causes}, Part 2 - ``When the Bough Breaks'' (Pius Library)
+  \end{itemize}
+\end{itemize}
+
+\newpage
+
+\hypertarget{module-8---urban-sociology}{%
+\section{Module 8 - Urban Sociology}\label{module-8---urban-sociology}}
+
+\hypertarget{meeting-23---monday-april-26---urban-america}{%
+\subsection*{Meeting 23 - Monday, April 26 - Urban America}\label{meeting-23---monday-april-26---urban-america}}
+\addcontentsline{toc}{subsection}{Meeting 23 - Monday, April 26 - Urban America}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{A Sociology Experiment}, ``Chapter 12 - Urban Sociology'' (Link)
+  \item
+    Read selections from \emph{Segregation in St.~Louis: Dismantling the Divide} (Link)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Chapter 1 - ``Segregation at the center'', pp.~4-13
+    \item
+      Chapter 2 - ``St.~Louis: A city of promise, a history of segregation'', pp.~14-25
+    \item
+      Chapter 5 - ``Segregation in St.~Louis today'', pp.~64-85
+    \end{itemize}
+  \end{itemize}
+\item
+  \textbf{After Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Complete Sociological Experience 4
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-24---wednesday-april-28---cities-and-health}{%
+\subsection*{Meeting 24 - Wednesday, April 28 - Cities and Health}\label{meeting-24---wednesday-april-28---cities-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 24 - Wednesday, April 28 - Cities and Health}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read selections from \emph{For the Sake of All: A report on the health and well-being of African Americans in St.~Louis and why it matters for everyone} (Link)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Chapter 1 - ``Introduction: Why consider economics, education, and health together?'', pp.~10-15
+    \item
+      Chapter 3 - ``Place matters: Neighborhood resources and health'', pp.~26-33
+    \item
+      Chapter 5 - ``A health profile of African Americans in St.~Louis'', pp.~46-67
+    \end{itemize}
+  \end{itemize}
+\item
+  \textbf{After Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Watch \emph{Unnatural Causes}, Part 5 - ``Place Matters'' (Pius Library)
+  \end{itemize}
+\end{itemize}
+
+\newpage
+
+\hypertarget{module-9---course-conclusion}{%
+\section{Module 9 - Course Conclusion}\label{module-9---course-conclusion}}
+
+\hypertarget{meeting-25---monday-may-3---qhq-3-discussion}{%
+\subsection*{Meeting 25 - Monday, May 3 - QHQ 3 Discussion}\label{meeting-25---monday-may-3---qhq-3-discussion}}
+\addcontentsline{toc}{subsection}{Meeting 25 - Monday, May 3 - QHQ 3 Discussion}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read \emph{Mama Might Be Better Off Dead}, Chapters 11-Epilogue
+  \item
+    Complete QHQ Paper 3
+  \end{itemize}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{meeting-26---wednesday-may-5---course-conclusion}{%
+\subsection*{Meeting 26 - Wednesday, May 5 - Course Conclusion}\label{meeting-26---wednesday-may-5---course-conclusion}}
+\addcontentsline{toc}{subsection}{Meeting 26 - Wednesday, May 5 - Course Conclusion}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Before Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Read Quadagno (2010)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Quadagno, Jill. 2010. ``Institutions, Interest Groups, and Ideology: An Agenda for the Sociology of Health Care Reform.'' \emph{Journal of Health and Social Behavior} 51(2):125-136. (Link)
+    \end{itemize}
+  \item
+    Read Williams (2010)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Williams, David. 2010. ``Beyond The Affordable Care Act: Achieving Real Improvements In Americans' Health.'' \emph{Health Affairs} 29(8):1481-1488. (Link)
+    \end{itemize}
+  \end{itemize}
+\item
+  \textbf{After Class:}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Study for Quiz 3 on \textbf{Monday, May 10} (this is planned as a flex day, and the date of this quiz may change if that day needs to be used for other course content)
+  \item
+    Complete the Final Project, which is due on \textbf{Monday, May 17.}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{part-honors-supplement}{%
+\part{Honors Supplement}\label{part-honors-supplement}}
+
+\hypertarget{honors-overview}{%
+\chapter{Honors Overview}\label{honors-overview}}
+
+This is the supplemental syllabus for the honors section of SOC 1120-02 (i.e.~SOC 1120-H02). Students enrolled in the honors section are expected to complete all \href{/lecture-schedule.html}{readings} and \href{/assignments-and-grading.html}{assignments} included in the syllabus and should look to the previous sections \href{/course-policies.html}{general course policies} as well. The following sections detail the additional work expected of students in the honors section.
+
+\hypertarget{in-depth-seminars}{%
+\section{In-Depth Seminars}\label{in-depth-seminars}}
+
+\begin{rmdtip}
+Seminar attendance and participation is captured in your participation
+grade.
+\end{rmdtip}
+
+You are expected to complete three seminars over the course of the semester. The goal of the seminars is to go more in-depth on several topics covered during the class and to provide an additional series of venues to develop your analytic and communication skills. Each seminar will consist of three interrelated parts:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  in-depth readings,
+\item
+  a group seminar meeting, and
+\item
+  a short response paper.
+\end{enumerate}
+
+Seminar topics will be selected by the students as a group, and should align with \href{/honors-seminar-topics.html}{the topics listed below}. Consensus on seminar topics should be reached by class on \textbf{Wednesday, February 3}. All students will complete the same seminars. Once the seminars are selected, Chris will provide a list of additional journal articles and book chapters to read. You will be expected to retrieve readings from SLU's Library if they are available there. If they are not, Chris will provide everyone with a \texttt{pdf} copy of the readings. Approximately 40 to 50 pages of additional reading per seminar should be expected.
+
+We will schedule a when all students are available to meet together and discuss the assigned readings. Each seminar meeting will occur after the lectures on the seminar topic (ideally later that week or the next week). Chris will coordinate scheduling the seminar meetings, which will take place in one of the Sociology Department's conference rooms. You should come to seminar meetings prepared to discuss the readings themselves and draw analytic connections to the course material from both the related week and prior weeks. Attendance and participation in the seminars themselves will be factored into your honors participation grade.
+
+\hypertarget{paper-format}{%
+\subsection{Paper Format}\label{paper-format}}
+
+These discussions should inform a response paper written by each student that connects a theme from the in-depth readings and the specific content of the papers to the course as a whole. The paper should be formatted using the following guidelines:
+
+\begin{itemize}
+\tightlist
+\item
+  Times New Roman font
+\item
+  12 point font size
+\item
+  Double spaced
+\item
+  1" margins on top, bottom, and sides
+\item
+  Papers should be no less than four and no longer than five pages in length
+\item
+  Papers should use in-text, parenthetical citations formatted using American Sociological Association (ASA) standards
+\item
+  Papers should include a works cited section on a separate page that is properly formatted using ASA standards - this does not count towards the page limit
+\end{itemize}
+
+\hypertarget{grading-1}{%
+\subsection{Grading}\label{grading-1}}
+
+\begin{rmdtip}
+Your papers are collectively worth \textbf{18.4\%} of your final grade
+\end{rmdtip}
+
+Paper due-dates will be a week after each seminar meeting, and papers will be submitted via Blackboard. Each response paper will be graded on four elements:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Content (35 points): How well does the paper synthesize information from the in-depth readings, other course readings, the course lectures, and other course resources such as documentaries (as appropriate).
+\item
+  Organization (10 points): How well organized is the paper? Does it have an introduction, a conclusion, and a thesis?
+\item
+  Writing (10 points): How well written is the paper? Is it free of spelling and grammatical errors?
+\item
+  Citations (5 points): Are citations correctly applied?
+\end{enumerate}
+
+Papers are worth approximately 6.1\% of your final grade for each paper.
+
+\hypertarget{op-ed}{%
+\section{Op-Ed}\label{op-ed}}
+
+\begin{rmdtip}
+Your op-ed is worth \textbf{9.2\%} of your final grade
+\end{rmdtip}
+
+You should pick a topic from \href{/honors-seminar-topics.html}{the honors seminar topic list} that you would like to use as a jumping-off point for writing an op-ed style article. With a topic in-hand, you should read ahead and pick \emph{one narrow aspect} of the topic to focus on. Topics must be selected by \textbf{Monday, February 22} and are ``submitted'' by coming to office hours (or making an appointment to see Chris if you have a scheduling conflict) to discuss your idea.
+
+Once you meet with Chris, you should complete additional background research on the topic, and put together a 700 to 800 word op-ed style article. This article should introduce your topic succinctly and \emph{take a position} on it, providing specific data that supports your position. Remember that the main purpose of an op-ed is to persuade your reader. \href{https://styleguide.duke.edu/toolkits/writing-media/how-to-write-an-op-ed-article/}{Duke University} provides some excellent guidance on forming your argument and approaching editorial writing.
+
+Since this is an op-ed, you do not need to provide citations in the body of the paper. Instead, provide end-notes that describe the source of information. Please provide a bibliography on a separate page of your submission that lists all sources of data and information included in the op-ed.
+
+A draft submission, which should contain all required elements, is due on \textbf{Tuesday, April 5} for feedback via Blackboard. It is ungraded; however, if not submitted, a 3\% deduction will be applied to your final grade.
+
+The final submission on \textbf{Monday, May 10} should be made to two venues - Chris via Blackboard and a publication. The publication could be your hometown paper or a local St.~Louis publication if the topic is about St.~Louis. Any publication that accepts op-ed submissions without invitation is acceptable. You don't have to have your op-ed published, just submitted! Make sure to forward your submission email to Chris after it is completed.
+
+\hypertarget{op-ed-format}{%
+\subsection{Op-Ed Format}\label{op-ed-format}}
+
+The op-ed should be formatted using the following guidelines:
+
+\begin{itemize}
+\tightlist
+\item
+  Times New Roman font
+\item
+  12 point font size
+\item
+  Double spaced
+\item
+  1" margins on top, bottom, and sides
+\item
+  700 to 800 words
+\item
+  End notes and a bibliography are used to provide sourcing and attribution, and do not count towards the word limit.
+\end{itemize}
+
+\hypertarget{op-ed-seminar}{%
+\subsection{Op-Ed Seminar}\label{op-ed-seminar}}
+
+Once submitted, op-eds will be shared with all honors students. Each of you should read the other op-eds and come prepared to discuss them during a final seminar session (date TBA - will be after May 1\textsuperscript{st}). As with the other seminars, attendance and participation will be factored into your honors participation grade.
+
+\hypertarget{grading-2}{%
+\subsection{Grading}\label{grading-2}}
+
+Op-eds will be submitted by \textbf{Monday, May 10} via Blackboard. Each op-ed paper will be graded on four elements:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Content (45 points): How persuasive is the argument? What evidence is used to support the argument?
+\item
+  Organization (10 points): How well organized is the paper? Does it
+  have a clear thesis and present persuasive evidence in a clear, linear manner?
+\item
+  Writing (15 points): How well written is the paper? Is it free of
+  spelling and grammatical errors?
+\item
+  Bibliography Page (5 points): Are citations correctly applied?
+\end{enumerate}
+
+\hypertarget{honors-seminar-topics}{%
+\section{Honors Seminar Topics}\label{honors-seminar-topics}}
+
+\begin{table}
+
+\caption{\label{tab:unnamed-chunk-4}SOC 1120 Honors Seminar Topics}
+\centering
+\begin{tabular}[t]{ll}
+\toprule
+Module & Topic\\
+\midrule
+2 & Nature or Nurture?\\
+2 & Social Structure\\
+2 & Socialization\\
+2 & Medicalization\\
+3 & Culture\\
+\addlinespace
+4 & Socioeconomic Status\\
+5 & Gender and Sexuality\\
+6 & Race and Racism\\
+7 & Intersectionality and Health\\
+8 & Urban Sociology\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\hypertarget{honors-grading}{%
+\section{Honors Grading}\label{honors-grading}}
+
+The following point totals supersede the information on the main syllabus under Section 4.4 - ``Grading'' if you are enrolled in the honors section of SOC 1120.
+
+\begin{table}
+
+\caption{\label{tab:unnamed-chunk-5}SOC 1120 Points Breakdown}
+\centering
+\begin{tabular}[t]{llllll}
+\toprule
+Assignment & Period & Points & Quantity & Total & Percent\\
+\midrule
+Participation & Part 1 & 20 pts & x1 & 20 pts & 11.6\%\\
+ & Part 2 & 30 pts & x1 & 30 pts & \\
+ & Part 3 & 30 pts & x1 & 30 pts & \\
+ & Part 4 & 10 pts & x1 & 15 pts & \\
+Theory Isn't Dead &  & 20 pts & x4 & 40 pts & 4.9\%\\
+\addlinespace
+Sociological Experiences &  & 20 pts & x4 & 80 pts & 9.9\%\\
+QHQs &  & 75 pts & x2 & 150 pts & 18.4\%\\
+Quizzes &  & 50 pts & x3 & 150 pts & 18.4\%\\
+Final Project &  & 75 pts & x1 & 75 pts & 9.2\%\\
+Honors Response Papers &  & 50 pts & x3 & 150 pts & 18.4\%\\
+\addlinespace
+Honors Op-Ed &  & 75 pts & x1 & 75 pts & 9.2\%\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The information listed in Sections 4.4.1 and 4.4.2 still applies to honors students.
+
+\hypertarget{honors-schedule}{%
+\chapter{Honors Schedule}\label{honors-schedule}}
+
+\begin{rmdwarning}
+Once the honors seminars have been selected by students enrolled in the
+honors seminar, this section will be updated with meeting dates, reading
+assignments, and response paper due dates.
+\end{rmdwarning}
+
+  \bibliography{book.bib,packages.bib}
+
+\end{document}
