@@ -47,7 +47,7 @@ Additional details and a sample assignment will be made available via Blackboard
 Due dates for the Theory Post are as follows:
 
   1. Theory Isn't Dead 1 - **Wednesday, February 10**
-  2. Theory Isn't Dead 2 - **Monday, March 8**
+  2. Theory Isn't Dead 2 - **Wednesday, March 10**
 
 ### Sociological Experiences
 

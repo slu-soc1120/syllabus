@@ -128,8 +128,8 @@ Assignment & Period & Points & Quantity & Total & Percent\\
 Participation & Part 1 & 20 pts & x1 & 20 pts & 11.6\%\\
  & Part 2 & 30 pts & x1 & 30 pts & \\
  & Part 3 & 30 pts & x1 & 30 pts & \\
- & Part 4 & 10 pts & x1 & 15 pts & \\
-Theory Isn't Dead &  & 20 pts & x4 & 40 pts & 4.9\%\\
+ & Part 4 & 15 pts & x1 & 15 pts & \\
+Theory Isn't Dead &  & 20 pts & x2 & 40 pts & 4.9\%\\
 \addlinespace
 Sociological Experiences &  & 20 pts & x4 & 80 pts & 9.9\%\\
 QHQs &  & 75 pts & x2 & 150 pts & 18.4\%\\

@@ -90,7 +90,7 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 ---
 
-### Meeting 10 - Monday, March 8 - Culture and Health {-}
+### Meeting 10 - Wednesday, March 10 - Culture and Health {-}
 
   * **Before Class:**
     * Read Acevedo-Garcia and Bates (2008)

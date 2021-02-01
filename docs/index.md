@@ -1,7 +1,7 @@
 --- 
 title: "SOC 1120-02 and H02: Introduction to Sociology - Diversity & Health"
 author: "Christopher Prener, Ph.D."
-date: "2021-01-26"
+date: "2021-02-01"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -48,6 +48,7 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 
 * January 19, 2021 - Add schedule for Spring 2021
 * January 26, 2021 - Add Spring 2021 office hours
+* February 1, 2021 - Move flex day and fix honors grading
 
 ## License {-}
 Copyright © 2016-2021 [Christopher G. Prener](https://chris-prener.github.io)
