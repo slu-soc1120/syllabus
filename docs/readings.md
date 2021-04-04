@@ -142,7 +142,7 @@ Select a module from the menu to see details about topics, readings, and assignm
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 6 - Gender and Sexuality," pp. 1-28 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
     * Read Krieger (2003)
-      * Krieger, Nancy. 2003. "Genders, Sexes, and Health: What Are the Connections - and Why Does It Matter?" *International Journal of Epidemiology* 32(4):652-657. (<a href="#" target="_blank">Link</a>)
+      * Krieger, Nancy. 2003. "Genders, Sexes, and Health: What Are the Connections - and Why Does It Matter?" *International Journal of Epidemiology* 32(4):652-657. (Blackboard)
   
 ---
 
@@ -162,7 +162,7 @@ Select a module from the menu to see details about topics, readings, and assignm
     * Read *A Sociology Experiment*, "Chapter 7 - Race and Ethnicity," pp. 1-23 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
     * Reading TBD
     * Read Cooper et al. (2003)
-      * Cooper, Richard S., Jay S. Kaufman, and Ryk Ward. 2003. "Race and Genomics." *New England Journal of Medicine* 348(12):1166-1170. (<a href="#" target="_blank">Link</a>)
+      * Cooper, Richard S., Jay S. Kaufman, and Ryk Ward. 2003. "Race and Genomics." *New England Journal of Medicine* 348(12):1166-1170. (<a href="https://www-nejm-org.ezp.slu.edu/doi/full/10.1056/NEJMsb022863" target="_blank">Link</a>)
   
 ---
 
