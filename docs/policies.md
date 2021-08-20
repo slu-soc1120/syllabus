@@ -58,6 +58,9 @@ The health and well-being of SLU’s students, staff, and faculty are critical c
   4. Consistent with the [University Attendance Policy](https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/), students may be asked to provide medical documentation when a medical condition impacts a student’s ability to attend and/or participate in class for an extended period of time. 
   5. As a temporary amendment to the current [University Attendance Policy](https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/), all absences due to illness or an isolation/quarantine directive issued by a qualified health official, or due to an adverse reaction to a COVID-19 vaccine, shall be considered “Authorized” absences.
 
+### Seating Policy
+In order to facilitate contact tracing, the University is requiring that we record where students sit each day of class. In order to reduce the burden of this on all of us, I will ask that you sit in the same space for each class section. For the first three course meetings, I will ask students to sign-in not just for attendance purposes, but for seating location purposes as well. After the third course meeting, I will ask you to not switch seats for the remainder of the semester. If you need to change seating for any reason during the remainder of the semester, please speak with me first. When we have our *Mama* discussions, I will ask each group to fill out an individual seating chart to facilitate contact tracing. I recognize that this is an added burden for all of us, and appreciate your cooperation with it. 
+
 ### Zoom Policies
 
 \begin{rmdwarning}
