@@ -2,7 +2,7 @@
 
 # Honors Overview
 
-This is the supplemental syllabus for the honors section of SOC 1120-02 (i.e. SOC 1120-H02). Students enrolled in the honors section are expected to complete all [readings](/lecture-schedule.html) and [assignments](/assignments-and-grading.html) included in the syllabus and should look to the previous sections [general course policies](/course-policies.html) as well. The following sections detail the additional work expected of students in the honors section.
+This is the supplemental syllabus for the honors section of SOC 1120-05 (i.e. SOC 1120-H05). Students enrolled in the honors section are expected to complete all [readings](/lecture-schedule.html) and [assignments](/assignments-and-grading.html) included in the syllabus and should look to the previous sections [general course policies](/course-policies.html) as well. The following sections detail the additional work expected of students in the honors section.
 
 ## In-Depth Seminars
 
@@ -17,7 +17,7 @@ You are expected to complete three seminars over the course of the semester. The
 2.  a group seminar meeting, and
 3.  a short response paper.
 
-Seminar topics will be selected by the students as a group, and should align with [the topics listed below](/honors-seminar-topics.html). Consensus on seminar topics should be reached by class on **Wednesday, February 3**. All students will complete the same seminars. Once the seminars are selected, Chris will provide a list of additional journal articles and book chapters to read. You will be expected to retrieve readings from SLU's Library if they are available there. If they are not, Chris will provide everyone with a `pdf` copy of the readings. Approximately 40 to 50 pages of additional reading per seminar should be expected.
+Seminar topics will be selected by the students as a group, and should align with [the topics listed below](/honors-seminar-topics.html). Consensus on seminar topics should be reached by class on **Monday, August 31**. All students will complete the same seminars. Once the seminars are selected, Chris will provide a list of additional journal articles and book chapters to read. You will be expected to retrieve readings from SLU's Library if they are available there. If they are not, Chris will provide everyone with a `pdf` copy of the readings. Approximately 40 to 50 pages of additional reading per seminar should be expected.
 
 We will schedule a when all students are available to meet together and discuss the assigned readings. Each seminar meeting will occur after the lectures on the seminar topic (ideally later that week or the next week). Chris will coordinate scheduling the seminar meetings, which will take place in one of the Sociology Department's conference rooms. You should come to seminar meetings prepared to discuss the readings themselves and draw analytic connections to the course material from both the related week and prior weeks. Attendance and participation in the seminars themselves will be factored into your honors participation grade.
 
@@ -76,10 +76,10 @@ The op-ed should be formatted using the following guidelines:
 * End notes and a bibliography are used to provide sourcing and attribution, and do not count towards the word limit.
 
 ### Op-Ed Seminar
-Once submitted, op-eds will be shared with all honors students. Each of you should read the other op-eds and come prepared to discuss them during a final seminar session (date TBA - will be after May 1^st^). As with the other seminars, attendance and participation will be factored into your honors participation grade.
+Once submitted, op-eds will be shared with all honors students. Each of you should read the other op-eds and come prepared to discuss them during a final seminar session (date TBA). As with the other seminars, attendance and participation will be factored into your honors participation grade.
 
 ### Grading 
-Op-eds will be submitted by **Monday, May 10** via Blackboard. Each op-ed paper will be graded on four elements:
+Op-eds will be submitted by **Wednesday, December 14** via Blackboard. Each op-ed paper will be graded on four elements:
 
 1.  Content (45 points): How persuasive is the argument? What evidence is used to support the argument?
 2.  Organization (10 points): How well organized is the paper? Does it
@@ -101,13 +101,15 @@ Module & Topic\\
 2 & Nature or Nurture?\\
 2 & Social Structure\\
 2 & Socialization\\
+2 & The Institution of Medicine\\
 2 & Medicalization\\
-3 & Culture\\
 \addlinespace
+3 & Culture\\
 4 & Socioeconomic Status\\
 5 & Gender and Sexuality\\
 6 & Race and Racism\\
 7 & Intersectionality and Health\\
+\addlinespace
 8 & Urban Sociology\\
 \bottomrule
 \end{tabular}
@@ -115,7 +117,7 @@ Module & Topic\\
 
 ## Honors Grading
 
-The following point totals supersede the information on the main syllabus under Section 4.4 - "Grading" if you are enrolled in the honors section of SOC 1120.
+The following point totals supersede the information on the main syllabus under Section 3.4 - "Grading" if you are enrolled in the honors section of SOC 1120.
 
 \begin{table}
 
@@ -142,4 +144,4 @@ Honors Op-Ed &  & 75 pts & x1 & 75 pts & 9.2\%\\
 \end{tabular}
 \end{table}
 
-The information listed in Sections 4.4.1 and 4.4.2 still applies to honors students.
+The information listed in Sections 3.4.1 and 3.4.2 still applies to honors students.

@@ -3,7 +3,7 @@ This section provides general details on the different types of assignments for 
 
 \begin{rmdwarning}
 Students enrolled in the honors section should see
-\href{/syllabus/honors-overview.html}{Section 7} for additional
+\href{/syllabus/honors-overview.html}{Section 6} for additional
 assignment descriptions as well as their weighting and final point
 totals.
 \end{rmdwarning}
@@ -17,7 +17,7 @@ Your grade for this course will consist of a number of different assignments on 
 \begin{rmdwarning}
 As a reminder, all due dates are provisional due to the uncertainty
 around COVID-19 and how it will affect our semester. I will continually
-update you during class and via Blackboard about the status of each
+update you during class and via Canvas about the status of each
 assignment's due dates as the semester progresses.
 \end{rmdwarning}
 
@@ -40,14 +40,14 @@ Your participation grade will be split, with 20 points for Part 1, 30 points eac
 Theory posts are worth 40 points, or \textbf{6.8\%} of your final grade
 \end{rmdtip}
 
-Over the course of the semester, there will be four short exercises that ask you to tie social theory, social science research, and current events together. For each of these assignments, I will post a news article. Based on your read of the article, you should pick one of the social theories we have discussed in class or in readings, briefly describe why you selected that theory (in 2-3 sentences), and then craft a theoretically motivated research question and hypothesis (a sentence each). Finally, you will briefly describe how you would propose to study this hypothesis (in 2-3 sentences). Your assignments will be posted to Blackboard before 5pm on the due date.
+Over the course of the semester, there will be four short exercises that ask you to tie social theory, social science research, and current events together. For each of these assignments, I will post a news article. Based on your read of the article, you should pick one of the social theories we have discussed in class or in readings, briefly describe why you selected that theory (in 2-3 sentences), and then craft a theoretically motivated research question and hypothesis (a sentence each). Finally, you will briefly describe how you would propose to study this hypothesis (in 2-3 sentences). Your assignments will be posted to Canvas before 5pm on the due date.
 
-Additional details and a sample assignment will be made available via Blackboard. Each Theory Post is worth 20 points. Both elements will be assessed using a scale that awards full, partial, or no credit (see [Grading](grading.html)).
+Additional details and a sample assignment will be made available via Canvas. Each Theory Post is worth 20 points. Both elements will be assessed using a scale that awards full, partial, or no credit (see [Grading](grading.html)).
 
 Due dates for the Theory Post are as follows:
 
-  1. Theory Isn't Dead 1 - **Wednesday, February 10**
-  2. Theory Isn't Dead 2 - **Wednesday, March 10**
+  1. Theory Isn't Dead 1 - **Thursday, September 9**
+  2. Theory Isn't Dead 2 - **Tuesday, October 5**
 
 ### Sociological Experiences
 
@@ -58,30 +58,28 @@ grade
 
 Over the course of the semester, there will be four short exercises that ask you to link data to your own personal experiences. Data for these exercises will be drawn primarily from <a href = "http://ezp.slu.edu/login?url=http://www.socialexplorer.com/ezproxy" target = "_blank">Social Explorer</a>, a tool that makes it easy to find demographic data about various places in the United States. These reflections should be approximately 1-2 paragraphs in length.
 
-Additional details and a sample assignment will be made available via Blackboard. Each Sociological Experience is worth 20 points, and will be assessed using a scale that awards full, partial, or no credit (see [Grading](grading.html)). Assignments are due by the beginning of class on the due date.
+Additional details and a sample assignment will be made available via Canvas. Each Sociological Experience is worth 20 points, and will be assessed using a scale that awards full, partial, or no credit (see [Grading](grading.html)). Assignments are due by the beginning of class on the due date.
 
 Due dates for the Sociological Experiences are as follows:
 
-  1. Sociological Experience 1 - High School - **Wednesday, February 24**
-  2. Sociological Experience 2 - Socioeconomic Status - **Wednesday, March 17**
-  3. Sociological Experience 3 - Segregation - **Monday, April 12**
-  4. Sociological Experience 4 - St. Louis - **Wednesday, April 28**
+  1. Sociological Experience 1 - High School - **Tuesday, September 21**
+  2. Sociological Experience 2 - Socioeconomic Status - **Tuesday, October 12**
+  3. Sociological Experience 3 - Segregation - **Thursday, November 11**
+  4. Sociological Experience 4 - St. Louis - **Thursday, December 2**
 
-### QHQ Papers
+### *Mama* Papers
 
 \begin{rmdtip}
 QHQ Papers are worth 150 points, or \textbf{25.4\%} of your final grade
 \end{rmdtip}
 
-Each student will write a QHQ reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. 
-
-Additional details and a grading rubric will be available on Blackboard. QHQ Paper 1 is ungraded. If it is not turned in or not taking seriously, however, a deduction of 3% will be applied to your final grade. QHQ Papers 2 and 3 each count for 75 points. Papers must be completed and submitted by the beginning of class on the date due.
+Each student will write a reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric will be available on Canvas. Papers must be completed and submitted by the beginning of class on the date due. Each paper is worth 50 points.
 
 Due dates for the QHQs are as follows:
 
-  1. QHQ Paper 1 - **Wednesday, March 24**
-  2. QHQ Paper 2 - **Monday, April 19**
-  3. QHQ Paper 3 - **Monday, May 3**
+  1. *Mama* Paper 1 - **Thursday, October 14**
+  2. *Mama* Paper 2 - **Thursday, November 18**
+  3. *Mama* Paper 3 - **Tuesday, December 7**
 
 ### Quizzes
 
@@ -89,14 +87,14 @@ Due dates for the QHQs are as follows:
 Quizzes are worth 150 points, or \textbf{25.4\%} of your final grade
 \end{rmdtip}
 
-Three non-cumulative multiple choice quizzes will be given throughout the semester. Each quiz will cover the breadth of the material in the course, including readings, lectures, and videos. Each quiz will consist of 30 multiple choice questions and will be worth 50 points. They will be administered via Blackboard. Quizzes must be taken between 7am CST and 10pm CST on the quiz date. They can be started at any point within that range, but once you begin the quiz, you will have only 35 minutes to complete it. 
+Three non-cumulative multiple choice quizzes will be given throughout the semester. Each quiz will cover the breadth of the material in the course, including readings, lectures, and videos. Each quiz will consist of 30 multiple choice questions and will be worth 50 points. They will be administered via Canvas. Quizzes must be taken between 7am CST and 10pm CST on the quiz date. They can be started at any point within that range, but once you begin the quiz, you will have only 45 minutes to complete it. Since they occur remotely, quizzes are open book and note.
 
 Quiz dates are as follows:
 
-  1. Quiz 1 - **Friday, March 5**
-  2. Quiz 2 - **Tuesday, April 6**
-  3. Quiz 3 - **Monday, May 10**
-      * This is planned as a flex day, and the date of this quiz may change if that day needs to be used for other course content.
+  1. Quiz 1 - **Monday, September 27**
+  2. Quiz 2 - **Monday, October 25**
+  3. Quiz 3 - **Tuesday, December 14**
+      * This is overlaps with our scheduled final exam time, so you can take the quiz during that period if you wish.
 
 ### Final Project
 
@@ -105,17 +103,17 @@ The Final Project is worth 75 points, or \textbf{12.7\%} of your final
 grade
 \end{rmdtip}
 
-This project involves the creation of a single page handout that illustrates the origins of a health disparity present in American society. On the handout, you should provide some background information, data about the disparity, and connect the disparity to fundamental cause theory and/or the social determinants of health perspective. You have creative license to design the handout as you see fit, and should feel free to add graphs, maps, or photographs that help you illustrate the issues you are describing. The second page of the handout should contain a list of works cited. More details and a rubric will be provided on Blackboard. The final project will be due by **Monday, May 17.**
+This project involves the creation of a single page handout that illustrates the origins of a health disparity present in American society. On the handout, you should provide some background information, data about the disparity, and connect the disparity to fundamental cause theory and/or the social determinants of health perspective. You have creative license to design the handout as you see fit, and should feel free to add graphs, maps, or photographs that help you illustrate the issues you are describing. The second page of the handout should contain a list of works cited. More details and a rubric will be provided on Canvas. The final project will be due by **Tuesday, December 14**.
 
 ## Submission and Late Work
 
-### Blackboard Submissions
+### Canvas Submissions
 
-All assignments must be submitted via Blackboard *as a `.pdf` file* unless otherwise noted in the assignment instructions. Feedback will be returned to students via comments embedded in each document.
+All assignments must be submitted via Canvas *as a `.pdf` file* unless otherwise noted in the assignment instructions. Feedback will be returned to students via comments embedded in each document.
 
 ### Late Work
 
-Once the due date has passed, any assignments shared will be treated as late. Be advised that Blackboard time-stamps submissions, so that even being a few seconds over the due date and time will result in your assignment being marked late. Like arriving late to class, this happens automatically, so please let me know as soon as possible **before** a due date if you have a concern about a potentially late submission. 
+Once the due date has passed, any assignments shared will be treated as late. Be advised that Canvas time-stamps submissions, so that even being a few seconds over the due date and time will result in your assignment being marked late. Like arriving late to class, this happens automatically, so please let me know as soon as possible **before** a due date if you have a concern about a potentially late submission. 
 
 Assignments shared within 24-hours of the due date will have 15% deducted from the grade. I will deduct 15% per day for the next two 24-hour periods that assignments are late; after 72-hours, I will not accept late work. If you cannot submit work on time because of a personal illness, a family issue, jury duty, an athletic match, or a religious observance, you must contact me *beforehand if at all possible* to discuss alternate submission of work. I may ask for more information, such as a note from a physician, a travel letter from Athletics, or other documentation for alternative deadlines.
 
@@ -125,7 +123,7 @@ If you cannot attend an exam due to a personal illness, a family issue, jury dut
 
 ## Extra Credit
 
-From time to time I may offer extra credit to be applied to your final grade. I will only offer extra credit if it is open to the entire class (typically for something like attending a lecture or event on-campus). If I offer extra credit, I will generally require you to submit a short written summary of the activity within a week of the event to obtain the credit. Papers should be submitted via Blackboard and will typically consist of a paragraph describing the event and a paragraph connecting the event to the class material in some way. When offered, extra credit opportunities cannot be made-up or substituted if you are unable to attend the event.
+From time to time I may offer extra credit to be applied to your final grade. I will only offer extra credit if it is open to the entire class (typically for something like attending a lecture or event on-campus). If I offer extra credit, I will generally require you to submit a short written summary of the activity within a week of the event to obtain the credit. Papers should be submitted via Canvas and will typically consist of a paragraph describing the event and a paragraph connecting the event to the class material in some way. When offered, extra credit opportunities cannot be made-up or substituted if you are unable to attend the event.
 
 ## Grading
 
@@ -164,15 +162,15 @@ Final Project &  & 75 pts & x1 & 75 pts & 12.7\%\\
 
 All feedback will include grades that represent number of points earned. If you want to know your percentage on a particular assignment, divide the number of points earned by the number of points possible and then multiply it by 100.
 
-Some of the provided rubrics on Blackboard result in final points for assignments that include decimals. In the event of non-standard decimals (those other than .25, .5, or .75), I will round your grade up to the next standard decimal value (e.g. .25, .5, or .75).
+Some of the provided rubrics on Canvas result in final points for assignments that include decimals. In the event of non-standard decimals (those other than .25, .5, or .75), I will round your grade up to the next standard decimal value (e.g. .25, .5, or .75).
 
 ### Conflicting or Incorrect Grades
 
-If you notice a discrepancy between the grade you received in the feedback and what appears on Blackboard, please let me know as soon as possible. I will default to taking the higher of the two grades as the official grade.
+If you notice a discrepancy between the grade you received in the feedback and what appears on Canvas, please let me know as soon as possible. I will default to taking the higher of the two grades as the official grade.
 
 ### Letter Grades
 
-letter grades will be calculated by taking the sum of all points earned and dividing it by the total number of points possible. This will be multiplied by 100 and then converted to a letter grade using the following table:
+Letter grades will be calculated by taking the sum of all points earned and dividing it by the total number of points possible. This will be multiplied by 100 and then converted to a letter grade using the following table:
 
 \begin{table}
 \caption{(\#tab:unnamed-chunk-12)Course Grading Scale}
@@ -203,7 +201,7 @@ GPA & Letter & Percent\\
 \end{tabular}
 \end{table}
 
-Updates to grades will be provided at midterms, and you can follow your progress via the `My Grades` area on Blackboard. I round-up final grades that are within a half percentage point of the next highest letter grade. Requests for final grade changes outside of this range will not be honored.
+Updates to grades will be provided at midterms, and you can follow your progress via the `My Grades` area on Canvas. I round-up final grades that are within a half percentage point of the next highest letter grade. Requests for final grade changes outside of this range will not be honored.
 
 \begin{rmdwarning}
 No chances will be given for revisions of poor grades. Incomplete grades
