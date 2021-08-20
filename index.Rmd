@@ -25,7 +25,7 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 ### Course Materials {-}
 
-<https://blackboard.slu.edu>
+<https://canvas.slu.edu>
 
 ### Chris’s Information {-}
 
