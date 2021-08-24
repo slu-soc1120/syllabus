@@ -272,6 +272,6 @@ Select a module from the menu to see details about topics, readings, and assignm
     * Read Williams (2010)
       * Williams, David. 2010. "Beyond The Affordable Care Act: Achieving Real Improvements In Americans’ Health." *Health Affairs* 29(8):1481-1488. (<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2010.0071" target="_blank">Link</a>)
   * **After Class:**
-    * Study for Quiz 3 on Tuesday, December 14 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
-    * Complete the Final Project, which is due on Tuesday, December 14 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
+    * Study for Quiz 3 on Friday, December 17 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
+    * Complete the Final Project, which is due on Friday, December 17 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     

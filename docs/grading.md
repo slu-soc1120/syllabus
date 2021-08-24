@@ -93,7 +93,7 @@ Quiz dates are as follows:
 
   1. Quiz 1 - **Monday, September 27**
   2. Quiz 2 - **Monday, October 25**
-  3. Quiz 3 - **Tuesday, December 14**
+  3. Quiz 3 - **Friday, December 17**
       * This is overlaps with our scheduled final exam time, so you can take the quiz during that period if you wish.
 
 ### Final Project
@@ -103,7 +103,7 @@ The Final Project is worth 75 points, or \textbf{12.7\%} of your final
 grade
 \end{rmdtip}
 
-This project involves the creation of a single page handout that illustrates the origins of a health disparity present in American society. On the handout, you should provide some background information, data about the disparity, and connect the disparity to fundamental cause theory and/or the social determinants of health perspective. You have creative license to design the handout as you see fit, and should feel free to add graphs, maps, or photographs that help you illustrate the issues you are describing. The second page of the handout should contain a list of works cited. More details and a rubric will be provided on Canvas. The final project will be due by **Tuesday, December 14**.
+This project involves the creation of a single page handout that illustrates the origins of a health disparity present in American society. On the handout, you should provide some background information, data about the disparity, and connect the disparity to fundamental cause theory and/or the social determinants of health perspective. You have creative license to design the handout as you see fit, and should feel free to add graphs, maps, or photographs that help you illustrate the issues you are describing. The second page of the handout should contain a list of works cited. More details and a rubric will be provided on Canvas. The final project will be due by **Friday, December 17**.
 
 ## Submission and Late Work
 
