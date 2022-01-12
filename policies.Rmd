@@ -8,15 +8,13 @@ My priority is that class periods are productive learning experiences for all st
   4. Do not engage in side conversations. This is disrespectful to the speaker (whether me or a classmate), and can affect the ability of others in the class to learn.
   5. Be respectful of your fellow classmates. Do not interrupt when someone is speaking, monopolize the conversation, or belittle the ideas or opinions of others. 
   6. Complete the assigned readings for each class in advance, and come prepared with discussion points and questions.
-  7. Follow my best practices for using <a href = "https://slu-soc1120.github.io/docs/start_zoom/#other-considerations" target = "_blank">Zoom</a> and <a href = "https://slu-soc1120.github.io/docs/start_canvas/#netiquette-considerations" target = "_blank">Canvas</a>.
+  7. Follow my best practices for using Zoom and Canvas (see Canvas for more details).
     
 The following sections contain additional details about specific course policies related to attendance, participation, electronic device use, student support, academic honesty, and Title IX.
 
 ## COVID-19
 
-We are in the midst of something very few Americans alive today have experienced before to this degree - a pandemic caused by a highly contagious virus called "SARS-CoV-2." This virus causes an illness called COVID-19. Not since the fall of 1919 have Saint Louis University students begun a semester quite like this one. I think acknowledging that we are all starting from varying places of exhaustion, stress, and anxiety is critical. To that end, I've written an <a href = "https://slu-soc1120.github.io/covid19/" target = "_blank">open letter to all of you</a> that I ask you to read before our first class. 
-
-Please, first and foremost, focus on what matters most and practice self care. Please follow SLU's guidance both for <a href = "https://www.slu.edu/health-advisory/messages/update-students-maintain-community-health-march20.php" target = "_blank">your own health and for maintaining community</a>. If you are living on-campus, please follow all of SLU's policies for social distancing and <a href = "https://slu.policystat.com/policy/token_access/2e1e7d4c-49c9-42ba-8055-ca833711bea4/" target = "_blank">mask wearing</a>. These are critical for our collective safety. If you are off campus this semester, please follow them anyway! 
+I think acknowledging that we are all starting from varying places of exhaustion, stress, and anxiety is critical. Please, first and foremost, focus on what matters most and practice self care. Please follow SLU's guidance both for <a href = "https://www.slu.edu/health-advisory/messages/update-students-maintain-community-health-march20.php" target = "_blank">your own health and for maintaining community</a>. If you are living on-campus, please follow all of SLU's policies for social distancing and <a href = "https://slu.policystat.com/policy/token_access/2e1e7d4c-49c9-42ba-8055-ca833711bea4/" target = "_blank">mask wearing</a>. These are critical for our collective safety. If you are off campus this semester, please follow them anyway! 
 
 Again, my biggest priority this semester is your health and well-being. Please reach out if you want to talk about strategies for managing our "new normal," if you find yourself struggling, or just need someone to vent to. Alternatively, you can reach out to either the <a href = "https://www.slu.edu/life-at-slu/university-counseling/index.php" target = "_blank">University Counseling Center</a> at 314-977-TALK or <a href = "https://www.slu.edu/life-at-slu/campus-ministry/index.php" target = "_blank">Campus Ministry</a> at 314-977-2425 or <campusministry@slu.edu>.
 
@@ -25,9 +23,11 @@ While we are starting the semester with all of you in St. Louis, and I am certai
 
 Given that these are not abstract concerns, everything laid out here represents a best case scenario for the semester. We may find ourselves needing to change some course policies, reading and assignment schedules, and even teaching modalities based on the challenges we are confronted with this semester. I ask for your patience and your flexibility if and when we do need to make these changes. For my part, I will do my best to stay in touch with you and communicate clearly how these changes will impact our course. 
 
-One way that I am proactively preparing for disruptions is to add two **"flex days"** to the syllabus. I do not have any content planned for **October 26** or **November 23**. If there is a widespread disruption, such as the need for many of you to move off campus, I will use these flex days as a buffer so that we can adjust our course schedule without changing the basic structure of the course. If we are approaching these dates without having had to use them, these will become days off from this course.
+One way that I am proactively preparing for disruptions is to add two **"flex days"** to the syllabus. I do not have any content planned for **March 9th** and **May 9th**. If there is a widespread disruption, such as the need for many of you to move off campus, I will use these flex days as a buffer so that we can adjust our course schedule without changing the basic structure of the course. If we approach each day and it appears that we will not need to use it, that course meeting will be cancelled.
 
-**You should therefore treat all of the course dates as provisional.** This is my plan as of August 20, and I may modify it further as we progress through the the semester. If I become sick or a member of my family becomes ill, modifications will likely be required. If another faculty member has to take over teaching my class, there may be changes to course content, teaching modality, and assignments. I will do my best to keep everyone updated in a timely fashion. Please check your email and Canvas regularly. I appreciate everyone’s willingness to roll with the many punches we are all facing right now. Remember, we are in this together. 
+Another way that I am proactively preparing for disruptions is to have meeting recordings from prior semesters available. In the event that I cannot teach due to illness, I may share recordings from prior semesters in-place of having in-person meetings.
+
+**You should therefore treat all of the course dates and content as provisional.** This is my plan as of January 12th, and I may modify it further as we progress through the the semester. If I become sick or a member of my family becomes ill, modifications will likely be required. If another faculty member has to take over teaching my class, there may be changes to course content, teaching modality, and assignments. I will do my best to keep everyone updated in a timely fashion. Please check your email and Canvas regularly. I appreciate everyone’s willingness to roll with the many punches we are all facing right now. Remember, we are in this together. 
 
 ### Face Masks
 Throughout the COVID-19 pandemic, key safeguards like face masks have allowed SLU to safely maintain in-person learning. If public health conditions and local, state, and federal restrictions demand it, the University may require that all members of our campus community wear face masks indoors. 
@@ -47,7 +47,7 @@ Throughout the COVID-19 pandemic, key safeguards like face masks have allowed SL
 **When a University-wide face mask requirement is in effect,** students and instructors may choose to wear a face mask or not, as they prefer for their own individual comfort level.
 
 ```{block, type = "rmdwarning"}
-We do not know when the City of St. Louis will roll back their mask mandate, or what SLU will do after that in terms of mask policies. Even if the mask mandate on-campus is rescinded, I will continue to mask in class because I have an unvaccinated child at home. If the mask mandate does get rescinded, I'd ask for your cooperation and continued masking during class to help keep my daughter healthy!
+We do not know when the City of St. Louis will roll back their mask mandate, or what SLU will do after that in terms of mask policies. Even if the mask mandate on-campus is rescinded, I will continue to mask in class to keep my family healthy. If the mask mandate does get rescinded, I'll ask for your cooperation and continued masking during class!
 ```
 
 #### ADA Accomodations for Face Mask Requirements
@@ -79,7 +79,6 @@ If we have to meet via Zoom, there will be several additional policies to note:
   2. Do not share Zoom details, including login information, links, and passwords, with anyone outside of this course.
   3. Using your camera is *strongly encouraged* during group discussions, but is not otherwise required.
   4. Please keep your microphone muted unless you are actively speaking. 
-  5. Class recordings will be made via Zoom and/or Panopto, and will be posted to Canvas. Recordings should not be shared outside of class. They will capture whatever is happening on my screen, which may include sharing your name and whatever is actively shown via your webcam. *If this presents a privacy concern for you, please let me know as soon as possible.*
 
 The <a href ="https://slu-soc1120.github.io/docs/start_zoom/" target = "_blank">Course Docs</a> contain some additional tips for using Zoom. Please review them closely.
 
@@ -102,22 +101,28 @@ These web forms are **time stamped**, so if you sign the form 3 minutes after th
 If you do not own a smartphone, please let me know as soon as possible. You should note that attendance check-ins are covered by the course's Academic Honesty policy. Sharing the check-in form with another student or signing in on their behalf are both violations of this policy.
 
 ```{block, type = "rmdwarning"}
-If we have to switch to having class remotely, the QR code will be available on-screen. This means that you need to arrive to class at least a minute or two before we begin. If you arrive after the QR code has been taken down, I'll put it up again at the end of the "front matter" and "back matter" sections of the lecture slides. Attendance submissions must be received by the end of the class period.
+If we have to switch to having class remotely, the QR code will be available on-screen. This means that you need to arrive to class at least a minute or two before we begin. If you arrive after the QR code has been taken down, I'll put it up again at the end of the "front matter" and "back matter" sections of the course meeting slides. Attendance submissions must be received by the end of the class period.
 ```
 
 ### Missed Classes
 My priority with attendance is to identify students who may be struggling or in need of additional support. However, because attending class is crucial, I do factor attendance into your overall participation grade. In order to give you some flexibility, I do not apply any penalties to your first two unexcused absences. Any unexcused absences beyond those two will result in no credit (for an absences). Regular late arrivals may result in partial credit being earned for that day's participation grade.
 
-Specific elements of the course, such as participation in group discussions during lectures as well as the QHQ discussions, will also be factored into your participation grade. If there is a need for you to miss a significant portion of your coursework, such as because of an illness, please reach out to me and we will make a plan for alternative ways to make-up these activities based on the circumstances.
+Specific elements of the course, such as participation in group discussions during course meetings as well as the *Mama Might Be Better Off Dead* discussions, will also be factored into your participation grade. If there is a need for you to miss a significant portion of your coursework, such as because of an illness, please reach out to me and we will make a plan for alternative ways to make-up these activities based on the circumstances.
 
-It is your responsibility to make-up missed classes, including viewing the lecture recording and, if needed, obtaining notes from a classmate All lecture slides will be posted on Canvas before class begins along with relevant notes for that lecture. Please note that lectures and discussions cannot be recorded by any means (e.g. audio or video recordings, or photographs) without my permission.
+It is your responsibility to make-up missed classes, including viewing the course meeting recording and, if needed, obtaining notes from a classmate. All course meeting slides will be posted on Canvas before class begins along with relevant notes for that course meeting. Please note that course meetings and discussions cannot be recorded by any means (e.g. audio or video recordings, or photographs) without my permission.
+
+To help students who miss class, I will make recordings of our meetings (or the recording from a prior semester) available on a case-by-case basis. Class recordings will be made via Zoom and/or Panopto, and will be shared with students who cannot attend class. Recordings should not be shared with anyone inside or outside our course. 
+
+```{block, type = "rmdwarning"}
+Meeting recordings will capture whatever is happening on my screen, which may include sharing your name and whatever is actively shown via your webcam. *If this presents a privacy concern for you, please let me know as soon as possible.*
+```
 
 ## Communication
 
 The best ways to get in touch with me are email, texting, or calling:
 
   * Email - <chris.prener@slu.edu>
-  * Text or call - 314-884-0386
+  * Text or call - 314-884-0386 (Google Voice)
 
 Email is my preferred method of communication. I dedicate time to email responses each workday, meaning that my response time is typically within 24 hours during the workweek. If you have not received a response from me after 48 hours (or by end of business on Monday if you emailed me over the weekend), please feel free to follow-up with me. 
 
@@ -131,7 +136,7 @@ Please also ensure that all concerns or questions about your standing in the cou
 
 During class periods, students are asked to refrain from using electronic devices (including cell phones) for activities not directly related to the course. For this class, I expect students to limit their use of electronic devices to accessing Zoom, course readings, notes, and other course materials.
 
-There is evidence that using electronic devices during lectures results in decreased retention of course content ([Hembrooke and Gay 2003](https://link.springer.com/article/10.1007/BF02940852)) and lower overall course performance ([Fried 2008](https://www.sciencedirect.com/science/article/pii/S0360131506001436)). Students who are not using a laptop but are in direct view of another student’s laptop also have decreased performance in courses ([Sana et al. 2013](https://www.sciencedirect.com/science/article/pii/S0360131512002254)). Conversely, students who take notes the “old fashioned way” have better performance on tests compared to students who take notes on laptops ([Mueller and Oppenheimer 2014](http://journals.sagepub.com/doi/abs/10.1177/0956797614524581)).
+There is evidence that using electronic devices during course meetings results in decreased retention of course content ([Hembrooke and Gay 2003](https://link.springer.com/article/10.1007/BF02940852)) and lower overall course performance ([Fried 2008](https://www.sciencedirect.com/science/article/pii/S0360131506001436)). Students who are not using a laptop but are in direct view of another student’s laptop also have decreased performance in courses ([Sana et al. 2013](https://www.sciencedirect.com/science/article/pii/S0360131512002254)). Conversely, students who take notes the “old fashioned way” have better performance on tests compared to students who take notes on laptops ([Mueller and Oppenheimer 2014](http://journals.sagepub.com/doi/abs/10.1177/0956797614524581)).
 
 I therefore ask students to be conscious of how they are using their devices, the ways such use impacts their own learning, and the effect that it may have on others around them. I reserve the right to alter this policy if electronic device use becomes problematic during the semester.
 

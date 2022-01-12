@@ -6,32 +6,24 @@
 
 The following is a high-level schedule that details the general topic covered by each module. Modules are collections of two or more lectures and class discussions under the broad headings provided below.
 
-\begin{table}
 
-\caption{(\#tab:unnamed-chunk-2)SOC 1120 Course Overview}
-\centering
-\begin{tabular}[t]{llll}
-\toprule
-Part & Module & Planned Start Date & Title\\
-\midrule
-**1** &  &  & **Thinking Like Sociologists**\\
-1 & 1 & Thursday, August 26 & Engaging the Social World\\
-1 & 2 & Thursday, September 9 & Structuring the Social World\\
-**2** &  &  & **The Building Blocks of Society**\\
-2 & 3 & Tuesday, September 28 & Culture\\
-\addlinespace
-2 & 4 & Tuesday, October 5 & Socioeconomic Status\\
-2 & 5 & Tuesday, October 19 & Gender and Sexuality\\
-**3** &  &  & **The Broken Heart of America**\\
-3 & 6 & Tuesday, November 2 & Race and Racism\\
-3 & 7 & Tuesday, November 16 & Intersectionality\\
-\addlinespace
-3 & 8 & Tuesday, November 30 & Urban Sociology\\
-**4** &  &  & **Course Conclusion**\\
-4 & 9 & Tuesday, December 7 & Course Conclusion\\
-\bottomrule
-\end{tabular}
-\end{table}
+Table: (\#tab:unnamed-chunk-2)SOC 1120 Course Overview
+
+|Part  |Module |Planned Start Date    |Title                              |
+|:-----|:------|:---------------------|:----------------------------------|
+|**1** |       |                      |**Thinking Like Sociologists**     |
+|1     |1      |Wednesday, January 19 |Engaging the Social World          |
+|1     |2      |Wednesday, February 2 |Structuring the Social World       |
+|**2** |       |                      |**The Building Blocks of Society** |
+|2     |3      |Monday, February 21   |Culture                            |
+|2     |4      |Monday, February 28   |Socioeconomic Status               |
+|2     |5      |Wednesday, March 23   |Gender and Sexuality               |
+|**3** |       |                      |**The Broken Heart of America**    |
+|3     |6      |Wednesday, March 30   |Race and Racism                    |
+|3     |7      |Wednesday, April 13   |Intersectionality                  |
+|3     |8      |Monday, April 25      |Urban Sociology                    |
+|**4** |       |                      |**Course Conclusion**              |
+|4     |9      |Monday, May 2         |Course Conclusion                  |
 
 ### Scheduling Notes
 

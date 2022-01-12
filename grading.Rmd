@@ -46,19 +46,19 @@ As a reminder, all due dates are provisional due to the uncertainty around COVID
 ### Attendance and Participation
 
 ```{block, type = "rmdtip"}
-Attendance and participation are worth 95 points, or **16.1%** of your final grade
+Attendance and participation are worth 100 points, or approximately **17%** of your final grade
 ```
 
 As discussed above, both attendance and participation are important aspects of this class. The class participation grade will be based on (a) attendance, (b) level of engagement during class (including being present for and participating in course discussions), and (c) class "entry" and "exit tickets."
 
 Each of these elements is assigned a point value and assessed using a scale that awards full, partial, or no credit (see [Grading](grading.html)). Not attending class or completing an "entry" or "exit" ticket will result in no credit being earned for that element on a given day. Disengagement during class may result in partial or no credit being earned. Late arrivals will result in only partial credit earned for that element on a given day.
 
-Your participation grade will be split, with 20 points for Part 1, 30 points each for Parts 2 and 3, and 15 points for Part 4. Since the number of points awarded for participation are variable, the total number of points earned for each half will be **weighted** so that it is converted to a final score that matches the points available for that part of the course. I provide the final number of points earned for each part of the course. If you would like a more detailed breakdown of your participation grade and/or attendance record, please reach out and I will happily provide one.
+Your participation grade will be split, with 20 points for Part 1 and 40 points each for Parts 2 and 3. Since the number of points awarded for participation are variable, the total number of points earned for each half will be **weighted** so that it is converted to a final score that matches the points available for that part of the course. I provide the final number of points earned for each part of the course. If you would like a more detailed breakdown of your participation grade and/or attendance record, please reach out and I will happily provide one.
 
 ### Theory Isn't Dead Posts
 
 ```{block, type = "rmdtip"}
-Theory posts are worth 40 points, or **6.8%** of your final grade
+Theory posts are worth 40 points, or approximately **7%** of your final grade
 ```
 
 Over the course of the semester, there will be four short exercises that ask you to tie social theory, social science research, and current events together. For each of these assignments, I will post a news article. Based on your read of the article, you should pick one of the social theories we have discussed in class or in readings, briefly describe why you selected that theory (in 2-3 sentences), and then craft a theoretically motivated research question and hypothesis (a sentence each). Finally, you will briefly describe how you would propose to study this hypothesis (in 2-3 sentences). Your assignments will be posted to Canvas before 5pm on the due date.
@@ -73,7 +73,7 @@ Due dates for the Theory Post are as follows:
 ### Sociological Experiences
 
 ```{block, type = "rmdtip"}
-Theory reflections are worth 80 points, or **13.6%** of your final grade
+Theory reflections are worth 80 points, or approximately **13%** of your final grade
 ```
 
 Over the course of the semester, there will be four short exercises that ask you to link data to your own personal experiences. Data for these exercises will be drawn primarily from <a href = "http://ezp.slu.edu/login?url=http://www.socialexplorer.com/ezproxy" target = "_blank">Social Explorer</a>, a tool that makes it easy to find demographic data about various places in the United States. These reflections should be approximately 1-2 paragraphs in length.
@@ -90,7 +90,7 @@ Due dates for the Sociological Experiences are as follows:
 ### *Mama* Papers
 
 ```{block, type = "rmdtip"}
-QHQ Papers are worth 150 points, or **25.4%** of your final grade
+QHQ Papers are worth 150 points, or approximately **25%** of your final grade
 ```
 
 Each student will write a reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric will be available on Canvas. Papers must be completed and submitted by the beginning of class on the date due. Each paper is worth 50 points.
@@ -104,7 +104,7 @@ Due dates for the QHQs are as follows:
 ### Quizzes
 
 ```{block, type = "rmdtip"}
-Quizzes are worth 150 points, or **25.4%** of your final grade
+Quizzes are worth 150 points, or approximately **25%** of your final grade
 ```
 
 Three non-cumulative multiple choice quizzes will be given throughout the semester. Each quiz will cover the breadth of the material in the course, including readings, lectures, and videos. Each quiz will consist of 30 multiple choice questions and will be worth 50 points. They will be administered via Canvas. Quizzes must be taken between 7am CST and 10pm CST on the quiz date. They can be started at any point within that range, but once you begin the quiz, you will have only 45 minutes to complete it. Since they occur remotely, quizzes are open book and note.
@@ -119,7 +119,7 @@ Quiz dates are as follows:
 ### Final Project
 
 ```{block, type = "rmdtip"}
-The Final Project is worth 75 points, or **12.7%** of your final grade
+The Final Project is worth 75 points, or approximately **13%** of your final grade
 ```
 
 This project involves the creation of a single page handout that illustrates the origins of a health disparity present in American society. On the handout, you should provide some background information, data about the disparity, and connect the disparity to fundamental cause theory and/or the social determinants of health perspective. You have creative license to design the handout as you see fit, and should feel free to add graphs, maps, or photographs that help you illustrate the issues you are describing. The second page of the handout should contain a list of works cited. More details and a rubric will be provided on Canvas. The final project will be due by **`r schedule_assign_tbl$label[14]`**.
@@ -156,12 +156,12 @@ I use a point system for calculating grades. The following table gives the weigh
 
 ```{r, echo=FALSE}
 points <- data.frame(
-  Assignment = c("Participation", "", "", "", "Theory Isn't Dead", "Sociological Experiences", "QHQs", "Quizzes", "Final Project"),
-  Period = c("Part 1", "Part 2", "Part 3", "Part 4", "", "", "", "", ""),
-  Points = c("20 pts", "30 pts", "30 pts", "15 pts", "20 pts", "20 pts", "75 pts", "50 pts", "75 pts"),
-  Quantity = c("x1", "x1", "x1", "x1", "x2", "x4", "x2", "x3", "x1"),
-  Total = c("20 pts", "30 pts", "30 pts", "15 pts", "40 pts", "80 pts", "150 pts", "150 pts", "75 pts"),
-  Percent = c("16.1%", "", "", "", "6.8%", "13.6%", "25.4%", "25.4%", "12.7%"),
+  Assignment = c("Participation", "", "", "Theory Isn't Dead", "Sociological Experiences", "QHQs", "Quizzes", "Final Project"),
+  Period = c("Part 1", "Part 2", "Part 3", "", "", "", "", ""),
+  Points = c("20 pts", "30 pts", "30 pts", "20 pts", "20 pts", "75 pts", "50 pts", "75 pts"),
+  Quantity = c("x1", "x1", "x1", "x2", "x4", "x2", "x3", "x1"),
+  Total = c("20 pts", "40 pts", "40 pts", "40 pts", "80 pts", "150 pts", "150 pts", "75 pts"),
+  Percent = c("17%", "", "", "7%", "13%", "25%", "25%", "13%"),
   stringsAsFactors = FALSE
 )
 
@@ -210,5 +210,5 @@ knitr::kable(
 Updates to grades will be provided at midterms, and you can follow your progress via the `My Grades` area on Canvas. I round-up final grades that are within a half percentage point of the next highest letter grade. Requests for final grade changes outside of this range will not be honored.
 
 ```{block, type = "rmdwarning"}
-No chances will be given for revisions of poor grades. Incomplete grades will be given upon request only if you have a "C" average and have completed at least two-thirds of the possible points (412 points). You should note that incomplete grades must be rectified by the specified deadline or they convert to an "F". This policy reflects the [University's policy on incomplete coursework](https://catalog.slu.edu/academic-policies/academic-policies-procedures/incomplete-course/).
+No chances will be given for revisions of poor grades. Incomplete grades will be given upon request only if you have a "C" average and have completed at least two-thirds of the possible points (392 points). You should note that incomplete grades must be rectified by the specified deadline or they convert to an "F". This policy reflects the [University's policy on incomplete coursework](https://catalog.slu.edu/academic-policies/academic-policies-procedures/incomplete-course/).
 ```

@@ -1,7 +1,7 @@
 --- 
-title: "SOC 1120-05 and H05: Introduction to Sociology - Diversity & Health"
+title: "SOC 1120-02 and H02: Introduction to Sociology - Diversity & Health"
 author: "Christopher Prener, Ph.D."
-date: "2021-08-24"
+date: "2022-01-12"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -15,13 +15,9 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 ### Course Meetings {-}
 
-*When:* Tuesday and Thursday, 11:00am CST to 12:15pm CST
+*When:* Monday and Wednesday, 2:10pm CST to 3:25pm CST
 
-*Where:* Morrissey Hall 0200
-
-### Course Website {-}
-
-<https://slu-soc1120.github.io>
+*Where:* Morrissey Hall 0600
 
 ### Course Materials {-}
 
@@ -29,14 +25,13 @@ description: "This is the syllabus and reading list for Chris's section of SOC 1
 
 ### Chris’s Information {-}
 
-\begin{rmdwarning}
-Please note that while I am teaching face to face this semester, all
-other interactions for this course will take place virtually.
-\end{rmdwarning}
+<div class="rmdwarning">
+<p>Please note that while I am teaching face to face this semester, all other interactions for this course will take place virtually.</p>
+</div>
 
 **Email:** <chris.prener@slu.edu>
 
-**Text or Call:** 314-884-0386
+**Text or Call:** 314-884-0386 (Google Voice)
 
 **Office Hours, Appointment Only:** Wednesdays, 9:00 AM CST to 10:30 AM CST; <a href = "https://calendly.com/chris-prener" target = "_blank">sign-up via Calendly</a> to receive personalized calendar and Zoom invitations (SLU log-in required)
 
@@ -45,11 +40,10 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 
 ## Change Log {-}
 
-* August 20, 2021 - Add schedule for Fall 2021
-* August 24, 2021 - Update communication information
+* January 12, 2022 - Add schedule for Spring 2022
 
 ## License {-}
-Copyright © 2016-2021 [Christopher G. Prener](https://chris-prener.github.io)
+Copyright © 2016-2022 [Christopher G. Prener](https://chris-prener.github.io)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
