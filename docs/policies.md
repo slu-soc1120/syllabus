@@ -23,7 +23,7 @@ While we are starting the semester with all of you in St. Louis, and I am certai
 
 Given that these are not abstract concerns, everything laid out here represents a best case scenario for the semester. We may find ourselves needing to change some course policies, reading and assignment schedules, and even teaching modalities based on the challenges we are confronted with this semester. I ask for your patience and your flexibility if and when we do need to make these changes. For my part, I will do my best to stay in touch with you and communicate clearly how these changes will impact our course. 
 
-One way that I am proactively preparing for disruptions is to add two **"flex days"** to the syllabus. I do not have any content planned for **March 9th** and **May 9th**. If there is a widespread disruption, such as the need for many of you to move off campus, I will use these flex days as a buffer so that we can adjust our course schedule without changing the basic structure of the course. If we approach each day and it appears that we will not need to use it, that course meeting will be cancelled.
+One way that I am proactively preparing for disruptions is to add two **"flex days"** to the syllabus. I do not have any content planned for **March 9th** and **May 9th**. If there is a widespread disruption, such as the need for many of you to move off campus, I will use these flex days as a buffer so that we can adjust our course schedule without changing the basic structure of the course. If we approach each day and it appears that we will not need to use it, I will announce alternate plans for the meeting.
 
 Another way that I am proactively preparing for disruptions is to have meeting recordings from prior semesters available. In the event that I cannot teach due to illness, I may share recordings from prior semesters in-place of having in-person meetings.
 
@@ -46,9 +46,13 @@ Throughout the COVID-19 pandemic, key safeguards like face masks have allowed SL
 
 **When a University-wide face mask requirement is in effect,** students and instructors may choose to wear a face mask or not, as they prefer for their own individual comfort level.
 
-<div class="rmdwarning">
-<p>We do not know when the City of St. Louis will roll back their mask mandate, or what SLU will do after that in terms of mask policies. Even if the mask mandate on-campus is rescinded, I will continue to mask in class to keep my family healthy. If the mask mandate does get rescinded, I’ll ask for your cooperation and continued masking during class!</p>
-</div>
+\begin{rmdwarning}
+We do not know when the City of St.~Louis will roll back their mask
+mandate, or what SLU will do after that in terms of mask policies. Even
+if the mask mandate on-campus is rescinded, I will continue to mask in
+class to keep my family healthy. If the mask mandate does get rescinded,
+I'll ask for your cooperation and continued masking during class!
+\end{rmdwarning}
 
 #### ADA Accomodations for Face Mask Requirements
 Saint Louis University is committed to maintaining an inclusive and accessible environment. Individuals who are unable to wear a face mask due to medical reasons should contact the Office of Disability Services (students) or Human Resources (instructors) to initiate the accommodation process identified in the University’s [ADA Policy](https://www.slu.edu/human-resources/pdfs/policies/americans-disabilities-act-policy.pdf). Inquiries or concerns may also be directed to the [Office of Institutional Equity and Diversity](https://www.slu.edu/general-counsel/institutional-equity-diversity/index.php). Notification to instructors of SLU-approved ADA accommodations should be made in writing prior to the first class session in any term (or as soon thereafter as possible).
@@ -67,9 +71,10 @@ In order to facilitate contact tracing, the University is requiring that we reco
 
 ### Zoom Policies
 
-<div class="rmdwarning">
-<p>This section of the syllabus will only apply if we switch to having class remotely.</p>
-</div>
+\begin{rmdwarning}
+This section of the syllabus will only apply if we switch to having
+class remotely.
+\end{rmdwarning}
 
 If we have to meet via Zoom, there will be several additional policies to note:
 
@@ -100,9 +105,14 @@ These web forms are **time stamped**, so if you sign the form 3 minutes after th
 
 If you do not own a smartphone, please let me know as soon as possible. You should note that attendance check-ins are covered by the course's Academic Honesty policy. Sharing the check-in form with another student or signing in on their behalf are both violations of this policy.
 
-<div class="rmdwarning">
-<p>If we have to switch to having class remotely, the QR code will be available on-screen. This means that you need to arrive to class at least a minute or two before we begin. If you arrive after the QR code has been taken down, I’ll put it up again at the end of the “front matter” and “back matter” sections of the course meeting slides. Attendance submissions must be received by the end of the class period.</p>
-</div>
+\begin{rmdwarning}
+If we have to switch to having class remotely, the QR code will be
+available on-screen. This means that you need to arrive to class at
+least a minute or two before we begin. If you arrive after the QR code
+has been taken down, I'll put it up again at the end of the ``front
+matter'' and ``back matter'' sections of the course meeting slides.
+Attendance submissions must be received by the end of the class period.
+\end{rmdwarning}
 
 ### Missed Classes
 My priority with attendance is to identify students who may be struggling or in need of additional support. However, because attending class is crucial, I do factor attendance into your overall participation grade. In order to give you some flexibility, I do not apply any penalties to your first two unexcused absences. Any unexcused absences beyond those two will result in no credit (for an absences). Regular late arrivals may result in partial credit being earned for that day's participation grade.
@@ -113,9 +123,12 @@ It is your responsibility to make-up missed classes, including viewing the cours
 
 To help students who miss class, I will make recordings of our meetings (or the recording from a prior semester) available on a case-by-case basis. Class recordings will be made via Zoom and/or Panopto, and will be shared with students who cannot attend class. Recordings should not be shared with anyone inside or outside our course. 
 
-<div class="rmdwarning">
-<p>Meeting recordings will capture whatever is happening on my screen, which may include sharing your name and whatever is actively shown via your webcam. <em>If this presents a privacy concern for you, please let me know as soon as possible.</em></p>
-</div>
+\begin{rmdwarning}
+Meeting recordings will capture whatever is happening on my screen,
+which may include sharing your name and whatever is actively shown via
+your webcam. \emph{If this presents a privacy concern for you, please
+let me know as soon as possible.}
+\end{rmdwarning}
 
 ## Communication
 

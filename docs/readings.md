@@ -22,7 +22,7 @@ Select a module from the menu to see details about topics, readings, and assignm
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 1 - A Sociology Experiment," pp. 9-24 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
-    * Complete the Student Information Sheet (via <a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
+    * Complete the Student Information Sheet (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     
 ---
 
@@ -32,7 +32,7 @@ Select a module from the menu to see details about topics, readings, and assignm
     * Read *A Sociology Experiment*, "Chapter 15 - Health and Illness," pp. 1-10 and pp. 23-35 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
     * Read Phelan et al. (2010)
       * Phelan, Jo C., Bruce Link, and Parisa Tehranifar. 2010. "Social Conditions as Fundamental Causes of Health Inequalities: Theory, Evidence, and Policy Implications." *Journal of Health and Social Behavior* 51(S):S28-S40. (<a href="http://ezp.slu.edu/login?url=http://www.jstor.org/stable/20798314" target="_blank">Link</a>)
-    * Watch *Unnatural Causes*, Part 1 - "In Sickness and in Wealth" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
+    * Watch *Unnatural Causes*, Part 1 - "In Sickness and in Wealth" (<a href="https://slu.kanopy.com/video/sickness-and-wealth" target="_blank">Kanopy</a>) and complete the accompanying entry ticket (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
 
 ---
 
@@ -76,7 +76,8 @@ Select a module from the menu to see details about topics, readings, and assignm
 ### Meeting 2-4 - Monday, February 14 - The Institution of Medicine {-}
 
   * **Before Class:**
-    * TBD
+    * Read Wright and Perry (2010)
+      * Wright, Eric and Brea Perry. 2010. "Medical Sociology and Health Services Research: Past Accomplishments and Future Policy Challenges." *Journal of Health and Social Behavior* 51(S):S107-S119. (<a href="https://doi-org.ezp.slu.edu/10.1177/0022146510383504" target="_blank">Link</a>)
   
 ---
 
@@ -87,7 +88,7 @@ Select a module from the menu to see details about topics, readings, and assignm
     * Read Conrad and Barker (2010)
       * Conrad, Peter and Kristin K. Barker. 2010. "The Social Construction of Illness: Key Insights and Policy Implications." *Journal of Health and Social Behavior* 51(S):S67-S79. (<a href="http://ezp.slu.edu/login?url=https://www.jstor.org/stable/20798317" target="_blank">Link</a>)
   * **After Class:**
-    * Study for Quiz 1 on Saturday, February 19 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
+    * Study for Quiz 1 on Friday, February 18 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     
   
 \newpage
@@ -106,7 +107,7 @@ Select a module from the menu to see details about topics, readings, and assignm
     * Read Acevedo-Garcia and Bates (2008)
       * Acevedo-Garcia, Dolores and Lisa M. Bates. 2008. "Latino Health Paradoxes: Empirical Evidence, Explanations, Future Research, and Implications." Pp. 101-113 in *Latinas/os in the United States: Changing the Face of América*, edited by H. Rodríguez, R. Sáenz, and C. Menjívar. New York: Springer. (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
   * **After Class:**
-    * Watch *Unnatural Causes*, Part 3 - "Becoming Americans" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
+    * Watch *Unnatural Causes*, Part 3 - "Becoming American" (<a href="https://slu.kanopy.com/video/becoming-american" target="_blank">Kanopy</a>) and complete the accompanying entry ticket (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     * Complete Theory Isn't Dead 2 for Monday, February 28 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
 
 \newpage
@@ -132,9 +133,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
   * **Before Class:**
     * Read Dow and Rehkopf (2010)
-      * Dow, William H. and David H. Rehkopf. 2010. "Socioeconomic gradients in health in international and historical context." *Annals of the New York Academy of Sciences* 1186:24-36. (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edselc&AN=edselc.2-52.0-77249121135&site=eds-live" target="_blank">Pius Library</a>)
+      * Dow, William H. and David H. Rehkopf. 2010. "Socioeconomic gradients in health in international and historical context." *Annals of the New York Academy of Sciences* 1186:24-36. (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edselc&AN=edselc.2-52.0-77249121135&site=eds-live" target="_blank">Link</a>)
   * **After Class:**
-    * Watch *Unnatural Causes*, Part 7 - "Not Just a Paycheck" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
+    * Watch *Unnatural Causes*, Part 7 - "Not Just a Paycheck" (<a href="https://slu.kanopy.com/video/not-just-paycheck" target="_blank">Kanopy</a>) and complete the accompanying exit ticket (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     * Make sure you are wrapping up *Mama* Paper 1 for Monday, March 21 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
   
 ---
@@ -179,7 +180,10 @@ Select a module from the menu to see details about topics, readings, and assignm
 ### Meeting 6-2 -Monday, April 4 - Race and Racism 2 {-}
 
   * **Before Class:**
-    * *no assignments*
+    * Read selections from *Segregation in St. Louis: Dismantling the Divide* (<a href="https://wustl.app.box.com/s/y1n98bgzm6wulv3xg56krvg5r5axhhva" target="_blank">Link</a>)
+      * Chapter 1 - "Segregation at the center", pp. 4-13
+      * Chapter 2 - "St. Louis: A city of promise, a history of segregation", pp. 14-25
+      * Chapter 5 - "Segregation in St. Louis today", pp. 64-85
 
 ---
 
@@ -202,7 +206,7 @@ Select a module from the menu to see details about topics, readings, and assignm
     * Read Williams and Sternthal (2010)
       * Williams, David R. and Michelle Sternthal. 2010. "Understanding Racial-ethnic Disparities in Health : Sociological Contributions." *Journal of Health and Social Behavior* 51(S):S15-S27. (<a href="http://ezp.slu.edu/login?url=https://journals.sagepub.com/doi/abs/10.1177/0022146510383838" target="_blank">Link</a>)
   * **After Class:**
-    * Watch *Unnatural Causes*, Part 4 - "Bad Sugar" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
+    * Watch *Unnatural Causes*, Part 4 - "Bad Sugar" (<a href="https://slu.kanopy.com/video/bad-sugar" target="_blank">Kanopy</a>) and complete the accompanying exit ticket (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     * Make sure you are wrapping up *Mama* Paper 2 for Wednesday, April 13 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
 
 \newpage
@@ -224,7 +228,7 @@ Select a module from the menu to see details about topics, readings, and assignm
     * Read David and Collins (1997)
       * David, Richard J. and James W. Collins, Jr. 1997. "Differing Birth Weight among Infants of U.S.-Born Blacks, African-Born Blacks, and U.S.-Born Whites." *The New England Journal of Medicine* 337:1209-1214. (<a href="https://www.nejm.org/doi/full/10.1056/NEJM199710233371706" target="_blank">Link</a>)
   * **After Class:**
-    * Watch *Unnatural Causes*, Part 2 - "When the Bough Breaks" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
+    * Watch *Unnatural Causes*, Part 2 - "When the Bough Breaks" (<a href="https://slu.kanopy.com/video/when-bough-breaks-0" target="_blank">Kanopy</a>) and complete the accompanying exit ticket (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
 
 \newpage
 ## Module 8 - Urban Sociology
@@ -233,10 +237,8 @@ Select a module from the menu to see details about topics, readings, and assignm
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 12 - Urban Sociology" (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
-    * Read selections from *Segregation in St. Louis: Dismantling the Divide* (<a href="https://wustl.app.box.com/s/y1n98bgzm6wulv3xg56krvg5r5axhhva" target="_blank">Link</a>)
-      * Chapter 1 - "Segregation at the center", pp. 4-13
-      * Chapter 2 - "St. Louis: A city of promise, a history of segregation", pp. 14-25
-      * Chapter 5 - "Segregation in St. Louis today", pp. 64-85
+    * Read Prener (2020)
+      * Prener, Christopher. 2020. "Finding the city in sociology: Broadening and deepening the geographic scope of the urban and inequality literatures." *Sociology Compass* 14(2):e12756. (<a href="http://ezp.slu.edu/login?url=https://onlinelibrary.wiley.com/doi/full/10.1111/soc4.12756" target="_blank">Link</a>)
   * **After Class:**
     * Complete Sociological Experience 4 for Wednesday, April 27 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     
@@ -250,7 +252,7 @@ Select a module from the menu to see details about topics, readings, and assignm
       * Chapter 3 - "Place matters: Neighborhood resources and health", pp. 26-33
       * Chapter 5 - "A health profile of African Americans in St. Louis", pp. 46-67
   * **After Class:**
-    * Watch *Unnatural Causes*, Part 5 - "Place Matters" (<a href="http://ezp.slu.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat00825a&AN=slu.b4325118&site=eds-live" target="_blank">Pius Library</a>)
+    * Watch *Unnatural Causes*, Part 5 - "Place Matters" (<a href="https://slu.kanopy.com/video/place-matters" target="_blank">Kanopy</a>) and complete the accompanying exit ticket (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     * Make sure you are wrapping up *Mama* Paper 3 for Monday, May 2 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
 
 \newpage

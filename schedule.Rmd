@@ -23,8 +23,8 @@ The following is a high-level schedule that details the general topic covered by
 
 ```{r, echo=FALSE}
 schedule <- dplyr::tibble(
-  Part = c("**1**", "1", "1", "**2**", "2", "2", "2", "**3**", "3", "3", "3", "**4**", "4"),
-  Module = c("", "1", "2", "", "3", "4", "5", "", "6", "7", "8", "", "9"),
+  Part = c("**1**", "1", "1", "**2**", "2", "2", "2", "**3**", "3", "3", "3", "3"),
+  Module = c("", "1", "2", "", "3", "4", "5", "", "6", "7", "8", "9"),
   `Planned Start Date` = c("", 
                            start_tbl$label[1], 
                            start_tbl$label[2],
@@ -36,7 +36,6 @@ schedule <- dplyr::tibble(
                            start_tbl$label[6],
                            start_tbl$label[7],
                            start_tbl$label[8],
-                           "",
                            start_tbl$label[9]),
   Title = c("**Thinking Like Sociologists**",
             "Engaging the Social World",
@@ -49,7 +48,6 @@ schedule <- dplyr::tibble(
             "Race and Racism",
             "Intersectionality",
             "Urban Sociology",
-            "**Course Conclusion**",
             "Course Conclusion")
 )
 
@@ -63,4 +61,4 @@ knitr::kable(
 
 The course schedule may change as it depends on the progress of the class and the [challenges we are confronted by this semester](covid-19.html). The web version of this document will be updated to reflect any alterations, but the `.pdf` version will remain unaltered.
 
-This semester, we will not have class on **October 28** and **November 25** because they fall on University breaks. Additionally, no class activities are scheduled for **October 26** or **November 23**. These are "flex days," which I have left without a scheduled plan to accommodate changes due to COVID-19. If we are approaching these dates without having had to use them, these will become days off from this course.
+This semester, we will not have class on **March 15th**, **March 17**, and **April 18th**  because they fall on University breaks. Additionally, no class activities are scheduled for **March 9th** or **May 9th**. These are "flex days," which I have left without a scheduled plan to accommodate changes due to COVID-19. If we are approaching these dates without having had to use them, these will become days off from this course.

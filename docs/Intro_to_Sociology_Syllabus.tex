@@ -6,8 +6,8 @@
 ]{book}
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{iftex}
-\ifPDFTeX
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -36,7 +36,7 @@
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-  pdftitle={SOC 1120-05 and H05: Introduction to Sociology - Diversity \& Health},
+  pdftitle={SOC 1120-02 and H02: Introduction to Sociology - Diversity \& Health},
   pdfauthor={Christopher Prener, Ph.D.},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
@@ -148,15 +148,15 @@
 \usepackage{fancyhdr}
 \renewcommand{\chaptername}{Section}
 \renewcommand\thesection{\Alph{section}}
-\ifLuaTeX
+\ifluatex
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
 
-\title{SOC 1120-05 and H05: Introduction to Sociology - Diversity \& Health}
+\title{SOC 1120-02 and H02: Introduction to Sociology - Diversity \& Health}
 \author{Christopher Prener, Ph.D.}
-\date{2021-08-24}
+\date{2022-01-13}
 
 \begin{document}
 \maketitle
@@ -165,7 +165,7 @@
 {\huge Preface and Warning} \\
 \end{center}
 \vspace{5mm}
-This is the hardcopy version of the \textbf{Fall 2021} syllabus.
+This is the hardcopy version of the \textbf{Spring 2022} syllabus.
 \vspace{5mm}
 \par \noindent This \texttt{.pdf} version of the course syllabus is automatically created as part of the document generation process. It is meant for students who wish to keep a hardcopy of the course policies and planned course schedule. \textbf{Since it is automatically created, it is not optimized for easy use} - readers may notice formatting inconsitencies and stray characters that are a result of the markdown to \LaTeX{} conversion process. The web version (located at \href{https://slu-soc1120.github/syllabus/}{https://slu-soc1120.github/syllabus/}) is meant to be the version of the syllabus used for everyday reference during the semester. As such, this \texttt{.pdf} version will not be updated as the semester progresses should any changes to the course schedule be necessary.
 
@@ -177,15 +177,9 @@ This is the hardcopy version of the \textbf{Fall 2021} syllabus.
 \subsection*{Course Meetings}\label{course-meetings}}
 \addcontentsline{toc}{subsection}{Course Meetings}
 
-\emph{When:} Tuesday and Thursday, 11:00am CST to 12:15pm CST
+\emph{When:} Monday and Wednesday, 2:10pm CST to 3:25pm CST
 
-\emph{Where:} Morrissey Hall 0200
-
-\hypertarget{course-website}{%
-\subsection*{Course Website}\label{course-website}}
-\addcontentsline{toc}{subsection}{Course Website}
-
-\url{https://slu-soc1120.github.io}
+\emph{Where:} Morrissey Hall 0600
 
 \hypertarget{course-materials}{%
 \subsection*{Course Materials}\label{course-materials}}
@@ -204,7 +198,7 @@ other interactions for this course will take place virtually.
 
 \textbf{Email:} \href{mailto:chris.prener@slu.edu}{\nolinkurl{chris.prener@slu.edu}}
 
-\textbf{Text or Call:} 314-884-0386
+\textbf{Text or Call:} 314-884-0386 (Google Voice)
 
 \textbf{Office Hours, Appointment Only:} Wednesdays, 9:00 AM CST to 10:30 AM CST; sign-up via Calendly to receive personalized calendar and Zoom invitations (SLU log-in required)
 
@@ -221,16 +215,16 @@ If you would like to keep a record of the syllabus, there is a \texttt{.pdf} dow
 \begin{itemize}
 \tightlist
 \item
-  August 20, 2021 - Add schedule for Fall 2021
+  January 12, 2022 - Add schedule for Spring 2022
 \item
-  August 24, 2021 - Update communication information
+  January 13, 2022 - Modify readings for selected days
 \end{itemize}
 
 \hypertarget{license}{%
 \section*{License}\label{license}}
 \addcontentsline{toc}{section}{License}
 
-Copyright © 2016-2021 \href{https://chris-prener.github.io}{Christopher G. Prener}
+Copyright © 2016-2022 \href{https://chris-prener.github.io}{Christopher G. Prener}
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
@@ -251,7 +245,7 @@ This course will survey the field of sociology, stressing important ideas, metho
 \hypertarget{two-courses-one-goal}{%
 \section{Two Courses, One Goal}\label{two-courses-one-goal}}
 
-Students will quickly notice that this course has two numbers. SOC 1120-05 is the ``regular'' course section, and SOC 1120-05H is the honors section. If you are a \href{https://www.slu.edu/honors/index.php}{University Honors} student, you may enroll in SOC 1120-05H if you wish to take this course for honors credit. Students in the honors section complete additional readings for three of the weeks, write several additional response papers, and give a presentation on a topic of their choice to the class. Additional details are include in the \href{/syllabus/honors-overview.html}{honors supplement at the end of this document}. Both courses have the same goal - to introduce students to the fundamentals of sociology through an emphasis on health and medicine.
+Students will quickly notice that this course has two numbers. SOC 1120-02 is the ``regular'' course section, and SOC 1120-H02 is the honors section. If you are a \href{https://www.slu.edu/honors/index.php}{University Honors} student, you may enroll in SOC 1120-H02 if you wish to take this course for honors credit. Students in the honors section complete additional readings for three of the weeks, write several additional response papers, and give a presentation on a topic of their choice to the class. Additional details are include in the \href{/syllabus/honors-overview.html}{honors supplement at the end of this document}. Both courses have the same goal - to introduce students to the fundamentals of sociology through an emphasis on health and medicine.
 
 \hypertarget{course-objectives}{%
 \section{Course Objectives}\label{course-objectives}}
@@ -271,8 +265,83 @@ By the \emph{end} of the semester, you should be able to:
   Integrate core sociological concepts into analyses of population health and health disparities using both fundamental cause theory and the social determinants of health perspective as well as other sociological concepts and data.
 \end{enumerate}
 
-\hypertarget{cultural-diversity-core-requirement}{%
-\section{Cultural Diversity Core Requirement}\label{cultural-diversity-core-requirement}}
+\hypertarget{core-requirements---new-core}{%
+\section{\texorpdfstring{Core Requirements - \emph{New Core}}{Core Requirements - New Core}}\label{core-requirements---new-core}}
+
+This course is part of the Saint Louis University Core, an integrated intellectual experience completed by all baccalaureate students, regardless of major, program, college, school or campus. The Core offers all SLU students the same unified approach to Jesuit education guided by SLU's institutional mission and identity and our nine undergraduate \href{https://www.slu.edu/provost/university-undergraduate-core/core-student-learning-outcomes.php}{Core Student Learning Outcomes} (SLOs).
+
+\hypertarget{identities-in-context}{%
+\subsection{Identities in Context}\label{identities-in-context}}
+
+\textbf{Identities in Context} is one of 19 Core Components. The University Core SLO(s) that this component is designed to intentionally advance are listed below.
+
+\hypertarget{university-core-student-learning-outcomes}{%
+\subsubsection{University Core Student Learning Outcomes}\label{university-core-student-learning-outcomes}}
+
+The Core SLO(s) that this component is intentionally designed to advance are:
+
+\begin{itemize}
+\tightlist
+\item
+  SLO 5: Analyze how diverse identities influence their lives and the lives of others
+\end{itemize}
+
+\hypertarget{component-level-student-learning-outcomes}{%
+\subsubsection{Component-level Student Learning Outcomes}\label{component-level-student-learning-outcomes}}
+
+Students who complete this course will be able to:
+
+\begin{itemize}
+\tightlist
+\item
+  Examine interdependent / interrelational qualities of identity categories such as nationality, ethnicity, religion, gender, race, class, ability, and sexual orientation
+\item
+  Analyze how interdependent / interrelational identities are constructed through and shaped by relations of power
+\item
+  Assess how other people's social identities and biases shape and are shaped by their interactions within a social context
+\item
+  Articulate how one's own notions of identity and otherness are contingent on the social contexts in which they develop and which they in turn shape
+\end{itemize}
+
+\hypertarget{ways-of-thinking-social-and-behavioral-sciences}{%
+\subsection{Ways of Thinking: Social and Behavioral Sciences}\label{ways-of-thinking-social-and-behavioral-sciences}}
+
+\textbf{Ways of Thinking: Social and Behavioral Sciences} is one of 19 Core Components. The University Core SLO(s) that this component is designed to intentionally advance are listed below.
+
+\hypertarget{university-core-student-learning-outcomes-1}{%
+\subsubsection{University Core Student Learning Outcomes}\label{university-core-student-learning-outcomes-1}}
+
+The Core SLO(s) that this component is intentionally designed to advance are:
+
+\begin{itemize}
+\tightlist
+\item
+  SLO 2: Integrate knowledge from multiple disciplines to address complex questions
+\item
+  SLO 3: Assess evidence and draw reasoned conclusions
+\end{itemize}
+
+\hypertarget{component-level-student-learning-outcomes-1}{%
+\subsubsection{Component-level Student Learning Outcomes}\label{component-level-student-learning-outcomes-1}}
+
+Students who complete this course will be able to:
+
+\begin{itemize}
+\tightlist
+\item
+  Understand a range of social or behavioral theories and principles
+\item
+  Use these theories and principles to acquire knowledge about individual, cultural, political, economic, or social events/processes
+\item
+  Describe competing paradigms of knowledge (from the dominant discipline or field)
+\item
+  Draw reasoned conclusions through the use of evidence and theories
+\item
+  Apply social and behavioral knowledge to better understand contemporary issues and challenges
+\end{itemize}
+
+\hypertarget{core-requirements---old-core}{%
+\section{\texorpdfstring{Core Requirements - \emph{Old Core}}{Core Requirements - Old Core}}\label{core-requirements---old-core}}
 
 This course fulfills the College of Arts and Sciences core requirement for Cultural Diversity in the United States. The Cultural Diversity in the United States requirement is designed to help students gain a better understanding of the cultural groups in the United States and their interactions. Students who complete a Cultural Diversity course in this category will gain a substantial subset of the following skills:
 
@@ -293,11 +362,7 @@ This course fulfills the College of Arts and Sciences core requirement for Cultu
 \hypertarget{canvas}{%
 \section{Canvas}\label{canvas}}
 
-\textbf{Canvas} is a learning management system similar to Google Classroom and Blackboard.
-
-\begin{rmdwarning}
-This section will be updated before the first day of class.
-\end{rmdwarning}
+\textbf{Canvas} is a learning management system similar to Google Classroom and Blackboard. We will use Canvas this semester for accessing all course materials, including assignments, grades, quizzes, course meeting slides and notes, and other links. Announcements and communications about the course will also come through Canvas, so it is important to check our Canvas site regularly.
 
 \hypertarget{readings}{%
 \section{Readings}\label{readings}}
@@ -351,37 +416,6 @@ All readings are listed on the \href{/syllabus/lecture-schedule.html}{\textbf{Re
 
 Many of the readings on the syllabus are peer reviewed journal articles that you'll be able to access through the library. Being ``peer reviewed'' means that they are written with an aim to contribute to scientific debates. Their primary audiences are typically health care providers, professors, and graduate students. They are therefore sometimes \emph{difficult} to read. Give yourself time - I don't expect each student to fully understanding the intricacies of each article (especially the statistics included in some), but I do expect you to walk away with a general sense of the argument and evidence presented.
 
-\hypertarget{success-in-soc-1120}{%
-\section{Success in SOC 1120}\label{success-in-soc-1120}}
-
-Since this course will meet remotely for the entire semester, I have posted several articles on the Course Docs that include suggestions for navigating the course content, using Zoom, and using Canvas. Please review these before the semester begins. Following these will be crucial for having a successful semester!
-
-Students often ask me how to do well in various aspects of the course, and so I also have \emph{suggestions} for a successful semester. \emph{These observations are provided with no warranty} - following them does not guarantee any particular outcome. You could do everything in here and still do poorly in the course, and conversely you could ignore much of what is in discussed in the links below and still do well. However, \emph{most} of the students who are successful in this course will follow \emph{most} of these ideas consistently.
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  Doing the Little Things Right
-\item
-  Come to Office Hours!
-\item
-  Studying for Quizzes
-\item
-  Writing in the Social Sciences
-\item
-  Letters of Recommendation - Pay particular to the section titled ``If I Say No'' if you may want an Instructor Evaluation for medical school - I prioritize letter writing for students who I get to know outside of the classroom.
-\end{enumerate}
-
-These tips are an effort to illuminate what sociologists refer to as the ``\href{https://books.google.com/books?hl=en\&lr=\&id=5r-TAgAAQBAJ\&oi=fnd\&pg=PP1\&dq=hidden+curriculum\#v=onepage\&q=hidden\%20curriculum\&f=false}{hidden curriculum}'' of higher education - there are things you need to do to be successful, but they are often unstated or not clearly communicated. If there are other topics you have questions about, please let me know. These documents are a work in progress.
-
-\begin{rmdnote}
-Part of these documents involve tips for emailing faculty and link to an
-article with some additional tips. If you send me an email prior to the
-second lecture that breaks as many rules as possible (but clearly
-identifies in some way who you are), I'll give you extra credit.
-\end{rmdnote}
-
 \hypertarget{course-policies}{%
 \chapter{Course Policies}\label{course-policies}}
 
@@ -403,7 +437,7 @@ My priority is that class periods are productive learning experiences for all st
 \item
   Complete the assigned readings for each class in advance, and come prepared with discussion points and questions.
 \item
-  Follow my best practices for using Zoom and Canvas.
+  Follow my best practices for using Zoom and Canvas (see Canvas for more details).
 \end{enumerate}
 
 The following sections contain additional details about specific course policies related to attendance, participation, electronic device use, student support, academic honesty, and Title IX.
@@ -411,9 +445,7 @@ The following sections contain additional details about specific course policies
 \hypertarget{covid-19}{%
 \section{COVID-19}\label{covid-19}}
 
-We are in the midst of something very few Americans alive today have experienced before to this degree - a pandemic caused by a highly contagious virus called ``SARS-CoV-2.'' This virus causes an illness called COVID-19. Not since the fall of 1919 have Saint Louis University students begun a semester quite like this one. I think acknowledging that we are all starting from varying places of exhaustion, stress, and anxiety is critical. To that end, I've written an open letter to all of you that I ask you to read before our first class.
-
-Please, first and foremost, focus on what matters most and practice self care. Please follow SLU's guidance both for your own health and for maintaining community. If you are living on-campus, please follow all of SLU's policies for social distancing and mask wearing. These are critical for our collective safety. If you are off campus this semester, please follow them anyway!
+I think acknowledging that we are all starting from varying places of exhaustion, stress, and anxiety is critical. Please, first and foremost, focus on what matters most and practice self care. Please follow SLU's guidance both for your own health and for maintaining community. If you are living on-campus, please follow all of SLU's policies for social distancing and mask wearing. These are critical for our collective safety. If you are off campus this semester, please follow them anyway!
 
 Again, my biggest priority this semester is your health and well-being. Please reach out if you want to talk about strategies for managing our ``new normal,'' if you find yourself struggling, or just need someone to vent to. Alternatively, you can reach out to either the University Counseling Center at 314-977-TALK or Campus Ministry at 314-977-2425 or \href{mailto:campusministry@slu.edu}{\nolinkurl{campusministry@slu.edu}}.
 
@@ -424,9 +456,11 @@ While we are starting the semester with all of you in St.~Louis, and I am certai
 
 Given that these are not abstract concerns, everything laid out here represents a best case scenario for the semester. We may find ourselves needing to change some course policies, reading and assignment schedules, and even teaching modalities based on the challenges we are confronted with this semester. I ask for your patience and your flexibility if and when we do need to make these changes. For my part, I will do my best to stay in touch with you and communicate clearly how these changes will impact our course.
 
-One way that I am proactively preparing for disruptions is to add two \textbf{``flex days''} to the syllabus. I do not have any content planned for \textbf{October 26} or \textbf{November 23}. If there is a widespread disruption, such as the need for many of you to move off campus, I will use these flex days as a buffer so that we can adjust our course schedule without changing the basic structure of the course. If we are approaching these dates without having had to use them, these will become days off from this course.
+One way that I am proactively preparing for disruptions is to add two \textbf{``flex days''} to the syllabus. I do not have any content planned for \textbf{March 9th} and \textbf{May 9th}. If there is a widespread disruption, such as the need for many of you to move off campus, I will use these flex days as a buffer so that we can adjust our course schedule without changing the basic structure of the course. If we approach each day and it appears that we will not need to use it, I will announce alternate plans for the meeting.
 
-\textbf{You should therefore treat all of the course dates as provisional.} This is my plan as of August 20, and I may modify it further as we progress through the the semester. If I become sick or a member of my family becomes ill, modifications will likely be required. If another faculty member has to take over teaching my class, there may be changes to course content, teaching modality, and assignments. I will do my best to keep everyone updated in a timely fashion. Please check your email and Canvas regularly. I appreciate everyone's willingness to roll with the many punches we are all facing right now. Remember, we are in this together.
+Another way that I am proactively preparing for disruptions is to have meeting recordings from prior semesters available. In the event that I cannot teach due to illness, I may share recordings from prior semesters in-place of having in-person meetings.
+
+\textbf{You should therefore treat all of the course dates and content as provisional.} This is my plan as of January 12th, and I may modify it further as we progress through the the semester. If I become sick or a member of my family becomes ill, modifications will likely be required. If another faculty member has to take over teaching my class, there may be changes to course content, teaching modality, and assignments. I will do my best to keep everyone updated in a timely fashion. Please check your email and Canvas regularly. I appreciate everyone's willingness to roll with the many punches we are all facing right now. Remember, we are in this together.
 
 \hypertarget{face-masks}{%
 \subsection{Face Masks}\label{face-masks}}
@@ -465,9 +499,8 @@ Throughout the COVID-19 pandemic, key safeguards like face masks have allowed SL
 We do not know when the City of St.~Louis will roll back their mask
 mandate, or what SLU will do after that in terms of mask policies. Even
 if the mask mandate on-campus is rescinded, I will continue to mask in
-class because I have an unvaccinated child at home. If the mask mandate
-does get rescinded, I'd ask for your cooperation and continued masking
-during class to help keep my daughter healthy!
+class to keep my family healthy. If the mask mandate does get rescinded,
+I'll ask for your cooperation and continued masking during class!
 \end{rmdwarning}
 
 \hypertarget{ada-accomodations-for-face-mask-requirements}{%
@@ -527,8 +560,6 @@ If we have to meet via Zoom, there will be several additional policies to note:
   Using your camera is \emph{strongly encouraged} during group discussions, but is not otherwise required.
 \item
   Please keep your microphone muted unless you are actively speaking.
-\item
-  Class recordings will be made via Zoom and/or Panopto, and will be posted to Canvas. Recordings should not be shared outside of class. They will capture whatever is happening on my screen, which may include sharing your name and whatever is actively shown via your webcam. \emph{If this presents a privacy concern for you, please let me know as soon as possible.}
 \end{enumerate}
 
 The Course Docs contain some additional tips for using Zoom. Please review them closely.
@@ -561,8 +592,8 @@ If we have to switch to having class remotely, the QR code will be
 available on-screen. This means that you need to arrive to class at
 least a minute or two before we begin. If you arrive after the QR code
 has been taken down, I'll put it up again at the end of the ``front
-matter'' and ``back matter'' sections of the lecture slides. Attendance
-submissions must be received by the end of the class period.
+matter'' and ``back matter'' sections of the course meeting slides.
+Attendance submissions must be received by the end of the class period.
 \end{rmdwarning}
 
 \hypertarget{missed-classes}{%
@@ -570,9 +601,18 @@ submissions must be received by the end of the class period.
 
 My priority with attendance is to identify students who may be struggling or in need of additional support. However, because attending class is crucial, I do factor attendance into your overall participation grade. In order to give you some flexibility, I do not apply any penalties to your first two unexcused absences. Any unexcused absences beyond those two will result in no credit (for an absences). Regular late arrivals may result in partial credit being earned for that day's participation grade.
 
-Specific elements of the course, such as participation in group discussions during lectures as well as the QHQ discussions, will also be factored into your participation grade. If there is a need for you to miss a significant portion of your coursework, such as because of an illness, please reach out to me and we will make a plan for alternative ways to make-up these activities based on the circumstances.
+Specific elements of the course, such as participation in group discussions during course meetings as well as the \emph{Mama Might Be Better Off Dead} discussions, will also be factored into your participation grade. If there is a need for you to miss a significant portion of your coursework, such as because of an illness, please reach out to me and we will make a plan for alternative ways to make-up these activities based on the circumstances.
 
-It is your responsibility to make-up missed classes, including viewing the lecture recording and, if needed, obtaining notes from a classmate All lecture slides will be posted on Canvas before class begins along with relevant notes for that lecture. Please note that lectures and discussions cannot be recorded by any means (e.g.~audio or video recordings, or photographs) without my permission.
+It is your responsibility to make-up missed classes, including viewing the course meeting recording and, if needed, obtaining notes from a classmate. All course meeting slides will be posted on Canvas before class begins along with relevant notes for that course meeting. Please note that course meetings and discussions cannot be recorded by any means (e.g.~audio or video recordings, or photographs) without my permission.
+
+To help students who miss class, I will make recordings of our meetings (or the recording from a prior semester) available on a case-by-case basis. Class recordings will be made via Zoom and/or Panopto, and will be shared with students who cannot attend class. Recordings should not be shared with anyone inside or outside our course.
+
+\begin{rmdwarning}
+Meeting recordings will capture whatever is happening on my screen,
+which may include sharing your name and whatever is actively shown via
+your webcam. \emph{If this presents a privacy concern for you, please
+let me know as soon as possible.}
+\end{rmdwarning}
 
 \hypertarget{communication}{%
 \section{Communication}\label{communication}}
@@ -584,7 +624,7 @@ The best ways to get in touch with me are email, texting, or calling:
 \item
   Email - \href{mailto:chris.prener@slu.edu}{\nolinkurl{chris.prener@slu.edu}}
 \item
-  Text or call - 314-884-0386
+  Text or call - 314-884-0386 (Google Voice)
 \end{itemize}
 
 Email is my preferred method of communication. I dedicate time to email responses each workday, meaning that my response time is typically within 24 hours during the workweek. If you have not received a response from me after 48 hours (or by end of business on Monday if you emailed me over the weekend), please feel free to follow-up with me.
@@ -600,7 +640,7 @@ Please also ensure that all concerns or questions about your standing in the cou
 
 During class periods, students are asked to refrain from using electronic devices (including cell phones) for activities not directly related to the course. For this class, I expect students to limit their use of electronic devices to accessing Zoom, course readings, notes, and other course materials.
 
-There is evidence that using electronic devices during lectures results in decreased retention of course content (\href{https://link.springer.com/article/10.1007/BF02940852}{Hembrooke and Gay 2003}) and lower overall course performance (\href{https://www.sciencedirect.com/science/article/pii/S0360131506001436}{Fried 2008}). Students who are not using a laptop but are in direct view of another student's laptop also have decreased performance in courses (\href{https://www.sciencedirect.com/science/article/pii/S0360131512002254}{Sana et al.~2013}). Conversely, students who take notes the ``old fashioned way'' have better performance on tests compared to students who take notes on laptops (\href{http://journals.sagepub.com/doi/abs/10.1177/0956797614524581}{Mueller and Oppenheimer 2014}).
+There is evidence that using electronic devices during course meetings results in decreased retention of course content (\href{https://link.springer.com/article/10.1007/BF02940852}{Hembrooke and Gay 2003}) and lower overall course performance (\href{https://www.sciencedirect.com/science/article/pii/S0360131506001436}{Fried 2008}). Students who are not using a laptop but are in direct view of another student's laptop also have decreased performance in courses (\href{https://www.sciencedirect.com/science/article/pii/S0360131512002254}{Sana et al.~2013}). Conversely, students who take notes the ``old fashioned way'' have better performance on tests compared to students who take notes on laptops (\href{http://journals.sagepub.com/doi/abs/10.1177/0956797614524581}{Mueller and Oppenheimer 2014}).
 
 I therefore ask students to be conscious of how they are using their devices, the ways such use impacts their own learning, and the effect that it may have on others around them. I reserve the right to alter this policy if electronic device use becomes problematic during the semester.
 
@@ -703,21 +743,22 @@ assignment's due dates as the semester progresses.
 \subsection{Attendance and Participation}\label{attendance-and-participation-1}}
 
 \begin{rmdtip}
-Attendance and participation are worth 95 points, or \textbf{16.1\%} of
-your final grade
+Attendance and participation are worth 100 points, or approximately
+\textbf{17\%} of your final grade
 \end{rmdtip}
 
 As discussed above, both attendance and participation are important aspects of this class. The class participation grade will be based on (a) attendance, (b) level of engagement during class (including being present for and participating in course discussions), and (c) class ``entry'' and ``exit tickets.''
 
 Each of these elements is assigned a point value and assessed using a scale that awards full, partial, or no credit (see \href{grading.html}{Grading}). Not attending class or completing an ``entry'' or ``exit'' ticket will result in no credit being earned for that element on a given day. Disengagement during class may result in partial or no credit being earned. Late arrivals will result in only partial credit earned for that element on a given day.
 
-Your participation grade will be split, with 20 points for Part 1, 30 points each for Parts 2 and 3, and 15 points for Part 4. Since the number of points awarded for participation are variable, the total number of points earned for each half will be \textbf{weighted} so that it is converted to a final score that matches the points available for that part of the course. I provide the final number of points earned for each part of the course. If you would like a more detailed breakdown of your participation grade and/or attendance record, please reach out and I will happily provide one.
+Your participation grade will be split, with 20 points for Part 1 and 40 points each for Parts 2 and 3. Since the number of points awarded for participation are variable, the total number of points earned for each half will be \textbf{weighted} so that it is converted to a final score that matches the points available for that part of the course. I provide the final number of points earned for each part of the course. If you would like a more detailed breakdown of your participation grade and/or attendance record, please reach out and I will happily provide one.
 
 \hypertarget{theory-isnt-dead-posts}{%
 \subsection{Theory Isn't Dead Posts}\label{theory-isnt-dead-posts}}
 
 \begin{rmdtip}
-Theory posts are worth 40 points, or \textbf{6.8\%} of your final grade
+Theory posts are worth 40 points, or approximately \textbf{7\%} of your
+final grade
 \end{rmdtip}
 
 Over the course of the semester, there will be four short exercises that ask you to tie social theory, social science research, and current events together. For each of these assignments, I will post a news article. Based on your read of the article, you should pick one of the social theories we have discussed in class or in readings, briefly describe why you selected that theory (in 2-3 sentences), and then craft a theoretically motivated research question and hypothesis (a sentence each). Finally, you will briefly describe how you would propose to study this hypothesis (in 2-3 sentences). Your assignments will be posted to Canvas before 5pm on the due date.
@@ -730,17 +771,17 @@ Due dates for the Theory Post are as follows:
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Theory Isn't Dead 1 - \textbf{Thursday, September 9}
+  Theory Isn't Dead 1 - \textbf{Wednesday, February 2}
 \item
-  Theory Isn't Dead 2 - \textbf{Tuesday, October 5}
+  Theory Isn't Dead 2 - \textbf{Monday, February 28}
 \end{enumerate}
 
 \hypertarget{sociological-experiences}{%
 \subsection{Sociological Experiences}\label{sociological-experiences}}
 
 \begin{rmdtip}
-Theory reflections are worth 80 points, or \textbf{13.6\%} of your final
-grade
+Theory reflections are worth 80 points, or approximately \textbf{13\%}
+of your final grade
 \end{rmdtip}
 
 Over the course of the semester, there will be four short exercises that ask you to link data to your own personal experiences. Data for these exercises will be drawn primarily from Social Explorer, a tool that makes it easy to find demographic data about various places in the United States. These reflections should be approximately 1-2 paragraphs in length.
@@ -753,20 +794,21 @@ Due dates for the Sociological Experiences are as follows:
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Sociological Experience 1 - High School - \textbf{Tuesday, September 21}
+  Sociological Experience 1 - High School - \textbf{Monday, February 14}
 \item
-  Sociological Experience 2 - Socioeconomic Status - \textbf{Tuesday, October 12}
+  Sociological Experience 2 - Socioeconomic Status - \textbf{Monday, March 7}
 \item
-  Sociological Experience 3 - Segregation - \textbf{Thursday, November 11}
+  Sociological Experience 3 - Segregation - \textbf{Monday, April 11}
 \item
-  Sociological Experience 4 - St.~Louis - \textbf{Thursday, December 2}
+  Sociological Experience 4 - St.~Louis - \textbf{Wednesday, April 27}
 \end{enumerate}
 
 \hypertarget{mama-papers}{%
 \subsection{\texorpdfstring{\emph{Mama} Papers}{Mama Papers}}\label{mama-papers}}
 
 \begin{rmdtip}
-QHQ Papers are worth 150 points, or \textbf{25.4\%} of your final grade
+QHQ Papers are worth 150 points, or approximately \textbf{25\%} of your
+final grade
 \end{rmdtip}
 
 Each student will write a reflection paper on three chapters (one chapter per discussion period) of \emph{Mama Might Be Better Off Dead} (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric will be available on Canvas. Papers must be completed and submitted by the beginning of class on the date due. Each paper is worth 50 points.
@@ -777,18 +819,19 @@ Due dates for the QHQs are as follows:
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  \emph{Mama} Paper 1 - \textbf{Thursday, October 14}
+  \emph{Mama} Paper 1 - \textbf{Monday, March 21}
 \item
-  \emph{Mama} Paper 2 - \textbf{Thursday, November 18}
+  \emph{Mama} Paper 2 - \textbf{Wednesday, April 13}
 \item
-  \emph{Mama} Paper 3 - \textbf{Tuesday, December 7}
+  \emph{Mama} Paper 3 - \textbf{Monday, May 2}
 \end{enumerate}
 
 \hypertarget{quizzes}{%
 \subsection{Quizzes}\label{quizzes}}
 
 \begin{rmdtip}
-Quizzes are worth 150 points, or \textbf{25.4\%} of your final grade
+Quizzes are worth 150 points, or approximately \textbf{25\%} of your
+final grade
 \end{rmdtip}
 
 Three non-cumulative multiple choice quizzes will be given throughout the semester. Each quiz will cover the breadth of the material in the course, including readings, lectures, and videos. Each quiz will consist of 30 multiple choice questions and will be worth 50 points. They will be administered via Canvas. Quizzes must be taken between 7am CST and 10pm CST on the quiz date. They can be started at any point within that range, but once you begin the quiz, you will have only 45 minutes to complete it. Since they occur remotely, quizzes are open book and note.
@@ -799,11 +842,11 @@ Quiz dates are as follows:
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Quiz 1 - \textbf{Monday, September 27}
+  Quiz 1 - \textbf{Friday, February 18}
 \item
-  Quiz 2 - \textbf{Monday, October 25}
+  Quiz 2 - \textbf{Friday, April 1}
 \item
-  Quiz 3 - \textbf{Friday, December 17}
+  Quiz 3 - \textbf{Wednesday, May 11}
 
   \begin{itemize}
   \tightlist
@@ -816,11 +859,11 @@ Quiz dates are as follows:
 \subsection{Final Project}\label{final-project}}
 
 \begin{rmdtip}
-The Final Project is worth 75 points, or \textbf{12.7\%} of your final
-grade
+The Final Project is worth 75 points, or approximately \textbf{13\%} of
+your final grade
 \end{rmdtip}
 
-This project involves the creation of a single page handout that illustrates the origins of a health disparity present in American society. On the handout, you should provide some background information, data about the disparity, and connect the disparity to fundamental cause theory and/or the social determinants of health perspective. You have creative license to design the handout as you see fit, and should feel free to add graphs, maps, or photographs that help you illustrate the issues you are describing. The second page of the handout should contain a list of works cited. More details and a rubric will be provided on Canvas. The final project will be due by \textbf{Friday, December 17}.
+This project involves the creation of a single page handout that illustrates the origins of a health disparity present in American society. On the handout, you should provide some background information, data about the disparity, and connect the disparity to fundamental cause theory and/or the social determinants of health perspective. You have creative license to design the handout as you see fit, and should feel free to add graphs, maps, or photographs that help you illustrate the issues you are describing. The second page of the handout should contain a list of works cited. More details and a rubric will be provided on Canvas. The final project will be due by \textbf{Monday, May 16}.
 
 \hypertarget{submission-and-late-work}{%
 \section{Submission and Late Work}\label{submission-and-late-work}}
@@ -869,16 +912,15 @@ I use a point system for calculating grades. The following table gives the weigh
 \toprule
 Assignment & Period & Points & Quantity & Total & Percent\\
 \midrule
-Participation & Part 1 & 20 pts & x1 & 20 pts & 16.1\%\\
- & Part 2 & 30 pts & x1 & 30 pts & \\
- & Part 3 & 30 pts & x1 & 30 pts & \\
- & Part 4 & 15 pts & x1 & 15 pts & \\
-Theory Isn't Dead &  & 20 pts & x2 & 40 pts & 6.8\%\\
+Participation & Part 1 & 20 pts & x1 & 20 pts & 17\%\\
+ & Part 2 & 30 pts & x1 & 40 pts & \\
+ & Part 3 & 30 pts & x1 & 40 pts & \\
+Theory Isn't Dead &  & 20 pts & x2 & 40 pts & 7\%\\
+Sociological Experiences &  & 20 pts & x4 & 80 pts & 13\%\\
 \addlinespace
-Sociological Experiences &  & 20 pts & x4 & 80 pts & 13.6\%\\
-QHQs &  & 75 pts & x2 & 150 pts & 25.4\%\\
-Quizzes &  & 50 pts & x3 & 150 pts & 25.4\%\\
-Final Project &  & 75 pts & x1 & 75 pts & 12.7\%\\
+QHQs &  & 75 pts & x2 & 150 pts & 25\%\\
+Quizzes &  & 50 pts & x3 & 150 pts & 25\%\\
+Final Project &  & 75 pts & x1 & 75 pts & 13\%\\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -931,7 +973,7 @@ Updates to grades will be provided at midterms, and you can follow your progress
 \begin{rmdwarning}
 No chances will be given for revisions of poor grades. Incomplete grades
 will be given upon request only if you have a ``C'' average and have
-completed at least two-thirds of the possible points (412 points). You
+completed at least two-thirds of the possible points (392 points). You
 should note that incomplete grades must be rectified by the specified
 deadline or they convert to an ``F''. This policy reflects the
 \href{https://catalog.slu.edu/academic-policies/academic-policies-procedures/incomplete-course/}{University's
@@ -955,20 +997,19 @@ The following is a high-level schedule that details the general topic covered by
 Part & Module & Planned Start Date & Title\\
 \midrule
 **1** &  &  & **Thinking Like Sociologists**\\
-1 & 1 & Thursday, August 26 & Engaging the Social World\\
-1 & 2 & Thursday, September 9 & Structuring the Social World\\
+1 & 1 & Wednesday, January 19 & Engaging the Social World\\
+1 & 2 & Wednesday, February 2 & Structuring the Social World\\
 **2** &  &  & **The Building Blocks of Society**\\
-2 & 3 & Tuesday, September 28 & Culture\\
+2 & 3 & Monday, February 21 & Culture\\
 \addlinespace
-2 & 4 & Tuesday, October 5 & Socioeconomic Status\\
-2 & 5 & Tuesday, October 19 & Gender and Sexuality\\
+2 & 4 & Monday, February 28 & Socioeconomic Status\\
+2 & 5 & Wednesday, March 23 & Gender and Sexuality\\
 **3** &  &  & **The Broken Heart of America**\\
-3 & 6 & Tuesday, November 2 & Race and Racism\\
-3 & 7 & Tuesday, November 16 & Intersectionality\\
+3 & 6 & Wednesday, March 30 & Race and Racism\\
+3 & 7 & Wednesday, April 13 & Intersectionality\\
 \addlinespace
-3 & 8 & Tuesday, November 30 & Urban Sociology\\
-**4** &  &  & **Course Conclusion**\\
-4 & 9 & Tuesday, December 7 & Course Conclusion\\
+3 & 8 & Monday, April 25 & Urban Sociology\\
+3 & 9 & Monday, May 2 & Course Conclusion\\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -978,7 +1019,7 @@ Part & Module & Planned Start Date & Title\\
 
 The course schedule may change as it depends on the progress of the class and the \href{covid-19.html}{challenges we are confronted by this semester}. The web version of this document will be updated to reflect any alterations, but the \texttt{.pdf} version will remain unaltered.
 
-This semester, we will not have class on \textbf{October 28} and \textbf{November 25} because they fall on University breaks. Additionally, no class activities are scheduled for \textbf{October 26} or \textbf{November 23}. These are ``flex days,'' which I have left without a scheduled plan to accommodate changes due to COVID-19. If we are approaching these dates without having had to use them, these will become days off from this course.
+This semester, we will not have class on \textbf{March 15th}, \textbf{March 17}, and \textbf{April 18th} because they fall on University breaks. Additionally, no class activities are scheduled for \textbf{March 9th} or \textbf{May 9th}. These are ``flex days,'' which I have left without a scheduled plan to accommodate changes due to COVID-19. If we are approaching these dates without having had to use them, these will become days off from this course.
 
 \hypertarget{meeting-schedule}{%
 \chapter{Meeting Schedule}\label{meeting-schedule}}
@@ -990,9 +1031,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-1---engaging-the-social-world}{%
 \section{Module 1 - Engaging the Social World}\label{module-1---engaging-the-social-world}}
 
-\hypertarget{meeting-1-1---thursday-august-26---course-introduction}{%
-\subsection*{Meeting 1-1 - Thursday, August 26 - Course Introduction}\label{meeting-1-1---thursday-august-26---course-introduction}}
-\addcontentsline{toc}{subsection}{Meeting 1-1 - Thursday, August 26 - Course Introduction}
+\hypertarget{meeting-1-1---wednesday-january-19---course-introduction}{%
+\subsection*{Meeting 1-1 - Wednesday, January 19 - Course Introduction}\label{meeting-1-1---wednesday-january-19---course-introduction}}
+\addcontentsline{toc}{subsection}{Meeting 1-1 - Wednesday, January 19 - Course Introduction}
 
 \begin{itemize}
 \tightlist
@@ -1012,15 +1053,15 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Complete the Student Information Sheet for Tuesday, August 31 (Canvas)
+    Complete the Student Information Sheet for Monday, January 24 (Canvas)
   \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-1-2---tuesday-august-31---social-theory}{%
-\subsection*{Meeting 1-2 - Tuesday, August 31 - Social Theory}\label{meeting-1-2---tuesday-august-31---social-theory}}
-\addcontentsline{toc}{subsection}{Meeting 1-2 - Tuesday, August 31 - Social Theory}
+\hypertarget{meeting-1-2---monday-january-24---social-theory}{%
+\subsection*{Meeting 1-2 - Monday, January 24 - Social Theory}\label{meeting-1-2---monday-january-24---social-theory}}
+\addcontentsline{toc}{subsection}{Meeting 1-2 - Monday, January 24 - Social Theory}
 
 \begin{itemize}
 \tightlist
@@ -1032,15 +1073,15 @@ Select a module from the menu to see details about topics, readings, and assignm
   \item
     Read \emph{A Sociology Experiment}, ``Chapter 1 - A Sociology Experiment,'' pp.~9-24 (Link)
   \item
-    Complete the Student Information Sheet (via Canvas)
+    Complete the Student Information Sheet (Canvas)
   \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-1-3---thursday-september-2---theorizing-health-disparities}{%
-\subsection*{Meeting 1-3 - Thursday, September 2 - Theorizing Health Disparities}\label{meeting-1-3---thursday-september-2---theorizing-health-disparities}}
-\addcontentsline{toc}{subsection}{Meeting 1-3 - Thursday, September 2 - Theorizing Health Disparities}
+\hypertarget{meeting-1-3---wednesday-january-26---theorizing-health-disparities}{%
+\subsection*{Meeting 1-3 - Wednesday, January 26 - Theorizing Health Disparities}\label{meeting-1-3---wednesday-january-26---theorizing-health-disparities}}
+\addcontentsline{toc}{subsection}{Meeting 1-3 - Wednesday, January 26 - Theorizing Health Disparities}
 
 \begin{itemize}
 \tightlist
@@ -1060,15 +1101,15 @@ Select a module from the menu to see details about topics, readings, and assignm
       Phelan, Jo C., Bruce Link, and Parisa Tehranifar. 2010. ``Social Conditions as Fundamental Causes of Health Inequalities: Theory, Evidence, and Policy Implications.'' \emph{Journal of Health and Social Behavior} 51(S):S28-S40. (Link)
     \end{itemize}
   \item
-    Watch \emph{Unnatural Causes}, Part 1 - ``In Sickness and in Wealth'' (Pius Library)
+    Watch \emph{Unnatural Causes}, Part 1 - ``In Sickness and in Wealth'' (Kanopy) and complete the accompanying entry ticket (Canvas)
   \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-1-4---tuesday-september-7---studying-society}{%
-\subsection*{Meeting 1-4 - Tuesday, September 7 - Studying Society}\label{meeting-1-4---tuesday-september-7---studying-society}}
-\addcontentsline{toc}{subsection}{Meeting 1-4 - Tuesday, September 7 - Studying Society}
+\hypertarget{meeting-1-4---monday-january-31---studying-society}{%
+\subsection*{Meeting 1-4 - Monday, January 31 - Studying Society}\label{meeting-1-4---monday-january-31---studying-society}}
+\addcontentsline{toc}{subsection}{Meeting 1-4 - Monday, January 31 - Studying Society}
 
 \begin{itemize}
 \tightlist
@@ -1086,7 +1127,7 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Complete Theory Isn't Dead 1 for Thursday, September 9 (Canvas)
+    Complete Theory Isn't Dead 1 for Wednesday, February 2 (Canvas)
   \end{itemize}
 \end{itemize}
 
@@ -1095,9 +1136,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-2---structuring-the-social-world}{%
 \section{Module 2 - Structuring the Social World}\label{module-2---structuring-the-social-world}}
 
-\hypertarget{meeting-2-1---thursday-september-9---nature-or-nurture}{%
-\subsection*{Meeting 2-1 - Thursday, September 9 - Nature or Nurture?}\label{meeting-2-1---thursday-september-9---nature-or-nurture}}
-\addcontentsline{toc}{subsection}{Meeting 2-1 - Thursday, September 9 - Nature or Nurture?}
+\hypertarget{meeting-2-1---wednesday-february-2---nature-or-nurture}{%
+\subsection*{Meeting 2-1 - Wednesday, February 2 - Nature or Nurture?}\label{meeting-2-1---wednesday-february-2---nature-or-nurture}}
+\addcontentsline{toc}{subsection}{Meeting 2-1 - Wednesday, February 2 - Nature or Nurture?}
 
 \begin{itemize}
 \tightlist
@@ -1121,9 +1162,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-2-2---tuesday-september-14---social-structure}{%
-\subsection*{Meeting 2-2 - Tuesday, September 14 - Social Structure}\label{meeting-2-2---tuesday-september-14---social-structure}}
-\addcontentsline{toc}{subsection}{Meeting 2-2 - Tuesday, September 14 - Social Structure}
+\hypertarget{meeting-2-2---monday-february-7---social-structure}{%
+\subsection*{Meeting 2-2 - Monday, February 7 - Social Structure}\label{meeting-2-2---monday-february-7---social-structure}}
+\addcontentsline{toc}{subsection}{Meeting 2-2 - Monday, February 7 - Social Structure}
 
 \begin{itemize}
 \tightlist
@@ -1139,9 +1180,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-2-3---thursday-september-16---socialization}{%
-\subsection*{Meeting 2-3 - Thursday, September 16 - Socialization}\label{meeting-2-3---thursday-september-16---socialization}}
-\addcontentsline{toc}{subsection}{Meeting 2-3 - Thursday, September 16 - Socialization}
+\hypertarget{meeting-2-3---wednesday-february-9---socialization}{%
+\subsection*{Meeting 2-3 - Wednesday, February 9 - Socialization}\label{meeting-2-3---wednesday-february-9---socialization}}
+\addcontentsline{toc}{subsection}{Meeting 2-3 - Wednesday, February 9 - Socialization}
 
 \begin{itemize}
 \tightlist
@@ -1167,15 +1208,15 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Complete Sociological Experience 1 - High School for Tuesday, September 21 (Canvas)
+    Complete Sociological Experience 1 - High School for Monday, February 14 (Canvas)
   \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-2-4---tuesday-september-21---the-institution-of-medicine}{%
-\subsection*{Meeting 2-4 - Tuesday, September 21 - The Institution of Medicine}\label{meeting-2-4---tuesday-september-21---the-institution-of-medicine}}
-\addcontentsline{toc}{subsection}{Meeting 2-4 - Tuesday, September 21 - The Institution of Medicine}
+\hypertarget{meeting-2-4---monday-february-14---the-institution-of-medicine}{%
+\subsection*{Meeting 2-4 - Monday, February 14 - The Institution of Medicine}\label{meeting-2-4---monday-february-14---the-institution-of-medicine}}
+\addcontentsline{toc}{subsection}{Meeting 2-4 - Monday, February 14 - The Institution of Medicine}
 
 \begin{itemize}
 \tightlist
@@ -1185,15 +1226,21 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    TBD
+    Read Wright and Perry (2010)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Wright, Eric and Brea Perry. 2010. ``Medical Sociology and Health Services Research: Past Accomplishments and Future Policy Challenges.'' \emph{Journal of Health and Social Behavior} 51(S):S107-S119. (Link)
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-2-5---thursday-september-23---medicalization}{%
-\subsection*{Meeting 2-5 - Thursday, September 23 - Medicalization}\label{meeting-2-5---thursday-september-23---medicalization}}
-\addcontentsline{toc}{subsection}{Meeting 2-5 - Thursday, September 23 - Medicalization}
+\hypertarget{meeting-2-5---wednesday-february-16---medicalization}{%
+\subsection*{Meeting 2-5 - Wednesday, February 16 - Medicalization}\label{meeting-2-5---wednesday-february-16---medicalization}}
+\addcontentsline{toc}{subsection}{Meeting 2-5 - Wednesday, February 16 - Medicalization}
 
 \begin{itemize}
 \tightlist
@@ -1219,7 +1266,7 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Study for Quiz 1 on Monday, September 27 (Canvas)
+    Study for Quiz 1 on Friday, February 18 (Canvas)
   \end{itemize}
 \end{itemize}
 
@@ -1228,9 +1275,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-3---culture}{%
 \section{Module 3 - Culture}\label{module-3---culture}}
 
-\hypertarget{meeting-3-1---tuesday-september-28---decoding-culture}{%
-\subsection*{Meeting 3-1 - Tuesday, September 28 - Decoding Culture}\label{meeting-3-1---tuesday-september-28---decoding-culture}}
-\addcontentsline{toc}{subsection}{Meeting 3-1 - Tuesday, September 28 - Decoding Culture}
+\hypertarget{meeting-3-1---monday-february-21---decoding-culture}{%
+\subsection*{Meeting 3-1 - Monday, February 21 - Decoding Culture}\label{meeting-3-1---monday-february-21---decoding-culture}}
+\addcontentsline{toc}{subsection}{Meeting 3-1 - Monday, February 21 - Decoding Culture}
 
 \begin{itemize}
 \tightlist
@@ -1246,9 +1293,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-3-2---thursday-september-30---culture-and-health}{%
-\subsection*{Meeting 3-2 - Thursday, September 30 - Culture and Health}\label{meeting-3-2---thursday-september-30---culture-and-health}}
-\addcontentsline{toc}{subsection}{Meeting 3-2 - Thursday, September 30 - Culture and Health}
+\hypertarget{meeting-3-2---wednesday-february-23---culture-and-health}{%
+\subsection*{Meeting 3-2 - Wednesday, February 23 - Culture and Health}\label{meeting-3-2---wednesday-february-23---culture-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 3-2 - Wednesday, February 23 - Culture and Health}
 
 \begin{itemize}
 \tightlist
@@ -1272,9 +1319,9 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Watch \emph{Unnatural Causes}, Part 3 - ``Becoming Americans'' (Pius Library)
+    Watch \emph{Unnatural Causes}, Part 3 - ``Becoming American'' (Kanopy) and complete the accompanying entry ticket (Canvas)
   \item
-    Complete Theory Isn't Dead 2 for Tuesday, October 5 (Canvas)
+    Complete Theory Isn't Dead 2 for Monday, February 28 (Canvas)
   \end{itemize}
 \end{itemize}
 
@@ -1283,9 +1330,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-4---socioeconomic-status}{%
 \section{Module 4 - Socioeconomic Status}\label{module-4---socioeconomic-status}}
 
-\hypertarget{meeting-4-1---tuesday-october-5---social-class}{%
-\subsection*{Meeting 4-1 - Tuesday, October 5 - Social Class}\label{meeting-4-1---tuesday-october-5---social-class}}
-\addcontentsline{toc}{subsection}{Meeting 4-1 - Tuesday, October 5 - Social Class}
+\hypertarget{meeting-4-1---monday-february-28---social-class}{%
+\subsection*{Meeting 4-1 - Monday, February 28 - Social Class}\label{meeting-4-1---monday-february-28---social-class}}
+\addcontentsline{toc}{subsection}{Meeting 4-1 - Monday, February 28 - Social Class}
 
 \begin{itemize}
 \tightlist
@@ -1301,9 +1348,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-4-2---thursday-october-7---inequality-and-poverty}{%
-\subsection*{Meeting 4-2 - Thursday, October 7 - Inequality and Poverty}\label{meeting-4-2---thursday-october-7---inequality-and-poverty}}
-\addcontentsline{toc}{subsection}{Meeting 4-2 - Thursday, October 7 - Inequality and Poverty}
+\hypertarget{meeting-4-2---wednesday-march-2---inequality-and-poverty}{%
+\subsection*{Meeting 4-2 - Wednesday, March 2 - Inequality and Poverty}\label{meeting-4-2---wednesday-march-2---inequality-and-poverty}}
+\addcontentsline{toc}{subsection}{Meeting 4-2 - Wednesday, March 2 - Inequality and Poverty}
 
 \begin{itemize}
 \tightlist
@@ -1321,15 +1368,15 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Complete Sociological Experience 2 for Tuesday, October 12 (Canvas)
+    Complete Sociological Experience 2 for Monday, March 7 (Canvas)
   \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-4-3---tuesday-october-12---socioeconomic-status-and-health}{%
-\subsection*{Meeting 4-3 - Tuesday, October 12 - Socioeconomic Status and Health}\label{meeting-4-3---tuesday-october-12---socioeconomic-status-and-health}}
-\addcontentsline{toc}{subsection}{Meeting 4-3 - Tuesday, October 12 - Socioeconomic Status and Health}
+\hypertarget{meeting-4-3---monday-march-7---socioeconomic-status-and-health}{%
+\subsection*{Meeting 4-3 - Monday, March 7 - Socioeconomic Status and Health}\label{meeting-4-3---monday-march-7---socioeconomic-status-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 4-3 - Monday, March 7 - Socioeconomic Status and Health}
 
 \begin{itemize}
 \tightlist
@@ -1344,7 +1391,7 @@ Select a module from the menu to see details about topics, readings, and assignm
     \begin{itemize}
     \tightlist
     \item
-      Dow, William H. and David H. Rehkopf. 2010. ``Socioeconomic gradients in health in international and historical context.'' \emph{Annals of the New York Academy of Sciences} 1186:24-36. (Pius Library)
+      Dow, William H. and David H. Rehkopf. 2010. ``Socioeconomic gradients in health in international and historical context.'' \emph{Annals of the New York Academy of Sciences} 1186:24-36. (Link)
     \end{itemize}
   \end{itemize}
 \item
@@ -1353,17 +1400,17 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Watch \emph{Unnatural Causes}, Part 7 - ``Not Just a Paycheck'' (Pius Library)
+    Watch \emph{Unnatural Causes}, Part 7 - ``Not Just a Paycheck'' (Kanopy) and complete the accompanying exit ticket (Canvas)
   \item
-    Make sure you are wrapping up \emph{Mama} Paper 1 for Thursday, October 14 (Canvas)
+    Make sure you are wrapping up \emph{Mama} Paper 1 for Monday, March 21 (Canvas)
   \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-4-4---thursday-october-14---mama-discussion-1}{%
-\subsection*{\texorpdfstring{Meeting 4-4 - Thursday, October 14 - \emph{Mama} Discussion 1}{Meeting 4-4 - Thursday, October 14 - Mama Discussion 1}}\label{meeting-4-4---thursday-october-14---mama-discussion-1}}
-\addcontentsline{toc}{subsection}{Meeting 4-4 - Thursday, October 14 - \emph{Mama} Discussion 1}
+\hypertarget{meeting-4-4---monday-march-21---mama-discussion-1}{%
+\subsection*{\texorpdfstring{Meeting 4-4 - Monday, March 21 - \emph{Mama} Discussion 1}{Meeting 4-4 - Monday, March 21 - Mama Discussion 1}}\label{meeting-4-4---monday-march-21---mama-discussion-1}}
+\addcontentsline{toc}{subsection}{Meeting 4-4 - Monday, March 21 - \emph{Mama} Discussion 1}
 
 \begin{itemize}
 \tightlist
@@ -1384,9 +1431,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-5---gender-and-sexuality}{%
 \section{Module 5 - Gender and Sexuality}\label{module-5---gender-and-sexuality}}
 
-\hypertarget{meeting-5-1---tuesday-october-19---gender-and-health}{%
-\subsection*{Meeting 5-1 - Tuesday, October 19 - Gender and Health}\label{meeting-5-1---tuesday-october-19---gender-and-health}}
-\addcontentsline{toc}{subsection}{Meeting 5-1 - Tuesday, October 19 - Gender and Health}
+\hypertarget{meeting-5-1---wednesday-march-23---gender-and-health}{%
+\subsection*{Meeting 5-1 - Wednesday, March 23 - Gender and Health}\label{meeting-5-1---wednesday-march-23---gender-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 5-1 - Wednesday, March 23 - Gender and Health}
 
 \begin{itemize}
 \tightlist
@@ -1410,9 +1457,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-5-2---thursday-october-21---sexuality-and-health}{%
-\subsection*{Meeting 5-2 - Thursday, October 21 - Sexuality and Health}\label{meeting-5-2---thursday-october-21---sexuality-and-health}}
-\addcontentsline{toc}{subsection}{Meeting 5-2 - Thursday, October 21 - Sexuality and Health}
+\hypertarget{meeting-5-2---monday-march-28---sexuality-and-health}{%
+\subsection*{Meeting 5-2 - Monday, March 28 - Sexuality and Health}\label{meeting-5-2---monday-march-28---sexuality-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 5-2 - Monday, March 28 - Sexuality and Health}
 
 \begin{itemize}
 \tightlist
@@ -1430,7 +1477,7 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Study for Quiz 2 on Monday, October 25 (Canvas)
+    Study for Quiz 2 on Friday, April 1 (Canvas)
   \end{itemize}
 \end{itemize}
 
@@ -1439,9 +1486,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-6---race-and-racism}{%
 \section{Module 6 - Race and Racism}\label{module-6---race-and-racism}}
 
-\hypertarget{meeting-6-1---tuesday-november-2---race-and-racism-1}{%
-\subsection*{Meeting 6-1 - Tuesday, November 2 - Race and Racism 1}\label{meeting-6-1---tuesday-november-2---race-and-racism-1}}
-\addcontentsline{toc}{subsection}{Meeting 6-1 - Tuesday, November 2 - Race and Racism 1}
+\hypertarget{meeting-6-1---wednesday-march-30---race-and-racism-1}{%
+\subsection*{Meeting 6-1 - Wednesday, March 30 - Race and Racism 1}\label{meeting-6-1---wednesday-march-30---race-and-racism-1}}
+\addcontentsline{toc}{subsection}{Meeting 6-1 - Wednesday, March 30 - Race and Racism 1}
 
 \begin{itemize}
 \tightlist
@@ -1465,9 +1512,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-6-2--thursday-november-4---race-and-racism-2}{%
-\subsection*{Meeting 6-2 -Thursday, November 4 - Race and Racism 2}\label{meeting-6-2--thursday-november-4---race-and-racism-2}}
-\addcontentsline{toc}{subsection}{Meeting 6-2 -Thursday, November 4 - Race and Racism 2}
+\hypertarget{meeting-6-2--monday-april-4---race-and-racism-2}{%
+\subsection*{Meeting 6-2 -Monday, April 4 - Race and Racism 2}\label{meeting-6-2--monday-april-4---race-and-racism-2}}
+\addcontentsline{toc}{subsection}{Meeting 6-2 -Monday, April 4 - Race and Racism 2}
 
 \begin{itemize}
 \tightlist
@@ -1477,15 +1524,25 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    \emph{no assignments}
+    Read selections from \emph{Segregation in St.~Louis: Dismantling the Divide} (Link)
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Chapter 1 - ``Segregation at the center'', pp.~4-13
+    \item
+      Chapter 2 - ``St.~Louis: A city of promise, a history of segregation'', pp.~14-25
+    \item
+      Chapter 5 - ``Segregation in St.~Louis today'', pp.~64-85
+    \end{itemize}
   \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-6-3---tuesday-november-9---race-and-racism-3}{%
-\subsection*{Meeting 6-3 - Tuesday, November 9 - Race and Racism 3}\label{meeting-6-3---tuesday-november-9---race-and-racism-3}}
-\addcontentsline{toc}{subsection}{Meeting 6-3 - Tuesday, November 9 - Race and Racism 3}
+\hypertarget{meeting-6-3---wednesday-april-6---race-and-racism-3}{%
+\subsection*{Meeting 6-3 - Wednesday, April 6 - Race and Racism 3}\label{meeting-6-3---wednesday-april-6---race-and-racism-3}}
+\addcontentsline{toc}{subsection}{Meeting 6-3 - Wednesday, April 6 - Race and Racism 3}
 
 \begin{itemize}
 \tightlist
@@ -1503,15 +1560,15 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Complete Sociological Experience 3 for Thursday, November 11 (Canvas)
+    Complete Sociological Experience 3 for Monday, April 11 (Canvas)
   \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-6-4---thursday-november-11---racism-and-health}{%
-\subsection*{Meeting 6-4 - Thursday, November 11 - Racism and Health}\label{meeting-6-4---thursday-november-11---racism-and-health}}
-\addcontentsline{toc}{subsection}{Meeting 6-4 - Thursday, November 11 - Racism and Health}
+\hypertarget{meeting-6-4---monday-april-11---racism-and-health}{%
+\subsection*{Meeting 6-4 - Monday, April 11 - Racism and Health}\label{meeting-6-4---monday-april-11---racism-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 6-4 - Monday, April 11 - Racism and Health}
 
 \begin{itemize}
 \tightlist
@@ -1551,9 +1608,9 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Watch \emph{Unnatural Causes}, Part 4 - ``Bad Sugar'' (Pius Library)
+    Watch \emph{Unnatural Causes}, Part 4 - ``Bad Sugar'' (Kanopy) and complete the accompanying exit ticket (Canvas)
   \item
-    Make sure you are wrapping up \emph{Mama} Paper 2 for Thursday, November 18 (Canvas)
+    Make sure you are wrapping up \emph{Mama} Paper 2 for Wednesday, April 13 (Canvas)
   \end{itemize}
 \end{itemize}
 
@@ -1562,9 +1619,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-7---intersectionality}{%
 \section{Module 7 - Intersectionality}\label{module-7---intersectionality}}
 
-\hypertarget{meeting-7-1---tuesday-november-16---mama-discussion-2}{%
-\subsection*{\texorpdfstring{Meeting 7-1 - Tuesday, November 16 - \emph{Mama} Discussion 2}{Meeting 7-1 - Tuesday, November 16 - Mama Discussion 2}}\label{meeting-7-1---tuesday-november-16---mama-discussion-2}}
-\addcontentsline{toc}{subsection}{Meeting 7-1 - Tuesday, November 16 - \emph{Mama} Discussion 2}
+\hypertarget{meeting-7-1---wednesday-april-13---mama-discussion-2}{%
+\subsection*{\texorpdfstring{Meeting 7-1 - Wednesday, April 13 - \emph{Mama} Discussion 2}{Meeting 7-1 - Wednesday, April 13 - Mama Discussion 2}}\label{meeting-7-1---wednesday-april-13---mama-discussion-2}}
+\addcontentsline{toc}{subsection}{Meeting 7-1 - Wednesday, April 13 - \emph{Mama} Discussion 2}
 
 \begin{itemize}
 \tightlist
@@ -1582,9 +1639,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-7-2---thursday-november-18---intersectionality-and-health}{%
-\subsection*{Meeting 7-2 - Thursday, November 18 - Intersectionality and Health}\label{meeting-7-2---thursday-november-18---intersectionality-and-health}}
-\addcontentsline{toc}{subsection}{Meeting 7-2 - Thursday, November 18 - Intersectionality and Health}
+\hypertarget{meeting-7-2---wednesday-april-20---intersectionality-and-health}{%
+\subsection*{Meeting 7-2 - Wednesday, April 20 - Intersectionality and Health}\label{meeting-7-2---wednesday-april-20---intersectionality-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 7-2 - Wednesday, April 20 - Intersectionality and Health}
 
 \begin{itemize}
 \tightlist
@@ -1616,7 +1673,7 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Watch \emph{Unnatural Causes}, Part 2 - ``When the Bough Breaks'' (Pius Library)
+    Watch \emph{Unnatural Causes}, Part 2 - ``When the Bough Breaks'' (Kanopy) and complete the accompanying exit ticket (Canvas)
   \end{itemize}
 \end{itemize}
 
@@ -1625,9 +1682,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-8---urban-sociology}{%
 \section{Module 8 - Urban Sociology}\label{module-8---urban-sociology}}
 
-\hypertarget{meeting-8-1---tuesday-november-30---urban-america}{%
-\subsection*{Meeting 8-1 - Tuesday, November 30 - Urban America}\label{meeting-8-1---tuesday-november-30---urban-america}}
-\addcontentsline{toc}{subsection}{Meeting 8-1 - Tuesday, November 30 - Urban America}
+\hypertarget{meeting-8-1---monday-april-25---urban-america}{%
+\subsection*{Meeting 8-1 - Monday, April 25 - Urban America}\label{meeting-8-1---monday-april-25---urban-america}}
+\addcontentsline{toc}{subsection}{Meeting 8-1 - Monday, April 25 - Urban America}
 
 \begin{itemize}
 \tightlist
@@ -1639,16 +1696,12 @@ Select a module from the menu to see details about topics, readings, and assignm
   \item
     Read \emph{A Sociology Experiment}, ``Chapter 12 - Urban Sociology'' (Link)
   \item
-    Read selections from \emph{Segregation in St.~Louis: Dismantling the Divide} (Link)
+    Read Prener (2020)
 
     \begin{itemize}
     \tightlist
     \item
-      Chapter 1 - ``Segregation at the center'', pp.~4-13
-    \item
-      Chapter 2 - ``St.~Louis: A city of promise, a history of segregation'', pp.~14-25
-    \item
-      Chapter 5 - ``Segregation in St.~Louis today'', pp.~64-85
+      Prener, Christopher. 2020. ``Finding the city in sociology: Broadening and deepening the geographic scope of the urban and inequality literatures.'' \emph{Sociology Compass} 14(2):e12756. (Link)
     \end{itemize}
   \end{itemize}
 \item
@@ -1657,15 +1710,15 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Complete Sociological Experience 4 for Thursday, December 2 (Canvas)
+    Complete Sociological Experience 4 for Wednesday, April 27 (Canvas)
   \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-8-2---thursday-december-2---cities-and-health}{%
-\subsection*{Meeting 8-2 - Thursday, December 2 - Cities and Health}\label{meeting-8-2---thursday-december-2---cities-and-health}}
-\addcontentsline{toc}{subsection}{Meeting 8-2 - Thursday, December 2 - Cities and Health}
+\hypertarget{meeting-8-2---wednesday-april-27---cities-and-health}{%
+\subsection*{Meeting 8-2 - Wednesday, April 27 - Cities and Health}\label{meeting-8-2---wednesday-april-27---cities-and-health}}
+\addcontentsline{toc}{subsection}{Meeting 8-2 - Wednesday, April 27 - Cities and Health}
 
 \begin{itemize}
 \tightlist
@@ -1693,9 +1746,9 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Watch \emph{Unnatural Causes}, Part 5 - ``Place Matters'' (Pius Library)
+    Watch \emph{Unnatural Causes}, Part 5 - ``Place Matters'' (Kanopy) and complete the accompanying exit ticket (Canvas)
   \item
-    Make sure you are wrapping up \emph{Mama} Paper 3 for Tuesday, December 7 (Canvas)
+    Make sure you are wrapping up \emph{Mama} Paper 3 for Monday, May 2 (Canvas)
   \end{itemize}
 \end{itemize}
 
@@ -1704,9 +1757,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 \hypertarget{module-9---course-conclusion}{%
 \section{Module 9 - Course Conclusion}\label{module-9---course-conclusion}}
 
-\hypertarget{meeting-9-1---tuesday-december-7---mama-discussion-3}{%
-\subsection*{\texorpdfstring{Meeting 9-1 - Tuesday, December 7 - \emph{Mama} Discussion 3}{Meeting 9-1 - Tuesday, December 7 - Mama Discussion 3}}\label{meeting-9-1---tuesday-december-7---mama-discussion-3}}
-\addcontentsline{toc}{subsection}{Meeting 9-1 - Tuesday, December 7 - \emph{Mama} Discussion 3}
+\hypertarget{meeting-9-1---monday-may-2---mama-discussion-3}{%
+\subsection*{\texorpdfstring{Meeting 9-1 - Monday, May 2 - \emph{Mama} Discussion 3}{Meeting 9-1 - Monday, May 2 - Mama Discussion 3}}\label{meeting-9-1---monday-may-2---mama-discussion-3}}
+\addcontentsline{toc}{subsection}{Meeting 9-1 - Monday, May 2 - \emph{Mama} Discussion 3}
 
 \begin{itemize}
 \tightlist
@@ -1724,9 +1777,9 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{meeting-9-2---thursday-december-9---course-conclusion}{%
-\subsection*{Meeting 9-2 - Thursday, December 9 - Course Conclusion}\label{meeting-9-2---thursday-december-9---course-conclusion}}
-\addcontentsline{toc}{subsection}{Meeting 9-2 - Thursday, December 9 - Course Conclusion}
+\hypertarget{meeting-9-2---wednesday-may-4---course-conclusion}{%
+\subsection*{Meeting 9-2 - Wednesday, May 4 - Course Conclusion}\label{meeting-9-2---wednesday-may-4---course-conclusion}}
+\addcontentsline{toc}{subsection}{Meeting 9-2 - Wednesday, May 4 - Course Conclusion}
 
 \begin{itemize}
 \tightlist
@@ -1758,9 +1811,9 @@ Select a module from the menu to see details about topics, readings, and assignm
   \begin{itemize}
   \tightlist
   \item
-    Study for Quiz 3 on Friday, December 17 (Canvas)
+    Study for Quiz 3 on Wednesday, May 11 (Canvas)
   \item
-    Complete the Final Project, which is due on Friday, December 17 (Canvas)
+    Complete the Final Project, which is due on Monday, May 16 (Canvas)
   \end{itemize}
 \end{itemize}
 
@@ -1811,7 +1864,7 @@ These discussions should inform a response paper written by each student that co
 \item
   Double spaced
 \item
-  1'' margins on top, bottom, and sides
+  1" margins on top, bottom, and sides
 \item
   Papers should be no less than four and no longer than five pages in length
 \item
@@ -1875,7 +1928,7 @@ The op-ed should be formatted using the following guidelines:
 \item
   Double spaced
 \item
-  1'' margins on top, bottom, and sides
+  1" margins on top, bottom, and sides
 \item
   700 to 800 words
 \item
