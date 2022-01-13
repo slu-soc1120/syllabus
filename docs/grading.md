@@ -71,13 +71,13 @@ Due dates for the Sociological Experiences are as follows:
 ### *Mama* Papers
 
 \begin{rmdtip}
-QHQ Papers are worth 150 points, or approximately \textbf{25\%} of your
-final grade
+\emph{Mama} Papers are worth 150 points, or approximately \textbf{25\%}
+of your final grade
 \end{rmdtip}
 
 Each student will write a reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric will be available on Canvas. Papers must be completed and submitted by the beginning of class on the date due. Each paper is worth 50 points.
 
-Due dates for the QHQs are as follows:
+Due dates for the *Mama* papers are as follows:
 
   1. *Mama* Paper 1 - **Monday, March 21**
   2. *Mama* Paper 2 - **Wednesday, April 13**
@@ -155,7 +155,7 @@ Participation & Part 1 & 20 pts & x1 & 20 pts & 17\%\\
 Theory Isn't Dead &  & 20 pts & x2 & 40 pts & 7\%\\
 Sociological Experiences &  & 20 pts & x4 & 80 pts & 13\%\\
 \addlinespace
-QHQs &  & 75 pts & x2 & 150 pts & 25\%\\
+Mama Papers &  & 75 pts & x2 & 150 pts & 25\%\\
 Quizzes &  & 50 pts & x3 & 150 pts & 25\%\\
 Final Project &  & 75 pts & x1 & 75 pts & 13\%\\
 \bottomrule

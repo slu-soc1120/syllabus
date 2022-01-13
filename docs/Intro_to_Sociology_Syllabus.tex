@@ -6,8 +6,8 @@
 ]{book}
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -148,7 +148,7 @@
 \usepackage{fancyhdr}
 \renewcommand{\chaptername}{Section}
 \renewcommand\thesection{\Alph{section}}
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
@@ -218,6 +218,8 @@ If you would like to keep a record of the syllabus, there is a \texttt{.pdf} dow
   January 12, 2022 - Add schedule for Spring 2022
 \item
   January 13, 2022 - Modify readings for selected days
+\item
+  January 13, 2022 - Remove references to QHQ paper, adjust honors grading breakdown
 \end{itemize}
 
 \hypertarget{license}{%
@@ -807,13 +809,13 @@ Due dates for the Sociological Experiences are as follows:
 \subsection{\texorpdfstring{\emph{Mama} Papers}{Mama Papers}}\label{mama-papers}}
 
 \begin{rmdtip}
-QHQ Papers are worth 150 points, or approximately \textbf{25\%} of your
-final grade
+\emph{Mama} Papers are worth 150 points, or approximately \textbf{25\%}
+of your final grade
 \end{rmdtip}
 
 Each student will write a reflection paper on three chapters (one chapter per discussion period) of \emph{Mama Might Be Better Off Dead} (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric will be available on Canvas. Papers must be completed and submitted by the beginning of class on the date due. Each paper is worth 50 points.
 
-Due dates for the QHQs are as follows:
+Due dates for the \emph{Mama} papers are as follows:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -918,7 +920,7 @@ Participation & Part 1 & 20 pts & x1 & 20 pts & 17\%\\
 Theory Isn't Dead &  & 20 pts & x2 & 40 pts & 7\%\\
 Sociological Experiences &  & 20 pts & x4 & 80 pts & 13\%\\
 \addlinespace
-QHQs &  & 75 pts & x2 & 150 pts & 25\%\\
+Mama Papers &  & 75 pts & x2 & 150 pts & 25\%\\
 Quizzes &  & 50 pts & x3 & 150 pts & 25\%\\
 Final Project &  & 75 pts & x1 & 75 pts & 13\%\\
 \bottomrule
@@ -1864,7 +1866,7 @@ These discussions should inform a response paper written by each student that co
 \item
   Double spaced
 \item
-  1" margins on top, bottom, and sides
+  1'' margins on top, bottom, and sides
 \item
   Papers should be no less than four and no longer than five pages in length
 \item
@@ -1928,7 +1930,7 @@ The op-ed should be formatted using the following guidelines:
 \item
   Double spaced
 \item
-  1" margins on top, bottom, and sides
+  1'' margins on top, bottom, and sides
 \item
   700 to 800 words
 \item
@@ -1995,25 +1997,23 @@ The following point totals supersede the information on the main syllabus under 
 
 \begin{table}
 
-\caption{\label{tab:unnamed-chunk-5}SOC 1120 Points Breakdown}
+\caption{\label{tab:unnamed-chunk-5}SOC 1120 Honors Points Breakdown}
 \centering
 \begin{tabular}[t]{llllll}
 \toprule
 Assignment & Period & Points & Quantity & Total & Percent\\
 \midrule
-Participation & Part 1 & 20 pts & x1 & 20 pts & 11.6\%\\
- & Part 2 & 30 pts & x1 & 30 pts & \\
- & Part 3 & 30 pts & x1 & 30 pts & \\
- & Part 4 & 15 pts & x1 & 15 pts & \\
-Theory Isn't Dead &  & 20 pts & x2 & 40 pts & 4.9\%\\
+Participation & Part 1 & 20 pts & x1 & 20 pts & 12\%\\
+ & Part 2 & 40 pts & x1 & 40 pts & \\
+ & Part 3 & 40 pts & x1 & 40 pts & \\
+Theory Isn't Dead &  & 20 pts & x2 & 40 pts & 6\%\\
+Sociological Experiences &  & 20 pts & x4 & 80 pts & 10\%\\
 \addlinespace
-Sociological Experiences &  & 20 pts & x4 & 80 pts & 9.9\%\\
-QHQs &  & 75 pts & x2 & 150 pts & 18.4\%\\
-Quizzes &  & 50 pts & x3 & 150 pts & 18.4\%\\
-Final Project &  & 75 pts & x1 & 75 pts & 9.2\%\\
-Honors Response Papers &  & 50 pts & x3 & 150 pts & 18.4\%\\
-\addlinespace
-Honors Op-Ed &  & 75 pts & x1 & 75 pts & 9.2\%\\
+Mama Papers &  & 75 pts & x2 & 150 pts & 18\%\\
+Quizzes &  & 50 pts & x3 & 150 pts & 18\%\\
+Final Project &  & 75 pts & x1 & 75 pts & 9\%\\
+Honors Response Papers &  & 50 pts & x3 & 150 pts & 18\%\\
+Honors Op-Ed &  & 75 pts & x1 & 75 pts & 9\%\\
 \bottomrule
 \end{tabular}
 \end{table}

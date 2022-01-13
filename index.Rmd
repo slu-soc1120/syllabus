@@ -42,6 +42,7 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 
 * January 12, 2022 - Add schedule for Spring 2022
 * January 13, 2022 - Modify readings for selected days
+* January 13, 2022 - Remove references to QHQ paper, adjust honors grading breakdown
 
 ## License {-}
 Copyright © 2016-2022 [Christopher G. Prener](https://chris-prener.github.io)

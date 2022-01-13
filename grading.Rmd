@@ -90,12 +90,12 @@ Due dates for the Sociological Experiences are as follows:
 ### *Mama* Papers
 
 ```{block, type = "rmdtip"}
-QHQ Papers are worth 150 points, or approximately **25%** of your final grade
+*Mama* Papers are worth 150 points, or approximately **25%** of your final grade
 ```
 
 Each student will write a reflection paper on three chapters (one chapter per discussion period) of *Mama Might Be Better Off Dead* (Abraham 1993). These reflection papers will integrate previous lecture material and readings to understand the cycle of events described in the book. Additional details and a grading rubric will be available on Canvas. Papers must be completed and submitted by the beginning of class on the date due. Each paper is worth 50 points.
 
-Due dates for the QHQs are as follows:
+Due dates for the *Mama* papers are as follows:
 
   1. *Mama* Paper 1 - **`r schedule_assign_tbl$label[8]`**
   2. *Mama* Paper 2 - **`r schedule_assign_tbl$label[9]`**
@@ -156,7 +156,7 @@ I use a point system for calculating grades. The following table gives the weigh
 
 ```{r, echo=FALSE}
 points <- data.frame(
-  Assignment = c("Participation", "", "", "Theory Isn't Dead", "Sociological Experiences", "QHQs", "Quizzes", "Final Project"),
+  Assignment = c("Participation", "", "", "Theory Isn't Dead", "Sociological Experiences", "Mama Papers", "Quizzes", "Final Project"),
   Period = c("Part 1", "Part 2", "Part 3", "", "", "", "", ""),
   Points = c("20 pts", "30 pts", "30 pts", "20 pts", "20 pts", "75 pts", "50 pts", "75 pts"),
   Quantity = c("x1", "x1", "x1", "x2", "x4", "x2", "x3", "x1"),

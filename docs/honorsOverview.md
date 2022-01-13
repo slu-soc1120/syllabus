@@ -121,25 +121,23 @@ The following point totals supersede the information on the main syllabus under 
 
 \begin{table}
 
-\caption{(\#tab:unnamed-chunk-5)SOC 1120 Points Breakdown}
+\caption{(\#tab:unnamed-chunk-5)SOC 1120 Honors Points Breakdown}
 \centering
 \begin{tabular}[t]{llllll}
 \toprule
 Assignment & Period & Points & Quantity & Total & Percent\\
 \midrule
-Participation & Part 1 & 20 pts & x1 & 20 pts & 11.6\%\\
- & Part 2 & 30 pts & x1 & 30 pts & \\
- & Part 3 & 30 pts & x1 & 30 pts & \\
- & Part 4 & 15 pts & x1 & 15 pts & \\
-Theory Isn't Dead &  & 20 pts & x2 & 40 pts & 4.9\%\\
+Participation & Part 1 & 20 pts & x1 & 20 pts & 12\%\\
+ & Part 2 & 40 pts & x1 & 40 pts & \\
+ & Part 3 & 40 pts & x1 & 40 pts & \\
+Theory Isn't Dead &  & 20 pts & x2 & 40 pts & 6\%\\
+Sociological Experiences &  & 20 pts & x4 & 80 pts & 10\%\\
 \addlinespace
-Sociological Experiences &  & 20 pts & x4 & 80 pts & 9.9\%\\
-QHQs &  & 75 pts & x2 & 150 pts & 18.4\%\\
-Quizzes &  & 50 pts & x3 & 150 pts & 18.4\%\\
-Final Project &  & 75 pts & x1 & 75 pts & 9.2\%\\
-Honors Response Papers &  & 50 pts & x3 & 150 pts & 18.4\%\\
-\addlinespace
-Honors Op-Ed &  & 75 pts & x1 & 75 pts & 9.2\%\\
+Mama Papers &  & 75 pts & x2 & 150 pts & 18\%\\
+Quizzes &  & 50 pts & x3 & 150 pts & 18\%\\
+Final Project &  & 75 pts & x1 & 75 pts & 9\%\\
+Honors Response Papers &  & 50 pts & x3 & 150 pts & 18\%\\
+Honors Op-Ed &  & 75 pts & x1 & 75 pts & 9\%\\
 \bottomrule
 \end{tabular}
 \end{table}
