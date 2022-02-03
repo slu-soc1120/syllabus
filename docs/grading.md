@@ -48,7 +48,7 @@ Additional details and a sample assignment will be made available via Canvas. Ea
 Due dates for the Theory Post are as follows:
 
   1. Theory Isn't Dead 1 - **Wednesday, February 2**
-  2. Theory Isn't Dead 2 - **Monday, February 28**
+  2. Theory Isn't Dead 2 - **Wednesday, March 2**
 
 ### Sociological Experiences
 
@@ -63,8 +63,8 @@ Additional details and a sample assignment will be made available via Canvas. Ea
 
 Due dates for the Sociological Experiences are as follows:
 
-  1. Sociological Experience 1 - High School - **Monday, February 14**
-  2. Sociological Experience 2 - Socioeconomic Status - **Monday, March 7**
+  1. Sociological Experience 1 - High School - **Wednesday, February 16**
+  2. Sociological Experience 2 - Socioeconomic Status - **Wednesday, March 9**
   3. Sociological Experience 3 - Segregation - **Monday, April 11**
   4. Sociological Experience 4 - St. Louis - **Wednesday, April 27**
 
@@ -94,7 +94,7 @@ Three non-cumulative multiple choice quizzes will be given throughout the semest
 
 Quiz dates are as follows:
 
-  1. Quiz 1 - **Friday, February 18**
+  1. Quiz 1 - **Friday, February 25**
   2. Quiz 2 - **Friday, April 1**
   3. Quiz 3 - **Wednesday, May 11**
       * This is overlaps with our scheduled final exam time, so you can take the quiz during that period if you wish.

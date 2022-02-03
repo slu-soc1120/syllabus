@@ -14,7 +14,7 @@ The following sections contain additional details about specific course policies
 
 ## COVID-19
 
-I think acknowledging that we are all starting from varying places of exhaustion, stress, and anxiety is critical. Please, first and foremost, focus on what matters most and practice self care. Please follow SLU's guidance both for <a href = "https://www.slu.edu/health-advisory/messages/update-students-maintain-community-health-march20.php" target = "_blank">your own health and for maintaining community</a>. If you are living on-campus, please follow all of SLU's policies for social distancing and <a href = "https://slu.policystat.com/policy/token_access/2e1e7d4c-49c9-42ba-8055-ca833711bea4/" target = "_blank">mask wearing</a>. These are critical for our collective safety. If you are off campus this semester, please follow them anyway! 
+I think acknowledging that we are all starting from varying places of exhaustion, stress, and anxiety is critical. Please, first and foremost, focus on what matters most and practice self care. Please follow SLU's guidance both for <a href = "https://www.slu.edu/health-advisory/messages/update-students-maintain-community-health-march20.php" target = "_blank">your own health and for maintaining community</a>. If you are living on-campus, please follow all of SLU's policies for social distancing and <a href = "https://slu.policystat.com/policy/token_access/2e1e7d4c-49c9-42ba-8055-ca833711bea4/" target = "_blank">mask wearing</a>. These are critical for our collective safety.
 
 Again, my biggest priority this semester is your health and well-being. Please reach out if you want to talk about strategies for managing our "new normal," if you find yourself struggling, or just need someone to vent to. Alternatively, you can reach out to either the <a href = "https://www.slu.edu/life-at-slu/university-counseling/index.php" target = "_blank">University Counseling Center</a> at 314-977-TALK or <a href = "https://www.slu.edu/life-at-slu/campus-ministry/index.php" target = "_blank">Campus Ministry</a> at 314-977-2425 or <campusministry@slu.edu>.
 
@@ -65,9 +65,6 @@ The health and well-being of SLU’s students, staff, and faculty are critical c
   3. Students are responsible for notifying their instructor of an absence as far in advance as possible; when advance notification is not possible, students are responsible for notifying each instructor as soon after the absence as possible. Consistent with the [University Attendance Policy](https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/), students also are responsible for all material covered in class and must work with the instructor to complete any required work. In situations where students must be absent for an extended period of time due to COVID-19 isolation or quarantine, they also must work with the instructor to determine the best way to maintain progress in the course as they are able based on their health situation. 
   4. Consistent with the [University Attendance Policy](https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/), students may be asked to provide medical documentation when a medical condition impacts a student’s ability to attend and/or participate in class for an extended period of time. 
   5. As a temporary amendment to the current [University Attendance Policy](https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/), all absences due to illness or an isolation/quarantine directive issued by a qualified health official, or due to an adverse reaction to a COVID-19 vaccine, shall be considered “Authorized” absences.
-
-### Seating Policy
-In order to facilitate contact tracing, the University is requiring that we record where students sit each day of class. In order to reduce the burden of this on all of us, I will ask that you sit in the same space for each class section. For the first three course meetings, I will ask students to sign-in not just for attendance purposes, but for seating location purposes as well. After the third course meeting, I will ask you to not switch seats for the remainder of the semester. If you need to change seating for any reason during the remainder of the semester, please speak with me first. When we have our *Mama* discussions, I will ask each group to fill out an individual seating chart to facilitate contact tracing. I recognize that this is an added burden for all of us, and appreciate your cooperation with it. 
 
 ### Zoom Policies
 
@@ -141,7 +138,7 @@ Email is my preferred method of communication. I dedicate time to email response
 
 Please use your SLU email account when emailing me. All messages regarding course updates, assignments, and changes to the class schedule including cancellations will be sent to your SLU email account. It is therefore imperative that you check your SLU email account regularly.
 
-I also have a new way to contact me - I don't have an office land-line anymore, but I do have a Google Voice number that students can use to text or call me. If you do call or text, please let me know who you are and what section you are in! I'll respond to calls or texts during the workweek, just like with email.
+I don't have an office land-line anymore, but I do have a Google Voice number that students can use to text or call me. If you do call or text, please let me know who you are and what section you are in! I'll respond to calls or texts during the workweek, just like with email.
 
 Please also ensure that all concerns or questions about your standing in the course are directed to me immediately. Inquires from parents, SLU staff members, and others will not be honored.
 
@@ -187,7 +184,9 @@ All students should familiarize themselves with  [Saint Louis University’s pol
 
 Any work that is taken from another student, copied from printed material, or copied the internet without proper citation is expressly prohibited, and will be addressed by the instructor. Collaborating on quizzes, such as taking them in groups (whether in-person or virtually), is also prohibited. Any student who is found to have been academically dishonest in their work risks failing both the assignment and this course.
 
-All relevant assignments should include in-text citations and references formatted using the [American Sociological Association (ASA)](https://owl.english.purdue.edu/owl/resource/583/1/) style guidelines. 
+All relevant assignments should include in-text citations and references formatted using an accepted citation format.
+
+Any student who is found to have been academically dishonest in their work risks failing both the assignment and this course.
 
 ## Harassment and Title IX
 

@@ -59,6 +59,6 @@ knitr::kable(
 
 ### Scheduling Notes
 
-The course schedule may change as it depends on the progress of the class and the [challenges we are confronted by this semester](covid-19.html). The web version of this document will be updated to reflect any alterations, but the `.pdf` version will remain unaltered.
+The course schedule may change as it depends on the progress of the class and the challenges we are confronted by this semester. The web version of this document will be updated to reflect any alterations, but the `.pdf` version will remain unaltered.
 
 This semester, we will not have class on **March 15th**, **March 17**, and **April 18th**  because they fall on University breaks. Additionally, no class activities are scheduled for **March 9th** or **May 9th**. These are "flex days," which I have left without a scheduled plan to accommodate changes due to COVID-19. If we are approaching these dates without having had to use them, these will become days off from this course.

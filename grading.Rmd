@@ -6,19 +6,6 @@ Students enrolled in the honors section should see [Section 6](/syllabus/honors-
 ```
 
 ```{r, echo=FALSE}
-schedule_tbl <- readr::read_csv("schedule.csv", 
-                                col_types = readr::cols(
-                                  module = readr::col_character(),
-                                  date = readr::col_character(),
-                                  start = readr::col_logical()
-  ))
-schedule_tbl <- dplyr::mutate(schedule_tbl, date = lubridate::mdy(date))
-schedule_tbl <- dplyr::mutate(schedule_tbl, month = lubridate::month(date))
-schedule_tbl <- dplyr::mutate(schedule_tbl, month = month.name[month])
-schedule_tbl <- dplyr::mutate(schedule_tbl, day = lubridate::day(date))
-schedule_tbl <- dplyr::mutate(schedule_tbl, dow = weekdays(date, abbreviate = FALSE))
-schedule_tbl <- dplyr::mutate(schedule_tbl, label = paste0(dow, ", ", month, " ", day))
-
 schedule_assign_tbl <- readr::read_csv("schedule_assignments.csv", 
                                 col_types = readr::cols(
                                   assignment = readr::col_character(),

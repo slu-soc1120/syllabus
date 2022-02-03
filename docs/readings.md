@@ -46,7 +46,7 @@ Select a module from the menu to see details about topics, readings, and assignm
 \newpage
 ## Module 2 - Structuring the Social World
 
-### Meeting 2-1 - Wednesday, February 2 - Nature or Nurture? {-}
+### Meeting 2-1 - Monday, February 7 - Nature or Nurture? {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 3 - Social Structure and the Individual," pp. 1-4 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
@@ -55,25 +55,25 @@ Select a module from the menu to see details about topics, readings, and assignm
   
 ---
 
-### Meeting 2-2 - Monday, February 7 - Social Structure {-}
+### Meeting 2-2 - Wednesday, February 9 - Social Structure {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 3 - Social Structure and the Individual," pp. 4-14 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
   
 ---
 
-### Meeting 2-3 - Wednesday, February 9 - Socialization {-}
+### Meeting 2-3 - Monday, February 14 - Socialization {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 3 - Social Structure and the Individual," pp. 15-26 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
     * Read Braveman and Barclay (2009)
       * Braveman, Paula and Colleen Barclay. 2009. "Health Disparities Beginning in Childhood: A Life-Course Perspective." *Pediatrics* 123(S3):S163-S175. (<a href="http://pediatrics.aappublications.org.ezp.slu.edu/content/124/Supplement_3/S163" target="_blank">Link</a>)
   * **After Class:**
-    * Complete Sociological Experience 1 - High School for Monday, February 14 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
+    * Complete Sociological Experience 1 - High School for Wednesday, February 16 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
 
 ---
 
-### Meeting 2-4 - Monday, February 14 - The Institution of Medicine {-}
+### Meeting 2-4 - Wednesday, February 16 - The Institution of Medicine {-}
 
   * **Before Class:**
     * Read Wright and Perry (2010)
@@ -81,55 +81,55 @@ Select a module from the menu to see details about topics, readings, and assignm
   
 ---
 
-### Meeting 2-5 - Wednesday, February 16 - Medicalization {-}
+### Meeting 2-5 - Monday, February 21 - Medicalization {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 15 - Health and Illness," pp. 10-16 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
     * Read Conrad and Barker (2010)
       * Conrad, Peter and Kristin K. Barker. 2010. "The Social Construction of Illness: Key Insights and Policy Implications." *Journal of Health and Social Behavior* 51(S):S67-S79. (<a href="http://ezp.slu.edu/login?url=https://www.jstor.org/stable/20798317" target="_blank">Link</a>)
   * **After Class:**
-    * Study for Quiz 1 on Friday, February 18 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
+    * Study for Quiz 1 on Friday, February 25 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     
   
 \newpage
 ## Module 3 - Culture
 
-### Meeting 3-1 - Monday, February 21 - Decoding Culture {-}
+### Meeting 3-1 - Wednesday, February 23 - Decoding Culture {-}
 
 * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 5 - Culture" (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
 
 ---
 
-### Meeting 3-2 - Wednesday, February 23 - Culture and Health {-}
+### Meeting 3-2 - Monday, February 28 - Culture and Health {-}
 
   * **Before Class:**
     * Read Acevedo-Garcia and Bates (2008)
       * Acevedo-Garcia, Dolores and Lisa M. Bates. 2008. "Latino Health Paradoxes: Empirical Evidence, Explanations, Future Research, and Implications." Pp. 101-113 in *Latinas/os in the United States: Changing the Face of América*, edited by H. Rodríguez, R. Sáenz, and C. Menjívar. New York: Springer. (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
   * **After Class:**
     * Watch *Unnatural Causes*, Part 3 - "Becoming American" (<a href="https://slu.kanopy.com/video/becoming-american" target="_blank">Kanopy</a>) and complete the accompanying entry ticket (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
-    * Complete Theory Isn't Dead 2 for Monday, February 28 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
+    * Complete Theory Isn't Dead 2 for Wednesday, March 2 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
 
 \newpage
 ## Module 4 - Socioeconomic Status
 
-### Meeting 4-1 - Monday, February 28 - Social Class {-}
+### Meeting 4-1 - Wednesday, March 2 - Social Class {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 4 - Social Class, Inequality, and Poverty," pp. 1-15 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
   
 ---
 
-### Meeting 4-2 - Wednesday, March 2 - Inequality and Poverty {-}
+### Meeting 4-2 - Monday, March 7 - Inequality and Poverty {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 4 - Social Class, Inequality, and Poverty," pp. 15-35 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
   * **After Class:**
-    * Complete Sociological Experience 2 for Monday, March 7 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
+    * Complete Sociological Experience 2 for Wednesday, March 9 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
   
 ---
 
-### Meeting 4-3 - Monday, March 7 - Socioeconomic Status and Health {-}
+### Meeting 4-3 - Wednesday, March 9 - Socioeconomic Status and Health {-}
 
   * **Before Class:**
     * Read Dow and Rehkopf (2010)

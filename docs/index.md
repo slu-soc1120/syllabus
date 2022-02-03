@@ -1,7 +1,7 @@
 --- 
 title: "SOC 1120-02 and H02: Introduction to Sociology - Diversity & Health"
 author: "Christopher Prener, Ph.D."
-date: "2022-01-13"
+date: "2022-02-03"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -44,6 +44,7 @@ If you would like to keep a record of the syllabus, there is a `.pdf` download b
 * January 12, 2022 - Add schedule for Spring 2022
 * January 13, 2022 - Modify readings for selected days
 * January 13, 2022 - Remove references to QHQ paper, adjust honors grading breakdown
+* January 14, 2022 - Remove seating chart section per Provost's email
 
 ## License {-}
 Copyright © 2016-2022 [Christopher G. Prener](https://chris-prener.github.io)

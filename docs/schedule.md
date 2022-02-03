@@ -16,11 +16,11 @@ Part & Module & Planned Start Date & Title\\
 \midrule
 **1** &  &  & **Thinking Like Sociologists**\\
 1 & 1 & Wednesday, January 19 & Engaging the Social World\\
-1 & 2 & Wednesday, February 2 & Structuring the Social World\\
+1 & 2 & Monday, February 7 & Structuring the Social World\\
 **2** &  &  & **The Building Blocks of Society**\\
-2 & 3 & Monday, February 21 & Culture\\
+2 & 3 & Wednesday, February 23 & Culture\\
 \addlinespace
-2 & 4 & Monday, February 28 & Socioeconomic Status\\
+2 & 4 & Wednesday, March 2 & Socioeconomic Status\\
 2 & 5 & Wednesday, March 23 & Gender and Sexuality\\
 **3** &  &  & **The Broken Heart of America**\\
 3 & 6 & Wednesday, March 30 & Race and Racism\\
@@ -34,6 +34,6 @@ Part & Module & Planned Start Date & Title\\
 
 ### Scheduling Notes
 
-The course schedule may change as it depends on the progress of the class and the [challenges we are confronted by this semester](covid-19.html). The web version of this document will be updated to reflect any alterations, but the `.pdf` version will remain unaltered.
+The course schedule may change as it depends on the progress of the class and the challenges we are confronted by this semester. The web version of this document will be updated to reflect any alterations, but the `.pdf` version will remain unaltered.
 
 This semester, we will not have class on **March 15th**, **March 17**, and **April 18th**  because they fall on University breaks. Additionally, no class activities are scheduled for **March 9th** or **May 9th**. These are "flex days," which I have left without a scheduled plan to accommodate changes due to COVID-19. If we are approaching these dates without having had to use them, these will become days off from this course.
