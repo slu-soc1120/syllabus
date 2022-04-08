@@ -187,16 +187,16 @@ Select a module from the menu to see details about topics, readings, and assignm
 
 ---
 
-### Meeting 6-3 - Wednesday, April 6 - Race and Racism 3 {-}
+### Meeting 6-3 - Monday, April 11 - Race and Racism 3 {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 7 - Race and Ethnicity," pp. 23-28 (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
   * **After Class:**
-    * Complete Sociological Experience 3 for Monday, April 11 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
+    * Complete Sociological Experience 3 for Wednesday, April 13 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     
 ---
 
-### Meeting 6-4 - Monday, April 11 - Racism and Health {-}
+### Meeting 6-4 - Wednesday, April 13 - Racism and Health {-}
 
   * **Before Class:**
     * Read Jones (2006)
@@ -207,12 +207,12 @@ Select a module from the menu to see details about topics, readings, and assignm
       * Williams, David R. and Michelle Sternthal. 2010. "Understanding Racial-ethnic Disparities in Health : Sociological Contributions." *Journal of Health and Social Behavior* 51(S):S15-S27. (<a href="http://ezp.slu.edu/login?url=https://journals.sagepub.com/doi/abs/10.1177/0022146510383838" target="_blank">Link</a>)
   * **After Class:**
     * Watch *Unnatural Causes*, Part 4 - "Bad Sugar" (<a href="https://slu.kanopy.com/video/bad-sugar" target="_blank">Kanopy</a>) and complete the accompanying exit ticket (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
-    * Make sure you are wrapping up *Mama* Paper 2 for Wednesday, April 13 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
+    * Make sure you are wrapping up *Mama* Paper 2 for Wednesday, April 20 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
 
 \newpage
 ## Module 7 - Intersectionality
 
-### Meeting 7-1 - Wednesday, April 13 - *Mama* Discussion 2 {-}
+### Meeting 7-1 - Wednesday, April 20 - *Mama* Discussion 2 {-}
 
   * **Before Class:**
     * Read *Mama Might Be Better Off Dead*, Chapters 6-10
@@ -220,7 +220,7 @@ Select a module from the menu to see details about topics, readings, and assignm
   
 ---
 
-### Meeting 7-2 - Wednesday, April 20 - Intersectionality and Health {-}
+### Meeting 7-2 - Monday, April 25 - Intersectionality and Health {-}
 
   * **Before Class:**
     * Read Collins et al. (2004)
@@ -233,18 +233,18 @@ Select a module from the menu to see details about topics, readings, and assignm
 \newpage
 ## Module 8 - Urban Sociology
 
-### Meeting 8-1 - Monday, April 25 - Urban America {-}
+### Meeting 8-1 - Wednesday, April 27 - Urban America {-}
 
   * **Before Class:**
     * Read *A Sociology Experiment*, "Chapter 12 - Urban Sociology" (<a href = "https://www.sociologyexperiment.com/" target = "_blank">Link</a>)
     * Read Prener (2020)
       * Prener, Christopher. 2020. "Finding the city in sociology: Broadening and deepening the geographic scope of the urban and inequality literatures." *Sociology Compass* 14(2):e12756. (<a href="http://ezp.slu.edu/login?url=https://onlinelibrary.wiley.com/doi/full/10.1111/soc4.12756" target="_blank">Link</a>)
   * **After Class:**
-    * Complete Sociological Experience 4 for Wednesday, April 27 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
+    * Complete Sociological Experience 4 for Monday, May 2 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     
 ---
 
-### Meeting 8-2 - Wednesday, April 27 - Cities and Health {-}
+### Meeting 8-2 - Monday, May 2 - Cities and Health {-}
 
   * **Before Class:**
     * Read selections from *For the Sake of All: A report on the health and well-being of African Americans in St. Louis and why it matters for everyone* (<a href="https://cpb-us-w2.wpmucdn.com/sites.wustl.edu/dist/3/1454/files/2018/06/FSOA_report_2-17zd1xm.pdf" target="_blank">Link</a>)
@@ -253,26 +253,16 @@ Select a module from the menu to see details about topics, readings, and assignm
       * Chapter 5 - "A health profile of African Americans in St. Louis", pp. 46-67
   * **After Class:**
     * Watch *Unnatural Causes*, Part 5 - "Place Matters" (<a href="https://slu.kanopy.com/video/place-matters" target="_blank">Kanopy</a>) and complete the accompanying exit ticket (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
-    * Make sure you are wrapping up *Mama* Paper 3 for Monday, May 2 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
+    * Make sure you are wrapping up *Mama* Paper 3 for Wednesday, May 4 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
 
 \newpage
 ## Module 9 - Course Conclusion
 
-### Meeting 9-1 - Monday, May 2 - *Mama* Discussion 3 {-}
+### Meeting 9-1 - Wednesday, May 4 - *Mama* Discussion 3 & Course Conclusion {-}
 
   * **Before Class:**
     * Read *Mama Might Be Better Off Dead*, Chapters 11-Epilogue
     * Complete *Mama* Paper 3 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
-  
----
-
-### Meeting 9-2 - Wednesday, May 4 - Course Conclusion {-}
-
-  * **Before Class:**
-    * Read Quadagno (2010)
-      * Quadagno, Jill. 2010. "Institutions, Interest Groups, and Ideology: An Agenda for the Sociology of Health Care Reform." *Journal of Health and Social Behavior* 51(2):125-136. (<a href="https://journals.sagepub.com/doi/abs/10.1177/0022146510368931" target="_blank">Link</a>)
-    * Read Williams (2010)
-      * Williams, David. 2010. "Beyond The Affordable Care Act: Achieving Real Improvements In Americans’ Health." *Health Affairs* 29(8):1481-1488. (<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2010.0071" target="_blank">Link</a>)
   * **After Class:**
     * Study for Quiz 3 on Wednesday, May 11 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     * Complete the Final Project, which is due on Monday, May 16 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)

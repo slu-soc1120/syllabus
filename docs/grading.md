@@ -65,8 +65,8 @@ Due dates for the Sociological Experiences are as follows:
 
   1. Sociological Experience 1 - High School - **Wednesday, February 16**
   2. Sociological Experience 2 - Socioeconomic Status - **Wednesday, March 9**
-  3. Sociological Experience 3 - Segregation - **Monday, April 11**
-  4. Sociological Experience 4 - St. Louis - **Wednesday, April 27**
+  3. Sociological Experience 3 - Segregation - **Wednesday, April 13**
+  4. Sociological Experience 4 - St. Louis - **Monday, May 2**
 
 ### *Mama* Papers
 
@@ -80,8 +80,8 @@ Each student will write a reflection paper on three chapters (one chapter per di
 Due dates for the *Mama* papers are as follows:
 
   1. *Mama* Paper 1 - **Monday, March 21**
-  2. *Mama* Paper 2 - **Wednesday, April 13**
-  3. *Mama* Paper 3 - **Monday, May 2**
+  2. *Mama* Paper 2 - **Wednesday, April 20**
+  3. *Mama* Paper 3 - **Wednesday, May 4**
 
 ### Quizzes
 

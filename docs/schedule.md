@@ -24,10 +24,10 @@ Part & Module & Planned Start Date & Title\\
 2 & 5 & Wednesday, March 23 & Gender and Sexuality\\
 **3** &  &  & **The Broken Heart of America**\\
 3 & 6 & Wednesday, March 30 & Race and Racism\\
-3 & 7 & Wednesday, April 13 & Intersectionality\\
+3 & 7 & Wednesday, April 20 & Intersectionality\\
 \addlinespace
-3 & 8 & Monday, April 25 & Urban Sociology\\
-3 & 9 & Monday, May 2 & Course Conclusion\\
+3 & 8 & Wednesday, April 27 & Urban Sociology\\
+3 & 9 & Wednesday, May 4 & Course Conclusion\\
 \bottomrule
 \end{tabular}
 \end{table}

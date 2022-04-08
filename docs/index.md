@@ -1,7 +1,7 @@
 --- 
 title: "SOC 1120-02 and H02: Introduction to Sociology - Diversity & Health"
 author: "Christopher Prener, Ph.D."
-date: "2022-02-03"
+date: "2022-04-08"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]

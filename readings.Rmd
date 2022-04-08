@@ -286,21 +286,11 @@ schedule_assign_tbl <- dplyr::mutate(schedule_assign_tbl, label = paste0(dow, ",
 \newpage
 ## Module 9 - Course Conclusion
 
-### Meeting 9-1 - `r schedule_tbl$label[26]` - *Mama* Discussion 3 {-}
+### Meeting 9-1 - `r schedule_tbl$label[26]` - *Mama* Discussion 3 & Course Conclusion {-}
 
   * **Before Class:**
     * Read *Mama Might Be Better Off Dead*, Chapters 11-Epilogue
     * Complete *Mama* Paper 3 (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
-  
----
-
-### Meeting 9-2 - `r schedule_tbl$label[27]` - Course Conclusion {-}
-
-  * **Before Class:**
-    * Read Quadagno (2010)
-      * Quadagno, Jill. 2010. "Institutions, Interest Groups, and Ideology: An Agenda for the Sociology of Health Care Reform." *Journal of Health and Social Behavior* 51(2):125-136. (<a href="https://journals.sagepub.com/doi/abs/10.1177/0022146510368931" target="_blank">Link</a>)
-    * Read Williams (2010)
-      * Williams, David. 2010. "Beyond The Affordable Care Act: Achieving Real Improvements In Americans’ Health." *Health Affairs* 29(8):1481-1488. (<a href="https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2010.0071" target="_blank">Link</a>)
   * **After Class:**
     * Study for Quiz 3 on `r schedule_assign_tbl$label[13]` (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
     * Complete the Final Project, which is due on `r schedule_assign_tbl$label[14]` (<a href = "http://canvas.slu.edu" target = "_blank">Canvas</a>)
